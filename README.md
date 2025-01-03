@@ -85,7 +85,7 @@
 
 ## Assembly 
 
-- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM and embedded RISC-V architectures.
+- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM, 8-bit AVR and 32-bit RISC-V architectures.
 - [hackclub/some-assembly-required](https://github.com/hackclub/some-assembly-required) - 📖 An approachable introduction to Assembly.
 
 ## Astro 
@@ -110,6 +110,8 @@
 
 ## C 
 
+- [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
+- [KreitinnSoftware/MiceWine-Application](https://github.com/KreitinnSoftware/MiceWine-Application) - MiceWine is a project that aims to run Windows applications and games on Android smartphones.
 - [pjsip/pjproject](https://github.com/pjsip/pjproject) - PJSIP project
 - [fgkeepalive/AndroidKeepAlive](https://github.com/fgkeepalive/AndroidKeepAlive) - Android background process keep-alive, prevent uninstallation, anti-uninstall, background pop-up activity. The latest Android high-availability black-tech application keep-alive for 2024, achieving th
 - [JFreegman/toxic](https://github.com/JFreegman/toxic) - A Tox-based instant messaging and video chat client.
@@ -246,6 +248,7 @@
 
 ## C# # 
 
+- [lextrack/InventoryManagementMAUI](https://github.com/lextrack/InventoryManagementMAUI) - Use MAUI .NET 8 and SQLite
 - [BAndysc/AvaloniaVisualBasic6](https://github.com/BAndysc/AvaloniaVisualBasic6) - A recreation of the classic Visual Basic 6 IDE and language in C# with Avalonia
 - [Jinjinov/OpenHabitTracker](https://github.com/Jinjinov/OpenHabitTracker) - C# .NET 8 Blazor habit tracker application. Works on Web, Windows, Linux, Android, iOS and macOS.
 - [sandstranger/Underworld-Exporter-Android](https://github.com/sandstranger/Underworld-Exporter-Android) - Ultima Underworld android port
@@ -317,9 +320,10 @@
 
 ## C++ 
 
+- [mkckr0/audio-share](https://github.com/mkckr0/audio-share) - Audio Share can share Windows/Linux computer's audio to Android phone over network, so your phone becomes the speaker of computer. (You needn't buy a new speaker😄.)
 - [horsicq/XAPKDetector](https://github.com/horsicq/XAPKDetector) - APK/DEX detector for Windows, Linux and MacOS.
 - [Dicot0721/Android-Memory-Editor](https://github.com/Dicot0721/Android-Memory-Editor) - 使用C++编写的安卓进程内存修改工具
-- [mhduiy/AndroidTools-qml](https://github.com/mhduiy/AndroidTools-qml) - 一个基于Qt开发的跨平台安卓工具箱
+- [mhduiy/AndroidTools-qml](https://github.com/mhduiy/AndroidTools-qml) - 一个基于Qt开发的跨平台安卓工具箱，旨在成为最好用的ADB前端工具，简化刷机学习成本，集合各种各样功能
 - [miranda-ng/miranda-ng](https://github.com/miranda-ng/miranda-ng) - Miranda NG: Next Generation of Miranda IM
 - [Akylas/OSS-DocumentScanner](https://github.com/Akylas/OSS-DocumentScanner) - Android document document scanning app
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V,
@@ -331,8 +335,7 @@
 - [2481849298/twrp_recovery](https://github.com/2481849298/twrp_recovery) - 
 - [find-xposed-magisk/Magisk](https://github.com/find-xposed-magisk/Magisk) - The Magic Mask for Android ｜ Android的魔法面具
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
-- [Cunuppersz/Hwid-Spoofer-Apex-Valorant-Warzone-Rust-Spoofer](https://github.com/Cunuppersz/Hwid-Spoofer-Apex-Valorant-Warzone-Rust-Spoofer) - HWID Spoofer FULL is a C++ tool designed to help users evade bans in games by altering their computers hardware identification. With features like regedit spoofer, MAC address changer, and more, it ai
-- [apinge/MeloTTS.cpp](https://github.com/apinge/MeloTTS.cpp) - A lightweight pure C++ Text-to-Speech (TTS) pipeline with OpenVINO, supporting mixed English and Chinese languages.
+- [apinge/MeloTTS.cpp](https://github.com/apinge/MeloTTS.cpp) - A lightweight pure C++ Text-to-Speech (TTS) pipeline with OpenVINO, supporting multiple languages.
 - [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android.
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
 - [FastTrackOrg/FastTrack](https://github.com/FastTrackOrg/FastTrack) - FastTrack is a cross-platform application designed to track multiple objects in video recording.
@@ -364,7 +367,7 @@
 - [niedev/RTranslator](https://github.com/niedev/RTranslator) - Open source real-time translation app for Android that runs locally
 - [giulianoc/CatraMMS](https://github.com/giulianoc/CatraMMS) - Media Management System: ingestion, processing, encoding, delivery, ...
 - [tsduck/tsduck](https://github.com/tsduck/tsduck) - MPEG Transport Stream Toolkit
-- [gerbera/gerbera](https://github.com/gerbera/gerbera) - UPnP Media Server for 2024: Stream your digital media through your home network and consume it on all kinds of UPnP supporting devices 📱💻📺
+- [gerbera/gerbera](https://github.com/gerbera/gerbera) - UPnP Media Server for 2025: Stream your digital media through your home network and consume it on all kinds of UPnP supporting devices 📱💻📺
 - [maxrd2/SubtitleComposer](https://github.com/maxrd2/SubtitleComposer) - Subtitle Composer - KF5/Qt Video Subtitle Editor
 - [summershrimp/obs-auto-subtitle](https://github.com/summershrimp/obs-auto-subtitle) - Show the subtitle as long as you speak
 - [jameshball/osci-render](https://github.com/jameshball/osci-render) - 〰📺🔊 Synthesiser audio plugin for making music by drawing objects on an oscilloscope using audio.
@@ -405,7 +408,7 @@
 - [shundhammer/qdirstat](https://github.com/shundhammer/qdirstat) - QDirStat - Qt-based directory statistics (KDirStat without any KDE - from the original KDirStat author)
 - [KDE/discover](https://github.com/KDE/discover) - KDE and Plasma resources management GUI
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
-- [binarly-io/efiXplorer](https://github.com/binarly-io/efiXplorer) - IDA plugin for UEFI firmware analysis and reverse engineering automation
+- [binarly-io/efiXplorer](https://github.com/binarly-io/efiXplorer) - IDA plugin and loader for UEFI firmware analysis and reverse engineering automation
 - [hiyohiyo/CrystalDiskInfo](https://github.com/hiyohiyo/CrystalDiskInfo) - CrystalDiskInfo
 - [chronoxor/CppCommon](https://github.com/chronoxor/CppCommon) - Cross-platform C++ common library for Linux, OSX, Windows, Cygwin, MinGW
 - [bkryza/clang-uml](https://github.com/bkryza/clang-uml) - Customizable automatic UML diagram generator for C++ based on Clang.
@@ -497,6 +500,7 @@
 
 ## Dart 
 
+- [andreped/IronFlow](https://github.com/andreped/IronFlow) - 📳 IronFlow: Cross-platform mobile app for strength training progress tracking
 - [ubuntu-flutter-community/musicpod](https://github.com/ubuntu-flutter-community/musicpod) - Music, radio, television and podcast player for Ubuntu, Windows, MacOs and maybe soon Android
 - [SankethBK/diaryvault](https://github.com/SankethBK/diaryvault) - A personal diary application written in Flutter
 - [FriesI23/mhabit](https://github.com/FriesI23/mhabit) - Our app helps you form and track micro habits with easy-to-use 📈 charts and tools, making it simple to establish healthy habits that stick 🌱. Start your personal growth journey today 🚀!
@@ -509,13 +513,13 @@
 - [picguard/picguard](https://github.com/picguard/picguard) - Your pictures, your signature.
 - [AppFlowy-IO/appflowy-editor](https://github.com/AppFlowy-IO/appflowy-editor) - A highly customizable rich-text editor for Flutter. The AppFlowy Editor project for AppFlowy and beyond.
 - [pichillilorenzo/flutter_browser_app](https://github.com/pichillilorenzo/flutter_browser_app) - A Full-Featured Mobile and Desktop Browser App (such as the Google Chrome mobile browser) created using Flutter and the features offered by the flutter_inappwebview plugin.
-- [thunder-app/thunder](https://github.com/thunder-app/thunder) - Thunder - An open-source cross-platform Lemmy client for iOS and Android built with Flutter
+- [thunder-app/thunder](https://github.com/thunder-app/thunder) - Thunder - A fully open-source, cross-platform Lemmy client for iOS and Android
 - [imrofayel/Ozan](https://github.com/imrofayel/Ozan) - Ozan is a personal knowledge base inspired from Obsidian built on flutter.
 - [mumu-lhl/Ciyue](https://github.com/mumu-lhl/Ciyue) - A simple mdict dictionary with Android support
 - [davidche1116/CallApp](https://github.com/davidche1116/CallApp) - 一个工具类APP，用于老人快捷方便拨打家人电话、微信视频通话。使用Flutter编写
 - [nightmare-space/adb_kit](https://github.com/nightmare-space/adb_kit) - A Better ADB GUI and More Than a ADB GUI
 - [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter) - This is the repo of mobile app of taskwarrior
-- [fossasia/badgemagic-android](https://github.com/fossasia/badgemagic-android) - Badge Magic with LEDs - Android App https://play.google.com/apps/testing/org.fossasia.badgemagic
+- [fossasia/badgemagic-app](https://github.com/fossasia/badgemagic-app) - Badge Magic with LEDs - mobile and desktop app iOS, Mac, Android at https://play.google.com/apps/testing/org.fossasia.badgemagic
 - [TomBursch/kitchenowl](https://github.com/TomBursch/kitchenowl) - KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also c
 - [wanghongenpin/proxypin](https://github.com/wanghongenpin/proxypin) - Open source free capture HTTP(S) traffic  software ProxyPin, supporting full platform systems
 - [Mobile-Artificial-Intelligence/maid](https://github.com/Mobile-Artificial-Intelligence/maid) - Maid is a cross-platform Flutter app for interfacing with GGUF / llama.cpp models locally, and with Ollama and OpenAI models remotely.
@@ -638,7 +642,10 @@
 
 ## Go 
 
-- [Hanson/WechatSphDecrypt](https://github.com/Hanson/WechatSphDecrypt) - 2024最新微信/企微视频号解密，还原加密视频。支持获取直链
+- [iineva/ipa-server](https://github.com/iineva/ipa-server) - Upload and install Apple ipa and Android apk in web.
+- [szktkfm/clipy](https://github.com/szktkfm/clipy) - clipy: Manage Your Clipboard History
+- [eja/wikilite](https://github.com/eja/wikilite) - FTS5 SQLite Lexical and Semantical Wikipedia Search
+- [Hanson/WechatSphDecrypt](https://github.com/Hanson/WechatSphDecrypt) - 2025最新微信/企微视频号解密，还原加密视频。支持获取直链
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [git-jiadong/wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup) - 一键导出PC微信聊天记录工具
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
@@ -757,13 +764,14 @@
 
 ## HTML 
 
+- [fynks/awesome-android-root](https://github.com/fynks/awesome-android-root) - Ultimate list of best android root apps, rooting guides,  tips , tricks and tools.
 - [Flomp/wanderer](https://github.com/Flomp/wanderer) - wanderer is a self-hosted trail database. Save your adventures!
 - [treffynnon/sqlstyle.guide](https://github.com/treffynnon/sqlstyle.guide) - A consistent code style guide for SQL to ensure legible and maintainable projects
 - [DualSubs/YouTube](https://github.com/DualSubs/YouTube) - YouTube增强及双语字幕解决方案
 - [qq254950134/my-iptv](https://github.com/qq254950134/my-iptv) - 用于个人托管自用直播源
 - [JTDMedia/ajs-ide](https://github.com/JTDMedia/ajs-ide) - AJS-IDE is the official, fully-featured code editor designed specifically for Android.js. It offers an intuitive and efficient coding environment tailored for Node.js development on Android devices.
 - [emacs-eask/emacs-eask.github.io](https://github.com/emacs-eask/emacs-eask.github.io) - Eask manual
-- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Crawl Smarter, Faster, Freely. For AI.
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper
 - [fossar/selfoss](https://github.com/fossar/selfoss) - multipurpose rss reader, live stream, mashup, aggregation web application
 - [bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Free Introduction to Bash Scripting eBook
 - [s5k/ipa](https://github.com/s5k/ipa) - An IPA-based tool for mastering British English pronunciation with visuals and audio.
@@ -807,6 +815,11 @@
 
 ## Java 
 
+- [emanuele-f/PCAPdroid](https://github.com/emanuele-f/PCAPdroid) - No-root network monitor, firewall and PCAP dumper for Android
+- [Konloch/bytecode-viewer](https://github.com/Konloch/bytecode-viewer) - A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)
+- [NordicSemiconductor/Android-DFU-Library](https://github.com/NordicSemiconductor/Android-DFU-Library) - Device Firmware Update library and Android app
+- [crazydan-studio/kuaizi-ime-android](https://github.com/crazydan-studio/kuaizi-ime-android) - 筷字输入法 Android 客户端
+- [ReChronoRain/HyperCeiler](https://github.com/ReChronoRain/HyperCeiler) - MIUI & HyperOS enhancement module - Make MIUI & HyperOS Great Again!
 - [jclehner/rxdroid](https://github.com/jclehner/rxdroid) - A medication reminder for Android
 - [DP-Hridayan/aShellYou](https://github.com/DP-Hridayan/aShellYou) - A material you designed app for your ADB needs
 - [1fish2/BBQTimer](https://github.com/1fish2/BBQTimer) - Android lock-screen interval timer/stopwatch.
@@ -839,7 +852,7 @@
 - [Eanya-Tonic/CCTV_Viewer](https://github.com/Eanya-Tonic/CCTV_Viewer) - 电视浏览器，一款简易电视视频收看软件，用于方便的在机顶盒上收看网页视频
 - [UISSD/Don-t-Kill](https://github.com/UISSD/Don-t-Kill) - 适用于Android12的后台应用保活模块
 - [jeequan/jeepay](https://github.com/jeequan/jeepay) - Jeepay是一套适合互联网企业使用的开源支付系统，支持多渠道服务商和普通商户模式。已对接微信支付，支付宝，云闪付官方接口，支持聚合码支付。
-- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - SmartTube - an advanced player for set-top boxes and tvs running Android OS
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Advanced player for set-top boxes and tvs running Android OS
 - [exbin/bined-android](https://github.com/exbin/bined-android) - BinEd Hex Editor for Android
 - [ant-media/Ant-Media-Server](https://github.com/ant-media/Ant-Media-Server) - Ant Media Server is a live streaming engine software that provides adaptive, ultra low latency streaming by using WebRTC technology with ~0.5 seconds latency. Ant Media Server is auto-scalable and it 
 - [deathbreak/drug](https://github.com/deathbreak/drug) - 药店销售管理系统ssm(药品销售)
@@ -1090,7 +1103,7 @@
 - [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍，苹果书🍎），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
 - [alephpi/JumpType](https://github.com/alephpi/JumpType) - 基于发音的英文输入法|A pronouciation-based English input method
 - [pranauv1/AI-Video-Translation](https://github.com/pranauv1/AI-Video-Translation) - A simple Google Colab notebook which can translate an original video into multiple languages along with lip sync.
-- [YBIFoundation/Fundamental](https://github.com/YBIFoundation/Fundamental) - Jupyter Notebook
+- [YBIFoundation/Internship](https://github.com/YBIFoundation/Internship) - Jupyter Notebook
 - [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
 - [datawhalechina/fun-rec](https://github.com/datawhalechina/fun-rec) - 推荐系统入门教程，在线阅读地址：https://datawhalechina.github.io/fun-rec/
 - [curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain) - LangChain & Prompt Engineering tutorials on Large Language Models (LLMs) such as ChatGPT with custom data. Jupyter notebooks on loading and indexing data, creating prompt templates, CSV agents, and us
@@ -1112,7 +1125,19 @@
 
 ## Kotlin 
 
-- [SkyD666/AniVu](https://github.com/SkyD666/AniVu) - All-in-one Android podcast app for RSS, media dl & play. MVI arch, Material You style. ⭐️ Star to support!
+- [Mystour/ivy-wallet](https://github.com/Mystour/ivy-wallet) - 
+- [nerve-sparks/iris_android](https://github.com/nerve-sparks/iris_android) - Local LLM App
+- [D4rK7355608/com.d4rk.cartcalculator](https://github.com/D4rK7355608/com.d4rk.cartcalculator) - Cart Calculator is an Android app that helps you keep track of your shopping. Add items to your cart, see the total cost at a glance, and never forget an item again. 🛒
+- [zotero/zotero-android](https://github.com/zotero/zotero-android) - Zotero for Android
+- [LinkSheet/LinkSheet](https://github.com/LinkSheet/LinkSheet) - Link handling for modern Android
+- [gentlecat/counter](https://github.com/gentlecat/counter) - 🔢 Tally counter for Android
+- [a2ke5e1/yearly-progress](https://github.com/a2ke5e1/yearly-progress) - 
+- [teixeira0x/SubTypo](https://github.com/teixeira0x/SubTypo) - Create and edit subtitles simply and quickly!
+- [dessalines/habit-maker](https://github.com/dessalines/habit-maker) - A reward-based habit tracker for android.
+- [kaleidot725/AdbPad](https://github.com/kaleidot725/AdbPad) - AdpPad is a GUI application to use adb. adb is a command line tool to control android device.
+- [iamr0s/Dhizuku](https://github.com/iamr0s/Dhizuku) - A Android Application for share DeviceOwner
+- [aistra0528/Hail](https://github.com/aistra0528/Hail) - Disable / Hide / Suspend / Uninstall Android apps without root.
+- [SkyD666/PodAura](https://github.com/SkyD666/PodAura) - All-in-one Android podcast app for RSS, media dl & play. MVI arch, Material You style. ⭐️ Star to support!
 - [DennisBauer/RecurringExpenseTracker](https://github.com/DennisBauer/RecurringExpenseTracker) - A Material You recurring expense tracker, allowing you to keep track of your monthly spending.
 - [etchdroid/etchdroid](https://github.com/etchdroid/etchdroid) - An application to write OS images to USB drives, on Android, no root required.
 - [LeoColman/Petals](https://github.com/LeoColman/Petals) - 🌻 The Open Source app Petals aims to help its users to either quit weed, reduce usage or simply know how much they're using.
@@ -1161,7 +1186,6 @@
 - [LateNightProductions/CardKeeper](https://github.com/LateNightProductions/CardKeeper) - Android app for scanning and retaining barcodes and QR codes with beta support for Apple PassKit
 - [chenxiaolong/Custota](https://github.com/chenxiaolong/Custota) - Android A/B OTA updater app for custom OTA servers
 - [abdalmoniem/Caffeinate](https://github.com/abdalmoniem/Caffeinate) - Caffeinate is an App that helps android developers Keep their phone's screen On while developing
-- [DroidWorksStudio/EasyLauncher](https://github.com/DroidWorksStudio/EasyLauncher) - EasyLauncher - Minimal and Clutter Free Android launcher
 - [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
 - [sdex/ActivityManager](https://github.com/sdex/ActivityManager) - Launch any application activity
 - [tanujnotes/Olauncher](https://github.com/tanujnotes/Olauncher) - Minimal AF Launcher for Android. Reduce your screen time. Daily wallpapers.
@@ -1354,10 +1378,14 @@
 
 ## Others 
 
+- [h4h13/paisa-app](https://github.com/h4h13/paisa-app) - Paisa app release and bugs maintain
+- [northword/zotero-android-nightly-build](https://github.com/northword/zotero-android-nightly-build) - Zotero Android Nightly Build
+- [CyberT33N/android-cheat-sheet](https://github.com/CyberT33N/android-cheat-sheet) - android-cheat-sheet
+- [F3FFO/AndroidFossApps](https://github.com/F3FFO/AndroidFossApps) - A well organized list of Free and Open Source Software (FOSS) for Android.
+- [kacskrz/miui-decompiled-xml-china](https://github.com/kacskrz/miui-decompiled-xml-china) - Decompiled /values from various MIUI / HyperOS ROMs.
 - [weekend-project-space/top-rss-list](https://github.com/weekend-project-space/top-rss-list) - 订阅人数最多的rss源，中文优质rss源
 - [ingbrzy/Xiaomi.eu-HyperOS-2.0-XML-Compare](https://github.com/ingbrzy/Xiaomi.eu-HyperOS-2.0-XML-Compare) - HyperOS 2.0 XML Weekly Compare for Xiaomi.eu builds
 - [minimal-manifest-twrp/platform_manifest_twrp_aosp](https://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp) - Minimal manifest for building TWRP for devices shipped with Android 10+
-- [ZLOCRAX/DRESOS](https://github.com/ZLOCRAX/DRESOS) - My Mobile phone operating system
 - [doveletter/.github](https://github.com/doveletter/.github) - 💌 Dove Letter is a private subscription repository where you can learn, discuss, and share new knowledge about Android and Kotlin.
 - [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
 - [chaos198800/EasyExcel2.1.6-ban-ben-yi-lai-bao-xia-zai](https://github.com/chaos198800/EasyExcel2.1.6-ban-ben-yi-lai-bao-xia-zai) - EasyExcel2.1.6版本依赖包下载
@@ -1376,7 +1404,6 @@
 - [CipherOS/android_manifest](https://github.com/CipherOS/android_manifest) - Android Manifest for Cipher ROM
 - [hubeiqiao/IELTS-Speaking-Simulator](https://github.com/hubeiqiao/IELTS-Speaking-Simulator) - A GPT offers an authentic practice experience, helpful for anyone preparing for IELTS.
 - [Bagary-Jayasree/Excel-Documents](https://github.com/Bagary-Jayasree/Excel-Documents) - I worked on Excel assignments covering arithmetic functions, charts, date functions, logical functions, lookup functions, sorting, and filtering. Additionally, I created dashboards using Power Query, 
-- [0001-Vinnie/1889-Terminal-App](https://github.com/0001-Vinnie/1889-Terminal-App) - 1889 Terminal App For Windows/Termux
 - [dmychen/references](https://github.com/dmychen/references) - Notes for myself.
 - [ddgksf2013/ddgksf2013](https://github.com/ddgksf2013/ddgksf2013) - 墨鱼去广告计划 | QuantumultX 去广告 | 去开屏广告 | 应用净化 | 会员解锁 | 墨鱼配置 | 应用增强 | 网页优化 | 网盘资源 | 模块去广告 | Shadowrocket配置 | 墨鱼规则 | Clash配置 | 小火箭去广告 | 资源库 | AdBlock | 网页广告 | 不完全指北
 - [SnailTech07709/Wecchat_install_ubuntu](https://github.com/SnailTech07709/Wecchat_install_ubuntu) - 微信ubuntu安装包
@@ -1433,7 +1460,6 @@
 - [xlucn/oh-my-foss-android](https://github.com/xlucn/oh-my-foss-android) - 个人收集的实用、良心开源安卓软件
 - [nju-kaoyan/nju_csai_kaoyan](https://github.com/nju-kaoyan/nju_csai_kaoyan) - 南京大学 计算机和人工智能 考研信息汇总 南京大学计算机考研
 - [picado-tv/rime-hangul](https://github.com/picado-tv/rime-hangul) - 한국어 Rime 입력기
-- [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
 - [ryjfgjl/DiLuConverter](https://github.com/ryjfgjl/DiLuConverter) - A professional Excel import and export automation tool that supports MySQL, Oracle, SQL Server, PostgreSQL and more popular databases
 - [learn-anything/books](https://github.com/learn-anything/books) - Awesome Books
 - [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
@@ -1579,6 +1605,7 @@
 - [EhTagTranslation/Database](https://github.com/EhTagTranslation/Database) - EhTagTranslation 项目的翻译数据。
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 - [dfinke/ImportExcel](https://github.com/dfinke/ImportExcel) - PowerShell module to import/export Excel spreadsheets, without Excel
+- [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
 - [dotnet/core](https://github.com/dotnet/core) - .NET news, announcements, release notes, and more!
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [lptstr/winfetch](https://github.com/lptstr/winfetch) - 🛠 A command-line system information utility written in PowerShell. Like Neofetch, but for Windows.
@@ -1587,6 +1614,9 @@
 
 ## Python 
 
+- [GAMEA9G/hackdroidtelegram](https://github.com/GAMEA9G/hackdroidtelegram) - hack android devices using adb
+- [kivy/python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK
+- [TMElyralab/MuseTalk](https://github.com/TMElyralab/MuseTalk) - MuseTalk: Real-Time High Quality Lip Synchorization with Latent Space Inpainting
 - [pex-tool/pex](https://github.com/pex-tool/pex) - A tool for generating .pex (Python EXecutable) files, lock files and venvs.
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 - [michael-trovato/advanced-macro-calculator](https://github.com/michael-trovato/advanced-macro-calculator) - An advanced macronutrient and calorie calculator to help achieve desired body composition.
@@ -1656,6 +1686,7 @@
 - [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
 - [home-assistant/operating-system](https://github.com/home-assistant/operating-system) - :beginner: Home Assistant Operating System
+- [1889-GHub/1889-IENA-Terminal-App](https://github.com/1889-GHub/1889-IENA-Terminal-App) - 1889 IENA For Windows | Termux
 - [offici5l/MiTool](https://github.com/offici5l/MiTool) - MiTool : without a PC (using another phone via Termux), allows you to unlock the bootloader, flash ROMs, ... and offers many other features for Xiaomi devices
 - [snooppr/snoop](https://github.com/snooppr/snoop) - Snoop — инструмент разведки на основе открытых данных (OSINT world)
 - [TermuxHackz/X-osint](https://github.com/TermuxHackz/X-osint) - This is an Open source intelligent framework ie an osint tool which gathers valid information about a phone number, user's email address, perform VIN Osint, and reverse, perform subdomain enumeration,
@@ -1988,7 +2019,7 @@
 - [quarylabs/sqruff](https://github.com/quarylabs/sqruff) - Fast SQL formatter/linter
 - [junobuild/juno](https://github.com/junobuild/juno) - Build Web3 at Lightning Speed
 - [yoav-lavi/melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more readable and maintainable
-- [Thumuss/utpm](https://github.com/Thumuss/utpm) - A package manager for typst
+- [Thumuss/utpm](https://github.com/Thumuss/utpm) - A package manager for local and remote Typst packages.
 - [Coekjan/typst-upgrade](https://github.com/Coekjan/typst-upgrade) - Upgrade your typst packages
 - [versotile-org/verso](https://github.com/versotile-org/verso) - A web browser that plays old world blues to build new world hope
 - [codestoryai/sidecar](https://github.com/codestoryai/sidecar) - Sidecar is the AI brains for the Aide editor and works alongside it, locally on your machine
@@ -2159,8 +2190,9 @@
 
 ## Shell 
 
+- [KreitinnSoftware/MiceWine-RootFS-Generator](https://github.com/KreitinnSoftware/MiceWine-RootFS-Generator) - This repository generate needed files for MiceWine
 - [agcrisbp/LinuxAndroid](https://github.com/agcrisbp/LinuxAndroid) - Fix Sound & Enable Microphone in Proot-Distro Termux
-- [nightmare-space/vscode_for_android](https://github.com/nightmare-space/vscode_for_android) - Implementation of the VS Code editor natively on Android.
+- [nightmare-space/code_lfa](https://github.com/nightmare-space/code_lfa) - Implementation of the VS Code editor natively on Android.
 - [yousefvand/pronunciations](https://github.com/yousefvand/pronunciations) - Audio files for dictionaries
 - [Divested-Mobile/DivestOS-Build](https://github.com/Divested-Mobile/DivestOS-Build) - Everything needed to build DivestOS, a more private and more secure aftermarket mobile operating system.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
@@ -2263,6 +2295,13 @@
 
 ## TypeScript 
 
+- [kando-menu/kando](https://github.com/kando-menu/kando) - 🌸 Do things with utmost efficiency.
+- [RyotaUshio/obsidian-pdf-plus](https://github.com/RyotaUshio/obsidian-pdf-plus) - PDF++: the most Obsidian-native PDF annotation & viewing tool ever. Comes with optional Vim keybindings.
+- [wardellbagby/lyricistant](https://github.com/wardellbagby/lyricistant) - A helpful writing assistant for lyricists!
+- [nicorac/bcr-gui](https://github.com/nicorac/bcr-gui) - BCR-GUI is a companion app for the great BCR (Basic Call Recorder) Android application and other supported ROMs with embedded call recorders.
+- [modstart-lib/aigcpanel](https://github.com/modstart-lib/aigcpanel) - AigcPanel 是一个简单易用的一站式AI数字人系统，支持视频合成、声音合成、声音克隆，简化本地模型管理、一键导入和使用AI模型。
+- [clidey/whodb](https://github.com/clidey/whodb) - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB, Elastic Search, and Clickhouse with Chat interface
+- [ZakaHaceCosas/personaplus](https://github.com/ZakaHaceCosas/personaplus) - Give yourself a plus!
 - [yenche123/liubai](https://github.com/yenche123/liubai) - Supercharge yourself!
 - [remvze/moodist](https://github.com/remvze/moodist) - 🌲 Ambient sounds for focus and calm.
 - [OHIF/Viewers](https://github.com/OHIF/Viewers) - OHIF zero-footprint DICOM viewer and oncology specific Lesion Tracker, plus shared extension packages
@@ -2282,7 +2321,7 @@
 - [tiddly-gittly/TidGi-Mobile](https://github.com/tiddly-gittly/TidGi-Mobile) - A Note App that is local-first, uses tid/md pure text file, all-in-one with calendar/todo/diary widget, lazy-loading, backlink & outline & Zettelkasten, and syncs with the open-source TidGi-Desktop.
 - [codestoryai/aide](https://github.com/codestoryai/aide) - The open-source AI-native IDE
 - [alley-rs/fluxy](https://github.com/alley-rs/fluxy) - Software for fast file transfer between terminals in the same network segment.同网段中终端间快速互传文件
-- [nanbingxyz/5ire](https://github.com/nanbingxyz/5ire) - A Cross-platform LLMs Desktop Client, supports OpenAI, Azure OpenAI, Anthropic, Google, Baidu, Moonshot, Doubao, Grok, DeepSeek and Ollama.
+- [nanbingxyz/5ire](https://github.com/nanbingxyz/5ire) - 5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers,  supports local knowledge base and  tools via model context protocol servers .
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [adamcohenhillel/ADeus](https://github.com/adamcohenhillel/ADeus) - An open source AI wearable device that captures what you say and hear in the real world and then transcribes and stores it on your own server. You can then chat with Adeus using the app, and it will h
 - [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语
@@ -2355,7 +2394,7 @@
 - [gristlabs/grist-desktop](https://github.com/gristlabs/grist-desktop) - Desktop Grist, packaged with Electron
 - [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system.
-- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM)
+- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [debanjandhar12/logseq-anki-sync](https://github.com/debanjandhar12/logseq-anki-sync) - An logseq to anki syncing plugin with superpowers - image occlusion, card direction, incremental cards, and a lot more.
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [FromSunNews/AutomatedNotion](https://github.com/FromSunNews/AutomatedNotion) - AutomatedNotion is a smart tool that quickly updates English vocabulary without you having to type each word. It uses NotionAPI, LangchainJS, and ChatGPT by OpenAI, along with SerpAPI. With AutomatedN
@@ -2511,6 +2550,7 @@
 
 ## Vue 
 
+- [canwdev/web-mediadevices-player](https://github.com/canwdev/web-mediadevices-player) - 网页版 HDMI 采集卡 / Webcam 查看器，支持截屏、录像、基于 CH9329 实现 KVM 键鼠控制，支持桌面客户端 (Tauri) | Web-based HDMI capture card / Webcam viewer, supports screenshot, video recording, KVM keyboard and mouse control based on CH9
 - [advplyr/audiobookshelf-app](https://github.com/advplyr/audiobookshelf-app) - Mobile application for Audiobookshelf
 - [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) - Turn any webpage into a desktop app and mobile app with Rust. 利用 Rust 轻松构建轻量级(仅5M)多端桌面应用和多端手机应用
 - [MatijaNovosel/neat-memos](https://github.com/MatijaNovosel/neat-memos) - 🐈 A simple app for taking notes on the go.
