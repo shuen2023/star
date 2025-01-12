@@ -364,7 +364,7 @@
 - [teixeira0x/SubTypo](https://github.com/teixeira0x/SubTypo) - Create and edit subtitles simply and quickly!
 - [kacskrz/miui-decompiled-xml-china](https://github.com/kacskrz/miui-decompiled-xml-china) - Decompiled /values from various MIUI / HyperOS ROMs.
 - [kaleidot725/AdbPad](https://github.com/kaleidot725/AdbPad) - AdpPad is a GUI application to use adb. adb is a command line tool to control android device.
-- [fynks/awesome-android-root](https://github.com/fynks/awesome-android-root) - A curated collection of best Android root apps, Magisk modules, LSPosed modules and tools,tricks and guides.
+- [fynks/awesome-android-root](https://github.com/fynks/awesome-android-root) - A curated collection of best Android Root Apps (Apps that use root permission), Magisk modules, LSPosed modules and comprehensive rooting & troubleshooting guides.
 - [aistra0528/Hail](https://github.com/aistra0528/Hail) - Disable / Hide / Suspend / Uninstall Android apps without root.
 - [ZakaHaceCosas/personaplus](https://github.com/ZakaHaceCosas/personaplus) - Give yourself a plus!
 - [Visual-Code-Space/Visual-Code-Space](https://github.com/Visual-Code-Space/Visual-Code-Space) - A Modern Code Editor for Android
@@ -463,7 +463,7 @@
 - [vishal2376/snaptick](https://github.com/vishal2376/snaptick) - Snaptick is an MVVM Jetpack Compose app, offering ad-free task management with a built-in pomodoro timer to help you organize your daily plans
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
 - [balzack/databag](https://github.com/balzack/databag) - fast & lightweight self-hosted messenger
-- [ente-io/ente](https://github.com/ente-io/ente) - FOSS, End to End Encrypted alternative to Google Photos and Apple Photos
+- [ente-io/ente](https://github.com/ente-io/ente) - Fully Open Source, End-to-End Encrypted Cloud
 - [Taewan-P/gpt_mobile](https://github.com/Taewan-P/gpt_mobile) - Chat app for Android that supports answers from multiple LLMs at once. Bring your own API key AI client. Supports OpenAI, Anthropic, Google, and Ollama. Designed with Material3 & Compose.
 - [rt-bishop/Look4Sat](https://github.com/rt-bishop/Look4Sat) - Open-source satellite tracker and pass predictor for Android, inspired by Gpredict
 - [bmax121/APatch](https://github.com/bmax121/APatch) - The patching of Android kernel and Android system
@@ -718,7 +718,7 @@
 
 ## awesome 
 
-- [fynks/awesome-android-root](https://github.com/fynks/awesome-android-root) - A curated collection of best Android root apps, Magisk modules, LSPosed modules and tools,tricks and guides.
+- [fynks/awesome-android-root](https://github.com/fynks/awesome-android-root) - A curated collection of best Android Root Apps (Apps that use root permission), Magisk modules, LSPosed modules and comprehensive rooting & troubleshooting guides.
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
@@ -738,7 +738,7 @@
 
 ## awesome-list 
 
-- [fynks/awesome-android-root](https://github.com/fynks/awesome-android-root) - A curated collection of best Android root apps, Magisk modules, LSPosed modules and tools,tricks and guides.
+- [fynks/awesome-android-root](https://github.com/fynks/awesome-android-root) - A curated collection of best Android Root Apps (Apps that use root permission), Magisk modules, LSPosed modules and comprehensive rooting & troubleshooting guides.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [ad-si/awesome-laser-cutting](https://github.com/ad-si/awesome-laser-cutting) - A curated list of awesome laser cutting resources.
@@ -1693,7 +1693,7 @@
 - [nightmare-space/code_lfa](https://github.com/nightmare-space/code_lfa) - Implementation of the VS Code editor natively on Android.
 - [dreautall/waterfly-iii](https://github.com/dreautall/waterfly-iii) - Unofficial Android App for Firefly III, a free and open source personal finance manager.
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
-- [ente-io/ente](https://github.com/ente-io/ente) - FOSS, End to End Encrypted alternative to Google Photos and Apple Photos
+- [ente-io/ente](https://github.com/ente-io/ente) - Fully Open Source, End-to-End Encrypted Cloud
 - [LinwoodDev/Flow](https://github.com/LinwoodDev/Flow) - ⌚ Feature rich event, group and time managment system
 - [measure-sh/measure](https://github.com/measure-sh/measure) - Measure is an open source tool to monitor mobile apps.
 - [picguard/picguard](https://github.com/picguard/picguard) - Your pictures, your signature.
@@ -1882,7 +1882,7 @@
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [cogentcore/core](https://github.com/cogentcore/core) - A free and open source framework for building powerful, fast, elegant 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and the web with a single Go codebase, allowing you to Code Once, 
 - [balzack/databag](https://github.com/balzack/databag) - fast & lightweight self-hosted messenger
-- [ente-io/ente](https://github.com/ente-io/ente) - FOSS, End to End Encrypted alternative to Google Photos and Apple Photos
+- [ente-io/ente](https://github.com/ente-io/ente) - Fully Open Source, End-to-End Encrypted Cloud
 - [zeabur/zbpack](https://github.com/zeabur/zbpack) - Build your project into static assets, serverless function or container image with magic, no Dockerfile needed!
 - [AbilityJLR/terminal-kanban](https://github.com/AbilityJLR/terminal-kanban) - ✨ Collaborate with flair using a Kanban board right in your terminal! 🖥️  TerminalKanban brings the power of visual task management to your command line, making project coordination both productive an
 - [itchyny/bed](https://github.com/itchyny/bed) - Binary editor written in Go
@@ -2228,7 +2228,7 @@
 - [status-im/status-mobile](https://github.com/status-im/status-mobile) - a free (libre) open source, mobile OS for Ethereum
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
 - [balzack/databag](https://github.com/balzack/databag) - fast & lightweight self-hosted messenger
-- [ente-io/ente](https://github.com/ente-io/ente) - FOSS, End to End Encrypted alternative to Google Photos and Apple Photos
+- [ente-io/ente](https://github.com/ente-io/ente) - Fully Open Source, End-to-End Encrypted Cloud
 - [kamgurgul/cpu-info](https://github.com/kamgurgul/cpu-info) - CPU Info is a KMP application which provides information about device hardware and software
 - [tiddly-gittly/TidGi-Mobile](https://github.com/tiddly-gittly/TidGi-Mobile) - A Note App that is local-first, uses tid/md pure text file, all-in-one with calendar/todo/diary widget, lazy-loading, backlink & outline & Zettelkasten, and syncs with the open-source TidGi-Desktop.
 - [saschpe/Kex](https://github.com/saschpe/Kex) - Hex string encoder/decoder for Kotlin/Multiplatform. Supports Android, iOS, JavaScript and plain JVM environments.
@@ -2868,6 +2868,7 @@
 ## macos 
 
 - [bk138/multivnc](https://github.com/bk138/multivnc) - MultiVNC is a cross-platform Multicast-enabled VNC viewer based on LibVNCClient. The desktop client runs on Unix, Mac OS X and Windows. There also is an Android client.
+- [wb64dev/winlator](https://github.com/wb64dev/winlator) - Android application for running Windows applications with Wine and Box86/Box64
 - [Predidit/Kazumi](https://github.com/Predidit/Kazumi) - 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕。
 - [ryan-andrew/android_sideloader](https://github.com/ryan-andrew/android_sideloader) - Easily sideload apps to your Android device with no setup needed
 - [kando-menu/kando](https://github.com/kando-menu/kando) - 🌸 Do things with utmost efficiency.
@@ -3069,6 +3070,7 @@
 ## monitoring 
 
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
+- [measure-sh/measure](https://github.com/measure-sh/measure) - Measure is an open source tool to monitor mobile apps.
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monito
 - [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
@@ -3351,6 +3353,9 @@
 
 ## others 
 
+- [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
+- [Flomp/wanderer](https://github.com/Flomp/wanderer) - wanderer is a self-hosted trail database. Save your adventures!
+- [browser-use/web-ui](https://github.com/browser-use/web-ui) - Run AI Agent in your browser.
 - [amzxyz/rime_wanxiang_pro](https://github.com/amzxyz/rime_wanxiang_pro) - Rime万象拼音输入方案增强版,词库基于AI筛选和语料辅助筛选精干高效，配合全新语言模型，输入不再纠结。支持全拼，7种双拼，8种辅助码，并且可以扩展更多，支持中英混输，内置超级注释lua，带调全拼输入码显示lua，快符与重复上屏lua等功能扩展，大大增强使用体验
 - [rss2email/rss2email](https://github.com/rss2email/rss2email) - Forward RSS feeds to your email address, community maintained
 - [julianpoy/RecipeSage](https://github.com/julianpoy/RecipeSage) - A Collaborative Recipe Keeper, Meal Planner, and Shopping List Organizer in PWA form.
@@ -3378,7 +3383,6 @@
 - [Hanson/WechatSphDecrypt](https://github.com/Hanson/WechatSphDecrypt) - 2025最新微信/企微视频号解密，还原加密视频。小程序端直接下载解密视频
 - [pex-tool/pex](https://github.com/pex-tool/pex) - A tool for generating .pex (Python EXecutable) files, lock files and venvs.
 - [remvze/moodist](https://github.com/remvze/moodist) - 🌲 Ambient sounds for focus and calm.
-- [Flomp/wanderer](https://github.com/Flomp/wanderer) - wanderer is a self-hosted trail database. Save your adventures!
 - [agcrisbp/LinuxAndroid](https://github.com/agcrisbp/LinuxAndroid) - Fix Sound & Enable Microphone in Proot-Distro Termux
 - [njic/medassist](https://github.com/njic/medassist) - Medication Assistant
 - [jclehner/rxdroid](https://github.com/jclehner/rxdroid) - A medication reminder for Android
@@ -3407,7 +3411,6 @@
 - [surge-synthesizer/surge](https://github.com/surge-synthesizer/surge) - Synthesizer plug-in (previously released as Vember Audio Surge)
 - [Rabbit-Spec/Surge](https://github.com/Rabbit-Spec/Surge) - Surge自用配置以及模块和脚本
 - [shub39/Grit](https://github.com/shub39/Grit) - A Simple todo list and habits tracker for android
-- [chaos198800/EasyExcel2.1.6-ban-ben-yi-lai-bao-xia-zai](https://github.com/chaos198800/EasyExcel2.1.6-ban-ben-yi-lai-bao-xia-zai) - EasyExcel2.1.6版本依赖包下载
 - [CodePhiliaX/fastexcel](https://github.com/CodePhiliaX/fastexcel) - easyexcel作者最新升级版本， 快速、简洁、解决大文件内存溢出的java处理Excel工具
 - [sakshisiri/Daily-practice](https://github.com/sakshisiri/Daily-practice) - Solving Daily One Ques In SQL, Python, Excel
 - [robert/PyMyFlySpy](https://github.com/robert/PyMyFlySpy) - Track your flight using its headrest data
@@ -4062,7 +4065,6 @@
 - [DataSpieler12345/python-for-ds-ml](https://github.com/DataSpieler12345/python-for-ds-ml) - My Python learning experience 📚🖥📳📴💻🖱✏
 - [haydenull/logseq-plugin-agenda](https://github.com/haydenull/logseq-plugin-agenda) - A calendar, task manager and daily planner plugin for logseq
 - [142vip/408CSFamily](https://github.com/142vip/408CSFamily) - 计算机408专业课。等等我，还在努力...
-- [U7P4L-IN/TERMUX-SETUP](https://github.com/U7P4L-IN/TERMUX-SETUP) - Tarmux Setup Is The Tool Of Tarmux Terminal, With Which You Can Setup All The Basic Package Modules Of Your Tarmux In One Command.
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [textbrowser/glitch](https://github.com/textbrowser/glitch) - Life is a glitch. Your Arduino projects should not be. Colorful diagrams for the curious.
 - [anji-plus/report](https://github.com/anji-plus/report) - AJ-Report是一个完全开源，拖拽编辑的可视化设计工具。三步快速完成大屏：配置数据源----&gt;写SQL配置数据集----&gt;拖拽生成大屏。让管理层随时随地掌控业务动态，让每个决策都有数据支撑。
@@ -4380,7 +4382,7 @@
 - [Inky-developer/FitnessCalendar](https://github.com/Inky-developer/FitnessCalendar) - An offline sports & activity tracker
 - [JFreegman/toxic](https://github.com/JFreegman/toxic) - A Tox-based instant messaging and video chat client.
 - [M66B/FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android
-- [ente-io/ente](https://github.com/ente-io/ente) - FOSS, End to End Encrypted alternative to Google Photos and Apple Photos
+- [ente-io/ente](https://github.com/ente-io/ente) - Fully Open Source, End-to-End Encrypted Cloud
 - [standardnotes/app](https://github.com/standardnotes/app) - Think fearlessly with end-to-end encrypted notes and files. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help.
 - [mozilla-mobile/mozilla-vpn-client](https://github.com/mozilla-mobile/mozilla-vpn-client) - A fast, secure and easy to use VPN. Built by the makers of Firefox.
 - [bitfireAT/davx5-ose](https://github.com/bitfireAT/davx5-ose) - DAVx⁵ is an open-source CalDAV/CardDAV suite and sync app for Android. You can also access your online files (WebDAV) with it.
@@ -4610,7 +4612,7 @@
 - [Cassius0924/WeChatter](https://github.com/Cassius0924/WeChatter) - 基于 wechatbot-webhook 的微信机器人，支持 GPT 问答、热搜、天气预报、消息转发、小游戏、Webhook提醒等功能。
 - [GauravSingh9356/J.A.R.V.I.S](https://github.com/GauravSingh9356/J.A.R.V.I.S) - Personal Assistant built using python libraries. It does almost anything which includes sending emails, Optical Text Recognition, Dynamic News Reporting at any time with API integration, Todo list gen
 - [tkrajina/gpxpy](https://github.com/tkrajina/gpxpy) - gpx-py is a python GPX parser. GPX (GPS eXchange Format) is an XML based file format for GPS tracks.
-- [parazeeknova/nyxtext-zenith](https://github.com/parazeeknova/nyxtext-zenith) - Text Editor built with PyQt6 & Python. In phase of transition from editor to IDE, with a mission of providing comprehensive editor for all devs.
+- [parazeeknova/nyxtext-zenith](https://github.com/parazeeknova/nyxtext-zenith) - 🗒️Text Editor built with Pyqt6 & QScintilla. Supports more than 35 + languages out of the box  with 12+ handcrafted themes..
 - [mouredev/Hello-Python](https://github.com/mouredev/Hello-Python) - Curso para aprender el lenguaje de programación Python desde cero y para principiantes. 100 clases, 44 horas en vídeo, código, proyectos y grupo de chat. Fundamentos, frontend, backend, testing, IA...
 - [alettsy/image-to-excel-cells](https://github.com/alettsy/image-to-excel-cells) - Converting an image to Excel cells
 - [web-slate/python-basics](https://github.com/web-slate/python-basics) - Python Basics
@@ -5397,7 +5399,7 @@
 - [deltachat/deltachat-desktop](https://github.com/deltachat/deltachat-desktop) - Email-based instant messaging for Desktop.
 - [xyxc0673/calendar-remark](https://github.com/xyxc0673/calendar-remark) - A simple calendar with nice design for remarking a date
 - [turms-im/turms](https://github.com/turms-im/turms) - 🕊️ The world's most advanced open source instant messaging engine for 100K~10M concurrent users https://turms-im.github.io/docs
-- [ente-io/ente](https://github.com/ente-io/ente) - FOSS, End to End Encrypted alternative to Google Photos and Apple Photos
+- [ente-io/ente](https://github.com/ente-io/ente) - Fully Open Source, End-to-End Encrypted Cloud
 - [codestoryai/sidecar](https://github.com/codestoryai/sidecar) - Sidecar is the AI brains for the Aide editor and works alongside it, locally on your machine
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
@@ -5588,6 +5590,7 @@
 
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Convert ebooks to audiobooks with chapters and metadata using dynamic AI models and voice cloning. Supports 1,107+ languages!
 - [bk138/multivnc](https://github.com/bk138/multivnc) - MultiVNC is a cross-platform Multicast-enabled VNC viewer based on LibVNCClient. The desktop client runs on Unix, Mac OS X and Windows. There also is an Android client.
+- [wb64dev/winlator](https://github.com/wb64dev/winlator) - Android application for running Windows applications with Wine and Box86/Box64
 - [Predidit/Kazumi](https://github.com/Predidit/Kazumi) - 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕。
 - [ryan-andrew/android_sideloader](https://github.com/ryan-andrew/android_sideloader) - Easily sideload apps to your Android device with no setup needed
 - [kando-menu/kando](https://github.com/kando-menu/kando) - 🌸 Do things with utmost efficiency.
