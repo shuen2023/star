@@ -338,11 +338,18 @@
 
 ## android 
 
+- [Crazy-Marvin/ToDont](https://github.com/Crazy-Marvin/ToDont) - The reverse to-do list
+- [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
+- [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
+- [termux-play-store/termux-apps](https://github.com/termux-play-store/termux-apps) - Source for the Termux build on Google Play.
+- [w2sv/WiFi-Widget](https://github.com/w2sv/WiFi-Widget) - Android app providing a fully configurable widget for the monitoring of your WiFi connection details.
+- [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
+- [oppsec/Apepe](https://github.com/oppsec/Apepe) - 📲 Enumerate information from an app based on the APK file
 - [Martichou/rquickshare](https://github.com/Martichou/rquickshare) - Rust implementation of NearbyShare/QuickShare from Android for Linux and macOS.
 - [termux/termux-widget](https://github.com/termux/termux-widget) - Termux add-on app which adds shortcuts to commands on the home screen.
 - [tinode/tindroid](https://github.com/tinode/tindroid) - Tinode chat client application for Android
 - [rifsxd/KernelSU-Next](https://github.com/rifsxd/KernelSU-Next) - A Kernel based root solution for Android
-- [G-Ray/pikatorrent](https://github.com/G-Ray/pikatorrent) - BitTorrent client ⚡. For mobile, desktop & server.
+- [G-Ray/pikatorrent](https://github.com/G-Ray/pikatorrent) - The Torrent app for the 21st century⚡
 - [twrpdtgen/twrpdtgen](https://github.com/twrpdtgen/twrpdtgen) - A Python library/script to automatically generate TWRP-compatible device tree from a boot/recovery image
 - [samuelclay/NewsBlur](https://github.com/samuelclay/NewsBlur) - NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument.
 - [tkuenneth/SMSRelay](https://github.com/tkuenneth/SMSRelay) - An SMS to email forwarder
@@ -1403,6 +1410,7 @@
 
 ## devops 
 
+- [w2sv/WiFi-Widget](https://github.com/w2sv/WiFi-Widget) - Android app providing a fully configurable widget for the monitoring of your WiFi connection details.
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 - [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
@@ -1699,7 +1707,7 @@
 
 ## flutter 
 
-- [G-Ray/pikatorrent](https://github.com/G-Ray/pikatorrent) - BitTorrent client ⚡. For mobile, desktop & server.
+- [G-Ray/pikatorrent](https://github.com/G-Ray/pikatorrent) - The Torrent app for the 21st century⚡
 - [JideGuru/FlutterEbookApp](https://github.com/JideGuru/FlutterEbookApp) - A simple Flutter app to Read and Download eBooks.
 - [talha828/Bill-Counter](https://github.com/talha828/Bill-Counter) - Bill Counter Flutter Android Application Welcome to App, a Flutter-based Android app designed to help you efficiently create, save, and manage customer profiles. Whether you run a small business or ha
 - [Predidit/Kazumi](https://github.com/Predidit/Kazumi) - 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。
@@ -1765,6 +1773,7 @@
 
 ## framework 
 
+- [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [ServenScorpion/VirtualApp](https://github.com/ServenScorpion/VirtualApp) - support  android 12 应用分身、模拟设备、模拟wifi、虚拟多开、钉钉打卡、企微打卡、插件开发、XP插件、模拟用户操作、java hook、c++ hook
 - [cogentcore/core](https://github.com/cogentcore/core) - A free and open source framework for building powerful, fast, elegant 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and the web with a single Go codebase, allowing you to Code Once, 
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
@@ -1779,6 +1788,7 @@
 
 ## frontend 
 
+- [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [mouredev/Hello-Python](https://github.com/mouredev/Hello-Python) - Curso para aprender el lenguaje de programación Python desde cero y para principiantes. 100 clases, 44 horas en vídeo, código, proyectos y grupo de chat. Fundamentos, frontend, backend, testing, IA...
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [goq/telegram-list](https://github.com/goq/telegram-list) - List of telegram groups, channels & bots // Список интересных групп, каналов и ботов телеграма // Список чатов для программистов
@@ -2000,6 +2010,7 @@
 
 ## hacktoberfest 
 
+- [Crazy-Marvin/ToDont](https://github.com/Crazy-Marvin/ToDont) - The reverse to-do list
 - [twrpdtgen/twrpdtgen](https://github.com/twrpdtgen/twrpdtgen) - A Python library/script to automatically generate TWRP-compatible device tree from a boot/recovery image
 - [BOINC/boinc](https://github.com/BOINC/boinc) - Open-source software for volunteer computing and grid computing.
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
@@ -2227,6 +2238,8 @@
 
 ## ios 
 
+- [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
+- [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
 - [samuelclay/NewsBlur](https://github.com/samuelclay/NewsBlur) - NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument.
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
 - [SEAbdulbasit/recipe-app](https://github.com/SEAbdulbasit/recipe-app) - Recipe App in Compose Multiplatform (KMP) targeting Android, iOS, Web and Desktop.
@@ -2372,6 +2385,7 @@
 
 ## javascript 
 
+- [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [instamobile/recipes-app-react-native](https://github.com/instamobile/recipes-app-react-native) - Recipes App in React Native
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [OHIF/Viewers](https://github.com/OHIF/Viewers) - OHIF zero-footprint DICOM viewer and oncology specific Lesion Tracker, plus shared extension packages
@@ -2502,6 +2516,8 @@
 
 ## kotlin 
 
+- [Crazy-Marvin/ToDont](https://github.com/Crazy-Marvin/ToDont) - The reverse to-do list
+- [w2sv/WiFi-Widget](https://github.com/w2sv/WiFi-Widget) - Android app providing a fully configurable widget for the monitoring of your WiFi connection details.
 - [meganz/android](https://github.com/meganz/android) - MEGA Android App
 - [BOINC/boinc](https://github.com/BOINC/boinc) - Open-source software for volunteer computing and grid computing.
 - [sokolovromann/MyShopping](https://github.com/sokolovromann/MyShopping) - A simple shopping list for Android.
@@ -2676,8 +2692,10 @@
 
 ## linux 
 
+- [termux-play-store/termux-apps](https://github.com/termux-play-store/termux-apps) - Source for the Termux build on Google Play.
+- [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
 - [Martichou/rquickshare](https://github.com/Martichou/rquickshare) - Rust implementation of NearbyShare/QuickShare from Android for Linux and macOS.
-- [G-Ray/pikatorrent](https://github.com/G-Ray/pikatorrent) - BitTorrent client ⚡. For mobile, desktop & server.
+- [G-Ray/pikatorrent](https://github.com/G-Ray/pikatorrent) - The Torrent app for the 21st century⚡
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Convert ebooks to audiobooks with chapters and metadata using dynamic AI models and voice cloning. Supports 1,107+ languages!
 - [bk138/multivnc](https://github.com/bk138/multivnc) - MultiVNC is a cross-platform Multicast-enabled VNC viewer based on LibVNCClient. The desktop client runs on Unix, Mac OS X and Windows. There also is an Android client.
 - [kando-menu/kando](https://github.com/kando-menu/kando) - 🌸 Do things with utmost efficiency.
@@ -2897,6 +2915,7 @@
 
 ## macos 
 
+- [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
 - [Martichou/rquickshare](https://github.com/Martichou/rquickshare) - Rust implementation of NearbyShare/QuickShare from Android for Linux and macOS.
 - [bk138/multivnc](https://github.com/bk138/multivnc) - MultiVNC is a cross-platform Multicast-enabled VNC viewer based on LibVNCClient. The desktop client runs on Unix, Mac OS X and Windows. There also is an Android client.
 - [Predidit/Kazumi](https://github.com/Predidit/Kazumi) - 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。
@@ -3035,6 +3054,7 @@
 
 ## material-design 
 
+- [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
 - [SkyD666/PodAura](https://github.com/SkyD666/PodAura) - All-in-one Android podcast app for RSS, media dl & play. MVI arch, Material You style. ⭐️ Star to support!
 - [DennisBauer/RecurringExpenseTracker](https://github.com/DennisBauer/RecurringExpenseTracker) - A Material You recurring expense tracker, allowing you to keep track of your monthly spending.
 - [waseefakhtar/dose-android](https://github.com/waseefakhtar/dose-android) - 💊⏰ Dose is a medication reminder app for Android, built entirely using Kotlin and Jetpack Compose with MVVM + Clean Architecture
@@ -3068,6 +3088,8 @@
 
 ## mobile 
 
+- [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
+- [oppsec/Apepe](https://github.com/oppsec/Apepe) - 📲 Enumerate information from an app based on the APK file
 - [instamobile/recipes-app-react-native](https://github.com/instamobile/recipes-app-react-native) - Recipes App in React Native
 - [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
 - [status-im/status-mobile](https://github.com/status-im/status-mobile) - a free (libre) open source, mobile OS for Ethereum
@@ -3390,8 +3412,16 @@
 
 ## others 
 
+- [cryptrr/AutoPie](https://github.com/cryptrr/AutoPie) - Swiss Army Knife For Android. Automate with Linux Commands on Android in a single click.
+- [lizongying/my-tv-0](https://github.com/lizongying/my-tv-0) - 我的電視·〇 電視視頻播放軟件，可以自定義視頻源
+- [qist/tvbox](https://github.com/qist/tvbox) - OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。
+- [dp247/Freeview-EPG](https://github.com/dp247/Freeview-EPG) - Open source XMLTV data for UK free-to-air TV channels and radio stations
+- [vicjl/myIPTV](https://github.com/vicjl/myIPTV) - 
+- [Moexin/IPTV](https://github.com/Moexin/IPTV) - MyIPTV
+- [big-mouth-cn/tv](https://github.com/big-mouth-cn/tv) - TV直播源管理者，每天自动采集更新直播源、监测可用性以及删除无效源。
+- [sakana164/mytv-android](https://github.com/sakana164/mytv-android) - 使用Android原生开发的电视直播软件（source backup）
+- [RooVetGit/Roo-Cline](https://github.com/RooVetGit/Roo-Cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 - [kevin2li/PDF-Guru](https://github.com/kevin2li/PDF-Guru) - PDF Guru Anki是一款以PDF为中心的多功能办公学习工具箱软件，包含四大板块功能：PDF实用工具箱、Anki制卡神器、Anki最强辅助、视频笔记神器，软件功能众多且强大，熟练运用可以大幅提高办公和学习效率，绝对是您不可多得的效率神器。人生苦短，我用Guru!
-- [amosjerbi/Apks](https://github.com/amosjerbi/Apks) - Android apks essentials
 - [getcursor/cursor](https://github.com/getcursor/cursor) - The AI Code Editor
 - [maplibre/maplibre-native](https://github.com/maplibre/maplibre-native) - MapLibre Native - Interactive vector tile maps for iOS, Android and other platforms.
 - [HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics) - Must-read and classic books of computational geometry and computer graphics
@@ -3570,7 +3600,7 @@
 - [llwslc/grammar-club](https://github.com/llwslc/grammar-club) - 《语法俱乐部》- 旋元佑
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
 - [rompelhd/Chrootux](https://github.com/rompelhd/Chrootux) - Chrootux is a C++ tool for virtualizing architectures, ideal for embedded ARM devices and Android via Termux. It allows users to run various Linux distributions seamlessly, enhancing device capabiliti
-- [1889-GHub/1889-IENA-Terminal-App](https://github.com/1889-GHub/1889-IENA-Terminal-App) - 1889 IENA For Windows | Termux
+- [1889-GHub/1889-IENA-Terminal-App](https://github.com/1889-GHub/1889-IENA-Terminal-App) - 1889 IENA
 - [wahasa/Fedora](https://github.com/wahasa/Fedora) - Welcome To Fedora Termux For Android
 - [Anon4You/alienkrishn](https://github.com/Anon4You/alienkrishn) - Custom termux apt repository
 - [siddharthsky/CustTermux](https://github.com/siddharthsky/CustTermux) - Fork of the Termux to run TV
@@ -4307,7 +4337,7 @@
 
 ## p2p 
 
-- [G-Ray/pikatorrent](https://github.com/G-Ray/pikatorrent) - BitTorrent client ⚡. For mobile, desktop & server.
+- [G-Ray/pikatorrent](https://github.com/G-Ray/pikatorrent) - The Torrent app for the 21st century⚡
 - [JFreegman/toxic](https://github.com/JFreegman/toxic) - A Tox-based instant messaging and video chat client.
 - [molvqingtai/WebChat](https://github.com/molvqingtai/WebChat) - 💬 Chat with anyone on any website.
 - [anyproto/anytype-kotlin](https://github.com/anyproto/anytype-kotlin) - Official Anytype client for Android
@@ -4328,6 +4358,7 @@
 
 ## package-manager 
 
+- [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
 - [Thumuss/utpm](https://github.com/Thumuss/utpm) - A package manager for local and remote Typst packages.
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
 - [radian-software/straight.el](https://github.com/radian-software/straight.el) - 🍀 Next-generation, purely functional package manager for the Emacs hacker.
@@ -4488,6 +4519,7 @@
 
 ## python 
 
+- [oppsec/Apepe](https://github.com/oppsec/Apepe) - 📲 Enumerate information from an app based on the APK file
 - [twrpdtgen/twrpdtgen](https://github.com/twrpdtgen/twrpdtgen) - A Python library/script to automatically generate TWRP-compatible device tree from a boot/recovery image
 - [samuelclay/NewsBlur](https://github.com/samuelclay/NewsBlur) - NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument.
 - [kivy/python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK
@@ -4740,6 +4772,7 @@
 
 ## react 
 
+- [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [arikchakma/maily.to](https://github.com/arikchakma/maily.to) - Craft beautiful emails effortlessly with Maily, the powerful email editor that ensures impeccable communication across all major clients.
 - [instamobile/recipes-app-react-native](https://github.com/instamobile/recipes-app-react-native) - Recipes App in React Native
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
@@ -4778,6 +4811,7 @@
 
 ## react-native 
 
+- [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [instamobile/recipes-app-react-native](https://github.com/instamobile/recipes-app-react-native) - Recipes App in React Native
 - [ZakaHaceCosas/personaplus](https://github.com/ZakaHaceCosas/personaplus) - Give yourself a plus!
 - [keiloktql/dolcent-landing](https://github.com/keiloktql/dolcent-landing) - Dolcent: The Ultimate Finance Tracker! Take control of your finances with ease. Download now for a smarter way to manage money.
@@ -4853,6 +4887,7 @@
 
 ## rust 
 
+- [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [Martichou/rquickshare](https://github.com/Martichou/rquickshare) - Rust implementation of NearbyShare/QuickShare from Android for Linux and macOS.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
@@ -5341,6 +5376,7 @@
 
 ## terminal 
 
+- [termux-play-store/termux-apps](https://github.com/termux-play-store/termux-apps) - Source for the Termux build on Google Play.
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
 - [Hamza417/Inure](https://github.com/Hamza417/Inure) - An elegant and beautiful premium Android app manager for rooted and non-rooted devices with a built-in terminal, analytics, debloat, stats and various other panels with an independent custom theme eng
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -5388,6 +5424,7 @@
 
 ## termux 
 
+- [termux-play-store/termux-apps](https://github.com/termux-play-store/termux-apps) - Source for the Termux build on Google Play.
 - [termux/termux-widget](https://github.com/termux/termux-widget) - Termux add-on app which adds shortcuts to commands on the home screen.
 - [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string
 - [GiorgosXou/TUIFIManager](https://github.com/GiorgosXou/TUIFIManager) - A cross-platform terminal-based termux-oriented file manager (and component), meant to be used with a Uni-Curses project or as is.
@@ -5457,6 +5494,7 @@
 
 ## typescript 
 
+- [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email app to reach inbox zero fast.
 - [instamobile/recipes-app-react-native](https://github.com/instamobile/recipes-app-react-native) - Recipes App in React Native
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
@@ -5580,6 +5618,7 @@
 
 ## visual-studio-code 
 
+- [DiemasMichiels/emulator](https://github.com/DiemasMichiels/emulator) - Run Android emulator and iOS simulator easily from VScode!
 - [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) - Windows 10/11 Guide. Including Windows Security tools, Encryption, Nextcloud, Graphics, Gaming, Virtualization, Windows Subsystem for Linux (WSL 2), Software Apps, and Resources.
 
 ## vpn 
@@ -5621,6 +5660,7 @@
 
 ## web 
 
+- [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [turms-im/turms](https://github.com/turms-im/turms) - 🕊️ The world's most advanced open source instant messaging engine for 100K~10M concurrent users https://turms-im.github.io/docs
 - [cogentcore/core](https://github.com/cogentcore/core) - A free and open source framework for building powerful, fast, elegant 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and the web with a single Go codebase, allowing you to Code Once, 
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
@@ -5657,7 +5697,8 @@
 
 ## windows 
 
-- [G-Ray/pikatorrent](https://github.com/G-Ray/pikatorrent) - BitTorrent client ⚡. For mobile, desktop & server.
+- [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
+- [G-Ray/pikatorrent](https://github.com/G-Ray/pikatorrent) - The Torrent app for the 21st century⚡
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Convert ebooks to audiobooks with chapters and metadata using dynamic AI models and voice cloning. Supports 1,107+ languages!
 - [bk138/multivnc](https://github.com/bk138/multivnc) - MultiVNC is a cross-platform Multicast-enabled VNC viewer based on LibVNCClient. The desktop client runs on Unix, Mac OS X and Windows. There also is an Android client.
 - [Predidit/Kazumi](https://github.com/Predidit/Kazumi) - 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。
