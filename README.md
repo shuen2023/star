@@ -77,6 +77,7 @@
 - [VBA](#vba)
 - [Vala](#vala)
 - [Vim Script](#vim-script)
+- [Visual Basic .NET](#visual-basic-.net)
 - [Visual Basic 6.0](#visual-basic-6.0)
 - [Vue](#vue)
 - [XSLT](#xslt)
@@ -102,14 +103,16 @@
 
 ## Batchfile 
 
+- [mggons93/Mggons](https://github.com/mggons93/Mggons) - Este script está diseñado para la instalación, activación, y conversion de Office 365 a las ediciones mas usadas
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
-- [BsNgChiThanh/MAS-TOOL](https://github.com/BsNgChiThanh/MAS-TOOL) - MAS TOOL kích hoạt Windows và Office vĩnh viễn, tuyệt vời
 - [FongMi/Release](https://github.com/FongMi/Release) - 
 - [qmlbook/qmlbook](https://github.com/qmlbook/qmlbook) - The source code for the upcoming qml book
 - [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
 
 ## C 
 
+- [hdlx/AltAppSwitcher](https://github.com/hdlx/AltAppSwitcher) - Alternative application switcher for Windows
+- [ading2210/linuxpdf](https://github.com/ading2210/linuxpdf) - Linux running inside a PDF file via a RISC-V emulator
 - [void-linux/xbps](https://github.com/void-linux/xbps) - The X Binary Package System (XBPS)
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [neomutt/neomutt](https://github.com/neomutt/neomutt) - ✉️ Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.libera.chat
@@ -228,7 +231,7 @@
 - [mytechnotalent/Hacking-Windows](https://github.com/mytechnotalent/Hacking-Windows) - A FREE Windows C development course where we will learn the Win32API and reverse engineer each step utilizing IDA Free in both an x86 and x64 environment.
 - [winscp/winscp](https://github.com/winscp/winscp) - WinSCP is a popular free file manager for Windows supporting SFTP, FTP, FTPS, SCP, S3, WebDAV and local-to-local file transfers. A powerful tool to enhance your productivity with a user-friendly inter
 - [namhyung/uftrace](https://github.com/namhyung/uftrace) - Function graph tracer for C/C++/Rust/Python
-- [asciphx/FabCc](https://github.com/asciphx/FabCc) - All-platform asynchronous non-blocking perfect c++ web🌐 .No GC📵! LOW CODE💾!Hard to use c++11~c++20🪄
+- [asciphx/FabCc](https://github.com/asciphx/FabCc) - Asynchronous non-blocking dark magic for all-platform c++ web🌐 .No GC📵! LOW CODE💾!
 - [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bi
 - [adonais/skylark](https://github.com/adonais/skylark) - Skylark Editor is written in C, a high performance text/hex editor.  Embedded Database-client/Redis-client/Lua-engine.  You can run Lua scripts and SQL files directly.
 - [mridgers/clink](https://github.com/mridgers/clink) - Bash's powerful command line editing in cmd.exe
@@ -250,6 +253,8 @@
 
 ## C# # 
 
+- [Pditine/E2E](https://github.com/Pditine/E2E) - a tool for converting Excel To Everything! | Excel格式转换万用工具
+- [nadesico19/sacad](https://github.com/nadesico19/sacad) - SACAD stands for Simple AutoCAD
 - [getcellm/cellm](https://github.com/getcellm/cellm) - Use LLMs in Excel formulas
 - [massgravel/TSforge](https://github.com/massgravel/TSforge) - A collection of activation/evaluation extension methods for Windows 7 through 11.
 - [BAndysc/AvaloniaVisualBasic6](https://github.com/BAndysc/AvaloniaVisualBasic6) - A recreation of the classic Visual Basic 6 IDE and language in C# with Avalonia
@@ -323,6 +328,13 @@
 
 ## C++ 
 
+- [kiwix/kiwix-desktop](https://github.com/kiwix/kiwix-desktop) - Kiwix for Windows and GNU/Linux desktops
+- [papyrussolution/OpenPapyrus](https://github.com/papyrussolution/OpenPapyrus) - Sophisticated ERP, CRM, Point-Of-Sale, etc. Open source now. This system is developed since 1996.
+- [YtxErp/YTX](https://github.com/YtxErp/YTX) - YTX Double-Entry ERP Program, Actually Triple-Entry.
+- [cunnane/xloil](https://github.com/cunnane/xloil) - xlOil provides framework for interacting with Excel in different programming languages (python & C++ currently)
+- [vygr/ChrysaLisp](https://github.com/vygr/ChrysaLisp) - Parallel OS, with GUI, Terminal, OO Assembler, Class libraries, C-Script compiler, Lisp interpreter and more...
+- [BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter) - Wechat Chat History Exporter 微信聊天记录导出备份程序
+- [linuxmint/warpinator](https://github.com/linuxmint/warpinator) - Share files across the LAN
 - [google/skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
 - [LibrePCB/LibrePCB](https://github.com/LibrePCB/LibrePCB) - A powerful, innovative and intuitive EDA suite for everyone!
 - [RawTherapee/RawTherapee](https://github.com/RawTherapee/RawTherapee) - A powerful cross-platform raw photo processing program
@@ -396,7 +408,7 @@
 - [KDE/kxstitch](https://github.com/KDE/kxstitch) - Cross stitch pattern and chart creation
 - [Sigil-Ebook/Sigil](https://github.com/Sigil-Ebook/Sigil) - Sigil is a multi-platform EPUB ebook editor
 - [lich0821/WeChatFerry](https://github.com/lich0821/WeChatFerry) - 微信机器人，可接入DeepSeek、Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。微信 hook WeChat Robot Hook.
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍 ugrep 7.2 file pattern searcher -- a more powerful, ultra fast, user-friendly, compatible grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, search
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍 ugrep 7.3 file pattern searcher -- a more powerful, ultra fast, user-friendly, compatible grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, search
 - [LibreOffice/core](https://github.com/LibreOffice/core) - Read-only LibreOffice core repo - no pull request (use gerrit instead https://gerrit.libreoffice.org/) - don't download zip, use https://dev-www.libreoffice.org/bundles/  instead
 - [strato-emu/strato](https://github.com/strato-emu/strato) - Run Nintendo Switch homebrew & games on your Android device!
 - [JakubMelka/PDF4QT](https://github.com/JakubMelka/PDF4QT) - Open source PDF editor.
@@ -414,7 +426,6 @@
 - [aardappel/treesheets](https://github.com/aardappel/treesheets) - TreeSheets : Free Form Data Organizer (see strlen.com/treesheets)
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [texstudio-org/texstudio](https://github.com/texstudio-org/texstudio) - TeXstudio is a fully featured LaTeX editor. Our goal is to make writing LaTeX documents as easy and comfortable as possible.
-- [cunnane/xloil](https://github.com/cunnane/xloil) - xlOil provides framework for interacting with Excel in different programming languages (python & C++ currently)
 - [nefarius/nefcon](https://github.com/nefarius/nefcon) - Windows device driver installation and management tool.
 - [shundhammer/qdirstat](https://github.com/shundhammer/qdirstat) - QDirStat - Qt-based directory statistics (KDirStat without any KDE - from the original KDirStat author)
 - [KDE/discover](https://github.com/KDE/discover) - KDE and Plasma resources management GUI
@@ -477,6 +488,7 @@
 ## CSS 
 
 - [yuzhangkaii/WechatyPay-Web](https://github.com/yuzhangkaii/WechatyPay-Web) - WechatyPay-Node的管理系统，使用Go开发。
+- [LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
 - [FT-Fetters/DockerPull](https://github.com/FT-Fetters/DockerPull) - Docker镜像下载工具 Easily download images without Docker client
 - [KoriIku/luxirty-search](https://github.com/KoriIku/luxirty-search) - 一个搜索引擎，基于 Google，屏蔽内容农场，无广告，无跟踪，干净，简洁，快。
 - [straight-tamago/misaka](https://github.com/straight-tamago/misaka) - iOS & tvOS customisation tool for KFD & MDC
@@ -505,14 +517,16 @@
 
 ## Common Lisp 
 
+- [clasp-developers/clasp](https://github.com/clasp-developers/clasp) - clasp Common Lisp environment
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's browser.
 - [slime/slime](https://github.com/slime/slime) - The Superior Lisp Interaction Mode for Emacs
 - [aartaka/nx-search-engines](https://github.com/aartaka/nx-search-engines) - A collection of easy-to-setup search-engines for Nyxt browser.
 
 ## Dart 
 
+- [warioddly/days](https://github.com/warioddly/days) - Days is a mobile app that tracks how many days have passed and reminds you that every day matters — because a year has so few of them.
 - [burhanrashid52/WhatTodo](https://github.com/burhanrashid52/WhatTodo) - A Simple Todo app design in Flutter to keep track of your task on daily basis. Its build on BLoC Pattern. You can add a project, labels, and due-date to your task also you can sort your task on the ba
-- [darkmoonight/ToDark](https://github.com/darkmoonight/ToDark) - 📝 Task management application
+- [darkmoonight/Zest](https://github.com/darkmoonight/Zest) - 📝 Task management application
 - [ZhuJHua/moodiary](https://github.com/ZhuJHua/moodiary) - A fully open source cross-platform diary app written by flutter and rust.
 - [G-Ray/pikatorrent](https://github.com/G-Ray/pikatorrent) - The Torrent app for the 21st century⚡
 - [JideGuru/FlutterEbookApp](https://github.com/JideGuru/FlutterEbookApp) - A simple Flutter app to Read and Download eBooks.
@@ -527,7 +541,7 @@
 - [GhostenEditor/Ghosten-Player](https://github.com/GhostenEditor/Ghosten-Player) - 一款同时适配Android TV和Android Phone的视频播放器，同时支持云播放(阿里云盘、夸克网盘和Webdav)和本地播放，支持刮削影视的元信息，多线程加速等
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 - [dreautall/waterfly-iii](https://github.com/dreautall/waterfly-iii) - Unofficial Android App for Firefly III, a free and open source personal finance manager.
-- [ente-io/ente](https://github.com/ente-io/ente) - FOSS, End-to-End Encrypted Cloud
+- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted, FOSS cloud for Photos, 2FA secrets and more!
 - [LinwoodDev/Flow](https://github.com/LinwoodDev/Flow) - ⌚ Feature rich event, group and time managment system
 - [picguard/picguard](https://github.com/picguard/picguard) - Your pictures, your signature.
 - [AppFlowy-IO/appflowy-editor](https://github.com/AppFlowy-IO/appflowy-editor) - A highly customizable rich-text editor for Flutter. The AppFlowy Editor project for AppFlowy and beyond.
@@ -662,6 +676,11 @@
 
 ## Go 
 
+- [philipp-meier/xd](https://github.com/philipp-meier/xd) - :pager: Simple Excel (.xlsx) diff tool for texts.
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
+- [nao1215/sqly](https://github.com/nao1215/sqly) - eaisly execute SQL against CSV/TSV/LTSV/JSON and Microsoft Excel™ with shell.
+- [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
+- [silie666/job-crawler](https://github.com/silie666/job-crawler) - boss，智联招聘，51job，猎聘的岗位爬虫
 - [34-c/mdpreview](https://github.com/34-c/mdpreview) - A Neovim markdown previewer written in Go
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [PuerkitoBio/goquery](https://github.com/PuerkitoBio/goquery) - A little like that j-thing, only in Go.
@@ -775,6 +794,7 @@
 - [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬
 - [gobuffalo/pop](https://github.com/gobuffalo/pop) - A Tasty Treat For All Your Database Needs
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
+- [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [jetify-com/typeid](https://github.com/jetify-com/typeid) - Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs
 - [superfly/litefs](https://github.com/superfly/litefs) - FUSE-based file system for replicating SQLite databases across a cluster of machines
 - [talent-plan/tinysql](https://github.com/talent-plan/tinysql) - A course to build the SQL layer of a distributed database.
@@ -797,8 +817,11 @@
 
 ## HTML 
 
+- [xuri/excelize-doc](https://github.com/xuri/excelize-doc) - Docs reference for the Excelize spreadsheet library, and support for the book "Excelize: The Definitive Guide", Chinese (Simplified) 1st Edition
+- [ursoalbo/srttoexcel](https://github.com/ursoalbo/srttoexcel) - Basic srt to excel converter
 - [hongjr03/excel-to-typst](https://github.com/hongjr03/excel-to-typst) - Tool that convert Excel table to Typst table.
 - [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - Let AI be your browser operator.
+- [vxiaozhi/vocabulary-book-by-deepseek](https://github.com/vxiaozhi/vocabulary-book-by-deepseek) - vocabulary-book-by-deepseek｜使用 DeepSeek 开发实现的四六级、考研、托福单词词汇库， 提供单词的词义、词根、例句、辅助记忆、助记图像等信息|小智晖的AI单词库。
 - [Flomp/wanderer](https://github.com/Flomp/wanderer) - wanderer is a self-hosted trail database. Save your adventures!
 - [treffynnon/sqlstyle.guide](https://github.com/treffynnon/sqlstyle.guide) - A consistent code style guide for SQL to ensure legible and maintainable projects
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
@@ -849,6 +872,12 @@
 
 ## Java 
 
+- [osmandapp/OsmAnd](https://github.com/osmandapp/OsmAnd) - OsmAnd
+- [AndroidWithRossyn/Excel-Manager-File-Organizer-Editor](https://github.com/AndroidWithRossyn/Excel-Manager-File-Organizer-Editor) - Seamlessly browse, search, and manage all your Excel files (.xls and .xlsx) with ease.
+- [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) - Digital logic design tool and simulator
+- [re-zero001/LSPosed-Irena](https://github.com/re-zero001/LSPosed-Irena) - Useless LSPosed Framework Fork
+- [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
+- [jeecgboot/JimuReport](https://github.com/jeecgboot/JimuReport) - 「数据可视化工具：报表、大屏、仪表盘」积木报表是一款类Excel操作风格，在线拖拽设计的报表工具和和数据可视化产品。功能涵盖: 报表设计、大屏设计、打印设计、图形报表、仪表盘门户设计等，完全免费！秉承“简单、易用、专业”的产品理念，极大的降低报表开发难度、缩短开发周期、解决各类报表难题。
 - [moyangzhan/langchain4j-aideepin](https://github.com/moyangzhan/langchain4j-aideepin) - 基于AI的工作效率提升工具 | Ai-based productivity tools (Chat,Draw,RAG etc)
 - [april-projects/april-zh-hotspot-push](https://github.com/april-projects/april-zh-hotspot-push) - 知乎热点推送
 - [SmartPack/PackageManager](https://github.com/SmartPack/PackageManager) - Source code of Package Manager, an Application to Manage your Apps.
@@ -951,7 +980,7 @@
 - [Mararsh/MyBox](https://github.com/Mararsh/MyBox) - Easy tools of document, image, file, network, data, color, and media.
 - [owent/xresloader](https://github.com/owent/xresloader) - 跨平台Excel导表工具(Excel=&gt;protobuf/msgpack/lua/javascript/json/xml)
 - [DrKLO/Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
-- [dataease/dataease](https://github.com/dataease/dataease) - 🔥 人人可用的开源 BI 工具，Tableau、帆软的开源替代。
+- [dataease/dataease](https://github.com/dataease/dataease) - 🔥 人人可用的开源 BI 工具，数据可视化神器。
 - [apache/tika](https://github.com/apache/tika) - The Apache Tika toolkit detects and extracts metadata and text from over a thousand different file types (such as PPT, XLS, and PDF).
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
 - [donmor/Tiddloid](https://github.com/donmor/Tiddloid) - Tiddloid is an app to work with locally stored TiddlyWikis.
@@ -961,10 +990,16 @@
 
 ## JavaScript 
 
+- [dromara/skyeye](https://github.com/dromara/skyeye) - 智能办公OA系统[SpringBoot2-快速开发平台]，适用于医院，学校，中小型企业等机构的管理。Activiti5.22+动态表单实现零java代码即可做到复杂业务的流程实施，同时包含文件在线操作、日志、考勤、CRM、ERP进销存、项目、拖拽式生成问卷、日程、笔记、计划、行政等多种复杂业务功能。同时，可进行授权二开。
+- [ruanyf/es6tutorial](https://github.com/ruanyf/es6tutorial) - 《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。
+- [suxf/xlsx2json](https://github.com/suxf/xlsx2json) - 让excel支持复杂的json格式, 将xlsx文件转成json以及csharp脚本。
+- [boeykokchin1969/excel_file_parser](https://github.com/boeykokchin1969/excel_file_parser) - A web application that parses Excel files and formats the data for use with LLM models
+- [kucha0609/AutoCAD-Origami-Diagram](https://github.com/kucha0609/AutoCAD-Origami-Diagram) - Use AutoCAD for Origami Diagram.
+- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code without an Anthropics account and route it to another LLM provider
 - [deezertidal/shadowrocket-rules](https://github.com/deezertidal/shadowrocket-rules) - 小火箭 shadowrocket 配置文件 模块 脚本 module sgmodule 图文教程 规则 分流 破解 解锁
 - [rpbouman/huey](https://github.com/rpbouman/huey) - Light-weight, browser-based ROLAP pivot tables on top of DuckDB-WASM
 - [yandong2023/piano-online](https://github.com/yandong2023/piano-online) - 在线模拟钢琴
-- [papersgpt/papersgpt-for-zotero](https://github.com/papersgpt/papersgpt-for-zotero) - Zotero chat PDF with DeepSeek, GPT, ChatGPT, Claude, Gemini
+- [papersgpt/papersgpt-for-zotero](https://github.com/papersgpt/papersgpt-for-zotero) - Zotero chat PDF with DeepSeek, GPT 4.5, ChatGPT, Claude, Gemini
 - [Axorax/awesome-free-apps](https://github.com/Axorax/awesome-free-apps) - Curated list of the best free apps for PC and mobile
 - [DiemasMichiels/emulator](https://github.com/DiemasMichiels/emulator) - Run Android emulator and iOS simulator easily from VScode!
 - [qist/tvbox](https://github.com/qist/tvbox) - OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。
@@ -981,7 +1016,6 @@
 - [metowolf/vCards](https://github.com/metowolf/vCards) - 📡️ vCards 中国黄页 - 优化 iOS/Android 来电、信息界面体验
 - [bia-pain-bache/BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel) - A GUI Panel providing Worker subscriptions for VLESS, Trojan and Warp configs alongside chain proxies, offering full DNS, clean IP,  Fragment, Warp, Warp pro and routing settings for cross-platform cl
 - [collab-project/videojs-record](https://github.com/collab-project/videojs-record) - video.js plugin for recording audio/video/image files
-- [balzack/databag](https://github.com/balzack/databag) - fast & lightweight self-hosted messenger
 - [ShilongLee/Crawler](https://github.com/ShilongLee/Crawler) - 抖音爬虫(a_bogus最新版)、快手、哔哩哔哩、小红书、淘宝、京东、微博等平台爬虫开源api接口服务器。docker一键快速部署。
 - [calculang/calculang](https://github.com/calculang/calculang) - calculang is a language for calculations 🧮💬👩‍💻
 - [4silvertooth/QwikTape](https://github.com/4silvertooth/QwikTape) - Do calculations, annotate like you would on a paper "qwikly".
@@ -1018,7 +1052,7 @@
 - [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf) - Control and manage Android devices from your browser.
 - [seongkah/douyin-live-monitor](https://github.com/seongkah/douyin-live-monitor) - live-monitor-collectdata
 - [Sjj1024/LiveBox](https://github.com/Sjj1024/LiveBox) - livebox是一个模仿抖音直播间效果的桌面端软件，输入抖音直播间地址，就可以获取到直播间的直播视频和弹幕聊天消息，礼物消息等内容，模仿抖音直播
-- [xszyou/Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides,
+- [xszyou/Fay](https://github.com/xszyou/Fay) - fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的agent框架。
 - [zengzifeng520/ysc](https://github.com/zengzifeng520/ysc) - 
 - [zwc456baby/iptv_alive](https://github.com/zwc456baby/iptv_alive) - iptv直播源、4k点播源地址
 - [cyao2q/files](https://github.com/cyao2q/files) - TVBox开源版,盒子软件分享
@@ -1032,7 +1066,7 @@
 - [MaxLaumeister/automatune](https://github.com/MaxLaumeister/automatune) - Procedural music editor
 - [SunsetGlow/douyin_fudai](https://github.com/SunsetGlow/douyin_fudai) - 基于AutoJs6的抖音抢福袋脚本
 - [botbahlul/crx-live-translate](https://github.com/botbahlul/crx-live-translate) - Chrome/Edge BROWSER EXTENSION that can RECOGNIZE any live audio/video streaming then TRANSLATE it for FREE (using unofficial online Google Translate API) then display it as LIVE CAPTION / LIVE SUBTITL
-- [qiushaungzheng/kuaishou-live-barrage](https://github.com/qiushaungzheng/kuaishou-live-barrage) - 快手直播 弹幕、礼物抓取，websocket协议解密
+- [zzzzqs/kuaishou-live-barrage](https://github.com/zzzzqs/kuaishou-live-barrage) - 快手直播 弹幕、礼物抓取，websocket协议解密
 - [nextcloud/maps](https://github.com/nextcloud/maps) - 🌍🌏🌎 The whole world fits inside your cloud!
 - [camicroscope/caMicroscope](https://github.com/camicroscope/caMicroscope) - Digital pathology image viewer with support for human/machine generated annotations and markups.
 - [phcode-dev/phoenix](https://github.com/phcode-dev/phoenix) - The text editor designed to make coding as simple and fun as playing a video game
@@ -1124,7 +1158,6 @@
 - [MuiseDestiny/zotero-style](https://github.com/MuiseDestiny/zotero-style) - Ethereal Style for Zotero
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - Easiest 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and 
-- [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [wavebox/waveboxapp](https://github.com/wavebox/waveboxapp) - Wavebox, the revolutionary and feature-rich Chromium browser that's built for productive working across Google Workspaces, Microsoft Teams, ClickUp, Monday, Atlassian, Asana, AirTable, Slack, and ever
 - [lana-k/sqliteviz](https://github.com/lana-k/sqliteviz) - Instant offline SQL-powered data visualisation in your browser
 - [uiwjs/province-city-china](https://github.com/uiwjs/province-city-china) - 🇨🇳最全最新中国【省、市、区县、乡镇街道】json,csv,sql数据
@@ -1159,6 +1192,8 @@
 
 ## Jupyter Notebook 
 
+- [controversy187/build-a-large-language-model](https://github.com/controversy187/build-a-large-language-model) - Code samples from the book Build a Large Language Model
+- [DataShare-duo/polars_learn](https://github.com/DataShare-duo/polars_learn) - 
 - [datawhalechina/handy-ollama](https://github.com/datawhalechina/handy-ollama) - 动手学Ollama，CPU玩转大模型部署，在线阅读地址：https://datawhalechina.github.io/handy-ollama/
 - [QwenLM/Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL) - Qwen2.5-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
 - [lkl2050/personal_notes_chatbot](https://github.com/lkl2050/personal_notes_chatbot) - chatbot based on my personal notes in obsidian and wechat coversation history
@@ -1196,6 +1231,8 @@
 
 ## Kotlin 
 
+- [octoshrimpy/quik](https://github.com/octoshrimpy/quik) - The most beautiful SMS messenger for Android - Revived
+- [tuskyapp/Tusky](https://github.com/tuskyapp/Tusky) - An Android client for the microblogging server Mastodon
 - [spacecowboy/Feeder](https://github.com/spacecowboy/Feeder) - Android RSS reader app
 - [D4rK7355608/com.d4rk.cleaner](https://github.com/D4rK7355608/com.d4rk.cleaner) - Cleaner is an app that helps you to clean your phone with just one tap. It removes safe-to-delete files, such as logs, cache, temporary and advertisement files, and frees up space on your device. It a
 - [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style.
@@ -1270,7 +1307,7 @@
 - [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
 - [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) - Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)
 - [lihenggui/blocker](https://github.com/lihenggui/blocker) - Utilize an integrated firewall to manage application components.
-- [rajmani7584/Payload-Dumper-Android](https://github.com/rajmani7584/Payload-Dumper-Android) - Payload Dumper App for Android. Extract boot.img or any other images without PC on Android
+- [rajmani7584/Payload-Dumper-Android](https://github.com/rajmani7584/Payload-Dumper-Android) - Payload Dumper App for Android. Extract boot.img or any other partitions (images) from OTA.zip or payload.bin without PC without root on Android
 - [FossifyOrg/Calendar](https://github.com/FossifyOrg/Calendar) - A simple calendar with events, customizable widgets and no ads.
 - [ReVanced/revanced-patcher](https://github.com/ReVanced/revanced-patcher) - 💉 ReVanced Patcher used to patch Android applications
 - [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
@@ -1368,7 +1405,6 @@
 - [FSpaceCore/SpaceCore](https://github.com/FSpaceCore/SpaceCore) - SpaceCore is a virtual Android system engine that can  engage users clone and run dual applications，this engine can also support device simulation, fake GPS and many other features.SpaceCore是一个虚拟引擎内核，
 - [jing332/AlistAndroid](https://github.com/jing332/AlistAndroid) - AList 安卓版本，APK安装即用，无需Root或Termux。
 - [Yorick-Ryu/SharedNotes](https://github.com/Yorick-Ryu/SharedNotes) - A note-taking application that supports real-time sharing, Markdown syntax, and supports Android platform and Desktop platform (Windows, MacOS, Linux).
-- [Hamza417/Positional](https://github.com/Hamza417/Positional) - An elegant and colorful location information app for Android with Compass, Clock, Level, Sun, Moon, Trail Marker and many other features.
 - [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
 - [TeamAmaze/AmazeFileUtilities](https://github.com/TeamAmaze/AmazeFileUtilities) - An open source Google Files alternative for Android
 - [burhanrashid52/PhotoEditor](https://github.com/burhanrashid52/PhotoEditor) - A Photo Editor library with simple, easy support for image editing using paints,text,filters,emoji and Sticker like stories.
@@ -1398,6 +1434,7 @@
 
 ## Lua 
 
+- [macydnah/office.yazi](https://github.com/macydnah/office.yazi) - Office documents previewer plugin for Yazi, using libreoffice (compatible with .docx, .xlsx, .pptx, .odt, .ods, .odp; and other file formats supported by the Office Open XML and OpenDocument standards
 - [amzxyz/rime_wanxiang_pro](https://github.com/amzxyz/rime_wanxiang_pro) - Rime万象拼音输入方案增强版,词库基于AI筛选和语料辅助筛选精干高效，配合全新语言模型，输入不再纠结。支持全拼，7种双拼，8种辅助码，并且可以扩展更多，支持中英混输，内置超级注释lua，带调全拼输入码显示lua，快符与重复上屏lua等功能扩展，大大增强使用体验
 - [lvim-tech/lvim](https://github.com/lvim-tech/lvim) - LVIM IDE is a modular Neovim configuration written in LUA with full customization. LSP support for 60+ languages. Debug support for c, cpp, dart, elixir, go, haskell, java, javascript/typescript, lua,
 - [brianhuster/live-preview.nvim](https://github.com/brianhuster/live-preview.nvim) - A Live Preview Plugin for Neovim that allows you to view Markdown, HTML (along with CSS, JavaScript), AsciiDoc, SVG files in a web browser with live updates.
@@ -1439,7 +1476,7 @@
 
 ## Mojo 
 
-- [modular/mojo](https://github.com/modular/mojo) - The Mojo Programming Language
+- [modular/max](https://github.com/modular/max) - The MAX Platform (includes Mojo)
 
 ## NSIS 
 
@@ -1476,6 +1513,17 @@
 
 ## Others 
 
+- [lllhhh/BooksKeeper](https://github.com/lllhhh/BooksKeeper) - 对各类图书资源的收集。大量计算机、AI方面书籍。
+- [muscasoft/ExcelFuncties](https://github.com/muscasoft/ExcelFuncties) - Excel functies
+- [Surja-Sanyal/Hostel-Dining-Management-System](https://github.com/Surja-Sanyal/Hostel-Dining-Management-System) - An Excel and VBA based Mess Management System Tool.
+- [easychen/ai-self-coding-book](https://github.com/easychen/ai-self-coding-book) - 《方糖AI自编程入门》用自然语言和 AI 写出复杂的商业应用。Here’s how.
+- [MlgmXyysd/Xiaomi-BootLoader-Questionnaire](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire) - 小米 BootLoader《解锁资格答题测试》更新记录
+- [gowthamrajk/Web-Development-Guide](https://github.com/gowthamrajk/Web-Development-Guide) - I will add some professional notes and reference tutorials which will be very much useful for freshers and beginners who are very passionate to become a web developer ❤️
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
+- [Xposed-Modules-Repo/com.bug.hookvip](https://github.com/Xposed-Modules-Repo/com.bug.hookvip) - Fuck for VIP
+- [FebeianBELLO/coffee-sales-Analysis-using-Excel](https://github.com/FebeianBELLO/coffee-sales-Analysis-using-Excel) - In performing analysis using Excel, I utilized several advanced tools and functions. These include XLOOKUP, INDEX-MATCH, multiple IF functions, conditional formatting, PivotTables, PivotCharts, slicer
+- [ajaymalik021/Audible-Data-Cleaning-Project-Excel](https://github.com/ajaymalik021/Audible-Data-Cleaning-Project-Excel) - 
+- [Adeolami06/Advanced_Excel_SaheedAdegboyega](https://github.com/Adeolami06/Advanced_Excel_SaheedAdegboyega) - Formulas and Techniques in Excel
 - [Doanquangthe/DocGPT](https://github.com/Doanquangthe/DocGPT) - DocGPT (Doctor GPT) is an advanced medical diagnosis system that combines Vision Transformer (ViT) based deep learning models with LangChain agents to provide comprehensive medical image analysis and 
 - [zainalabidin030300/Youtube-to-Study-Notes](https://github.com/zainalabidin030300/Youtube-to-Study-Notes) - YouTube to Study Notes using LLaMa is a web app that extracts subtitles from YouTube videos and generates study notes in English. It allows users to download the notes in text or PDF format, making le
 - [bytedance/UI-TARS](https://github.com/bytedance/UI-TARS) - 
@@ -1489,7 +1537,6 @@
 - [Rivens7/Livelist](https://github.com/Rivens7/Livelist) - IPTV-ipv6直播源同步及常看直播
 - [RaycornM/TVbox-IPTV](https://github.com/RaycornM/TVbox-IPTV) - 自用影视源直播源配置仓库    随缘维护
 - [vfdeclnc/iptv](https://github.com/vfdeclnc/iptv) - 
-- [LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
 - [crdroidandroid/android_vendor_crDroidOTA](https://github.com/crdroidandroid/android_vendor_crDroidOTA) - OTA configuration for crDroidOTA (make your device official)
 - [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
 - [vicjl/myIPTV](https://github.com/vicjl/myIPTV) - 
@@ -1542,7 +1589,6 @@
 - [Ayx03/DouyinChat](https://github.com/Ayx03/DouyinChat) - 手机版名为多闪。抖音聊天不是开源软件。DouyinChat isn't a open-source software.
 - [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) - 《动手学大模型Dive into LLMs》系列编程实践教程
 - [Taki0327/Secondary-Development-of-Kindgee-k3cloud](https://github.com/Taki0327/Secondary-Development-of-Kindgee-k3cloud) - 金蝶云星空二次开发踩坑记录（C#开发文档） 包含插件与WebAPI相关示例
-- [BsNgChiThanh/office-365-prolus](https://github.com/BsNgChiThanh/office-365-prolus) - cài đặt và kích hoạt office 365 prolus
 - [cuikaipeng/IPTV](https://github.com/cuikaipeng/IPTV) - 
 - [rime/rime-wubi](https://github.com/rime/rime-wubi) - 【五筆字型】輸入方案
 - [binhex/iptv](https://github.com/binhex/iptv) - English filtered free to air IPTV m3u from https://github.com/iptv-org/iptv
@@ -1582,7 +1628,6 @@
 - [netboy1024/clash_for_windows](https://github.com/netboy1024/clash_for_windows) - 
 - [rime-aca/character_set](https://github.com/rime-aca/character_set) - 
 - [candiddev/rot](https://github.com/candiddev/rot) - Secure Secrets Management for the Modern Sysadmin
-- [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2025最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【电报百科全书】
 - [goq/telegram-list](https://github.com/goq/telegram-list) - List of telegram groups, channels & bots // Список интересных групп, каналов и ботов телеграма // Список чатов для программистов
 - [chen32768/zhengma_for_rime](https://github.com/chen32768/zhengma_for_rime) - 用于Rime输入法的郑码方案
 - [qq943260285/tampermonkey-recruitment-tool](https://github.com/qq943260285/tampermonkey-recruitment-tool) - 高级求职助手 招聘网站助手（Tampermonkey脚本），1.快捷添加公司企业黑名单，眼不见心不烦；2.支持全网热门招聘网站，前程无忧、智联招聘、BOSS直聘、拉钩网、猎聘网、百度百聘、58同城；3.快捷公司企业信息查询，支持天眼查、看准、企查查、爱企查、百度信誉、百度搜索；4.全网招聘网站黑名单数据连通，一站添加，全网使用。
@@ -1672,6 +1717,7 @@
 
 ## PHP 
 
+- [SourcePot/datapool](https://github.com/SourcePot/datapool) - Micro Web Application
 - [BOINC/boinc](https://github.com/BOINC/boinc) - Open-source software for volunteer computing and grid computing.
 - [openemr/openemr](https://github.com/openemr/openemr) - The most popular open source electronic health records and medical practice management solution.
 - [zoujingli/WeChatDeveloper](https://github.com/zoujingli/WeChatDeveloper) - 【新】微信服务号+微信小程序+微信支付+支付宝支付
@@ -1713,6 +1759,7 @@
 
 ## Perl 
 
+- [ledgersmb/LedgerSMB](https://github.com/ledgersmb/LedgerSMB) - Double-entry accounting & ERP for the web
 - [get-iplayer/get_iplayer](https://github.com/get-iplayer/get_iplayer) - A utility for downloading TV and radio programmes from BBC iPlayer and BBC Sounds
 - [Perl/perl5](https://github.com/Perl/perl5) - 🐪 The Perl programming language
 
@@ -1730,13 +1777,26 @@
 
 ## Python 
 
+- [openzim/zimfarm](https://github.com/openzim/zimfarm) - Farm operated by bots to grow and harvest new zim files
+- [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
+- [Amourspirit/python_libre_pythonista_ext](https://github.com/Amourspirit/python_libre_pythonista_ext) - 
+- [FiveGTower/xlsx2geosjon_converter](https://github.com/FiveGTower/xlsx2geosjon_converter) - Converts excel files to geojson files with some rules
+- [Loudbooks/X32-Cue-Utilities](https://github.com/Loudbooks/X32-Cue-Utilities) - Converts an XLSX formatted sheet into a series of snippets or QLab MIDI Cues for the Behringer X32.
+- [seanpedrick-case/doc_redaction](https://github.com/seanpedrick-case/doc_redaction) - Redact PDF/image-based documents, or CSV/XLSX files using a Gradio-based GUI interface
+- [trentzz/vcf2xlsx](https://github.com/trentzz/vcf2xlsx) - CLI tool to convert a vcf file to excel (xlsx) file.
+- [dsnato/visualizador-excel-kivy](https://github.com/dsnato/visualizador-excel-kivy) - Aplicativo Kivy para visualizar arquivos Excel de forma dinâmica, com um layout ajustável e rolagem interativa. Permite carregar planilhas (.xls, .xlsx) e exibir dados em um grid com largura de coluna
+- [donkirkby/live-py-plugin](https://github.com/donkirkby/live-py-plugin) - Live coding in Python with PyCharm, Emacs, Sublime Text, or even a browser
+- [emacs-eaf/emacs-application-framework](https://github.com/emacs-eaf/emacs-application-framework) - EAF, an extensible framework that revolutionizes the graphical capabilities of Emacs
+- [Soulter/AstrBot](https://github.com/Soulter/AstrBot) - ✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 平台支持 QQ、QQ频道、Telegram、微信、企微、飞书 | OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify 等。附带 WebUI。
+- [chapmanjacobd/library](https://github.com/chapmanjacobd/library) - 99+ CLI tools to build, browse, and blend your media library
+- [wuwentao/midea_ac_lan](https://github.com/wuwentao/midea_ac_lan) - Auto-configure and then control your Midea M-Smart devices (Air conditioner, Fan, Water heater, Washer, etc) via local area network.
+- [best-practice-and-impact/gptables](https://github.com/best-practice-and-impact/gptables) - Good Practice Tables - an XlsxWriter wrapper to write consistently formatted statistical tables to Excel.
 - [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher) - Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python.
 - [Gurubase/gurubase](https://github.com/Gurubase/gurubase) - Gurubase is an open-source RAG system that lets you create AI-powered Q&A assistants by indexing websites, PDF documents, YouTube videos, and GitHub code repositories.
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows
 - [airweave-ai/airweave](https://github.com/airweave-ai/airweave) - Turn any app into agent knowledge
 - [HK-Artificial-Intelligence-Association/WechatBot](https://github.com/HK-Artificial-Intelligence-Association/WechatBot) - 基于 WechatFerry 与原版 WechatBot 完成的微信机器人代码。相较于原版本添加了一些功能。
-- [vxiaozhi/vocabulary-book-by-deepseek](https://github.com/vxiaozhi/vocabulary-book-by-deepseek) - vocabulary-book-by-deepseek｜使用 DeepSeek 开发实现的四六级、考研、托福单词词汇库， 提供单词的词义、词根、例句、辅助记忆、助记图像等信息。
 - [alltheplaces/alltheplaces](https://github.com/alltheplaces/alltheplaces) - A set of spiders and scrapers to extract location information from places that post their location on the internet.
 - [gumyr/build123d](https://github.com/gumyr/build123d) - A python CAD programming library
 - [aedocw/epub2tts-edge](https://github.com/aedocw/epub2tts-edge) - epub2tts-edge uses Microsoft Edge cloud-based TTS to create a full featured audiobook m4b from an epub or text file
@@ -1750,7 +1810,7 @@
 - [wkentaro/labelme](https://github.com/wkentaro/labelme) - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
 - [santinic/audiblez](https://github.com/santinic/audiblez) - Generate audiobooks from e-books
-- [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 💬 Ready-to-use & flexible RAG Chatbot, supporting mainstream large language models (LLMs) such as DeepSeek-R1, Llama 3.3, Qwen2, OpenAI, and more.
+- [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 💬 Ready-to-use & flexible RAG Chatbot, supporting mainstream large language models (LLMs) such as DeepSeek-R1, Llama 3.3, Qwen2, OpenAI and more.
 - [dp247/Freeview-EPG](https://github.com/dp247/Freeview-EPG) - Open source XMLTV data for UK free-to-air TV channels and radio stations
 - [oppsec/Apepe](https://github.com/oppsec/Apepe) - 📲 Enumerate information from an app based on the APK file
 - [brandon-baek/EmailChat](https://github.com/brandon-baek/EmailChat) - An Email-based "Instant" Messaging program.
@@ -1793,7 +1853,7 @@
 - [MaskedSyntax/promptly](https://github.com/MaskedSyntax/promptly) - Promptly is a minimalist, secure web browser with Vim-like functionality and advanced productivity features. 🌐
 - [ishan0102/vimGPT](https://github.com/ishan0102/vimGPT) - Browse the web with GPT-4V and Vimium
 - [Crissium/SilverDict](https://github.com/Crissium/SilverDict) - Web-Based Alternative to GoldenDict
-- [levihsu/OOTDiffusion](https://github.com/levihsu/OOTDiffusion) - Official implementation of OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on
+- [levihsu/OOTDiffusion](https://github.com/levihsu/OOTDiffusion) - [AAAI 2025] Official implementation of "OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on"
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
 - [neovim/pynvim](https://github.com/neovim/pynvim) - Python client and plugin host for Nvim
@@ -1836,7 +1896,7 @@
 - [ribt/dtmf-decoder](https://github.com/ribt/dtmf-decoder) - Extract phone numbers from an audio recording of the dial tones.
 - [LyzenX/DouyinLiveRecorder](https://github.com/LyzenX/DouyinLiveRecorder) - 一个自动监测和录制抖音直播的工具，支持录制弹幕，以GUI或命令行形式运行，支持linux，无需设置cookie，不使用selenium，开箱即用。
 - [Storia-AI/sage](https://github.com/Storia-AI/sage) - Chat with any codebase in under two minutes | Fully local or via third-party APIs
-- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/mEkkMXFG
 - [sympy/sympy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python
 - [zim-desktop-wiki/zim-desktop-wiki](https://github.com/zim-desktop-wiki/zim-desktop-wiki) - Main repository of the zim desktop wiki project
 - [kyutai-labs/moshi](https://github.com/kyutai-labs/moshi) - Moshi is a speech-text foundation model and full-duplex spoken dialogue framework. It uses Mimi, a state-of-the-art streaming neural audio codec.
@@ -1869,7 +1929,7 @@
 - [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
 - [FunAudioLLM/SenseVoice](https://github.com/FunAudioLLM/SenseVoice) - Multilingual Voice Understanding Model
 - [parazeeknova/nyxtext-zenith](https://github.com/parazeeknova/nyxtext-zenith) - 🗒️Text Editor built with Pyqt6 & QScintilla. Supports more than 35 + languages out of the box  with 12+ handcrafted themes..
-- [TeamWiseFlow/wiseflow](https://github.com/TeamWiseFlow/wiseflow) - Wiseflow is an agile information mining tool that extracts concise messages from various sources such as websites, WeChat official accounts, social platforms, etc. It automatically categorizes and upl
+- [TeamWiseFlow/wiseflow](https://github.com/TeamWiseFlow/wiseflow) - Use LLMs to dig out what you care about from massive amounts of information and a variety of sources daily.
 - [opendatalab/PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit) - A Comprehensive Toolkit for High-Quality PDF Content Extraction
 - [Stardust87/wordsea](https://github.com/Stardust87/wordsea) - Open source codebase powering the WordSea dictionary app.
 - [Sjj1024/douyin-live](https://github.com/Sjj1024/douyin-live) - Python学习项目，仅供学习参考，严禁一切不合规使用
@@ -2052,7 +2112,7 @@
 - [anufrievroman/calcure](https://github.com/anufrievroman/calcure) - Modern TUI calendar and task manager with minimal and customizable UI.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [ramon-victor/freegpt-webui](https://github.com/ramon-victor/freegpt-webui) - GPT 3.5/4 with a Chat Web UI. No API key required.
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o3 mini and deepseek r1
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o3 and deepseek r1, gpt-4.5
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [pimutils/khal](https://github.com/pimutils/khal) - :calendar: CLI calendar application
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
@@ -2148,11 +2208,17 @@
 
 ## Rust 
 
+- [yshavit/mdq](https://github.com/yshavit/mdq) - like jq but for Markdown: find specific elements in a md doc
+- [iffse/pay-respects](https://github.com/iffse/pay-respects) - Command suggestions, command-not-found and thefuck replacement written in Rust
+- [tansen87/InsightSQL](https://github.com/tansen87/InsightSQL) - Rust Data Processing Toolbox
+- [tafia/calamine](https://github.com/tafia/calamine) - A pure Rust Excel/OpenDocument SpreadSheets file reader: rust on metal sheets
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
+- [Nutomic/ibis](https://github.com/Nutomic/ibis) - A federated online encyclopedia
 - [iwe-org/iwe](https://github.com/iwe-org/iwe) - LSP for Markdown notes taking
 - [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - PKM for the LSP
 - [JuliaLang/juliaup](https://github.com/JuliaLang/juliaup) - Julia installer and version multiplexer
 - [hooyuser/typst_font_manager](https://github.com/hooyuser/typst_font_manager) - A CLI tool to manage fonts for Typst projects.
-- [hongjr03/typst-ReXLlenT](https://github.com/hongjr03/typst-ReXLlenT) - Convert xlsx/ods format tables to typst tables, powered by wasm.
+- [hongjr03/typst-rexllent](https://github.com/hongjr03/typst-rexllent) - Convert xlsx/ods format tables to typst tables, powered by wasm.
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [Martichou/rquickshare](https://github.com/Martichou/rquickshare) - Rust implementation of NearbyShare/QuickShare from Android for Linux and macOS.
@@ -2192,7 +2258,7 @@
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
 - [binbat/live777](https://github.com/binbat/live777) - A very simple, high performance, edge WebRTC SFU
 - [0xCCF4/PhotoSort](https://github.com/0xCCF4/PhotoSort) - A tool to rename/move/copy/hardlink/symlink and sort photos and videos by its EXIF date.
-- [lumina-ai-inc/chunkr](https://github.com/lumina-ai-inc/chunkr) - Vision model based document ingestion
+- [lumina-ai-inc/chunkr](https://github.com/lumina-ai-inc/chunkr) - Vision infrastructure to turn complex documents into RAG/LLM-ready data
 - [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
 - [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
@@ -2240,12 +2306,11 @@
 - [getgrit/gritql](https://github.com/getgrit/gritql) - GritQL is a query language for searching, linting, and modifying code.
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
-- [deltachat/deltachat-core-rust](https://github.com/deltachat/deltachat-core-rust) - Delta Chat Rust Core library, used by Android/iOS/desktop apps, bindings and bots 📧
+- [chatmail/core](https://github.com/chatmail/core) - Chatmail Rust Core library, used by Android/iOS/desktop apps, bindings and bots 📧
 - [JakWai01/lurk](https://github.com/JakWai01/lurk) - A pretty (simple) alternative to strace
 - [ri-char/eStrace](https://github.com/ri-char/eStrace) - A tool that traces system calls using eBPF
 - [crowdagger/crowbook](https://github.com/crowdagger/crowbook) - Converts books written in Markdown to HTML, LaTeX/PDF and EPUB
 - [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
-- [sapio-lang/sapio](https://github.com/sapio-lang/sapio) - A Bitcoin Programming Language
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
@@ -2348,6 +2413,7 @@
 
 ## Shell 
 
+- [joseguzman1337/termux](https://github.com/joseguzman1337/termux) - A place for new or unstable packages.
 - [sameersbn/docker-redmine](https://github.com/sameersbn/docker-redmine) - Docker Image for Redmine
 - [QwenLM/Qwen2.5](https://github.com/QwenLM/Qwen2.5) - Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.
 - [xykt/IPQuality](https://github.com/xykt/IPQuality) - A script for IP quality detection
@@ -2381,7 +2447,7 @@
 - [nohajc/termux-adb](https://github.com/nohajc/termux-adb) - Run adb in Termux without root permissions!
 - [egandro/docker-qemu-arm](https://github.com/egandro/docker-qemu-arm) - 
 - [Oralux/voxin-installer](https://github.com/Oralux/voxin-installer) - 
-- [Dev-CoreX/core-termux](https://github.com/Dev-CoreX/core-termux) - Core-Termux, Automates the setup of a web development environment in Termux, enabling developers to quickly start building web applications on Android.
+- [DevCoreXOfficial/core-termux](https://github.com/DevCoreXOfficial/core-termux) - Core-Termux, Automates the setup of a web development environment in Termux, enabling developers to quickly start building web applications on Android.
 - [gushmazuko/metasploit_in_termux](https://github.com/gushmazuko/metasploit_in_termux) - Install Metasploit Framework 6 in Termux
 - [web1n/wechat-universal-flatpak](https://github.com/web1n/wechat-universal-flatpak) - Flatpak 打包微信 Linux Universal 版
 - [msojocs/wechat-web-devtools-linux](https://github.com/msojocs/wechat-web-devtools-linux) - 适用于微信小程序的微信开发者工具 Linux移植版
@@ -2461,6 +2527,13 @@
 
 ## TypeScript 
 
+- [dell-mic/file-glance](https://github.com/dell-mic/file-glance) - A simple, privacy-friendly tool for working with tabular data in various formats: CSV, JSON, XLSX, and more.
+- [ruilisi/fortune-sheet](https://github.com/ruilisi/fortune-sheet) - A drop-in javascript spreadsheet library that provides rich features like Excel and Google Sheets
+- [danilo-css/analytics-data-pivot](https://github.com/danilo-css/analytics-data-pivot) - A no code tool to help build pivot tables from any database with a few clicks.
+- [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin) - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite5, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia, NaiveUI 和 Uno
+- [pTinosq/Electro](https://github.com/pTinosq/Electro) - ⚡Electro is a blazingly fast image viewer built with Rust, featuring an integrated terminal for enhanced productivity.
+- [FelippeChemello/podcast-maker](https://github.com/FelippeChemello/podcast-maker) - Fully automated video maker using motion graphics and text-to-speech synthesis to turn newsletters into daily YouTube videos.
+- [zzzdajb/DickHelper](https://github.com/zzzdajb/DickHelper) - 
 - [tejado/obsidian-gpgCrypt](https://github.com/tejado/obsidian-gpgCrypt) - Seamlessly encrypts your notes using GPG. Supports smartcards for enhanced security! 🔒📝📎
 - [ArtisanCloud/BrainX](https://github.com/ArtisanCloud/BrainX) - BrainX 是一个智能系统，分析各种媒体格式，整合到知识库，并生成定制内容，包括机器人、洞察和媒体。它旨在为用户提供个性化和自动化的解决方案。
 - [ant-design/ant-design-mini](https://github.com/ant-design/ant-design-mini) - Ant Design Mini is a UI component library for Alipay mini programs that is also compatible with WeChat mini programs, it follows the Ant Design specifications.
@@ -2474,7 +2547,7 @@
 - [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [RooVetGit/Roo-Code](https://github.com/RooVetGit/Roo-Code) - Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code editor.
-- [codexu/note-gen](https://github.com/codexu/note-gen) - 一款专注于记录和写作的跨端 AI 笔记
+- [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform AI-powered note application dedicated to recording and writing.
 - [arikchakma/maily.to](https://github.com/arikchakma/maily.to) - Craft beautiful emails effortlessly with Maily, the powerful email editor that ensures impeccable communication across all major clients.
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email app to reach inbox zero fast.
 - [Synaptic-Labs-AI/NeuroVox](https://github.com/Synaptic-Labs-AI/NeuroVox) - Obsidian plugin for transcription and generation
@@ -2497,7 +2570,7 @@
 - [beilunyang/moemail](https://github.com/beilunyang/moemail) - 一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉
 - [liriliri/aya](https://github.com/liriliri/aya) - Android adb desktop app
 - [xyxc0673/calendar-remark](https://github.com/xyxc0673/calendar-remark) - A simple calendar with nice design for remarking a date
-- [philfung/add-to-homescreen](https://github.com/philfung/add-to-homescreen) - Add web/PWA to IOS/Android/Desktop Homescreen
+- [philfung/add-to-homescreen](https://github.com/philfung/add-to-homescreen) - Easily add websites to IOS/Android/Desktop Homescreens.
 - [artsy/eigen](https://github.com/artsy/eigen) - The Art World in Your Pocket or Your Trendy Tech Company's Tote, Artsy's mobile app.
 - [daeh/zotero-markdb-connect](https://github.com/daeh/zotero-markdb-connect) - Zotero plugin that links your Markdown database to Zotero. Jump directly from Zotero Items to connected Markdown files. Automatically tags Zotero Items so you can easily see which papers you've made n
 - [robert/PyMyFlySpy](https://github.com/robert/PyMyFlySpy) - Track your flight using its headrest data
@@ -2505,6 +2578,7 @@
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management /
 - [ReadSomething/ReadSomething](https://github.com/ReadSomething/ReadSomething) - 📖 一个开源的 Chrome 插件，可以将网页转成阅读模式，并且内置了 AI 总结、翻译、Markdown 转换等功能。
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
+- [balzack/databag](https://github.com/balzack/databag) - fast & lightweight self-hosted messenger
 - [ninoseki/mitaka](https://github.com/ninoseki/mitaka) - A browser extension for OSINT search
 - [tiddly-gittly/TidGi-Mobile](https://github.com/tiddly-gittly/TidGi-Mobile) - A Note App that is local-first, uses tid/md pure text file, all-in-one with calendar/todo/diary widget, lazy-loading, backlink & outline & Zettelkasten, and syncs with the open-source TidGi-Desktop.
 - [codestoryai/aide](https://github.com/codestoryai/aide) - The open-source AI-native IDE
@@ -2740,12 +2814,17 @@
 - [Exafunction/codeium.vim](https://github.com/Exafunction/codeium.vim) - Free, ultrafast Copilot alternative for Vim and Neovim
 - [wsdjeg/SpaceVim](https://github.com/wsdjeg/SpaceVim) - A modular configuration of Vim and Neovim
 
+## Visual Basic .NET 
+
+- [VISCHER-LIL/redink](https://github.com/VISCHER-LIL/redink) - An alternative AI assistant for Microsoft Office that works with your favorite LLM API
+
 ## Visual Basic 6.0 
 
 - [tannerhelland/PhotoDemon](https://github.com/tannerhelland/PhotoDemon) - A free portable photo editor focused on pro-grade features, high performance, and maximum usability.
 
 ## Vue 
 
+- [Bronya0/ES-King](https://github.com/Bronya0/ES-King) - A modern and practical elasticsearch GUI client | 一个现代、实用的ES本地客户端 💕🎉
 - [AnotiaWang/deep-research-web-ui](https://github.com/AnotiaWang/deep-research-web-ui) - (Supports DeepSeek R1) An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.
 - [kevin2li/PDF-Guru](https://github.com/kevin2li/PDF-Guru) - PDF Guru Anki是一款以PDF为中心的多功能办公学习工具箱软件，包含四大板块功能：PDF实用工具箱、Anki制卡神器、Anki最强辅助、视频笔记神器，软件功能众多且强大，熟练运用可以大幅提高办公和学习效率，绝对是您不可多得的效率神器。人生苦短，我用Guru!
 - [canwdev/web-mediadevices-player](https://github.com/canwdev/web-mediadevices-player) - 网页版 HDMI 采集卡 / Webcam 查看器，支持截屏、录像、基于 CH9329 实现 KVM 键鼠控制，支持桌面客户端 (Tauri) | Web-based HDMI capture card / Webcam viewer, supports screenshot, video recording, KVM keyboard and mouse control based on CH9
@@ -2755,7 +2834,7 @@
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
 - [xxm1995/dax-pay-ui](https://github.com/xxm1995/dax-pay-ui) - 免费开源的支付网关，支持支付宝、微信、云闪付等通道，提供收单、退款、对账、分账等功能，同时扩展了更多支付方式，如储值卡、现金卡等，通过HTTP方式进行调用，不与其他系统产生耦合关联，可以快速集成到各种系统中，提供可视化界面进行管理，便于实现统一的支付信息管理。
 - [LisenCoding/menu](https://github.com/LisenCoding/menu) - [毕设作品] 菜谱微信小程序
-- [Chadwuo/li-ji-weapp](https://github.com/Chadwuo/li-ji-weapp) - 「礼记」致力于记录和管理人情往来中的随礼、礼金、份子钱、送礼、收礼，专业又懂你的人情记账簿，全家人共享账本，多维度查询统计亲友间往来记录。每一份人情都值得礼记。
+- [Chadwuo/li-ji-weapp](https://github.com/Chadwuo/li-ji-weapp) - 专注于记录和管理人情往来中的随礼、收礼、份子钱、礼金、心意、礼物、红包等，多维度查询和统计亲友间的往来记录，家人共享记账，你贴心的人情往来数字记账伙伴。
 - [kochrt/qr-designer](https://github.com/kochrt/qr-designer) - QR designer web app with a novel method of designing qr codes that does not take advantage of error correction
 - [hefengxian/my-ielts](https://github.com/hefengxian/my-ielts) - 雅思词汇真经、雅思语法、听力 179、阅读 538  同义替换等。Everything during preparing for my IELTS exam.
 - [zyronon/typing-word](https://github.com/zyronon/typing-word) - 在网页上背单词
