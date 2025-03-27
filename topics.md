@@ -269,7 +269,7 @@
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) - PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing for the editing and presentation of PPT online. Suppor
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
-- [Soulter/AstrBot](https://github.com/Soulter/AstrBot) - ✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 平台支持 QQ、QQ频道、Telegram、微信、企微、飞书 | OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify 等。附带 WebUI。
+- [Soulter/AstrBot](https://github.com/Soulter/AstrBot) - ✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 平台支持 QQ、QQ频道、Telegram、微信、企微、飞书 | MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify 等。附带 WebUI。
 - [VISCHER-LIL/redink](https://github.com/VISCHER-LIL/redink) - An alternative AI assistant for Microsoft Office that works with your favorite LLM API
 - [Gurubase/gurubase](https://github.com/Gurubase/gurubase) - Gurubase is an open-source RAG system that lets you create AI-powered Q&A assistants by indexing websites, PDF documents, YouTube videos, and GitHub code repositories.
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows
@@ -982,7 +982,7 @@
 
 ## chatbot 
 
-- [Soulter/AstrBot](https://github.com/Soulter/AstrBot) - ✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 平台支持 QQ、QQ频道、Telegram、微信、企微、飞书 | OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify 等。附带 WebUI。
+- [Soulter/AstrBot](https://github.com/Soulter/AstrBot) - ✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 平台支持 QQ、QQ频道、Telegram、微信、企微、飞书 | MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify 等。附带 WebUI。
 - [Gurubase/gurubase](https://github.com/Gurubase/gurubase) - Gurubase is an open-source RAG system that lets you create AI-powered Q&A assistants by indexing websites, PDF documents, YouTube videos, and GitHub code repositories.
 - [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 💬 Ready-to-use & flexible RAG Chatbot, supporting mainstream large language models (LLMs) such as DeepSeek-R1, Llama 3.3, Qwen2, OpenAI and more.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
@@ -1010,14 +1010,13 @@
 - [Skythinker616/gpt-assistant-android](https://github.com/Skythinker616/gpt-assistant-android) - 【新增思维链支持】免费的ChatGPT API的安卓语音助手，可用音量键唤起并进行语音交流，支持联网、Vision拍照识图、提问模板等功能 | A free ChatGPT API voice assistant for Android, activated via volume keys for voice interaction, supporting features such as net
 - [SmartSchoolAI/ai-to-pptx](https://github.com/SmartSchoolAI/ai-to-pptx) - 前端后端同时开源。 Ai-to-pptx是一个使用AI技术(DeepSeek)制作PPTX的助手，支持在线生成和导出PPTX。 主要功能: 1 使用DeepSeek等大语言模型来生成大纲 2 生成PPTX的时候可以选择不同的模板 3 支持导出PPTX
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
-- [Soulter/AstrBot](https://github.com/Soulter/AstrBot) - ✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 平台支持 QQ、QQ频道、Telegram、微信、企微、飞书 | OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify 等。附带 WebUI。
+- [Soulter/AstrBot](https://github.com/Soulter/AstrBot) - ✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 平台支持 QQ、QQ频道、Telegram、微信、企微、飞书 | MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify 等。附带 WebUI。
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
 - [papersgpt/papersgpt-for-zotero](https://github.com/papersgpt/papersgpt-for-zotero) - Zotero chat PDF with AI, DeepSeek, GPT 4.5, ChatGPT, Claude, Gemini
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [codexu/note-gen](https://github.com/codexu/note-gen) - 一款专注于记录和写作的跨端 AI 笔记应用。
 - [clidey/whodb](https://github.com/clidey/whodb) - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB, Elastic Search, and Clickhouse with Chat interface
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management /
-- [ReadSomething/ReadSomething](https://github.com/ReadSomething/ReadSomething) - 📖 一个开源的 Chrome 插件，可以将网页转成阅读模式，并且内置了 AI 总结、翻译、Markdown 转换等功能。
 - [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt) - Play ChatGPT and other LLM with Xiaomi AI Speaker
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 - [Taewan-P/gpt_mobile](https://github.com/Taewan-P/gpt_mobile) - Chat app for Android that supports answers from multiple LLMs at once. Bring your own API key AI client. Supports OpenAI, Anthropic, Google, and Ollama. Designed with Material3 & Compose.
@@ -1086,7 +1085,7 @@
 ## chrome-extension 
 
 - [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
-- [ReadSomething/ReadSomething](https://github.com/ReadSomething/ReadSomething) - 📖 一个开源的 Chrome 插件，可以将网页转成阅读模式，并且内置了 AI 总结、翻译、Markdown 转换等功能。
+- [ReadSomething/ReadLite](https://github.com/ReadSomething/ReadLite) - Transform cluttered web pages into clean, distraction-free reading experiences with customizable themes, fonts and multilingual support.
 - [ninoseki/mitaka](https://github.com/ninoseki/mitaka) - A browser extension for OSINT search
 - [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
 - [molvqingtai/WebChat](https://github.com/molvqingtai/WebChat) - 💬 Chat with anyone on any website.
@@ -1481,7 +1480,7 @@
 - [ckampfe/clipurl](https://github.com/ckampfe/clipurl) - 
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
 - [psycopg/psycopg2](https://github.com/psycopg/psycopg2) - PostgreSQL database adapter for the Python programming language
-- [ryjfgjl/DiLuConverter](https://github.com/ryjfgjl/DiLuConverter) - A professional Excel import and export automation tool that supports MySQL, Oracle, SQL Server, PostgreSQL and more popular databases
+- [ryjfgjl/DiLuConverter](https://github.com/ryjfgjl/DiLuConverter) - A powerful Excel import and export tool that supports MySQL, Oracle, SQL Server, PostgreSQL and more popular databases
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [TeslaFly01/SmartSqlT](https://github.com/TeslaFly01/SmartSqlT) - 🔥🔥🔥 SmartSQL 是一款方便、快捷的数据库文档查询、导出工具！该工具从最初支持CHM文档格式开始，通过不断地探索开发、集思广益和不断改进，又陆续支持Word、Excel、PDF、Html、Xml、Json、MarkDown等文档格式的导出。同时支持SqlServer、MySql、PostgreSQL、SQLite等多种数据库的文档查询和导出功能。
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
@@ -1584,7 +1583,7 @@
 ## docker 
 
 - [xerrors/Yuxi-Know](https://github.com/xerrors/Yuxi-Know) - 基于大模型 RAG 知识库的知识图谱问答系统。Llamaindex + VueJS + Flask + Neo4j。大模型适配 OpenAI、国内主流大模型平台的模型调用、本地 vllm 部署。支持推理模型DeepSeek-R1、联网检索。
-- [Soulter/AstrBot](https://github.com/Soulter/AstrBot) - ✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 平台支持 QQ、QQ频道、Telegram、微信、企微、飞书 | OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify 等。附带 WebUI。
+- [Soulter/AstrBot](https://github.com/Soulter/AstrBot) - ✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 平台支持 QQ、QQ频道、Telegram、微信、企微、飞书 | MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify 等。附带 WebUI。
 - [Gurubase/gurubase](https://github.com/Gurubase/gurubase) - Gurubase is an open-source RAG system that lets you create AI-powered Q&A assistants by indexing websites, PDF documents, YouTube videos, and GitHub code repositories.
 - [sameersbn/docker-redmine](https://github.com/sameersbn/docker-redmine) - Docker Image for Redmine
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
@@ -1921,6 +1920,7 @@
 - [Ninad7n/AppLockFlutter](https://github.com/Ninad7n/AppLockFlutter) - Flutter app for locking other android application.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [AlienKevin/wordshk_app](https://github.com/AlienKevin/wordshk_app) - An open Cantonese dictionary for iOS and Android built with Flutter
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [mylxsw/aidea](https://github.com/mylxsw/aidea) - AIdea 是一款支持 GPT  以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。
 - [LinwoodDev/Butterfly](https://github.com/LinwoodDev/Butterfly) - 🎨 Powerful, minimalistic, cross-platform, opensource note-taking app
 - [qaul/qaul.net](https://github.com/qaul/qaul.net) - Internet Independent Wireless Mesh Communication App
@@ -2629,7 +2629,7 @@
 - [openstreetmap/iD](https://github.com/openstreetmap/iD) - 🆔 The easy-to-use OpenStreetMap editor in JavaScript.
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
-- [HuangJian/librime-qjs](https://github.com/HuangJian/librime-qjs) - Bring a fresh JavaScript plugin ecosystem to the Rime Input Method Engine, delivering lightning-fast speed and feather-light performance for a revolutionary input experience!
+- [HuangJian/librime-qjs](https://github.com/HuangJian/librime-qjs) - Bring a vast JavaScript plugin ecosystem to the Rime Input Method Engine, delivering lightning-fast speed and feather-light performance for a revolutionary input experience!
 - [ruilisi/fortune-sheet](https://github.com/ruilisi/fortune-sheet) - A drop-in javascript spreadsheet library that provides rich features like Excel and Google Sheets
 - [gowthamrajk/Web-Development-Guide](https://github.com/gowthamrajk/Web-Development-Guide) - I will add some professional notes and reference tutorials which will be very much useful for freshers and beginners who are very passionate to become a web developer ❤️
 - [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - Let AI be your browser operator.
@@ -3104,7 +3104,7 @@
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, and more.
 - [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) - 本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地）
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
-- [Soulter/AstrBot](https://github.com/Soulter/AstrBot) - ✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 平台支持 QQ、QQ频道、Telegram、微信、企微、飞书 | OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify 等。附带 WebUI。
+- [Soulter/AstrBot](https://github.com/Soulter/AstrBot) - ✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 平台支持 QQ、QQ频道、Telegram、微信、企微、飞书 | MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify 等。附带 WebUI。
 - [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher) - Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python.
 - [Gurubase/gurubase](https://github.com/Gurubase/gurubase) - Gurubase is an open-source RAG system that lets you create AI-powered Q&A assistants by indexing websites, PDF documents, YouTube videos, and GitHub code repositories.
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows
@@ -3515,7 +3515,7 @@
 - [sqlpage/SQLPage](https://github.com/sqlpage/SQLPage) - Fast SQL-only data application builder. Automatically build a UI on top of SQL queries.
 - [macrozheng/mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-- [ryjfgjl/DiLuConverter](https://github.com/ryjfgjl/DiLuConverter) - A professional Excel import and export automation tool that supports MySQL, Oracle, SQL Server, PostgreSQL and more popular databases
+- [ryjfgjl/DiLuConverter](https://github.com/ryjfgjl/DiLuConverter) - A powerful Excel import and export tool that supports MySQL, Oracle, SQL Server, PostgreSQL and more popular databases
 - [dg/adminer](https://github.com/dg/adminer) - Customizations for Adminer, the best database management tool written in PHP.
 - [sergiovision/FinCore](https://github.com/sergiovision/FinCore) - FinCore is a cool and free cross-platform personal finances manager written in .NET 8 with Angular 14 frontend.
 - [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss) - 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）v2.x
@@ -3746,7 +3746,7 @@
 - [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [souzatharsis/podcastfy](https://github.com/souzatharsis/podcastfy) - An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI
-- [Soulter/AstrBot](https://github.com/Soulter/AstrBot) - ✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 平台支持 QQ、QQ频道、Telegram、微信、企微、飞书 | OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify 等。附带 WebUI。
+- [Soulter/AstrBot](https://github.com/Soulter/AstrBot) - ✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 平台支持 QQ、QQ频道、Telegram、微信、企微、飞书 | MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify 等。附带 WebUI。
 - [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher) - Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python.
 - [Gurubase/gurubase](https://github.com/Gurubase/gurubase) - Gurubase is an open-source RAG system that lets you create AI-powered Q&A assistants by indexing websites, PDF documents, YouTube videos, and GitHub code repositories.
 - [minrag/minRAG](https://github.com/minrag/minRAG) - minRAG is a RAG system that starts from scratch, pursuing the ultimate simplicity and power. It consists of no more than 10,000 lines of code, requires no installation, and can be launched with a doub
@@ -3758,7 +3758,6 @@
 - [clidey/whodb](https://github.com/clidey/whodb) - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB, Elastic Search, and Clickhouse with Chat interface
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management /
-- [ReadSomething/ReadSomething](https://github.com/ReadSomething/ReadSomething) - 📖 一个开源的 Chrome 插件，可以将网页转成阅读模式，并且内置了 AI 总结、翻译、Markdown 转换等功能。
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.
 - [Taewan-P/gpt_mobile](https://github.com/Taewan-P/gpt_mobile) - Chat app for Android that supports answers from multiple LLMs at once. Bring your own API key AI client. Supports OpenAI, Anthropic, Google, and Ollama. Designed with Material3 & Compose.
 - [gptme/gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
@@ -4000,7 +3999,7 @@
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [w-okada/voice-changer](https://github.com/w-okada/voice-changer) - リアルタイムボイスチェンジャー Realtime Voice Changer
 - [F0x1d/LogFox](https://github.com/F0x1d/LogFox) - Yet another LogCat reader for Android
-- [sadellie/unitto](https://github.com/sadellie/unitto) - 😎 Calculate and convert, but better
+- [sadellie/unitto](https://github.com/sadellie/unitto) - 😎 Calculate and convert. Superior. Always.
 - [SamAmco/track-and-graph](https://github.com/SamAmco/track-and-graph) - An android app for tracking personal data and creating custom graphs
 - [minimal-manifest-twrp/platform_manifest_twrp_aosp](https://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp) - Minimal manifest for building TWRP for devices shipped with Android 10+
 - [orgzly-revived/orgzly-android-revived](https://github.com/orgzly-revived/orgzly-android-revived) - Outliner for taking notes and managing to-do lists
@@ -4449,7 +4448,7 @@
 - [qq943260285/tampermonkey-recruitment-tool](https://github.com/qq943260285/tampermonkey-recruitment-tool) - 高级求职助手 招聘网站助手（Tampermonkey脚本），1.快捷添加公司企业黑名单，眼不见心不烦；2.支持全网热门招聘网站，前程无忧、智联招聘、BOSS直聘、拉钩网、猎聘网、百度百聘、58同城；3.快捷公司企业信息查询，支持天眼查、看准、企查查、爱企查、百度信誉、百度搜索；4.全网招聘网站黑名单数据连通，一站添加，全网使用。
 - [mozilla-mobile/firefox-android](https://github.com/mozilla-mobile/firefox-android) - :warning: This repository hosts the Firefox for Android (Fenix), Focus for Android, and Mozilla Android Components projects. It is now developed and maintained as part of Mozilla Central. See the anno
 - [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
-- [BingyanStudio/LapisCV](https://github.com/BingyanStudio/LapisCV) - 📃 开箱即用的 Markdown 简历，支持 VSCode / Obsidian / Typora
+- [BingyanStudio/LapisCV](https://github.com/BingyanStudio/LapisCV) - 📄 Easily create resumes with Markdown on VSCode / Typora / Obsidian
 - [JakubMelka/PDF4QT](https://github.com/JakubMelka/PDF4QT) - Open source PDF editor.
 - [FurryWolfX/my-rime-config](https://github.com/FurryWolfX/my-rime-config) - 自定义开源输入法RIME方案
 - [audiomuze/tagminder](https://github.com/audiomuze/tagminder) - Import, maintain and export tag metadata to/from audio files and a dynamically created SQLite table. Automates incremental tag cleanup, enrichment and standardisation for your digital audio library at
@@ -4947,7 +4946,7 @@
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [psycopg/psycopg2](https://github.com/psycopg/psycopg2) - PostgreSQL database adapter for the Python programming language
-- [ryjfgjl/DiLuConverter](https://github.com/ryjfgjl/DiLuConverter) - A professional Excel import and export automation tool that supports MySQL, Oracle, SQL Server, PostgreSQL and more popular databases
+- [ryjfgjl/DiLuConverter](https://github.com/ryjfgjl/DiLuConverter) - A powerful Excel import and export tool that supports MySQL, Oracle, SQL Server, PostgreSQL and more popular databases
 - [dg/adminer](https://github.com/dg/adminer) - Customizations for Adminer, the best database management tool written in PHP.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
@@ -5057,7 +5056,7 @@
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [cunnane/xloil](https://github.com/cunnane/xloil) - xlOil provides framework for interacting with Excel in different programming languages (python & C++ currently)
 - [donkirkby/live-py-plugin](https://github.com/donkirkby/live-py-plugin) - Live coding in Python with PyCharm, Emacs, Sublime Text, or even a browser
-- [Soulter/AstrBot](https://github.com/Soulter/AstrBot) - ✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 平台支持 QQ、QQ频道、Telegram、微信、企微、飞书 | OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify 等。附带 WebUI。
+- [Soulter/AstrBot](https://github.com/Soulter/AstrBot) - ✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 平台支持 QQ、QQ频道、Telegram、微信、企微、飞书 | MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify 等。附带 WebUI。
 - [gowthamrajk/Web-Development-Guide](https://github.com/gowthamrajk/Web-Development-Guide) - I will add some professional notes and reference tutorials which will be very much useful for freshers and beginners who are very passionate to become a web developer ❤️
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
@@ -5955,7 +5954,7 @@
 
 ## telegram 
 
-- [Soulter/AstrBot](https://github.com/Soulter/AstrBot) - ✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 平台支持 QQ、QQ频道、Telegram、微信、企微、飞书 | OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify 等。附带 WebUI。
+- [Soulter/AstrBot](https://github.com/Soulter/AstrBot) - ✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 平台支持 QQ、QQ频道、Telegram、微信、企微、飞书 | MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify 等。附带 WebUI。
 - [telegram-sms/telegram-sms](https://github.com/telegram-sms/telegram-sms) - An SMS-forwarding Robot Running on Your Android Device.
 - [tinode/tindroid](https://github.com/tinode/tindroid) - Tinode chat client application for Android
 - [dipu-bd/lightnovel-crawler](https://github.com/dipu-bd/lightnovel-crawler) - Generate and download e-books from online sources.
