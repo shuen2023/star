@@ -478,7 +478,7 @@
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 - [goldendict/goldendict](https://github.com/goldendict/goldendict) - A feature-rich dictionary lookup program, supporting multiple dictionary formats (StarDict/Babylon/Lingvo/Dictd) and online dictionaries, featuring perfect article rendering with the complete markup, 
 - [ten0s/slide](https://github.com/ten0s/slide) - AutoCAD slide library and command line utilities
-- [deskflow/deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It's like a software KVM (but without video). Sponsored by Synergy.
+- [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
 - [mortbopet/Ripes](https://github.com/mortbopet/Ripes) - A graphical processor simulator and assembly editor for the RISC-V ISA
 - [hakuna-m/wubiuefi](https://github.com/hakuna-m/wubiuefi) - fork of Wubi (https://launchpad.net/wubi) for UEFI support and for support of recent Ubuntu releases
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
@@ -546,7 +546,7 @@
 ## Dart 
 
 - [raj457036/CopyCat-Clipboard](https://github.com/raj457036/CopyCat-Clipboard) - Copycat Clipboard is an intuitive clipboard manager designed to enhance your workflow. Seamlessly switch between documents, apps, and devices while keeping all your copied items organized and accessib
-- [igoogolx/lux](https://github.com/igoogolx/lux) - A light desktop proxy client
+- [igoogolx/lux](https://github.com/igoogolx/lux) - A light desktop proxy app
 - [warioddly/days](https://github.com/warioddly/days) - Days is a mobile app that tracks how many days have passed and reminds you that every day matters — because a year has so few of them.
 - [burhanrashid52/WhatTodo](https://github.com/burhanrashid52/WhatTodo) - A Simple Todo app design in Flutter to keep track of your task on daily basis. Its build on BLoC Pattern. You can add a project, labels, and due-date to your task also you can sort your task on the ba
 - [darkmoonight/Zest](https://github.com/darkmoonight/Zest) - 📝 Task management application
@@ -785,7 +785,7 @@
 - [yangwenmai/github-trending-backup](https://github.com/yangwenmai/github-trending-backup) - Github trending backup by everyday.
 - [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
 - [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - Powerful Free DeepL API, No Token Required
-- [casibase/casibase](https://github.com/casibase/casibase) - ⚡️Open-source enterprise-level AI knowledge base and Manus-like agent management platform with admin UI, user management and Single-Sign-On⚡️, supports ChatGPT, Claude, DeepSeek R1, Llama, Ollama, Hug
+- [casibase/casibase](https://github.com/casibase/casibase) - ⚡️AI Cloud OS: Open-source enterprise-level AI knowledge base and Manus-like agent management platform with admin UI, user management and Single-Sign-On⚡️, supports ChatGPT, Claude, DeepSeek R1, Llama
 - [bookstairs/bookhunter](https://github.com/bookstairs/bookhunter) - A download tools for clawing the ebooks from internets.
 - [ystyle/kaf-cli](https://github.com/ystyle/kaf-cli) - 把txt文本转成epub和mobi电子书的命令行工具(原TmdTextEpub)
 - [perkeep/perkeep](https://github.com/perkeep/perkeep) - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
@@ -849,7 +849,6 @@
 ## HTML 
 
 - [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) - 本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地）
-- [justrach/pathik](https://github.com/justrach/pathik) - 🛤️ Pathik - High-Performance Web Crawler ⚡
 - [xuri/excelize-doc](https://github.com/xuri/excelize-doc) - Docs reference for the Excelize spreadsheet library, and support for the book "Excelize: The Definitive Guide", Chinese (Simplified) 1st Edition
 - [ursoalbo/srttoexcel](https://github.com/ursoalbo/srttoexcel) - Basic srt to excel converter
 - [hongjr03/excel-to-typst](https://github.com/hongjr03/excel-to-typst) - Tool that convert Excel table to Typst table.
@@ -1272,6 +1271,7 @@
 
 ## Kotlin 
 
+- [Hamza417/Inure](https://github.com/Hamza417/Inure) - An elegant and beautiful premium Android app manager for rooted and non-rooted devices with a built-in terminal, analytics, debloat, stats and various other features with an custom theme engine, devel
 - [DrewCarlson/TorrentSearch-Kotlin](https://github.com/DrewCarlson/TorrentSearch-Kotlin) - Kotlin multiplatform torrent provider search client
 - [YouROK/TorrServe](https://github.com/YouROK/TorrServe) - Android client for TorrServer
 - [onionshare/onionshare-android](https://github.com/onionshare/onionshare-android) - Android version of OnionShare
@@ -1320,7 +1320,6 @@
 - [vishal2376/git-coach](https://github.com/vishal2376/git-coach) - Git Coach is a Ads free education app designed to help users learn Git and explore its commands.
 - [waseefakhtar/dose-android](https://github.com/waseefakhtar/dose-android) - 💊⏰ Dose is a medication reminder app for Android, built entirely using Kotlin and Jetpack Compose with MVVM + Clean Architecture
 - [rcmiku/Payload-Dumper-Compose](https://github.com/rcmiku/Payload-Dumper-Compose) - Dump Android Payload from full OTA URL
-- [Hamza417/Inure](https://github.com/Hamza417/Inure) - An elegant and beautiful premium Android app manager for rooted and non-rooted devices with a built-in terminal, analytics, debloat, stats and various other features with an custom theme engine, devel
 - [woocommerce/woocommerce-android](https://github.com/woocommerce/woocommerce-android) - WooCommerce Android app
 - [Droid-ify/client](https://github.com/Droid-ify/client) - F-Droid client with Material UI.
 - [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media.
@@ -1863,6 +1862,7 @@
 - [johe123qwe/github-trending](https://github.com/johe123qwe/github-trending) - 定时抓取 Github Trending
 - [souzatharsis/podcastfy](https://github.com/souzatharsis/podcastfy) - An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI
 - [Plachtaa/seed-vc](https://github.com/Plachtaa/seed-vc) - zero-shot voice conversion & singing voice conversion, with real-time support
+- [justrach/pathik](https://github.com/justrach/pathik) - 🛤️ Pathik - High-Performance Web Crawler ⚡
 - [scrapfly/scrapfly-scrapers](https://github.com/scrapfly/scrapfly-scrapers) - Scalable Python web scraping scripts for +40 popular domains
 - [internetarchive/brozzler](https://github.com/internetarchive/brozzler) - brozzler - distributed browser-based web crawler
 - [mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
@@ -1884,7 +1884,7 @@
 - [wuwentao/midea_ac_lan](https://github.com/wuwentao/midea_ac_lan) - Auto-configure and then control your Midea M-Smart devices (Air conditioner, Fan, Water heater, Washer, etc) via local area network.
 - [best-practice-and-impact/gptables](https://github.com/best-practice-and-impact/gptables) - Good Practice Tables - an XlsxWriter wrapper to write consistently formatted statistical tables to Excel.
 - [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher) - Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python.
-- [Gurubase/gurubase](https://github.com/Gurubase/gurubase) - Gurubase is an open-source RAG system that lets you create AI-powered Q&A assistants by indexing websites, PDF documents, YouTube videos, and GitHub code repositories.
+- [Gurubase/gurubase](https://github.com/Gurubase/gurubase) - Gurubase lets you add an "Ask AI" button to your technical docs, turning your content into a searchable Q&A assistant. It uses web pages, PDFs, YouTube videos, and GitHub repos as sources to generate 
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows
 - [airweave-ai/airweave](https://github.com/airweave-ai/airweave) - Turn any app into agent knowledge
@@ -1904,7 +1904,7 @@
 - [santinic/audiblez](https://github.com/santinic/audiblez) - Generate audiobooks from e-books
 - [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 💬 Ready-to-use & flexible RAG Chatbot, supporting mainstream large language models (LLMs) such as DeepSeek-R1, Llama 3.3, Qwen2, OpenAI and more.
 - [dp247/Freeview-EPG](https://github.com/dp247/Freeview-EPG) - Open source XMLTV data for UK free-to-air TV channels and radio stations
-- [oppsec/Apepe](https://github.com/oppsec/Apepe) - 📲 Enumerate information from an app based on the APK file
+- [oppsec/Apepe](https://github.com/oppsec/Apepe) - 📲 Enumerate app information through the APK file
 - [brandon-baek/EmailChat](https://github.com/brandon-baek/EmailChat) - An Email-based "Instant" Messaging program.
 - [browser-use/web-ui](https://github.com/browser-use/web-ui) - Run AI Agent in your browser.
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Convert ebooks to audiobooks with chapters and metadata using dynamic AI models and voice cloning. Supports 1,107+ languages!
@@ -2511,6 +2511,7 @@
 
 ## Shell 
 
+- [learnbyexample/learn_gnuawk](https://github.com/learnbyexample/learn_gnuawk) - Example based guide to mastering GNU awk
 - [john-g4lt/tor-mirror](https://github.com/john-g4lt/tor-mirror) - Tor browser mirror to download binaries/executables (including Android and Orbot)
 - [bhdicaire/visioStencils](https://github.com/bhdicaire/visioStencils) - 4,450 visio :art: shapes, stencils, symbols, and icons collection to visually represent your IT infrastructure
 - [CatOS-Home/CatOS](https://github.com/CatOS-Home/CatOS) - CatOS is an open-source,Arch-based,out-of-the-box Linux distribution designed to provide an excellent operating system user experience.
@@ -2633,6 +2634,7 @@
 
 ## TypeScript 
 
+- [kamilmielnik/scrabble-solver](https://github.com/kamilmielnik/scrabble-solver) - Free, open-source, cross-platform, multi-language analysis tool for Scrabble, Scrabble Duel, Super Scrabble, Letter League, Literaki, and Kelimelik. Quickly find the top-scoring words using the given 
 - [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright Tools for MCP
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - A GUI Agent application based on UI-TARS(Vision-Language Model) that allows you to control your computer using natural language.
