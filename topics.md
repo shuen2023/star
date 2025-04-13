@@ -1054,7 +1054,7 @@
 - [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Ll
 - [casibase/casibase](https://github.com/casibase/casibase) - ⚡️AI Cloud OS: Open-source enterprise-level AI knowledge base and Manus-like agent management platform with admin UI, user management and Single-Sign-On⚡️, supports ChatGPT, Claude, DeepSeek R1, Llama
 - [lich0821/WeChatFerry](https://github.com/lich0821/WeChatFerry) - 微信机器人，可接入DeepSeek、Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。微信 hook WeChat Robot Hook.
-- [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手
+- [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 
 - [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍，苹果书🍎），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
 - [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat ChatGPT
 - [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是
@@ -1922,7 +1922,7 @@
 - [ubuntu-flutter-community/musicpod](https://github.com/ubuntu-flutter-community/musicpod) - Music, radio, television and podcast player for Ubuntu, Windows, MacOs and maybe soon Android
 - [SankethBK/diaryvault](https://github.com/SankethBK/diaryvault) - A personal diary application written in Flutter
 - [FriesI23/mhabit](https://github.com/FriesI23/mhabit) - Our app helps you form and track micro habits with easy-to-use 📈 charts and tools, making it simple to establish healthy habits that stick 🌱. Start your personal growth journey today 🚀!
-- [GhostenEditor/Ghosten-Player](https://github.com/GhostenEditor/Ghosten-Player) - A versatile video player designed for both 📱Android Phone/Pad and 📺Android TV which creates a personalized media library.
+- [GhostenEditor/Ghosten-Player](https://github.com/GhostenEditor/Ghosten-Player) - 一个同时适配📱Android Phone和📺Android TV的视频播放器。整合影视资源，自动刮削媒体信息，支持IPTV播放，优雅打造私人影视库。界面简洁，功能丰富，开箱即用。
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 - [nightmare-space/code_lfa](https://github.com/nightmare-space/code_lfa) - Implementation of the VS Code editor natively on Android.
 - [dreautall/waterfly-iii](https://github.com/dreautall/waterfly-iii) - Unofficial Android App for Firefly III, a free and open source personal finance manager.
@@ -1963,7 +1963,7 @@
 
 - [JideGuru/FlutterEbookApp](https://github.com/JideGuru/FlutterEbookApp) - A simple Flutter app to Read and Download eBooks.
 - [talha828/Bill-Counter](https://github.com/talha828/Bill-Counter) - Bill Counter Flutter Android Application Welcome to App, a Flutter-based Android app designed to help you efficiently create, save, and manage customer profiles. Whether you run a small business or ha
-- [GhostenEditor/Ghosten-Player](https://github.com/GhostenEditor/Ghosten-Player) - A versatile video player designed for both 📱Android Phone/Pad and 📺Android TV which creates a personalized media library.
+- [GhostenEditor/Ghosten-Player](https://github.com/GhostenEditor/Ghosten-Player) - 一个同时适配📱Android Phone和📺Android TV的视频播放器。整合影视资源，自动刮削媒体信息，支持IPTV播放，优雅打造私人影视库。界面简洁，功能丰富，开箱即用。
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 - [AppFlowy-IO/appflowy-editor](https://github.com/AppFlowy-IO/appflowy-editor) - A highly customizable rich-text editor for Flutter. The AppFlowy Editor project for AppFlowy and beyond.
 - [imrofayel/Ozan](https://github.com/imrofayel/Ozan) - Ozan is a personal knowledge base inspired from Obsidian built on flutter.
@@ -4081,7 +4081,7 @@
 - [ishubin/schemio](https://github.com/ishubin/schemio) - Web based diagramming app that lets you build interactive diagrams and prototypes
 - [beilunyang/moemail](https://github.com/beilunyang/moemail) - 一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉
 - [git-jiadong/wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup) - 一键导出PC微信聊天记录工具
-- [ccbikai/github-stars](https://github.com/ccbikai/github-stars) - 获取你所有的星标仓库，并将它们的 README 文件保存为 Markdown 格式。
+- [ccbikai/github-stars](https://github.com/ccbikai/github-stars) - A Cloudflare-powered MCP (Model Context Protocol) Server that allows you to search and query your GitHub starred repositories using natural language.
 - [c-sleuth/lock-my-pix-android-decrypt](https://github.com/c-sleuth/lock-my-pix-android-decrypt) - Decryption tool for LockMyPix android app
 - [moonlight-stream/moonlight-android](https://github.com/moonlight-stream/moonlight-android) - GameStream client for Android
 - [DualSubs/YouTube](https://github.com/DualSubs/YouTube) - YouTube增强及双语字幕解决方案
@@ -6216,7 +6216,7 @@
 
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [ruilisi/fortune-sheet](https://github.com/ruilisi/fortune-sheet) - A drop-in javascript spreadsheet library that provides rich features like Excel and Google Sheets
-- [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin) - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite5, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia, NaiveUI 和 Uno
+- [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin) - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite6, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia, NaiveUI 和 Uno
 - [ant-design/ant-design-mini](https://github.com/ant-design/ant-design-mini) - Ant Design Mini is a UI component library for Alipay mini programs that is also compatible with WeChat mini programs, it follows the Ant Design specifications.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using AI, Reader LLMs, to compare and rank resumes with job descriptions.
@@ -6376,7 +6376,7 @@
 - [nicejade/markdown-online-editor](https://github.com/nicejade/markdown-online-editor) - 📝 基于 Vue2、Vditor，所构建的在线 Markdown 编辑器，支持绘制流程图、甘特图、时序图、任务列表、echarts 图表、五线谱，以及 PPT 预览、视频音频解析、HTML 自动转换为 Markdown 等功能。https://www.niceshare.site/
 - [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
 - [xerrors/Yuxi-Know](https://github.com/xerrors/Yuxi-Know) - 基于智能体 RAG 知识库的知识图谱问答系统。Langgraph + VueJS + Flask + Neo4j。大模型适配 OpenAI、Ollama、vLLM、国内主流大模型平台的模型调用。支持推理模型DeepSeek-R1、联网检索、工具调用。
-- [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin) - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite5, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia, NaiveUI 和 Uno
+- [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin) - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite6, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia, NaiveUI 和 Uno
 - [MatijaNovosel/neat-memos](https://github.com/MatijaNovosel/neat-memos) - 🐈 A simple app for taking notes on the go.
 - [ElmTran/praises](https://github.com/ElmTran/praises) - Praises is a text-to-speech tool that can help you read text easily.
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
