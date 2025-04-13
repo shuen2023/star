@@ -565,7 +565,7 @@
 - [SankethBK/diaryvault](https://github.com/SankethBK/diaryvault) - A personal diary application written in Flutter
 - [FriesI23/mhabit](https://github.com/FriesI23/mhabit) - Our app helps you form and track micro habits with easy-to-use 📈 charts and tools, making it simple to establish healthy habits that stick 🌱. Start your personal growth journey today 🚀!
 - [JHubi1/ollama-app](https://github.com/JHubi1/ollama-app) - A modern and easy-to-use client for Ollama
-- [GhostenEditor/Ghosten-Player](https://github.com/GhostenEditor/Ghosten-Player) - A versatile video player designed for both 📱Android Phone/Pad and 📺Android TV which creates a personalized media library.
+- [GhostenEditor/Ghosten-Player](https://github.com/GhostenEditor/Ghosten-Player) - 一个同时适配📱Android Phone和📺Android TV的视频播放器。整合影视资源，自动刮削媒体信息，支持IPTV播放，优雅打造私人影视库。界面简洁，功能丰富，开箱即用。
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
 - [dreautall/waterfly-iii](https://github.com/dreautall/waterfly-iii) - Unofficial Android App for Firefly III, a free and open source personal finance manager.
 - [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted platform for photos, videos and 2FA secrets.
@@ -896,7 +896,6 @@
 - [alexherbo2/krabby](https://github.com/alexherbo2/krabby) - A keyboard interface to the web, inspired by Kakoune
 - [i0Ek3/niter.top](https://github.com/i0Ek3/niter.top) - i0Ek3's personal website, welcome to my galaxy. https://niter.top
 - [mattcone/markdown-guide](https://github.com/mattcone/markdown-guide) - The comprehensive Markdown reference guide.
-- [standardebooks/tools](https://github.com/standardebooks/tools) - The Standard Ebooks toolset for producing our ebook files.
 - [ilse-langnar/notebook](https://github.com/ilse-langnar/notebook) - Tool for Thought. ʚɞ
 - [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [beejjorgensen/bgnet](https://github.com/beejjorgensen/bgnet) - Beej's Guide to Network Programming source
@@ -1065,7 +1064,7 @@
 - [njic/medassist](https://github.com/njic/medassist) - Medication Assistant
 - [diegopvlk/Dosage](https://github.com/diegopvlk/Dosage) - Medication tracker for Linux
 - [ishubin/schemio](https://github.com/ishubin/schemio) - Web based diagramming app that lets you build interactive diagrams and prototypes
-- [ccbikai/github-stars](https://github.com/ccbikai/github-stars) - 获取你所有的星标仓库，并将它们的 README 文件保存为 Markdown 格式。
+- [ccbikai/github-stars](https://github.com/ccbikai/github-stars) - A Cloudflare-powered MCP (Model Context Protocol) Server that allows you to search and query your GitHub starred repositories using natural language.
 - [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster) - A Weather app for android 🌦🌞☔
 - [Rabbit-Spec/Surge](https://github.com/Rabbit-Spec/Surge) - Surge自用配置以及模块和脚本
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
@@ -1704,6 +1703,7 @@
 - [nju-kaoyan/nju_csai_kaoyan](https://github.com/nju-kaoyan/nju_csai_kaoyan) - 南京大学 计算机和人工智能 考研信息汇总 南京大学计算机考研
 - [picado-tv/rime-hangul](https://github.com/picado-tv/rime-hangul) - 한국어 Rime 입력기
 - [ryjfgjl/DiLuConverter](https://github.com/ryjfgjl/DiLuConverter) - A powerful Excel import and export tool that supports MySQL, Oracle, SQL Server, PostgreSQL and more popular databases
+- [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 
 - [learn-anything/books](https://github.com/learn-anything/books) - Awesome Books
 - [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
 - [netboy1024/clash_for_windows](https://github.com/netboy1024/clash_for_windows) - 
@@ -2146,7 +2146,6 @@
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql, sqlite and cockroachdb
 - [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫
-- [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手
 - [camelot-dev/camelot](https://github.com/camelot-dev/camelot) - A Python library to extract tabular data from PDFs
 - [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.
 - [jsvine/pdfplumber](https://github.com/jsvine/pdfplumber) - Plumb a PDF for detailed information about each char, rectangle, line, et cetera — and easily extract text and tables.
@@ -2241,6 +2240,7 @@
 - [yshalsager/anki_scripts](https://github.com/yshalsager/anki_scripts) - A set of scripts to extract, prepare, and make anki flashcards from various sources.
 - [DillonWall/generate-batch-audio-anki-addon](https://github.com/DillonWall/generate-batch-audio-anki-addon) - An addon that downloads and attaches audio to flashcards in bulk from URLs. Made for Anki, an SRS flashcard application
 - [raz-zeevy/Genlingo](https://github.com/raz-zeevy/Genlingo) - The ultimate language learning tool for creating Anki flashcards with example sentences, images, and sounds
+- [standardebooks/tools](https://github.com/standardebooks/tools) - The Standard Ebooks toolset for producing our ebook files.
 - [anufrievroman/calcure](https://github.com/anufrievroman/calcure) - Modern TUI calendar and task manager with minimal and customizable UI.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [ramon-victor/freegpt-webui](https://github.com/ramon-victor/freegpt-webui) - GPT 3.5/4 with a Chat Web UI. No API key required.
@@ -2696,7 +2696,7 @@
 - [dell-mic/file-glance](https://github.com/dell-mic/file-glance) - A simple, privacy-friendly tool for working with tabular data in various formats: CSV, JSON, XLSX, and more.
 - [ruilisi/fortune-sheet](https://github.com/ruilisi/fortune-sheet) - A drop-in javascript spreadsheet library that provides rich features like Excel and Google Sheets
 - [danilo-css/analytics-data-pivot](https://github.com/danilo-css/analytics-data-pivot) - A no code tool to help build pivot tables from any database with a few clicks.
-- [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin) - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite5, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia, NaiveUI 和 Uno
+- [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin) - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite6, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia, NaiveUI 和 Uno
 - [pTinosq/Electro](https://github.com/pTinosq/Electro) - ⚡Electro is a blazingly fast image viewer built with Rust, featuring an integrated terminal for enhanced productivity.
 - [FelippeChemello/podcast-maker](https://github.com/FelippeChemello/podcast-maker) - Fully automated video maker using motion graphics and text-to-speech synthesis to turn newsletters into daily YouTube videos.
 - [zzzdajb/DickHelper](https://github.com/zzzdajb/DickHelper) - A simple and easy-to-use masturbation management tool
