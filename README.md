@@ -26,6 +26,7 @@
 - [Fennel](#fennel)
 - [Fluent](#fluent)
 - [FreeBASIC](#freebasic)
+- [G-code](#g-code)
 - [GDScript](#gdscript)
 - [Go](#go)
 - [HTML](#html)
@@ -697,6 +698,10 @@
 - [freebasic/fbc](https://github.com/freebasic/fbc) - FreeBASIC is a completely free, open-source, multi-platform BASIC compiler, with syntax similar to MS-QuickBASIC, that adds new features such as pointers, object orientation, unsigned data types, inli
 - [EszopiCoder/excel-barcode-fx-library](https://github.com/EszopiCoder/excel-barcode-fx-library) - Barcode Function Library Add-In for Excel
 
+## G-code 
+
+- [jakebullet70/OctoTouchController](https://github.com/jakebullet70/OctoTouchController) - Dedicated touch screen Octoprint UI for older Android phones / tablets
+
 ## GDScript 
 
 - [mbrlabs/Lorien](https://github.com/mbrlabs/Lorien) - Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.
@@ -856,6 +861,7 @@
 
 ## HTML 
 
+- [moneytoo/awesome-fdroid](https://github.com/moneytoo/awesome-fdroid) - 📊 A table to sort, filter and discover popular F-Droid apps
 - [zhtyyx/ioe](https://github.com/zhtyyx/ioe) - One-Stop Retail Inventory Solution
 - [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
 - [GPT-ZH/HivisionIDPhotos-web](https://github.com/GPT-ZH/HivisionIDPhotos-web) - 使用HivisionIDPhotos做为后端api，开发的证件照生成网页版html源码，本代码完全调用gtpo1转换uniapp代码实现，体验地址：
@@ -914,6 +920,7 @@
 
 ## Java 
 
+- [ArcaneChat/android](https://github.com/ArcaneChat/android) - ArcaneChat for Android: ⚡ Fast encrypted chats for the family
 - [proninyaroslav/libretorrent](https://github.com/proninyaroslav/libretorrent) - Free and Open Source, full-featured torrent client for Android. Mirrored from https://gitlab.com/proninyaroslav/libretorrent
 - [tawhidmonowar/WebCapture](https://github.com/tawhidmonowar/WebCapture) - WebCapture is an open source Android application that allows users to convert any web page into a PDF file.
 - [freeok/so-novel](https://github.com/freeok/so-novel) - 小说下载器 | 小说下载工具 | 小说下载神器 | 免费小说 | 网络小说 | 免费下载 | 网文下载
@@ -1285,6 +1292,8 @@
 
 ## Kotlin 
 
+- [meikpiep/gauguin](https://github.com/meikpiep/gauguin) - Gauguin is a Sudoku-like game for Android where you solve grids via calculation and logic.
+- [jrpie/launcher](https://github.com/jrpie/launcher) - A distraction-free, minimal homescreen for Android.
 - [XFY9326/MiLinkNFC](https://github.com/XFY9326/MiLinkNFC) - Xiaomi HyperOS NFC tools
 - [puff-dayo/Kokoro-82M-Android](https://github.com/puff-dayo/Kokoro-82M-Android) - A minimal Android demo app for Kokoro-TTS
 - [readium/kotlin-toolkit](https://github.com/readium/kotlin-toolkit) - A toolkit for ebooks, audiobooks and comics written in Kotlin
@@ -1524,7 +1533,7 @@
 - [KyleBing/rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian) - 86五笔极点码表 for 鼠须管(macOS)、小狼毫(Windows)、中州韵(Ubuntu) 、仓（iOS）、同文（Android）五笔输入方案，五笔输入法，Rime 方案。Chinese wubi input method schema
 - [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) - Obsidian 🤝 Neovim
 - [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
-- [rimeinn/rime-moran](https://github.com/rimeinn/rime-moran) - 自然碼雙拼+輔助碼 Rime 配置 / 自然码双拼+辅助码 Rime 配置
+- [rimeinn/rime-moran](https://github.com/rimeinn/rime-moran) - 高級的自然碼雙拼+輔助碼 Rime 配置 / 高级的自然码双拼+辅助码 Rime 配置
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
 - [ellisonleao/glow.nvim](https://github.com/ellisonleao/glow.nvim) - A markdown preview directly in your neovim.
@@ -2643,6 +2652,7 @@
 
 ## Svelte 
 
+- [Akylas/alpimaps](https://github.com/Akylas/alpimaps) - Offline map app iOS/Android
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [gsidhu/buzee-tauri](https://github.com/gsidhu/buzee-tauri) - A superfast full-text search application
 - [your-papa/obsidian-Smart2Brain](https://github.com/your-papa/obsidian-Smart2Brain) - An Obsidian plugin to interact with your privacy focused AI-Assistant making your second brain even smarter!
@@ -2676,6 +2686,7 @@
 
 ## TypeScript 
 
+- [jancarauma/palaviva](https://github.com/jancarauma/palaviva) - Learning with texts (LWT) open-source language app that tracks word familiarity and translations while reading articles.
 - [rockbenben/subtitle-translator](https://github.com/rockbenben/subtitle-translator) - Fast, accurate, and batch subtitle translation for 35+ languages. 批量字幕翻译
 - [cosin2077/easyVoice](https://github.com/cosin2077/easyVoice) - 开源文本转语音工具
 - [RylanBot/melody-canvas](https://github.com/RylanBot/melody-canvas) - 🎼 Audio visualization editor「音频可视化画布」
