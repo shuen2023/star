@@ -150,7 +150,7 @@
 - [Moe-hacker/rurima](https://github.com/Moe-hacker/rurima) - Run docker & LXC images without docker or LXC program, without kernel features support, even without root privileges!
 - [bjasspa/jasspa](https://github.com/bjasspa/jasspa) - Jasspa's MicroEmacs is a powerful and efficient terminal and window based text editor. Designed to be lightweight yet feature-rich its key features include syntax highlighting, macro scripting support
 - [fuckinbusy/usb-sniffer](https://github.com/fuckinbusy/usb-sniffer) - USB Sniffer is an application for monitoring connected USB devices and automatically copying files from USB flash drives.
-- [jo-lund/jomon](https://github.com/jo-lund/jomon) - A network forensics and sniffer tool
+- [jo-lund/jomon](https://github.com/jo-lund/jomon) - A network forensics and passive sniffer tool
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [sqfmi/Watchy](https://github.com/sqfmi/Watchy) - Watchy - An Open Source E-Ink Smartwatch
 - [tubexchat/tubex-wechatbot](https://github.com/tubexchat/tubex-wechatbot) - WechatBot with ASR & LLM 集成Gemini大语言模型API接口和微软ASR服务，华尔街见闻、币安、东方财富等金融数据，可识别语音的微信机器人
@@ -322,7 +322,7 @@
 - [EngTW/English-for-Programmers](https://github.com/EngTW/English-for-Programmers) - 《程式英文》：用英文提昇程式可讀性
 - [desjarlais/Office-File-Explorer-v2](https://github.com/desjarlais/Office-File-Explorer-v2) - This tool can be used to view details of Office Open Xml formatted files (Word, Excel, PowerPoint) for troubleshooting purposes...Click here to download the tool:
 - [martinstoeckli/SilentNotes](https://github.com/martinstoeckli/SilentNotes) - SilentNotes is a simple note taking app which respects your privacy.
-- [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file
+- [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types t
 - [rampaa/JL](https://github.com/rampaa/JL) - JL is a program for looking up Japanese words and expressions.
 - [Hofknecht/SystemTrayMenu](https://github.com/Hofknecht/SystemTrayMenu) - SystemTrayMenu - Browse and open your files easily
 - [workspacer/workspacer](https://github.com/workspacer/workspacer) - a tiling window manager for Windows
@@ -719,6 +719,7 @@
 
 ## Go 
 
+- [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history
 - [glidea/zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!!
 - [Breeze0806/go-etl](https://github.com/Breeze0806/go-etl) - go-etl is a toolset for data extraction, transformation and loading.
 - [negokaz/excel-mcp-server](https://github.com/negokaz/excel-mcp-server) - A Model Context Protocol (MCP) server that reads and writes MS Excel data
@@ -938,6 +939,7 @@
 
 ## Java 
 
+- [apache/zeppelin](https://github.com/apache/zeppelin) - Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.
 - [petoncle/mousemaster](https://github.com/petoncle/mousemaster) - Efficiently control your mouse with keyboard inputs for a completely mouseless experience.
 - [ArcaneChat/android](https://github.com/ArcaneChat/android) - ArcaneChat for Android: ⚡ Fast encrypted chats for the family
 - [proninyaroslav/libretorrent](https://github.com/proninyaroslav/libretorrent) - Free and Open Source, full-featured torrent client for Android. Mirrored from https://gitlab.com/proninyaroslav/libretorrent
@@ -1281,7 +1283,7 @@
 - [lkl2050/personal_notes_chatbot](https://github.com/lkl2050/personal_notes_chatbot) - chatbot based on my personal notes in obsidian and wechat coversation history
 - [jupyter/notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
-- [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) - MiniCPM3-4B: An edge-side LLM that surpasses GPT-3.5-Turbo.
+- [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) - MiniCPM4: Ultra-Efficient LLMs on End Devices, achieving 5+ speedup on typical end-side chips
 - [Kedreamix/Linly-Dubbing](https://github.com/Kedreamix/Linly-Dubbing) - 智能视频多语言AI配音/翻译工具 - Linly-Dubbing — “AI赋能，语言无界”
 - [zjunlp/EasyEdit](https://github.com/zjunlp/EasyEdit) - [ACL 2024] An Easy-to-use Knowledge Editing Framework for LLMs.
 - [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) - 《动手学大模型Dive into LLMs》系列编程实践教程
@@ -1316,6 +1318,7 @@
 
 ## Kotlin 
 
+- [unit-mesh/auto-dev](https://github.com/unit-mesh/auto-dev) - 🧙‍AutoDev: The AI-powered coding wizard（AI  驱动编程助手）with multilingual support 🌐, auto code generation 🏗️, and a helpful bug-slaying assistant 🐞! Customizable prompts 🎨 and a magic Auto Dev/Testing/Docu
 - [BrahimChatri/PartLoockUp](https://github.com/BrahimChatri/PartLoockUp) - PartLookUp is an Android application that allows users to quickly search for parts and retrieve their corresponding EMP locations via barcode scanning or manual input. It supports data uploads via bot
 - [Moderpach/Extinguish](https://github.com/Moderpach/Extinguish) - An app that helps you run any android apps as if the screen is on while it is off.
 - [YangDai2003/OpenNote-Compose](https://github.com/YangDai2003/OpenNote-Compose) - Markdown Editor & Notebook for Android built with Jetpack Compose.
@@ -1920,6 +1923,8 @@
 
 ## Python 
 
+- [ciur/papermerge](https://github.com/ciur/papermerge) - Open Source Document Management System for Digital Archives (Scanned Documents)
+- [msiemens/tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness :)
 - [lopinx/msdn-images-update](https://github.com/lopinx/msdn-images-update) - 微软官方原版镜像：包括操作系统Microsoft Windows和办公软件Microsoft Office
 - [HobbitDur/IfritXlsx](https://github.com/HobbitDur/IfritXlsx) - FF Monster editor using excel/libre office
 - [archworks/pptflow](https://github.com/archworks/pptflow) - A powerful desktop app turning ppt to video with AI voiceover and subtitles
@@ -2256,7 +2261,7 @@
 - [sauravthvit/100_Days_of_Python](https://github.com/sauravthvit/100_Days_of_Python) - Here, I will be sharing my 100 days of python journey.
 - [ankit0183/Wifi-Hacking](https://github.com/ankit0183/Wifi-Hacking) - Cyber Security Tool For Hacking Wireless Connections Using Built-In Kali Tools. Supports All Securities (WEP, WPS, WPA, WPA2/TKIP/IES)
 - [redballoonsecurity/ofrak](https://github.com/redballoonsecurity/ofrak) - OFRAK: unpack, modify, and repack binaries.
-- [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown + JSON quickly with high accuracy
+- [datalab-to/marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
 - [joouha/euporie](https://github.com/joouha/euporie) - Jupyter notebooks in the terminal
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [VandalByte/darkmatter-grub2-theme](https://github.com/VandalByte/darkmatter-grub2-theme) - Dark Matter GRUB Theme  👾💙
@@ -2408,6 +2413,7 @@
 
 ## Rust 
 
+- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [forskscope/quick-diff-me](https://github.com/forskscope/quick-diff-me) - Quick Diff (unified diff) on Microsoft Excel viewer written in Rust as Iced GUI app
 - [ad-si/cai](https://github.com/ad-si/cai) - The fastest CLI tool for prompting LLMs. Including support for prompting several LLMs at once!
 - [agentcodee/cursor-free-everyday](https://github.com/agentcodee/cursor-free-everyday) - 完全免费, 自动获取新账号,一键重置新额度,  解决机器码问题, 自动满额度
@@ -2635,7 +2641,7 @@
 - [sabamdarif/termux-desktop](https://github.com/sabamdarif/termux-desktop) - Install a full Linux desktop environment on your Android device with Termux X11 ( VNC optional) and also enable hardware acceleration
 - [ar37-rs/xfce4-termux](https://github.com/ar37-rs/xfce4-termux) - Simple script shell to set and spin up xfce4 on native Termux android (no root required).
 - [KreitinnSoftware/MiceWine-RootFS-Generator](https://github.com/KreitinnSoftware/MiceWine-RootFS-Generator) - This repository generate needed files for MiceWine
-- [fynks/awesome-android-root](https://github.com/fynks/awesome-android-root) - ⚡ Supercharge your Android! Your go-to awesome list for top root apps, Magisk & LSPosed modules, essential tools & guides for enhanced control and ultimate device customization.
+- [fynks/awesome-android-root](https://github.com/fynks/awesome-android-root) - Explore the ultimate curated list of best root apps,powerful Magisk & LSPosed modules, must-have tools and step-by-step guides — all designed to maximize control, boost performance, and customize your
 - [agcrisbp/LinuxAndroid](https://github.com/agcrisbp/LinuxAndroid) - Fix Sound & Enable Microphone in Proot-Distro Termux
 - [nightmare-space/code_lfa](https://github.com/nightmare-space/code_lfa) - Implementation of the VS Code editor natively on Android.
 - [yousefvand/pronunciations](https://github.com/yousefvand/pronunciations) - Audio files for dictionaries
@@ -2748,6 +2754,7 @@
 
 ## TypeScript 
 
+- [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support
 - [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
 - [marcantondahmen/automad](https://github.com/marcantondahmen/automad) - A flat-file content management system and template engine
 - [evo-family/evo-chat](https://github.com/evo-family/evo-chat) - Evo Chat（Evolution Chat）是一个现代化的开源 AI 对话平台，致力于打造最优雅的大模型交互入口。它支持对接 ChatGPT，Deepseak， 等主流大语言模型（LLM）服务商，并在此基础上不断进化，识库增强、多模态处理、MCP（Model Control Protocol）等扩展能力，让 AI 能力更加丰富。支持全平台部署（Web、App、Windows、Mac、Linux
