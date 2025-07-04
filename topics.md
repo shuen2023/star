@@ -1633,7 +1633,7 @@
 
 ## design 
 
-- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - An open source graphics editor for 2025: comprehensive 2D content creation tool for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editi
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 
@@ -1787,7 +1787,6 @@
 - [Figma-Linux/figma-linux](https://github.com/Figma-Linux/figma-linux) - Figma is the first interface design tool based in the browser, making it easier for teams to create software. Join us in https://t.me/figma_linux
 - [wechat-assistant/wechat-assistant](https://github.com/wechat-assistant/wechat-assistant) - 微信助手，支持群发消息、定时任务、消息防撤回、聊天记录备份等功能
 - [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
-- [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [evolus/pencil](https://github.com/evolus/pencil) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [frappe/books](https://github.com/frappe/books) - Free Accounting Software
@@ -2154,11 +2153,12 @@
 
 ## go 
 
+- [noriah/catnip](https://github.com/noriah/catnip) - terminal audio visualizer for linux/unix/macOS/windblows*
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA and GUI automation  @vcaesar
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history
 - [Breeze0806/go-etl](https://github.com/Breeze0806/go-etl) - go-etl is a toolset for data extraction, transformation and loading.
-- [svera/coreander](https://github.com/svera/coreander) - Your books. Anytime. Anywhere
+- [svera/coreander](https://github.com/svera/coreander) - Your books. Anytime. Anywhere.
 - [Ray-D-Song/goread](https://github.com/Ray-D-Song/goread) - cli epub reader written in Go
 - [fishy/url2epub](https://github.com/fishy/url2epub) - Create ePub files from URLs
 - [shamanec/GADS](https://github.com/shamanec/GADS) - Simple device farm for remote control of devices and Appium test execution on iOS/Android
@@ -2208,10 +2208,11 @@
 
 ## golang 
 
+- [noriah/catnip](https://github.com/noriah/catnip) - terminal audio visualizer for linux/unix/macOS/windblows*
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA and GUI automation  @vcaesar
 - [Breeze0806/go-etl](https://github.com/Breeze0806/go-etl) - go-etl is a toolset for data extraction, transformation and loading.
-- [svera/coreander](https://github.com/svera/coreander) - Your books. Anytime. Anywhere
+- [svera/coreander](https://github.com/svera/coreander) - Your books. Anytime. Anywhere.
 - [Ray-D-Song/goread](https://github.com/Ray-D-Song/goread) - cli epub reader written in Go
 - [fishy/url2epub](https://github.com/fishy/url2epub) - Create ePub files from URLs
 - [igoogolx/lux](https://github.com/igoogolx/lux) - A light desktop proxy app
@@ -2551,7 +2552,7 @@
 
 ## image-processing 
 
-- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - An open source graphics editor for 2025: comprehensive 2D content creation tool for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editi
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
 - [tannerhelland/PhotoDemon](https://github.com/tannerhelland/PhotoDemon) - A free portable photo editor focused on pro-grade features, high performance, and maximum usability.
 - [Akylas/OSS-DocumentScanner](https://github.com/Akylas/OSS-DocumentScanner) - Android document document scanning app
@@ -3665,6 +3666,7 @@
 
 ## music 
 
+- [noriah/catnip](https://github.com/noriah/catnip) - terminal audio visualizer for linux/unix/macOS/windblows*
 - [vpavlenko/study-music](https://github.com/vpavlenko/study-music) - An "awesome music theory" kinda wiki with books, resources and courses for studying everything about music and sound
 - [chapmanjacobd/library](https://github.com/chapmanjacobd/library) - 99+ CLI tools to build, browse, and blend your media library
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
@@ -4115,7 +4117,7 @@
 - [bytedance/MegaTTS3](https://github.com/bytedance/MegaTTS3) - 
 - [yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) - Make bilingual epub books Using AI translate
 - [prakharsr/audiobook-creator](https://github.com/prakharsr/audiobook-creator) - Audiobook Creator is an open-source tool that converts books (EPUB, PDF, TXT) into fully voiced audiobooks with intelligent character voice attribution. It uses NLP, LLMs, and Kokoro TTS to generate e
-- [freeok/so-novel](https://github.com/freeok/so-novel) - 小说下载｜网文下载 | 网络文学
+- [freeok/so-novel](https://github.com/freeok/so-novel) - 小说下载｜网文下载 | 网络小说
 - [0x2b3bfa0/armarius](https://github.com/0x2b3bfa0/armarius) - Updated list of books and magnet links from https://epublibre.org
 - [QMHTMY/RustBook](https://github.com/QMHTMY/RustBook) - A book about Rust Data Structures and Algorithms.
 - [evcxr/evcxr](https://github.com/evcxr/evcxr) - 
@@ -4173,7 +4175,7 @@
 - [mggons93/Mggons](https://github.com/mggons93/Mggons) - Este script está diseñado para la instalación, activación, y conversion de Office 365 a las ediciones mas usadas
 - [Amourspirit/python_libre_pythonista_ext](https://github.com/Amourspirit/python_libre_pythonista_ext) - 
 - [osmandapp/OsmAnd](https://github.com/osmandapp/OsmAnd) - OsmAnd
-- [FiveGTower/xlsx2geosjon_converter](https://github.com/FiveGTower/xlsx2geosjon_converter) - Converts excel files to geojson files with some rules
+- [FiveGTower/xlsx2geojson_converter](https://github.com/FiveGTower/xlsx2geojson_converter) - Converts excel files to geojson files with some rules
 - [Loudbooks/X32-Cue-Utilities](https://github.com/Loudbooks/X32-Cue-Utilities) - Converts an XLSX formatted sheet into a series of snippets or QLab MIDI Cues for the Behringer X32.
 - [suxf/xlsx2json](https://github.com/suxf/xlsx2json) - 让excel支持复杂的json格式, 将xlsx文件转成json以及csharp脚本。
 - [macydnah/office.yazi](https://github.com/macydnah/office.yazi) - Office documents previewer plugin for Yazi, using libreoffice (compatible with .docx, .xlsx, .pptx, .odt, .ods, .odp; and other file formats supported by the Office Open XML and OpenDocument standards
@@ -4961,7 +4963,7 @@
 - [ankitects/anki-manual](https://github.com/ankitects/anki-manual) - Anki's manual
 - [raz-zeevy/Genlingo](https://github.com/raz-zeevy/Genlingo) - The ultimate language learning tool for creating Anki flashcards with example sentences, images, and sounds
 - [rampaa/JL](https://github.com/rampaa/JL) - JL is a program for looking up Japanese words and expressions.
-- [ankitects/anki](https://github.com/ankitects/anki) - Anki's shared backend and web components, and the Qt frontend
+- [ankitects/anki](https://github.com/ankitects/anki) - Anki is a smart spaced repetition flashcard program
 - [ankitects/anki-core-i18n](https://github.com/ankitects/anki-core-i18n) - Fluent translation files for Anki
 - [toqvist/AnkiHelper](https://github.com/toqvist/AnkiHelper) - A tool for creating Anki flashcards.
 - [qindarkstone/408Anki](https://github.com/qindarkstone/408Anki) - 408四门课个人向全基础零遗漏Anki记忆卡
@@ -6038,7 +6040,7 @@
 
 ## server 
 
-- [svera/coreander](https://github.com/svera/coreander) - Your books. Anytime. Anywhere
+- [svera/coreander](https://github.com/svera/coreander) - Your books. Anytime. Anywhere.
 - [ustclug/Linux201-docs](https://github.com/ustclug/Linux201-docs) - Linux 201 进阶教程阅读资料
 - [Sathvik-Rao/ClipCascade](https://github.com/Sathvik-Rao/ClipCascade) - ClipCascade is a lightweight utility that automatically syncs the clipboard across devices, no key press required.
 - [sqlpage/SQLPage](https://github.com/sqlpage/SQLPage) - Fast SQL-only data application builder. Automatically build a UI on top of SQL queries.
@@ -6355,6 +6357,7 @@
 
 ## terminal 
 
+- [noriah/catnip](https://github.com/noriah/catnip) - terminal audio visualizer for linux/unix/macOS/windblows*
 - [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
 - [Hamza417/Inure](https://github.com/Hamza417/Inure) - An elegant and beautiful premium Android app manager for rooted and non-rooted devices with a built-in terminal, analytics, debloat, stats and various other features with an custom theme engine, devel
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
