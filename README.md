@@ -270,6 +270,7 @@
 
 ## C# # 
 
+- [ariacom/Seal-Report](https://github.com/ariacom/Seal-Report) - Database Reporting Tool and Tasks (.Net)
 - [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - Downloads videos and playlists from YouTube
 - [SpaceTimee/Sheas-Cealer-Droid](https://github.com/SpaceTimee/Sheas-Cealer-Droid) - Ceal It (可用于无代理合法抵御网络监听和开展网络研究)
 - [aken721/ExcelAddIn](https://github.com/aken721/ExcelAddIn) - 
@@ -1470,7 +1471,7 @@
 - [davidche1116/wechat_video_call](https://github.com/davidche1116/wechat_video_call) - 利用Android无障碍服务一键自动拨打微信视频通话的Flutter插件
 - [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 - [anyproto/anytype-kotlin](https://github.com/anyproto/anytype-kotlin) - Official Anytype client for Android
-- [qBitController/qBitController](https://github.com/qBitController/qBitController) - Control qBittorrent from any device
+- [Bartuzen/qBitController](https://github.com/Bartuzen/qBitController) - Control qBittorrent from any device
 - [stephenWanjala/ExpenseTracker](https://github.com/stephenWanjala/ExpenseTracker) - simple Android application developed using Jetpack Compose and Room database to help you keep track of your expenses. You can add, categorize, and view your expenses, and the app will group expenses b
 - [meshtastic/Meshtastic-Android](https://github.com/meshtastic/Meshtastic-Android) - Android application for Meshtastic
 - [msfjarvis/compose-lobsters](https://github.com/msfjarvis/compose-lobsters) - Claw for Android: Unofficial read-only client for https://lobste.rs, built using Jetpack Compose.
