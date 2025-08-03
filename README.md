@@ -112,7 +112,7 @@
 - [rightester/rime_tutorial](https://github.com/rightester/rime_tutorial) - 一个Rime入门教程（还在写）
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 - [FongMi/Release](https://github.com/FongMi/Release) - 
-- [ShadowWhisperer/Remove-MS-Edge](https://github.com/ShadowWhisperer/Remove-MS-Edge) - Uninstall Microsoft Edge silently, through an executable or batch script.
+- [ShadowWhisperer/Remove-MS-Edge](https://github.com/ShadowWhisperer/Remove-MS-Edge) - Uninstall Microsoft Edge with an executable or batch script.
 - [qmlbook/qmlbook](https://github.com/qmlbook/qmlbook) - The source code for the upcoming qml book
 
 ## Blade 
@@ -121,6 +121,8 @@
 
 ## C 
 
+- [nuta/operating-system-in-1000-lines](https://github.com/nuta/operating-system-in-1000-lines) - Writing an OS in 1,000 lines.
+- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [schwabe/ics-openvpn](https://github.com/schwabe/ics-openvpn) - OpenVPN for Android
 - [libarchive/libarchive](https://github.com/libarchive/libarchive) - Multi-format archive and compression library
 - [FWGS/xash3d-fwgs](https://github.com/FWGS/xash3d-fwgs) - Xash3D FWGS engine
@@ -353,6 +355,7 @@
 
 ## C++ 
 
+- [osm2pgsql-dev/osm2pgsql](https://github.com/osm2pgsql-dev/osm2pgsql) - Import OpenStreetMap data into a PostgreSQL/PostGIS database
 - [kefir500/apk-editor-studio](https://github.com/kefir500/apk-editor-studio) - Powerful yet easy to use APK editor for PC and Mac.
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [xlladdins/xll24](https://github.com/xlladdins/xll24) - Excel add-in library
@@ -727,6 +730,7 @@
 
 ## Go 
 
+- [chromedp/chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
 - [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant
 - [knadh/dictpress](https://github.com/knadh/dictpress) - A stand-alone web server application for building and publishing full fledged dictionary websites and APIs for any language.
 - [noriah/catnip](https://github.com/noriah/catnip) - terminal audio visualizer for linux/unix/macOS/windblows*
@@ -894,6 +898,7 @@
 
 ## HTML 
 
+- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，1分钟部署完毕， 支持 docker 部署。⭐ 让算法为你服务，而非被算法绑架
 - [sweetwisdom/onlyoffice-web-local](https://github.com/sweetwisdom/onlyoffice-web-local) - vue-office, Perform common file preview and editing via the web.
 - [ranuts/document](https://github.com/ranuts/document) - Perform common file preview and editing via the web.
 - [EdwardLab/flyos](https://github.com/EdwardLab/flyos) - Unleash your mobile phone's potential: it's not just a phone, but a pocket-sized computer.
@@ -956,6 +961,7 @@
 
 ## Java 
 
+- [Helium314/HeliBoard](https://github.com/Helium314/HeliBoard) - Customizable and privacy-conscious open-source keyboard
 - [jenly1314/MLKit](https://github.com/jenly1314/MLKit) - 🌝  MLKit是一个强大易用的工具包。通过ML Kit您可以很轻松的实现文字识别、条码识别、图像标记、人脸检测、对象检测等功能。
 - [REAndroid/APKEditor](https://github.com/REAndroid/APKEditor) - Powerful android apk editor - aapt/aapt2 independent
 - [apache/zeppelin](https://github.com/apache/zeppelin) - Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.
@@ -1086,6 +1092,10 @@
 
 ## JavaScript 
 
+- [qqcarlosqq/Wordle_ENG](https://github.com/qqcarlosqq/Wordle_ENG) - Wordle Solver for English version
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
+- [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
+- [law-chain-hot/websocket-devtools](https://github.com/law-chain-hot/websocket-devtools) - WebSocket debugging tool with real-time monitoring, message simulation, and traffic interception for developers ｜ 专业的WebSocket调试工具，提供实时监控、消息模拟和流量拦截功能
 - [yuis-ice/note-cli](https://github.com/yuis-ice/note-cli) - Markdown Indexing and Pcre Regular Expression Compatible Full Text Searching for Advanced Note Takers.
 - [RavelloH/kv-clipboard](https://github.com/RavelloH/kv-clipboard) - 使用kv-cache项目为存储的在线剪切板前端
 - [RavelloH/EverydayNews](https://github.com/RavelloH/EverydayNews) - 新版的EverydayNews，存储2022/06/04至今的所有每日60s新闻，以JSON格式存放，每日更新，自带搜索功能，可RSS订阅，提供API
@@ -1205,7 +1215,6 @@
 - [FilipePS/Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) - Translate your page in real time using Google, Bing or Yandex
 - [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
 - [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [scoful/N-Tab](https://github.com/scoful/N-Tab) - 浏览器插件，《标签管理工具，替代OneTab》，支持Chrome和Edge
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
 - [ShizukuIchi/pdf-editor](https://github.com/ShizukuIchi/pdf-editor) - Offline PDF editor. Add images, signatures, text to PDF in your browser. 🚀
@@ -1344,6 +1353,9 @@
 
 ## Kotlin 
 
+- [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in beta.
+- [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
+- [igorescodro/alkaa](https://github.com/igorescodro/alkaa) - Kotlin multiplatform app to manage your tasks
 - [HaishinKit/HaishinKit.kt](https://github.com/HaishinKit/HaishinKit.kt) - Camera and Microphone streaming library via RTMP for Android.
 - [DigitallyRefined/android-ip-camera](https://github.com/DigitallyRefined/android-ip-camera) - An Android MJPEG IP Camera app
 - [WirelessAlien/MovieDB](https://github.com/WirelessAlien/MovieDB) - ShowCase is a fully open-source android application for exploring and organizing your personal collection of films and television series.
@@ -1619,6 +1631,7 @@
 
 ## Makefile 
 
+- [CoreELEC/CoreELEC](https://github.com/CoreELEC/CoreELEC) - A lightweight OS for KODI
 - [informatici/openhospital](https://github.com/informatici/openhospital) - OH - Open Hospital is a free and open-source Electronic Health Record (EHR) software application. This repository is used to build its releases.
 - [nodiscc/debian-live-config](https://github.com/nodiscc/debian-live-config) - [mirror] Debian GNU/Linux desktop operating system, preconfigured for personal computers/workstations
 - [emacsmirror/epkgs](https://github.com/emacsmirror/epkgs) - Emacs package database
@@ -1670,6 +1683,8 @@
 
 ## Others 
 
+- [RavelPace/android-platform-tools](https://github.com/RavelPace/android-platform-tools) - android platform tools from https://dl.google.com/android/repository/platform-tools-latest-windows.zip
+- [ThePalaceProject/android-binaries](https://github.com/ThePalaceProject/android-binaries) - Binaries for most recent builds of the Android app
 - [tehtbl/awesome-note-taking](https://github.com/tehtbl/awesome-note-taking) - A curated list of awesome note-taking software.
 - [talhahasanzia/English-Thesaurus](https://github.com/talhahasanzia/English-Thesaurus) - :blue_book: English thesaurus database
 - [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) - 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成
@@ -1724,7 +1739,6 @@
 - [crdroidandroid/android_vendor_crDroidOTA](https://github.com/crdroidandroid/android_vendor_crDroidOTA) - OTA configuration for crDroidOTA (make your device official)
 - [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
 - [vicjl/myIPTV](https://github.com/vicjl/myIPTV) - 
-- [Moexin/IPTV](https://github.com/Moexin/IPTV) - MyIPTV
 - [cursor/cursor](https://github.com/cursor/cursor) - The AI Code Editor
 - [HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics) - Must-read and classic books of computational geometry and computer graphics
 - [h4h13/paisa-app](https://github.com/h4h13/paisa-app) - Paisa app release and bugs maintain
@@ -1753,6 +1767,7 @@
 - [CipherOS/android_manifest](https://github.com/CipherOS/android_manifest) - Android Manifest for Cipher ROM
 - [hubeiqiao/IELTS-Speaking-Simulator](https://github.com/hubeiqiao/IELTS-Speaking-Simulator) - A GPT offers an authentic practice experience, helpful for anyone preparing for IELTS.
 - [Bagary-Jayasree/Excel-Documents](https://github.com/Bagary-Jayasree/Excel-Documents) - I worked on Excel assignments covering arithmetic functions, charts, date functions, logical functions, lookup functions, sorting, and filtering. Additionally, I created dashboards using Power Query, 
+- [Anon4You/alienkrishn](https://github.com/Anon4You/alienkrishn) - Custom termux apt repository
 - [dmychen/references](https://github.com/dmychen/references) - Notes for myself.
 - [ddgksf2013/ddgksf2013](https://github.com/ddgksf2013/ddgksf2013) - 墨鱼去广告计划 | QuantumultX 去广告 | 去开屏广告 | 应用净化 | 会员解锁 | 墨鱼配置 | 应用增强 | 网页优化 | 网盘资源 | 模块去广告 | Shadowrocket配置 | 墨鱼规则 | Clash配置 | 小火箭去广告 | 资源库 | AdBlock | 网页广告 | 不完全指北
 - [SnailTech07709/Wecchat_install_ubuntu](https://github.com/SnailTech07709/Wecchat_install_ubuntu) - 微信ubuntu安装包
@@ -1969,6 +1984,8 @@
 
 ## Python 
 
+- [gboeing/osmnx](https://github.com/gboeing/osmnx) - Download, model, analyze, and visualize street networks and other geospatial features from OpenStreetMap.
+- [ColdWindScholar/MIO-KITCHEN-SOURCE](https://github.com/ColdWindScholar/MIO-KITCHEN-SOURCE) - An Android Rom Tool in python
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [oomol-lab/epub-translator](https://github.com/oomol-lab/epub-translator) - Use LLM to losslessly translate EPUB e-books, retain the original layout, and generate bilingual comparisons.
 - [Liwiro1/csv-to-xlsx](https://github.com/Liwiro1/csv-to-xlsx) - With this tool, you can convert the reports inside a zip file into a formatted XLSX file with just 2 clicks.
@@ -2045,7 +2062,6 @@
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [Amourspirit/python_libre_pythonista_ext](https://github.com/Amourspirit/python_libre_pythonista_ext) - 
 - [FiveGTower/xlsx2geojson_converter](https://github.com/FiveGTower/xlsx2geojson_converter) - Converts excel files to geojson files with some rules
-- [Loudbooks/X32-Cue-Utilities](https://github.com/Loudbooks/X32-Cue-Utilities) - Converts an XLSX formatted sheet into a series of snippets or QLab MIDI Cues for the Behringer X32.
 - [seanpedrick-case/doc_redaction](https://github.com/seanpedrick-case/doc_redaction) - Redact PDF/image-based documents, or CSV/XLSX files using a Gradio-based GUI interface
 - [trentzz/vcf2xlsx](https://github.com/trentzz/vcf2xlsx) - CLI tool to convert a vcf file to excel (xlsx) file.
 - [dsnato/visualizador-excel-kivy](https://github.com/dsnato/visualizador-excel-kivy) - Aplicativo Kivy para visualizar arquivos Excel de forma dinâmica, com um layout ajustável e rolagem interativa. Permite carregar planilhas (.xls, .xlsx) e exibir dados em um grid com largura de coluna
@@ -2469,6 +2485,8 @@
 
 ## Rust 
 
+- [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
+- [hzbd/imagekit](https://github.com/hzbd/imagekit) - ImageKit is a powerful and fast command-line tool for batch processing images.
 - [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) - Modern markdown cross platform editor application, simpler and more intelligent, builds fast and efficient workflows. 现代化的 Markdown 跨平台编辑器应用，更简单更智能，构建快速高效的工作流程。
 - [gnehz972/word4you](https://github.com/gnehz972/word4you) - Word4You - AI-Powered Word Learning & Collecting Tool
 - [wasabeef/emu](https://github.com/wasabeef/emu) - A TUI for managing Android emulators and iOS simulators.
@@ -2716,7 +2734,6 @@
 - [llwslc/grammar-club](https://github.com/llwslc/grammar-club) - 《语法俱乐部》- 旋元佑
 - [offici5l/MiTool](https://github.com/offici5l/MiTool) - MiTool : without a PC (using another phone via Termux), allows you to unlock the bootloader, flash ROMs, ... and offers many other features for Xiaomi devices
 - [wahasa/Fedora](https://github.com/wahasa/Fedora) - Welcome To Fedora Termux For Android
-- [Anon4You/alienkrishn](https://github.com/Anon4You/alienkrishn) - Custom termux apt repository
 - [nexoscreation/TermuXpert](https://github.com/nexoscreation/TermuXpert) - TermuXpert is an advanced Termux management tool designed to enhance your Termux experience with a suite of powerful scripts and utilities.
 - [termuxBash/cbz2pdf](https://github.com/termuxBash/cbz2pdf) - Used to convert cbz to pdf files in termux
 - [ozingi/Modify_the_Zram](https://github.com/ozingi/Modify_the_Zram) - 利用安卓设备自身init.qcom.post_boot.sh文件实现Zram的大小设置与关闭开启。
@@ -2816,6 +2833,9 @@
 
 ## TypeScript 
 
+- [HiMeditator/auto-caption](https://github.com/HiMeditator/auto-caption) - A cross-platform real-time subtitle display software. 一个跨平台的实时字幕显示软件。
+- [thecodrr/fdir](https://github.com/thecodrr/fdir) - ⚡ The fastest directory crawler & globbing library for NodeJS. Crawls 1m files in &lt; 1s
+- [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [senshinya/MoonTV](https://github.com/senshinya/MoonTV) - 一个开箱即用的、跨平台的影视聚合播放站。交流群：https://t.me/+K8GaaVx-xrc0YmVk
 - [App1ePine/kingdeeCourseBot](https://github.com/App1ePine/kingdeeCourseBot) - 金蝶课程学习系统辅助工具。
@@ -2963,7 +2983,7 @@
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 - [chenfan0/fideo-live-record](https://github.com/chenfan0/fideo-live-record) - A convenient live broadcast recording software! Supports Tiktok, Youtube, Twitch, Bilibili, Bigo!(一款方便的直播录制软件! 支持tiktok, youtube, twitch, 抖音，虎牙，斗鱼，快手，微博，网易cc，bilibili，花椒, 淘宝, 京东)
 - [ljcoder2015/obsidian-sheet-plus](https://github.com/ljcoder2015/obsidian-sheet-plus) - obsidian spreadsheets solutions
-- [lzwme/m3u8-dl](https://github.com/lzwme/m3u8-dl) - A command-line tool for batch downloading m3u8 format videos. 一个 m3u8 文件视频批量下载工具，支持docker部署。
+- [lzwme/m3u8-dl](https://github.com/lzwme/m3u8-dl) - A command-line tool for batch downloading m3u8 format videos. 一个 m3u8 文件视频批量下载工具，支持docker部署。https://m3u8-player.lzw.me/download.html
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [4gray/iptvnator](https://github.com/4gray/iptvnator) - :tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
