@@ -202,7 +202,6 @@
 - [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
 - [henrypp/memreduct](https://github.com/henrypp/memreduct) - Lightweight real-time memory management application to monitor and clean system memory on your computer.
 - [Robotechnic/diagraph](https://github.com/Robotechnic/diagraph) - A typst wasm plugin to use graphviz directly inside documents
-- [Cateners/tiny_computer](https://github.com/Cateners/tiny_computer) - Click-to-run debian 12 with desktop environment on android for Chinese users, with fcitx pinyin input method and some useful packages preinstalled. You don't need to install Termux.
 - [liudf0716/apfree-wifidog](https://github.com/liudf0716/apfree-wifidog) - apfree-wifidog is a high-performance captive portal solution that serves as a gateway between your wireless networks and the Internet. Optimized for both HTTP and HTTPS traffic, it ensures secure bord
 - [opa334/Dopamine](https://github.com/opa334/Dopamine) - Dopamine is a semi-untethered jailbreak for iOS 15 and 16
 - [lizongying/my-tv](https://github.com/lizongying/my-tv) - 我的电视 电视直播软件，安装即可使用
@@ -296,7 +295,7 @@
 - [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
 - [msartore/ATA-GUI](https://github.com/msartore/ATA-GUI) - ATA GUI is a project to make ATA available to all the users. ATA is an Advance Tool for Android™ powered by SDK Platform Tools.
 - [moom825/xeno-rat](https://github.com/moom825/xeno-rat) - Xeno-RAT is an open-source remote access tool (RAT) developed in C#, providing a comprehensive set of features for remote system management. Has features such as HVNC, live microphone, reverse proxy, 
-- [agd-yy/EasyChat](https://github.com/agd-yy/EasyChat) - 基于MQTT实现的局域网通讯，使用WPF仿照微信绘制界面
+- [AGD-Class/EasyChat](https://github.com/AGD-Class/EasyChat) - 基于MQTT实现的局域网通讯，使用WPF仿照微信绘制界面
 - [xmosnewone/ICEPOS-Cashier-System](https://github.com/xmosnewone/ICEPOS-Cashier-System) - 国内为数不多的全代码开源收银软件,开源协议遵循 Apache2.0,运行架构是C/S，PC端使用C#语言，管理后台使用PHP语言(Thinkphp框架),移动端使用VUE前端框架。多门店管理，离线使用，门店收银，员工登录交接，会员系统接口，会员折扣，微信/支付宝/银行卡/现金支付，库存检测，促销方案，支持扫码枪，小票打印，钱箱控制等。适用于多种商店收银场景，移动端可适配智能手机或自助收银机设备。
 - [ErsatzTV/ErsatzTV](https://github.com/ErsatzTV/ErsatzTV) - Stream custom live channels using your own media
 - [straw-git/WPFManager](https://github.com/straw-git/WPFManager) - 一款非常漂亮的 WPF 管理系统
@@ -361,9 +360,10 @@
 
 ## C++ 
 
+- [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
 - [izure1/node-win-pcap](https://github.com/izure1/node-win-pcap) - Node.js binding for windows packet sniffing
-- [Chaoses-Ib/IbEverythingExt](https://github.com/Chaoses-Ib/IbEverythingExt) - Everything 拼音搜索、ローマ字検索、通配符、快速选择扩展
+- [Chaoses-Ib/IbEverythingExt](https://github.com/Chaoses-Ib/IbEverythingExt) - Everything 拼音搜索, ローマ字検索, wildcard, quick select extension
 - [osm2pgsql-dev/osm2pgsql](https://github.com/osm2pgsql-dev/osm2pgsql) - Import OpenStreetMap data into a PostgreSQL/PostGIS database
 - [kefir500/apk-editor-studio](https://github.com/kefir500/apk-editor-studio) - Powerful yet easy to use APK editor for PC and Mac.
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
@@ -617,6 +617,7 @@
 - [RoadTripMoustache/kana_to_kanji](https://github.com/RoadTripMoustache/kana_to_kanji) - Simple application to learn Japanese kana (hiragana, katakana) and kanji
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
 - [dstark5/Openlib](https://github.com/dstark5/Openlib) - An Open source app to download and read books from shadow library (Anna’s Archive)
+- [Cateners/tiny_computer](https://github.com/Cateners/tiny_computer) - Click-to-run debian 12 with desktop environment on android for Chinese users, with fcitx pinyin input method and some useful packages preinstalled. You don't need to install Termux.
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [darkmoonight/Rain](https://github.com/darkmoonight/Rain) - 🌦️ Weather application
 - [Ninad7n/AppLockFlutter](https://github.com/Ninad7n/AppLockFlutter) - Flutter app for locking other android application.
@@ -746,6 +747,10 @@
 
 ## Go 
 
+- [pldubouilh/gossa](https://github.com/pldubouilh/gossa) - 🎶 a fast and simple multimedia fileserver
+- [vdjagilev/nmap-formatter](https://github.com/vdjagilev/nmap-formatter) - A tool that allows you to convert NMAP results to html, csv, json, markdown, graphviz (dot), sqlite, excel and d2-lang. Simply put it's nmap converter.
+- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, SQLite and PostgreSQL support ++
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [zbuzhi/diff-excel](https://github.com/zbuzhi/diff-excel) - Excel文件对比工具
@@ -919,7 +924,7 @@
 
 ## HTML 
 
-- [5mdld/anki-mwld-freq60k](https://github.com/5mdld/anki-mwld-freq60k) - An extensive Anki deck of 60,000 high-frequency English words with definitions, examples, and audio from Merriam-Webster's Learner's Dictionary.
+- [5mdld/anki-english-60k-decks](https://github.com/5mdld/anki-english-60k-decks) - An extensive Anki deck of 60,000 high-frequency English words with definitions, examples, and audio from Merriam-Webster's Learner's Dictionary.
 - [terroo/terroo.github.io](https://github.com/terroo/terroo.github.io) - Terminal Root English version
 - [sweetwisdom/onlyoffice-web-local](https://github.com/sweetwisdom/onlyoffice-web-local) - vue-office, Perform common file preview and editing via the web.
 - [ranuts/document](https://github.com/ranuts/document) - Perform common file preview and editing via the web.
@@ -1118,6 +1123,7 @@
 
 ## JavaScript 
 
+- [sheshbabu/zen](https://github.com/sheshbabu/zen) - Selfhosted notes app. Single golang binary, notes stored as markdown within SQLite, full-text search, very low resource usage
 - [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) - 🥢像老乡鸡🐔那样做饭。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
 - [qqcarlosqq/Wordle_ENG](https://github.com/qqcarlosqq/Wordle_ENG) - Wordle Solver for English version
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
@@ -1360,7 +1366,7 @@
 - [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
 - [datawhalechina/fun-rec](https://github.com/datawhalechina/fun-rec) - 推荐系统入门教程，在线阅读地址：https://datawhalechina.github.io/fun-rec/
 - [curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain) - LangChain & Prompt Engineering tutorials on Large Language Models (LLMs) such as ChatGPT with custom data. Jupyter notebooks on loading and indexing data, creating prompt templates, CSV agents, and us
-- [datawhalechina/statistical-learning-method-solutions-manual](https://github.com/datawhalechina/statistical-learning-method-solutions-manual) - 统计学习方法习题解答，在线阅读地址：https://datawhalechina.github.io/statistical-learning-method-solutions-manual
+- [datawhalechina/statistical-learning-method-solutions-manual](https://github.com/datawhalechina/statistical-learning-method-solutions-manual) - 机器学习方法习题解答，在线阅读地址：https://datawhalechina.github.io/statistical-learning-method-solutions-manual
 - [Estom/notes](https://github.com/Estom/notes) - 一个码农的毕生所学!笔记 & 教程。考研,就业,上学.语言篇，Android,C++,Java,JavaScript,Latex,MATLAB,NodeJS,PHP,Python,技术篇,docker,git,Linux,Maven,office,Spark,Spring,SVN,基础篇,编译原理,操作系统,单片机,计算机网络,计算机网络实验,架构模式,软件文档写作,设计模式,数据结构,数据库,算
 - [DataSpieler12345/python-for-ds-ml](https://github.com/DataSpieler12345/python-for-ds-ml) - My Python learning experience 📚🖥📳📴💻🖱✏
 - [EvgSkv/logica](https://github.com/EvgSkv/logica) - Logica is a logic programming language that compiles to SQL. It runs on DuckDB, Google BigQuery, PostgreSQL and SQLite.
@@ -1410,7 +1416,7 @@
 - [puff-dayo/Kokoro-82M-Android](https://github.com/puff-dayo/Kokoro-82M-Android) - A minimal Android demo app for Kokoro-TTS
 - [readium/kotlin-toolkit](https://github.com/readium/kotlin-toolkit) - A toolkit for ebooks, audiobooks and comics written in Kotlin
 - [Myzel394/Alibi](https://github.com/Myzel394/Alibi) - Use your phone as a dashcam and save the last 30 minutes when you need them.
-- [Hamza417/Inure](https://github.com/Hamza417/Inure) - An elegant and beautiful premium Android app manager for rooted and non-rooted devices with a built-in terminal, analytics, virustotal, debloat, stats and various other features with an custom theme e
+- [Hamza417/Inure](https://github.com/Hamza417/Inure) - An elegant and beautiful premium Android app manager for rooted and non-rooted devices with a built-in terminal, analytics, virustotal, debloat, stats and various other features with a custom theme en
 - [DrewCarlson/TorrentSearch-Kotlin](https://github.com/DrewCarlson/TorrentSearch-Kotlin) - Kotlin multiplatform torrent provider search client
 - [YouROK/TorrServe](https://github.com/YouROK/TorrServe) - Android client for TorrServer
 - [onionshare/onionshare-android](https://github.com/onionshare/onionshare-android) - Android version of OnionShare
@@ -1599,7 +1605,7 @@
 - [Pool-Of-Tears/GreenStash](https://github.com/Pool-Of-Tears/GreenStash) - Simple FOSS android app to help you plan and manage your savings goals easily and establish the habit of saving money.
 - [tangshimin/MuJing](https://github.com/tangshimin/MuJing) - 一款通过电影、美剧或文档中的真实语境学习英语单词的应用，让您在原汁原味的情境中记忆词汇，提升学习效率。
 - [alialbaali/Noto](https://github.com/alialbaali/Noto) - Minimal Note-Taking App
-- [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
+- [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A mod for the Discord Android App
 - [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) - Best Material You Design music player for Android
 - [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android) - video player for Android based on libmpv ↦ #mpv-android @ irc.libera.chat
 - [osfans/trime](https://github.com/osfans/trime) - 同文安卓輸入法平臺3.x/Android-rime/Rime Input Method Engine for Android
@@ -1726,7 +1732,6 @@
 - [ThePalaceProject/android-binaries](https://github.com/ThePalaceProject/android-binaries) - Binaries for most recent builds of the Android app
 - [tehtbl/awesome-note-taking](https://github.com/tehtbl/awesome-note-taking) - A curated list of awesome note-taking software.
 - [talhahasanzia/English-Thesaurus](https://github.com/talhahasanzia/English-Thesaurus) - :blue_book: English thesaurus database
-- [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) - 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成
 - [Nitish548/emacs-lisp-elements](https://github.com/Nitish548/emacs-lisp-elements) - A book that provides a big picture view of the Emacs Lisp programming language.
 - [PacktPublishing/The-Definitive-Guide-to-Power-Query-M-](https://github.com/PacktPublishing/The-Definitive-Guide-to-Power-Query-M-) - The Definitive Guide to Power Query (M), published by Packt
 - [FarseaSH/dezhe-epub](https://github.com/FarseaSH/dezhe-epub) - 《读者》杂志往期电子书整理
@@ -2022,6 +2027,9 @@
 
 ## Python 
 
+- [Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2) - Wan: Open and Advanced Large-Scale Video Generative Models
+- [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Frontier Open-Source Text-to-Speech
+- [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP) - Lightweight MCP Server for Computer Use in Windows
 - [aoguai/LiYing](https://github.com/aoguai/LiYing) - LiYing is an automated photo processing program designed for automating the post-processing workflow of ID photos in general photo studios. | LiYing 是一套适用于自动化 完成一般照相馆后期证件照处理流程的照片自动处理的程序。
 - [openai/gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
 - [mike-fabian/ibus-typing-booster](https://github.com/mike-fabian/ibus-typing-booster) - ibus-typing-booster is a completion input method for faster typing
@@ -2287,7 +2295,7 @@
 - [auqhjjqdo/LiveRecorder](https://github.com/auqhjjqdo/LiveRecorder) - 基于Streamlink的全自动直播录制工具，已支持哔哩哔哩、斗鱼、虎牙、抖音、YouTube、Twitch等
 - [biliup/biliup](https://github.com/biliup/biliup) - 自动直播录制、投稿、twitch、ytb频道搬运工具。
 - [rany2/edge-tts](https://github.com/rany2/edge-tts) - Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Windows or an API key
-- [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o) - MiniCPM-V 4.0: A GPT-4V Level MLLM for Single Image, Multi Image and Video on Your Phone
+- [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and Video Understanding on Your Phone
 - [pndurette/gTTS](https://github.com/pndurette/gTTS) - Python library and CLI tool to interface with Google Translate's text-to-speech API
 - [python-microscope/microscope](https://github.com/python-microscope/microscope) - Python library for control of microscope devices, supporting hardware triggers and distribution of devices over the network for performance and flexibility.
 - [modal-labs/quillman](https://github.com/modal-labs/quillman) - A voice chat app
@@ -2527,13 +2535,15 @@
 
 ## Rust 
 
+- [vivoblueos/kernel](https://github.com/vivoblueos/kernel) - 
+- [lukasl-dev/rime](https://github.com/lukasl-dev/rime) - An MCP server for NixOS users.
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
 - [accrescent/ina](https://github.com/accrescent/ina) - Secure, robust, and efficient delta updates for executables
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
 - [AmyangXYZ/MMD-MPL](https://github.com/AmyangXYZ/MMD-MPL) - Motion programming language
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 - [hzbd/imagekit](https://github.com/hzbd/imagekit) - ImageKit is a powerful and fast command-line tool for batch processing images.
-- [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) - Modern markdown cross platform editor application, simpler and more intelligent, builds fast and efficient workflows. 现代化的 Markdown 跨平台编辑器应用，更简单更智能，构建快速高效的工作流程。
+- [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) - A markdown editor, which is lighter, smarter and purer. 一个 Markdown 编辑器，但是更轻快、更智能、更纯粹。
 - [gnehz972/word4you](https://github.com/gnehz972/word4you) - Word4You - AI-Powered Word Learning & Collecting Tool
 - [wasabeef/emu](https://github.com/wasabeef/emu) - A TUI for managing Android emulators and iOS simulators.
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 High-performance distributed object storage for MinIO  alternative.
@@ -2880,6 +2890,9 @@
 
 ## TypeScript 
 
+- [Zippland/worth-calculator](https://github.com/Zippland/worth-calculator) - Calculating the actual value of your job beyond just salary
+- [Cierra-Runis/caduceus](https://github.com/Cierra-Runis/caduceus) - An open-source alternative to Typst App.
+- [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp) - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [seanmcbroom/JMdictSQLite](https://github.com/seanmcbroom/JMdictSQLite) - SQLite database for JMdict, a Japanese-English dictionary. Automatic daily updates.
 - [a-ghorbani/pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai) - An app that brings language models directly to your phone.
@@ -2899,6 +2912,7 @@
 - [mayneyao/eidos](https://github.com/mayneyao/eidos) - An extensible framework for Personal Data Management.
 - [SteveSuv/remix-words-funny](https://github.com/SteveSuv/remix-words-funny) - a fullstack English words study website: remix (react-router v7) + trpc + drizzle + postgresql + heroui + jotai + docker
 - [pkarpovich/omni-turtle-search](https://github.com/pkarpovich/omni-turtle-search) - A browser extension that adds a sidebar to search engines, unifying searches across your knowledge bases (Logseq, Cubox) in one interface
+- [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) - 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [SSlinky/VBA-LanguageServer](https://github.com/SSlinky/VBA-LanguageServer) - VBA Language Server
@@ -2988,7 +3002,7 @@
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click in
 - [readlite/readlite-plugin](https://github.com/readlite/readlite-plugin) - Transform cluttered web pages into clean, distraction-free reading experiences with customizable themes, fonts and multilingual support.
 - [junobuild/juno](https://github.com/junobuild/juno) - A next-gen serverless platform to build, deploy, and run modern apps with the privacy and control of self-hosting.
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is the leading open-source RAG engine, converging cutting-edge RAG with Agent capabilities to build the superior context layer for LLMs.
 - [balzack/databag](https://github.com/balzack/databag) - fast & lightweight self-hosted messenger
 - [ninoseki/mitaka](https://github.com/ninoseki/mitaka) - A browser extension for OSINT search
 - [tiddly-gittly/TidGi-Mobile](https://github.com/tiddly-gittly/TidGi-Mobile) - A Note App that is local-first, uses tid/md pure text file, all-in-one with calendar/todo/diary widget, lazy-loading, backlink & outline & Zettelkasten, and syncs with the open-source TidGi-Desktop.
@@ -3158,7 +3172,7 @@
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [tableaunoir/tableaunoir](https://github.com/tableaunoir/tableaunoir) - An online blackboard  🖉 with fridge magnets 🌈🧲 for teaching, and making animations 🏃 and presentations ⎚. All of that in a lightweight user interface, and without coding.
 - [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
-- [dream-num/univer](https://github.com/dream-num/univer) - Build AI-native spreadsheets. Univer is a full-stack framework for creating and editing spreadsheets on both web and server. With Univer MCP, Univer spreadsheet is driven directly through natural lang
+- [dream-num/univer](https://github.com/dream-num/univer) - Build AI-native spreadsheets. Univer is a full-stack framework for creating and editing spreadsheets on both web and server. With Univer MCP, Univer Spreadsheets is driven directly through natural lan
 - [remotion-dev/template-audiogram](https://github.com/remotion-dev/template-audiogram) - A template for making podcast video clips with Remotion.
 - [zcf0508/autocut-client](https://github.com/zcf0508/autocut-client) - AutoCut Client
 - [handsontable/hyperformula](https://github.com/handsontable/hyperformula) - HyperFormula is an open-source headless spreadsheet for business web apps. It comes with over 400 formulas, CRUD operations, undo-redo, clipboard support, and sorting.
@@ -3242,7 +3256,7 @@
 - [ChanceYu/front-end-rss](https://github.com/ChanceYu/front-end-rss) - :orange_book: 根据 RSS 订阅最新前端技术文章并自动分类
 - [imsyy/DailyHot](https://github.com/imsyy/DailyHot) - DailyHot 今日热榜前端页面 | API：https://github.com/imsyy/DailyHotApi
 - [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) - PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing for the editing and presentation of PPT online. Suppor
-- [xerrors/Yuxi-Know](https://github.com/xerrors/Yuxi-Know) - 结合LightRAG 知识库的知识图谱智能体平台。LangGraph+ Vue + Flask。集成主流大模型、LightRAG、MinerU、PP-Structure、Neo4j 、联网检索、工具调用。
+- [xerrors/Yuxi-Know](https://github.com/xerrors/Yuxi-Know) - 结合LightRAG 知识库的知识图谱智能体平台。LangGraph+ Vue + FastAPI。集成主流大模型、LightRAG、MinerU、PP-Structure、Neo4j 、联网检索、工具调用。
 - [Bronya0/ES-King](https://github.com/Bronya0/ES-King) - A modern and practical elasticsearch GUI client | 一个现代、实用的ES本地客户端 💕🎉
 - [kevin2li/PDF-Guru](https://github.com/kevin2li/PDF-Guru) - PDF Guru Anki是你整个知识世界的“中枢转换器”，与 Anki 的强大记忆引擎无缝融合，能将来自任何地方、任何格式的知识精华，高效、系统、可持续地转化为牢固的长期记忆资产，打造专属自己的个性化Anki知识库，助你高效学习、轻松记忆。
 - [canwdev/web-mediadevices-player](https://github.com/canwdev/web-mediadevices-player) - 网页版 HDMI 采集卡 / Webcam 查看器，支持截屏、录像、基于 CH9329 实现 KVM 键鼠控制，支持桌面客户端 (Tauri) | Web-based HDMI capture card / Webcam viewer, supports screenshot, video recording, KVM keyboard and mouse control based on CH9
