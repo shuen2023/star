@@ -1864,7 +1864,7 @@
 - [termux/termux-docker](https://github.com/termux/termux-docker) - Termux environment packaged as Docker image.
 - [excalith/excalith-start-page](https://github.com/excalith/excalith-start-page) - Terminal-inspired, clean, feature-rich and customizable browser start page for geeks. Has built-in editor for customizing.
 - [joseluisq/paket](https://github.com/joseluisq/paket) - A simple and fast package manager for the Fish shell written in Rust. 📦
-- [OpenCCU/OpenCCU](https://github.com/OpenCCU/OpenCCU) - :house: A feature-rich but lightweight, buildroot-based Linux operating system alternative for a CloudFree CCU3/ELV-Charly 'homematicIP CCU' IoT smarthome central. Running as a pure virtual appliance 
+- [OpenCCU/OpenCCU](https://github.com/OpenCCU/OpenCCU) - :house: A feature-rich but lightweight, buildroot-based Linux operating system for a CloudFree CCU3/ELV-Charly 'homematicIP CCU' IoT smarthome central. Running as a pure virtual appliance (ProxmoxVE, 
 - [jtyr/gbt](https://github.com/jtyr/gbt) - Highly configurable prompt builder for Bash, ZSH and PowerShell written in Go.
 - [nsstnc/weather](https://github.com/nsstnc/weather) - 🌦💻 Weather web application with a nice design and the most necessary information
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
@@ -2878,7 +2878,7 @@
 - [home-assistant/operating-system](https://github.com/home-assistant/operating-system) - :beginner: Home Assistant Operating System
 - [openlgtv/epk2extract](https://github.com/openlgtv/epk2extract) - Extraction tool for LG, Hisense, Sharp, Philips/TPV, Thompson and similar TVs/Embedded Devices
 - [RaspAP/raspap-webgui](https://github.com/RaspAP/raspap-webgui) - The easiest, full-featured wireless router setup for Debian-based devices. Period.
-- [OpenCCU/OpenCCU](https://github.com/OpenCCU/OpenCCU) - :house: A feature-rich but lightweight, buildroot-based Linux operating system alternative for a CloudFree CCU3/ELV-Charly 'homematicIP CCU' IoT smarthome central. Running as a pure virtual appliance 
+- [OpenCCU/OpenCCU](https://github.com/OpenCCU/OpenCCU) - :house: A feature-rich but lightweight, buildroot-based Linux operating system for a CloudFree CCU3/ELV-Charly 'homematicIP CCU' IoT smarthome central. Running as a pure virtual appliance (ProxmoxVE, 
 - [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
 
 ## ipfs 
@@ -2988,6 +2988,7 @@
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [HuangJian/librime-qjs](https://github.com/HuangJian/librime-qjs) - Bring a vast JavaScript plugin ecosystem to the Rime Input Method Engine, delivering lightning-fast speed and feather-light performance for a revolutionary input experience!
+- [dell-mic/file-glance](https://github.com/dell-mic/file-glance) - A powerful tool for viewing, filtering, and transforming tabular data files (CSV, JSON, XLSX etc.) with JavaScript.
 - [ruilisi/fortune-sheet](https://github.com/ruilisi/fortune-sheet) - A drop-in javascript spreadsheet library that provides rich features like Excel and Google Sheets
 - [gowthamrajk/Web-Development-Guide](https://github.com/gowthamrajk/Web-Development-Guide) - I will add some professional notes and reference tutorials which will be very much useful for freshers and beginners who are very passionate to become a web developer ❤️
 - [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - Your AI Operator for Web, Android, Automation & Testing.
@@ -3269,7 +3270,7 @@
 - [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [mudler/edgevpn](https://github.com/mudler/edgevpn) - :sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens
-- [OpenCCU/OpenCCU](https://github.com/OpenCCU/OpenCCU) - :house: A feature-rich but lightweight, buildroot-based Linux operating system alternative for a CloudFree CCU3/ELV-Charly 'homematicIP CCU' IoT smarthome central. Running as a pure virtual appliance 
+- [OpenCCU/OpenCCU](https://github.com/OpenCCU/OpenCCU) - :house: A feature-rich but lightweight, buildroot-based Linux operating system for a CloudFree CCU3/ELV-Charly 'homematicIP CCU' IoT smarthome central. Running as a pure virtual appliance (ProxmoxVE, 
 
 ## language 
 
@@ -3469,7 +3470,7 @@
 - [mittelmark/microemacs](https://github.com/mittelmark/microemacs) - Modern Jasspa's Microemacs fork -  based on  Dave Conroy and Daniel Lawrences code.  Text editor with GUI and terminal mode, with syntax highlighting, folding, outlines, abbreviations, own extension l
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
-- [OpenCCU/OpenCCU](https://github.com/OpenCCU/OpenCCU) - :house: A feature-rich but lightweight, buildroot-based Linux operating system alternative for a CloudFree CCU3/ELV-Charly 'homematicIP CCU' IoT smarthome central. Running as a pure virtual appliance 
+- [OpenCCU/OpenCCU](https://github.com/OpenCCU/OpenCCU) - :house: A feature-rich but lightweight, buildroot-based Linux operating system for a CloudFree CCU3/ELV-Charly 'homematicIP CCU' IoT smarthome central. Running as a pure virtual appliance (ProxmoxVE, 
 - [LinwoodDev/Butterfly](https://github.com/LinwoodDev/Butterfly) - 🎨 Powerful, minimalistic, cross-platform, opensource note-taking app
 - [GPSBabel/gpsbabel](https://github.com/GPSBabel/gpsbabel) - GPSBabel: convert, manipulate, and transfer data from GPS programs or GPS receivers. Open Source and supported on MacOS, Windows, Linux, and more. Pointy clicky GUI or a command line version...
 - [todotxt/todo.txt-cli](https://github.com/todotxt/todo.txt-cli) - ☑️ A simple and extensible shell script for managing your todo.txt file.
@@ -4063,7 +4064,7 @@
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [kamilmielnik/scrabble-solver](https://github.com/kamilmielnik/scrabble-solver) - Free, open-source, cross-platform, multi-language analysis tool for Scrabble, Scrabble Duel, Super Scrabble, Letter League, Literaki, and Kelimelik. Quickly find the top-scoring words using the given 
-- [dell-mic/file-glance](https://github.com/dell-mic/file-glance) - A powerful tool for viewing, filtering, and transforming tabular data files (CSV, JSON, XLSX etc.).
+- [dell-mic/file-glance](https://github.com/dell-mic/file-glance) - A powerful tool for viewing, filtering, and transforming tabular data files (CSV, JSON, XLSX etc.) with JavaScript.
 - [danilo-css/analytics-data-pivot](https://github.com/danilo-css/analytics-data-pivot) - A no code tool to help build pivot tables from any database with a few clicks.
 - [Gurubase/gurubase](https://github.com/Gurubase/gurubase) - Turn Your Content Into a 24/7 AI Support Assistant
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
@@ -4405,7 +4406,7 @@
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [owlman/CS_StudyNotes](https://github.com/owlman/CS_StudyNotes) - 基于 Obsidian 系统构建的计算机专业学习/研究笔记
 - [nodiscc/debian-live-config](https://github.com/nodiscc/debian-live-config) - [mirror] Debian GNU/Linux desktop operating system, preconfigured for personal computers/workstations
-- [OpenCCU/OpenCCU](https://github.com/OpenCCU/OpenCCU) - :house: A feature-rich but lightweight, buildroot-based Linux operating system alternative for a CloudFree CCU3/ELV-Charly 'homematicIP CCU' IoT smarthome central. Running as a pure virtual appliance 
+- [OpenCCU/OpenCCU](https://github.com/OpenCCU/OpenCCU) - :house: A feature-rich but lightweight, buildroot-based Linux operating system for a CloudFree CCU3/ELV-Charly 'homematicIP CCU' IoT smarthome central. Running as a pure virtual appliance (ProxmoxVE, 
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
 - [UsmanMERN/Semester-4](https://github.com/UsmanMERN/Semester-4) - Semester4 Books Repo - GCUF SE: Access study materials for Computer Networking, OS, Design and Algorithm, DBMS, and Software Requirement Engineering. Excel in your studies! 📚
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
@@ -6185,7 +6186,7 @@
 ## reactjs 
 
 - [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) - A markdown editor, which is lighter, smarter and purer. 一个 Markdown 编辑器，但是更轻快、更智能、更纯粹。
-- [dell-mic/file-glance](https://github.com/dell-mic/file-glance) - A powerful tool for viewing, filtering, and transforming tabular data files (CSV, JSON, XLSX etc.).
+- [dell-mic/file-glance](https://github.com/dell-mic/file-glance) - A powerful tool for viewing, filtering, and transforming tabular data files (CSV, JSON, XLSX etc.) with JavaScript.
 - [gowthamrajk/Web-Development-Guide](https://github.com/gowthamrajk/Web-Development-Guide) - I will add some professional notes and reference tutorials which will be very much useful for freshers and beginners who are very passionate to become a web developer ❤️
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
 - [clidey/whodb](https://github.com/clidey/whodb) - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB, Elastic Search, and Clickhouse with Chat interface
@@ -6793,7 +6794,7 @@
 ## tailwindcss 
 
 - [SteveSuv/remix-words-funny](https://github.com/SteveSuv/remix-words-funny) - a fullstack English words study website: remix (react-router v7) + trpc + drizzle + postgresql + heroui + jotai + docker
-- [dell-mic/file-glance](https://github.com/dell-mic/file-glance) - A powerful tool for viewing, filtering, and transforming tabular data files (CSV, JSON, XLSX etc.).
+- [dell-mic/file-glance](https://github.com/dell-mic/file-glance) - A powerful tool for viewing, filtering, and transforming tabular data files (CSV, JSON, XLSX etc.) with JavaScript.
 - [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
@@ -7219,6 +7220,7 @@
 
 ## web 
 
+- [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
 - [RavelloH/EverydayNews](https://github.com/RavelloH/EverydayNews) - 新版的EverydayNews，存储2022/06/04至今的所有每日60s新闻，以JSON格式存放，每日更新，自带搜索功能，可RSS订阅，提供API
 - [owlman/CS_StudyNotes](https://github.com/owlman/CS_StudyNotes) - 基于 Obsidian 系统构建的计算机专业学习/研究笔记
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
@@ -7274,6 +7276,7 @@
 
 ## windows 
 
+- [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 - [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP) - Lightweight MCP Server for Computer Use in Windows
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/
