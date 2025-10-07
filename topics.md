@@ -270,6 +270,7 @@
 - [vim](#vim)
 - [virtual-reality](#virtual-reality)
 - [visual-studio-code](#visual-studio-code)
+- [visualization](#visualization)
 - [vpn](#vpn)
 - [vue](#vue)
 - [vuejs](#vuejs)
@@ -277,6 +278,7 @@
 - [web-development](#web-development)
 - [webapp](#webapp)
 - [website](#website)
+- [whatsapp-bot](#whatsapp-bot)
 - [windows](#windows)
 - [xml](#xml)
 - [zig](#zig)
@@ -552,7 +554,7 @@
 - [iineva/ipa-server](https://github.com/iineva/ipa-server) - Upload and install iOS ipa and Android apk in web.
 - [kacskrz/miui-decompiled-xml-china](https://github.com/kacskrz/miui-decompiled-xml-china) - Decompiled /values from various MIUI / HyperOS ROMs.
 - [kaleidot725/AdbPad](https://github.com/kaleidot725/AdbPad) - AdpPad is a GUI software to test android apps using adb. This software is running Windows and macOS.
-- [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Discover 400+ best root apps, Magisk/KernelSU/APatch/LSPosed(xposed) modules, and step-by-step guides for every device.
+- [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Discover best root apps, Magisk & LSPosed(xposed) modules with step-by-step rooting guides
 - [aistra0528/Hail](https://github.com/aistra0528/Hail) - Disable / Hide / Suspend / Uninstall Android apps without root.
 - [ZakaHaceCosas/personaplus](https://github.com/ZakaHaceCosas/personaplus) - (MOVED TO SEPARATE REPO) Give yourself a plus!
 - [SkyD666/PodAura](https://github.com/SkyD666/PodAura) - All-in-one Android podcast app for RSS, media dl & play. MVI arch, Material You style. ⭐️ Star to support!
@@ -575,6 +577,7 @@
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 - [fgkeepalive/AndroidKeepAlive](https://github.com/fgkeepalive/AndroidKeepAlive) - Android background process keep-alive, prevent uninstallation, anti-uninstall, background pop-up activity. The latest Android high-availability black-tech application keep-alive for 2024, achieving th
 - [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media.
+- [sadellie/unitto](https://github.com/sadellie/unitto) - 😎 Calculate and convert. Superior. Always.
 - [simondankelmann/Bluetooth-LE-Spam](https://github.com/simondankelmann/Bluetooth-LE-Spam) - 
 - [DP-Hridayan/aShellYou](https://github.com/DP-Hridayan/aShellYou) - A material you designed app for your ADB needs
 - [1fish2/BBQTimer](https://github.com/1fish2/BBQTimer) - Android lock-screen interval timer/stopwatch.
@@ -860,6 +863,7 @@
 
 ## archlinux 
 
+- [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos) - Archlinux Kernel based on different schedulers and some other performance improvements.
 - [CatOS-Home/CatOS](https://github.com/CatOS-Home/CatOS) - CatOS is an open-source,Arch-based,out-of-the-box Linux distribution designed to provide an excellent operating system user experience.
 - [Justus0405/Arch-Wiki](https://github.com/Justus0405/Arch-Wiki) - 📖 My Personal Arch Linux Notes
 - [EXALAB/AnLinux-App](https://github.com/EXALAB/AnLinux-App) - AnLinux allow you to run Linux on Android without root access.
@@ -938,7 +942,7 @@
 - [AmoyLab/Unla](https://github.com/AmoyLab/Unla) - 🧩 MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes. Features Docker deployment and management UI, requiring n
 - [moneytoo/awesome-fdroid](https://github.com/moneytoo/awesome-fdroid) - 📊 A table to sort, filter and discover popular F-Droid apps
 - [Axorax/awesome-free-apps](https://github.com/Axorax/awesome-free-apps) - Curated list of the best free apps for PC and mobile
-- [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Discover 400+ best root apps, Magisk/KernelSU/APatch/LSPosed(xposed) modules, and step-by-step guides for every device.
+- [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Discover best root apps, Magisk & LSPosed(xposed) modules with step-by-step rooting guides
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
@@ -959,7 +963,7 @@
 
 - [tehtbl/awesome-note-taking](https://github.com/tehtbl/awesome-note-taking) - A curated list of awesome note-taking software.
 - [Axorax/awesome-free-apps](https://github.com/Axorax/awesome-free-apps) - Curated list of the best free apps for PC and mobile
-- [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Discover 400+ best root apps, Magisk/KernelSU/APatch/LSPosed(xposed) modules, and step-by-step guides for every device.
+- [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Discover best root apps, Magisk & LSPosed(xposed) modules with step-by-step rooting guides
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [ad-si/awesome-laser-cutting](https://github.com/ad-si/awesome-laser-cutting) - A curated list of awesome laser cutting resources.
@@ -1173,6 +1177,7 @@
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
 - [mouredev/Hello-Python](https://github.com/mouredev/Hello-Python) - Curso para aprender el lenguaje de programación Python desde cero y para principiantes. 100 clases, 44 horas en vídeo, código, proyectos y grupo de chat. Fundamentos, frontend, backend, testing, IA...
 - [Mobile-Artificial-Intelligence/maid](https://github.com/Mobile-Artificial-Intelligence/maid) - Maid is a cross-platform Flutter app for interfacing with GGUF / llama.cpp models locally, and with Ollama and OpenAI models remotely.
+- [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Ll
@@ -1187,13 +1192,14 @@
 - [LjyYano/Thinking_in_Java_MindMapping](https://github.com/LjyYano/Thinking_in_Java_MindMapping) - 编程笔记、观影指南、读书笔记、生活感悟、Switch 游戏
 - [ading2210/poe-api](https://github.com/ading2210/poe-api) - [UNMAINTAINED] A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
 - [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - ChatGPT interface with better UI
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [eth-sri/lmql](https://github.com/eth-sri/lmql) - A language for constraint-guided and efficient LLM programming.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [ramon-victor/freegpt-webui](https://github.com/ramon-victor/freegpt-webui) - GPT 3.5/4 with a Chat Web UI. No API key required.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
 - [Moataz-Elmesmary/Data-Science-Roadmap](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap) - Data Science Roadmap from A to Z
 - [bookfere/Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin) - A Calibre plugin to translate ebook into a specified language.
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 🤱🏻 一键打包网页生成轻量桌面应用。
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
 
 ## chatgpt-api 
 
@@ -1371,7 +1377,7 @@
 
 - [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - x-cmd: Bootstrap 1000+ command line tools in seconds.
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [PiotrMachowski/Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor](https://github.com/PiotrMachowski/Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor) - This custom integration provides a way to present a live view of a map for Xiaomi (Roborock/Viomi/Roidmi/Dreame) vacuums without a need for rooting.
 - [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio.
 - [giulianoc/CatraMMS](https://github.com/giulianoc/CatraMMS) - Media Management System: ingestion, processing, encoding, delivery, ...
@@ -1428,6 +1434,7 @@
 
 ## computer-vision 
 
+- [UniversalDataTool/universal-data-tool](https://github.com/UniversalDataTool/universal-data-tool) - Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app.
 - [bertjiazheng/Awesome-CAD](https://github.com/bertjiazheng/Awesome-CAD) - 😎 A list of awesome Computer-Aided Design (CAD) papers
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
 - [pytorch/vision](https://github.com/pytorch/vision) - Datasets, Transforms and Models specific to Computer Vision
@@ -1588,7 +1595,7 @@
 ## data-analysis 
 
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
-- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，趋势分析工具，一键监控抖音、知乎、哔哩哔哩、今日头条、百度热搜、贴吧、微博、华尔街见闻、财联社等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram、邮件推送，30秒网页部署，1分钟手机通知，无需编程基础。也支持docker私人部署⭐ 让算法为你服务，而非被算法绑架
+- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，趋势分析工具，一键监控抖音、知乎、哔哩哔哩、今日头条、百度热搜、贴吧、微博、华尔街见闻、财联社等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram、邮件、ntfy推送，30秒网页部署，1分钟手机通知，无需编程基础。也支持docker私人部署⭐ 让算法为你服务，而非被算法绑架
 - [PragmaticMachineLearning/probly](https://github.com/PragmaticMachineLearning/probly) - 
 - [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) - 「数据可视化：报表、大屏、数据看板」积木报表是一款类Excel操作风格，在线拖拽设计的报表工具和和数据可视化产品。功能涵盖: 报表设计、大屏设计、打印设计、图形报表、仪表盘门户设计等，完全免费！秉承“简单、易用、专业”的产品理念，极大的降低报表开发难度、缩短开发周期、解决各类报表难题。
 - [clidey/whodb](https://github.com/clidey/whodb) - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB, Elastic Search, and Clickhouse with Chat interface
@@ -1686,7 +1693,7 @@
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
-- [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso Database is a project to build the next evolution of SQLite.
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
 - [sonhmai/how-sqlite-works](https://github.com/sonhmai/how-sqlite-works) - A Book about how SQLite works. Rewriting SQLite in Rust for Learning and Fun and writing a book I wished I had when started.
 - [andreped/IronFlow](https://github.com/andreped/IronFlow) - 📳 IronFlow: Cross-platform mobile app for strength training progress tracking
 - [clidey/whodb](https://github.com/clidey/whodb) - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB, Elastic Search, and Clickhouse with Chat interface
@@ -1736,6 +1743,7 @@
 
 ## deep-learning 
 
+- [UniversalDataTool/universal-data-tool](https://github.com/UniversalDataTool/universal-data-tool) - Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app.
 - [bertjiazheng/Awesome-CAD](https://github.com/bertjiazheng/Awesome-CAD) - 😎 A list of awesome Computer-Aided Design (CAD) papers
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
@@ -1839,7 +1847,7 @@
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
-- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，趋势分析工具，一键监控抖音、知乎、哔哩哔哩、今日头条、百度热搜、贴吧、微博、华尔街见闻、财联社等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram、邮件推送，30秒网页部署，1分钟手机通知，无需编程基础。也支持docker私人部署⭐ 让算法为你服务，而非被算法绑架
+- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，趋势分析工具，一键监控抖音、知乎、哔哩哔哩、今日头条、百度热搜、贴吧、微博、华尔街见闻、财联社等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram、邮件、ntfy推送，30秒网页部署，1分钟手机通知，无需编程基础。也支持docker私人部署⭐ 让算法为你服务，而非被算法绑架
 - [SteveSuv/remix-words-funny](https://github.com/SteveSuv/remix-words-funny) - a fullstack English words study website: remix (react-router v7) + trpc + drizzle + postgresql + heroui + jotai + docker
 - [xerrors/Yuxi-Know](https://github.com/xerrors/Yuxi-Know) - 结合LightRAG 知识库的知识图谱智能体平台。LangGraph+ Vue + FastAPI。集成主流大模型、LightRAG、MinerU、PP-Structure、Neo4j 、联网检索、工具调用。
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ 一站式 LLM 聊天机器人平台及开发框架 ✨ 支持 QQ、QQ频道、Telegram、企微、飞书、钉钉 | 知识库、MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify
@@ -1890,6 +1898,7 @@
 
 ## documentation 
 
+- [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
 - [SAP-docs/sap-hana-cloud-hana-database](https://github.com/SAP-docs/sap-hana-cloud-hana-database) - Markdown source for the SAP HANA Cloud, SAP HANA Database documentation. Enables feedback and contributions to improve the documentation.
 - [xuri/excelize-doc](https://github.com/xuri/excelize-doc) - Docs reference for the Excelize spreadsheet library, and support for the book "Excelize: The Definitive Guide", Chinese (Simplified) 1st Edition
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
@@ -2252,6 +2261,7 @@
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 - [K3V1991/How-to-download-and-install-WSA](https://github.com/K3V1991/How-to-download-and-install-WSA) - How to download and install the Windows Subsystem for Android
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [asciphx/FabCc](https://github.com/asciphx/FabCc) - Asynchronous non-blocking dark magic for all-platform c++ web🌐 .No GC📵! LOW CODE💾!
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 
@@ -2364,7 +2374,7 @@
 - [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, SQLite and PostgreSQL support ++
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [rodrigocfd/windigo](https://github.com/rodrigocfd/windigo) - Windows API and GUI in idiomatic Go.
-- [lin-snow/Ech0](https://github.com/lin-snow/Ech0) - Ech0 - 开源、自托管、专注思想流动的轻量级发布平台
+- [lin-snow/Ech0](https://github.com/lin-snow/Ech0) - Ech0 - 面向个人的新一代开源、自托管、专注思想流动的轻量级联邦发布平台
 - [noriah/catnip](https://github.com/noriah/catnip) - terminal audio visualizer for linux/unix/macOS/windblows*
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA and GUI automation  @vcaesar
@@ -2428,7 +2438,7 @@
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [rodrigocfd/windigo](https://github.com/rodrigocfd/windigo) - Windows API and GUI in idiomatic Go.
 - [chromedp/chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
-- [lin-snow/Ech0](https://github.com/lin-snow/Ech0) - Ech0 - 开源、自托管、专注思想流动的轻量级发布平台
+- [lin-snow/Ech0](https://github.com/lin-snow/Ech0) - Ech0 - 面向个人的新一代开源、自托管、专注思想流动的轻量级联邦发布平台
 - [noriah/catnip](https://github.com/noriah/catnip) - terminal audio visualizer for linux/unix/macOS/windblows*
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA and GUI automation  @vcaesar
 - [Breeze0806/go-etl](https://github.com/Breeze0806/go-etl) - go-etl is a toolset for data extraction, transformation and loading.
@@ -2505,7 +2515,7 @@
 
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media.
 
 ## google 
@@ -2553,13 +2563,14 @@
 
 ## hacktoberfest 
 
+- [UniversalDataTool/universal-data-tool](https://github.com/UniversalDataTool/universal-data-tool) - Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app.
+- [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
-- [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
 - [thecodrr/fdir](https://github.com/thecodrr/fdir) - ⚡ The fastest directory crawler & globbing library for NodeJS. Crawls 1m files in &lt; 1s
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editi
 - [openboxes/openboxes](https://github.com/openboxes/openboxes) - OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities.
@@ -2576,8 +2587,10 @@
 - [void-linux/xbps](https://github.com/void-linux/xbps) - The X Binary Package System (XBPS)
 - [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
+- [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [mavlink/qgroundcontrol](https://github.com/mavlink/qgroundcontrol) - Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows)
 - [Crazy-Marvin/ToDont](https://github.com/Crazy-Marvin/ToDont) - The reverse to-do list
+- [TeamHarTex/HarTex](https://github.com/TeamHarTex/HarTex) - Discord server management, reimagined.
 - [twrpdtgen/twrpdtgen](https://github.com/twrpdtgen/twrpdtgen) - A Python library/script to automatically generate TWRP-compatible device tree from a boot/recovery image
 - [BOINC/boinc](https://github.com/BOINC/boinc) - Open-source software for volunteer computing and grid computing.
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
@@ -2592,9 +2605,11 @@
 - [nfcgate/nfcgate](https://github.com/nfcgate/nfcgate) - An NFC research toolkit application for Android
 - [evilcorpltd/aTox](https://github.com/evilcorpltd/aTox) - Reasonable Tox client for Android
 - [msfjarvis/adbear](https://github.com/msfjarvis/adbear) - CLI to automatically pair and join Android devices via ADB
+- [shub39/Grit](https://github.com/shub39/Grit) - 🔨 A Simple todo list and habit tracker for Android
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool to document a database, written in Go.
 - [fastn-stack/fastn](https://github.com/fastn-stack/fastn) - 🚧 (Alpha stage software) fastn 🏎️ - better way to build websites 🚧
 - [lorenzovngl/FoodExpirationDates](https://github.com/lorenzovngl/FoodExpirationDates) - 📱 Android app to track food expiration dates 🥦🥛🍎. Built with Jetpack Compose 🧩, MVVM 🛠️, Room 🗄️, and Material You 🎨.
+- [junobuild/juno](https://github.com/junobuild/juno) - A next-gen serverless platform to build, deploy, and run modern apps with the privacy and control of self-hosting.
 - [Taewan-P/gpt_mobile](https://github.com/Taewan-P/gpt_mobile) - Chat app for Android that supports answers from multiple LLMs at once. Bring your own API key AI client. Supports OpenAI, Anthropic, Google, and Ollama. Designed with Material3 & Compose.
 - [nikbulavin/cashsense](https://github.com/nikbulavin/cashsense) - 💵 Android app for managing personal finances
 - [apify/crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works
@@ -2670,6 +2685,7 @@
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
+- [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
 - [HabitRPG/habitica-android](https://github.com/HabitRPG/habitica-android) - Native Android app for Habitica
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
@@ -2685,7 +2701,6 @@
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) - Best Material You Design music player for Android
-- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
@@ -2818,6 +2833,7 @@
 
 ## ios 
 
+- [SideStore/SideStore](https://github.com/SideStore/SideStore) - SideStore is a fork of AltStore that doesn't require an AltServer.
 - [sergenes/runandread-audiobook](https://github.com/sergenes/runandread-audiobook) - 🚀 Open-source project for creating high-quality AI TTS-narrated audiobooks at home using models like Zonos, Kokoro-82M, or services like Deepgram and Eleven Labs. Tested on Apple Silicon M1 (32GB RAM)
 - [bggRGjQaUbCoE/PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) - PiliPlus
 - [blacklee123/go-ios-android](https://github.com/blacklee123/go-ios-android) - go control iOS and android device，maybe windows& mac in future
@@ -3006,7 +3022,7 @@
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [thecodrr/fdir](https://github.com/thecodrr/fdir) - ⚡ The fastest directory crawler & globbing library for NodeJS. Crawls 1m files in &lt; 1s
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
 - [Kalulukj/TimeIsMoney](https://github.com/Kalulukj/TimeIsMoney) - Simple app for notes, schedules, and expense tracking – all in one place.
 - [RavelloH/EverydayNews](https://github.com/RavelloH/EverydayNews) - 新版的EverydayNews，存储2022/06/04至今的所有每日60s新闻，以JSON格式存放，每日更新，自带搜索功能，可RSS订阅，提供API
@@ -3212,6 +3228,7 @@
 - [waseefakhtar/dose-android](https://github.com/waseefakhtar/dose-android) - 💊⏰ Dose is a medication reminder app for Android, built entirely using Kotlin and Jetpack Compose with MVVM + Clean Architecture
 - [woocommerce/woocommerce-android](https://github.com/woocommerce/woocommerce-android) - WooCommerce Android app
 - [Droid-ify/client](https://github.com/Droid-ify/client) - Clutterfree F-Droid client
+- [sadellie/unitto](https://github.com/sadellie/unitto) - 😎 Calculate and convert. Superior. Always.
 - [Acclorite/book-story](https://github.com/Acclorite/book-story) - Book's Story — Material You eBook reader built with Jetpack Compose. Free & Open source & Ad-free, with extensive customization options and support for multiple file formats.
 - [nsh07/WikiReader](https://github.com/nsh07/WikiReader) - Android app for reading Wikipedia pages distraction-free
 - [Futsch1/medTimer](https://github.com/Futsch1/medTimer) - MedTimer Android app
@@ -3521,7 +3538,7 @@
 - [tiddly-gittly/TidGi-Desktop](https://github.com/tiddly-gittly/TidGi-Desktop) - TidGi is an privacy-in-mind, automated, auto-git-backup, freely-deployed knowledge management Desktop note app, based on Tiddlywiki, with REST API for web-clipping and Anki connect. 「 太记 」是一个基于「 太微 Ti
 - [dbcli/litecli](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 🤱🏻 一键打包网页生成轻量桌面应用。
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
 - [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 
@@ -3588,6 +3605,7 @@
 - [LlamaFamily/Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese) - Llama中文社区，实时汇总最新Llama学习资料，构建最好的中文Llama大模型开源生态，完全开源可商用
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+- [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Ll
 - [casibase/casibase](https://github.com/casibase/casibase) - ⚡️AI Cloud OS: Open-source enterprise-level AI knowledge base and MCP (model-context-protocol)/A2A (agent-to-agent) management platform with admin UI, user management and Single-Sign-On⚡️, supports Ch
@@ -3647,6 +3665,7 @@
 
 ## machine-learning 
 
+- [UniversalDataTool/universal-data-tool](https://github.com/UniversalDataTool/universal-data-tool) - Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [jenly1314/MLKit](https://github.com/jenly1314/MLKit) - 🌝  MLKit是一个强大易用的工具包。通过ML Kit您可以很轻松的实现文字识别、条码识别、图像标记、人脸检测、对象检测等功能。
 - [Olow304/memvid](https://github.com/Olow304/memvid) - Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.
@@ -3695,6 +3714,7 @@
 ## macos 
 
 - [ring-lang/ring](https://github.com/ring-lang/ring) - Simple and flexible programming language for applications development
+- [bggRGjQaUbCoE/PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) - PiliPlus
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 - [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 跨平台桌宠 BongoCat，为桌面增添乐趣！
 - [CosminMihuMDC/KtorMonitor](https://github.com/CosminMihuMDC/KtorMonitor) - Powerful tool to monitor Ktor Client requests and responses, making it easier to debug and analyze network communication.
@@ -3778,7 +3798,7 @@
 - [txthinking/brook](https://github.com/txthinking/brook) - A cross-platform programmable network tool
 - [tiddly-gittly/TidGi-Desktop](https://github.com/tiddly-gittly/TidGi-Desktop) - TidGi is an privacy-in-mind, automated, auto-git-backup, freely-deployed knowledge management Desktop note app, based on Tiddlywiki, with REST API for web-clipping and Anki connect. 「 太记 」是一个基于「 太微 Ti
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 🤱🏻 一键打包网页生成轻量桌面应用。
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
 
 ## markdown 
 
@@ -3791,7 +3811,7 @@
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) - A markdown editor, which is lighter, smarter and purer. 一个 Markdown 编辑器，但是更轻快、更智能、更纯粹。
 - [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) - 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成
-- [lin-snow/Ech0](https://github.com/lin-snow/Ech0) - Ech0 - 开源、自托管、专注思想流动的轻量级发布平台
+- [lin-snow/Ech0](https://github.com/lin-snow/Ech0) - Ech0 - 面向个人的新一代开源、自托管、专注思想流动的轻量级联邦发布平台
 - [secure-77/Perlite](https://github.com/secure-77/Perlite) - A web-based markdown viewer optimized for Obsidian
 - [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) - AI conversations that actually remember. Never re-explain your project to Claude again. Local-first, integrates with Obsidian. Join our Discord: https://discord.gg/tyvKNccgqN
 - [YangDai2003/OpenNote-Compose](https://github.com/YangDai2003/OpenNote-Compose) - Markdown Editor & Notebook for Android built with Jetpack Compose.
@@ -4322,7 +4342,7 @@
 
 - [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support
 - [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) - AI conversations that actually remember. Never re-explain your project to Claude again. Local-first, integrates with Obsidian. Join our Discord: https://discord.gg/tyvKNccgqN
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
@@ -4352,10 +4372,12 @@
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 - [InnovateAsterisk/Browser-Phone](https://github.com/InnovateAsterisk/Browser-Phone) - A fully featured browser based WebRTC SIP phone for Asterisk
 - [xlucn/oh-my-foss-android](https://github.com/xlucn/oh-my-foss-android) - 个人收集的实用、良心开源安卓软件
+- [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [dstark5/Openlib](https://github.com/dstark5/Openlib) - An Open source app to download and read books from shadow library (Anna’s Archive)
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [frappe/books](https://github.com/frappe/books) - Free Accounting Software
 - [URUWorks/TeroSubtitler](https://github.com/URUWorks/TeroSubtitler) - Tero Subtitler is an open source, cross-platform, and free subtitle editing software.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [basarat/typescript-book](https://github.com/basarat/typescript-book) - :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
 - [ransome1/sleek](https://github.com/ransome1/sleek) - todo.txt manager for Linux, Windows and MacOS, free and open-source (FOSS)
 - [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC client(linux, mac, win)
@@ -4376,6 +4398,7 @@
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
 - [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - A list of free LLM inference resources accessible via API.
 - [p0n1/epub_to_audiobook](https://github.com/p0n1/epub_to_audiobook) - EPUB to audiobook converter, optimized for Audiobookshelf, WebUI included
+- [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [souzatharsis/podcastfy](https://github.com/souzatharsis/podcastfy) - An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI
@@ -4437,7 +4460,7 @@
 ## operating-system 
 
 - [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [owlman/CS_StudyNotes](https://github.com/owlman/CS_StudyNotes) - 基于 Obsidian 系统构建的计算机专业学习/研究笔记
 - [IceWhaleTech/ZimaOS](https://github.com/IceWhaleTech/ZimaOS) - A Simplified, Focused and Open NAS OS_
 - [nodiscc/debian-live-config](https://github.com/nodiscc/debian-live-config) - [mirror] Debian GNU/Linux desktop operating system, preconfigured for personal computers/workstations
@@ -4456,6 +4479,13 @@
 
 ## others 
 
+- [allencch/wubiluna](https://github.com/allencch/wubiluna) - Wubiluna is the input method combining Pinyin and Wubi86 using Rime
+- [fcitx-contrib/fcitx5-ios](https://github.com/fcitx-contrib/fcitx5-ios) - Fcitx5 iOS edition, currently developer beta. 小企鹅输入法 iOS 开发者公测 https://t.me/fcitx5macos/16126
+- [datawhalechina/tiny-universe](https://github.com/datawhalechina/tiny-universe) - 《大模型白盒子构建指南》：一个全手搓的Tiny-Universe
+- [nishuzumi/gemini-teacher](https://github.com/nishuzumi/gemini-teacher) - English pronunciation correction teacher built with gemini
+- [tinyzqh/IELTS_100_Sentence](https://github.com/tinyzqh/IELTS_100_Sentence) - 100局句子记完雅思7000个雅思单词
+- [kbtxwer/IELTS](https://github.com/kbtxwer/IELTS) - 剑桥雅思
+- [Macin20/sovereign-individual-cn](https://github.com/Macin20/sovereign-individual-cn) - 《主权个人》中文版，精校 未删减，可直接用A4纸打印
 - [Coyote0202/Solidity-WTF](https://github.com/Coyote0202/Solidity-WTF) - WTF Solidity 极简入门教程，供小白们使用。Now supports English! 官网:
 - [linrunner/TLP](https://github.com/linrunner/TLP) - TLP - Optimize Linux Laptop Battery Life
 - [ssut/py-googletrans](https://github.com/ssut/py-googletrans) - (unofficial) Googletrans: Free and Unlimited Google translate API for Python. Translates totally free of charge.
@@ -4523,7 +4553,7 @@
 - [CrankZ/ben-calc](https://github.com/CrankZ/ben-calc) - 一个简单的文本计算器
 - [Knowckx/text-calcer](https://github.com/Knowckx/text-calcer) - Text Calculator, A text expression calculate tool
 - [prompt-toolkit/python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
-- [platonai/browser4](https://github.com/platonai/browser4) - Browser4: a lightning-fast, coroutine-safe browser for your AI.
+- [platonai/PulsarRPA](https://github.com/platonai/PulsarRPA) - Browser4: a lightning-fast, coroutine-safe browser for your AI.
 - [unit-mesh/auto-dev](https://github.com/unit-mesh/auto-dev) - 🧙‍AutoDev: The AI-powered coding wizard（AI  驱动编程助手）with multilingual support 🌐, auto code generation 🏗️, and a helpful bug-slaying assistant 🐞! Customizable prompts 🎨 and a magic Auto Dev/Testing/Docu
 - [forskscope/quick-diff-me](https://github.com/forskscope/quick-diff-me) - Quick Diff (unified diff) on Microsoft Excel viewer written in Rust as Iced GUI app
 - [lopinx/msdn-images-update](https://github.com/lopinx/msdn-images-update) - 微软官方原版镜像：包括操作系统Microsoft Windows和办公软件Microsoft Office
@@ -4609,7 +4639,7 @@
 - [DonTizi/rlama](https://github.com/DonTizi/rlama) - A powerful document AI question-answering tool that connects to your local Ollama models. Create, manage, and interact with RAG systems for all your document needs.
 - [veasion/AiPPT](https://github.com/veasion/AiPPT) - AI 智能生成 PPT，通过主题/文件/网址等方式生成PPT，支持原生图表、动画、3D特效等复杂PPT的解析和渲染，支持用户自定义模板，支持智能添加动画，可在线体验。AI generates PowerPoint Presentation, Supports parsing and rendering of complex PPT features such as native charts, a
 - [johe123qwe/github-trending](https://github.com/johe123qwe/github-trending) - 定时抓取 Github Trending
-- [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 4.
+- [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Open Source perplexity alternative.
 - [Plachtaa/seed-vc](https://github.com/Plachtaa/seed-vc) - zero-shot voice conversion & singing voice conversion, with real-time support
 - [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet) - A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.
 - [justrach/pathik](https://github.com/justrach/pathik) - 🛤️ Pathik - High-Performance Web Crawler ⚡
@@ -4637,7 +4667,7 @@
 - [suxf/xlsx2json](https://github.com/suxf/xlsx2json) - 让excel支持复杂的json格式, 将xlsx文件转成json以及csharp脚本。
 - [macydnah/office.yazi](https://github.com/macydnah/office.yazi) - Office documents previewer plugin for Yazi, using libreoffice (compatible with .docx, .xlsx, .pptx, .odt, .ods, .odp; and other file formats supported by the Office Open XML and OpenDocument standards
 - [AndroidWithRossyn/Excel-Manager-File-Organizer-Editor](https://github.com/AndroidWithRossyn/Excel-Manager-File-Organizer-Editor) - Seamlessly browse, search, and manage all your Excel files (.xls and .xlsx) with ease.
-- [seanpedrick-case/doc_redaction](https://github.com/seanpedrick-case/doc_redaction) - Redact PDF/image-based documents, or CSV/XLSX files using a graphical user interface
+- [seanpedrick-case/doc_redaction](https://github.com/seanpedrick-case/doc_redaction) - Redact PDF/image-based documents, Word, or CSV/XLSX files using a graphical user interface
 - [trentzz/vcf2xlsx](https://github.com/trentzz/vcf2xlsx) - CLI tool to convert a vcf file to excel (xlsx) file.
 - [dsnato/visualizador-excel-kivy](https://github.com/dsnato/visualizador-excel-kivy) - Aplicativo Kivy para visualizar arquivos Excel de forma dinâmica, com um layout ajustável e rolagem interativa. Permite carregar planilhas (.xls, .xlsx) e exibir dados em um grid com largura de coluna
 - [muscasoft/ExcelFuncties](https://github.com/muscasoft/ExcelFuncties) - Excel functies
@@ -4720,7 +4750,7 @@
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [Flomp/wanderer](https://github.com/Flomp/wanderer) - wanderer is a self-hosted trail database. Save your adventures!
 - [browser-use/web-ui](https://github.com/browser-use/web-ui) - 🖥️ Run AI Agent in your browser.
-- [amzxyz/rime_wanxiang](https://github.com/amzxyz/rime_wanxiang) - Rime万象拼音输入方案：标准版与增强版可选，词库基于AI筛选和语料辅助筛选精干高效，配合全新语法模型，输入不再纠结。PRO版本支持10种双拼，6种辅助码，并且可以扩展更多，支持中英混输，内置超级注释、带调全拼输入码显示、快符与重复上屏、候选手动排序、tips等功能扩展，大大增强使用体验。　　Q群：11033572
+- [amzxyz/rime_wanxiang](https://github.com/amzxyz/rime_wanxiang) - Rime万象拼音输入方案：标准版与增强版可选，词库基于AI筛选和语料辅助筛选精干高效，配合全新语法模型，输入不再纠结。PRO版本支持10种双拼，6种辅助码，可扩展。支持混合编码输入，内置超级注释、带调全拼输入码显示、快符、候选手动排序、tips、首选成对符号包裹等功能扩展，大大增强使用体验。　　Q群：11033572
 - [rss2email/rss2email](https://github.com/rss2email/rss2email) - Forward RSS feeds to your email address, community maintained
 - [julianpoy/RecipeSage](https://github.com/julianpoy/RecipeSage) - A Collaborative Recipe Keeper, Meal Planner, and Shopping List Organizer in PWA form.
 - [crazydan-studio/kuaizi-ime](https://github.com/crazydan-studio/kuaizi-ime) - 筷字输入法，一款按键布局精心设计的、输入高效且快捷的、适用于触屏设备的汉语拼音输入法
@@ -4757,7 +4787,6 @@
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [w-okada/voice-changer](https://github.com/w-okada/voice-changer) - リアルタイムボイスチェンジャー Realtime Voice Changer
 - [F0x1d/LogFox](https://github.com/F0x1d/LogFox) - Yet another LogCat reader for Android
-- [sadellie/unitto](https://github.com/sadellie/unitto) - 😎 Calculate and convert. Superior. Always.
 - [SamAmco/track-and-graph](https://github.com/SamAmco/track-and-graph) - An android app for tracking personal data and creating custom graphs
 - [minimal-manifest-twrp/platform_manifest_twrp_aosp](https://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp) - Minimal manifest for building TWRP for devices shipped with Android 10+
 - [orgzly-revived/orgzly-android-revived](https://github.com/orgzly-revived/orgzly-android-revived) - Outliner for taking notes and managing to-do lists
@@ -4774,7 +4803,6 @@
 - [InputShare/InputShare](https://github.com/InputShare/InputShare) - InputShare enables you to share the keyboard and mouse of your computer with an Android device via ADB in wired / wireless way.
 - [surge-synthesizer/surge](https://github.com/surge-synthesizer/surge) - Synthesizer plug-in (previously released as Vember Audio Surge)
 - [Rabbit-Spec/Surge](https://github.com/Rabbit-Spec/Surge) - Surge自用配置以及模块和脚本
-- [shub39/Grit](https://github.com/shub39/Grit) - 🔨 A Simple todo list and habit tracker for Android
 - [sakshisiri/Daily-practice](https://github.com/sakshisiri/Daily-practice) - Solving Daily One Ques In SQL, Python, Excel
 - [robert/PyMyFlySpy](https://github.com/robert/PyMyFlySpy) - Track your flight using its headrest data
 - [towerstreet/IPTV-TVBOX](https://github.com/towerstreet/IPTV-TVBOX) - 互联网搜集的各位大佬维护的IPTV,自用。
@@ -5090,7 +5118,6 @@
 - [ledger/ledger-mode](https://github.com/ledger/ledger-mode) - Emacs Lisp files for interacting with the C++Ledger accounting system
 - [plaintextaccounting/plaintextaccounting](https://github.com/plaintextaccounting/plaintextaccounting) - The plaintextaccounting.org website, a portal to Ledger, hledger, beancount and co. Also the PTA wiki.
 - [beancount/fava](https://github.com/beancount/fava) - Fava - web interface for Beancount
-- [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi
 - [axi0mX/ipwndfu](https://github.com/axi0mX/ipwndfu) - open-source jailbreaking tool for many iOS devices
 - [o2oa/o2oa](https://github.com/o2oa/o2oa) - 开源OA系统 - 码云GVP|Java开源oa|企业OA办公平台|企业OA|协同办公OA|流程平台OA|O2OA|OA，支持国产麒麟操作系统和国产数据库（达梦、人大金仓），政务OA，军工信息化OA
 - [RoadTripMoustache/kana_to_kanji](https://github.com/RoadTripMoustache/kana_to_kanji) - Simple application to learn Japanese kana (hiragana, katakana) and kanji
@@ -5291,7 +5318,7 @@
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [ChrisTitusTech/Top-5-Bootloader-Themes](https://github.com/ChrisTitusTech/Top-5-Bootloader-Themes) - Bash script to automatically change GRUB to listed themes
 - [xCuri0/ReBarUEFI](https://github.com/xCuri0/ReBarUEFI) - Resizable BAR for (almost) any UEFI system
-- [limine-bootloader/limine](https://github.com/limine-bootloader/limine) - Modern, advanced, portable, multiprotocol bootloader and boot manager. (Mirror of https://codeberg.org/Limine/Limine)
+- [limine-bootloader/limine](https://github.com/limine-bootloader/limine) - Modern, advanced, portable, multiprotocol bootloader and boot manager. (Official mirror of https://codeberg.org/Limine/Limine)
 - [hiyohiyo/CrystalDiskInfo](https://github.com/hiyohiyo/CrystalDiskInfo) - CrystalDiskInfo
 - [Kiprey/DiskGeniusCrack](https://github.com/Kiprey/DiskGeniusCrack) - DiskGenius
 - [VandalByte/darkmatter-grub2-theme](https://github.com/VandalByte/darkmatter-grub2-theme) - Dark Matter GRUB Theme  👾💙
@@ -5399,7 +5426,6 @@
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [mattboldt/typed.js](https://github.com/mattboldt/typed.js) - A JavaScript Typing Animation Library
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
-- [hadronized/kak-tree-sitter](https://github.com/hadronized/kak-tree-sitter) - tree-sitter meets Kakoune
 - [Yevhen-Tkachenko-1/SQL-Development-Demo](https://github.com/Yevhen-Tkachenko-1/SQL-Development-Demo) - Learn and play with SQL Database: make query for data reading, creating, updating, deleting
 - [2anki/server](https://github.com/2anki/server) - Server to create Anki flashcards faster, easier and better today ⭐️
 - [danielt998/HanziToAnki](https://github.com/danielt998/HanziToAnki) - This is a program that takes a Chinese text as input and converts it to an Anki Deck
@@ -5860,7 +5886,7 @@
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [HiMeditator/auto-caption](https://github.com/HiMeditator/auto-caption) - A cross-platform real-time subtitle display software. 一个跨平台的实时字幕显示软件。
 - [gboeing/osmnx](https://github.com/gboeing/osmnx) - Download, model, analyze, and visualize street networks and other geospatial features from OpenStreetMap.
-- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，趋势分析工具，一键监控抖音、知乎、哔哩哔哩、今日头条、百度热搜、贴吧、微博、华尔街见闻、财联社等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram、邮件推送，30秒网页部署，1分钟手机通知，无需编程基础。也支持docker私人部署⭐ 让算法为你服务，而非被算法绑架
+- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，趋势分析工具，一键监控抖音、知乎、哔哩哔哩、今日头条、百度热搜、贴吧、微博、华尔街见闻、财联社等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram、邮件、ntfy推送，30秒网页部署，1分钟手机通知，无需编程基础。也支持docker私人部署⭐ 让算法为你服务，而非被算法绑架
 - [ColdWindScholar/MIO-KITCHEN-SOURCE](https://github.com/ColdWindScholar/MIO-KITCHEN-SOURCE) - An Android Rom Tool in python
 - [AnswerDotAI/nbdev](https://github.com/AnswerDotAI/nbdev) - Create delightful software with Jupyter Notebooks
 - [EdwardLab/flyos](https://github.com/EdwardLab/flyos) - Unleash your mobile phone's potential: it's not just a phone, but a pocket-sized computer.
@@ -6448,7 +6474,7 @@
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [skim-rs/skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust!
 - [kolynzb/rust-lang-simplified](https://github.com/kolynzb/rust-lang-simplified) - Simplifying Rust programming for beginners. It contains easy-to-follow code examples and tutorials that cover everything from basic syntax to advanced topics such as asynchronous programming and syste
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 🤱🏻 一键打包网页生成轻量桌面应用。
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
 
 ## sass 
 
@@ -6518,7 +6544,7 @@
 - [pldubouilh/gossa](https://github.com/pldubouilh/gossa) - 🎶 a fast and simple multimedia fileserver
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
-- [lin-snow/Ech0](https://github.com/lin-snow/Ech0) - Ech0 - 开源、自托管、专注思想流动的轻量级发布平台
+- [lin-snow/Ech0](https://github.com/lin-snow/Ech0) - Ech0 - 面向个人的新一代开源、自托管、专注思想流动的轻量级联邦发布平台
 - [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
 - [Gurubase/gurubase](https://github.com/Gurubase/gurubase) - Turn Your Content Into a 24/7 AI Support Assistant
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
@@ -6537,7 +6563,7 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet.
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system.
-- [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+- [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [wabarc/wayback](https://github.com/wabarc/wayback) - An archiving tool with an IM-style interface that prioritizes privacy and accessibility, integrated with various archival services including Internet Archive, archive.today, Ghostarchive, IPFS, Telegr
 - [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - The to-do app to organize your life.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -6647,7 +6673,7 @@
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [Breeze0806/go-etl](https://github.com/Breeze0806/go-etl) - go-etl is a toolset for data extraction, transformation and loading.
-- [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso Database is a project to build the next evolution of SQLite.
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
 - [cunnane/xloil](https://github.com/cunnane/xloil) - xlOil provides framework for interacting with Excel in different programming languages (python & C++ currently)
 - [nao1215/sqly](https://github.com/nao1215/sqly) - eaisly execute SQL against CSV/TSV/LTSV/JSON and Microsoft Excel™ with shell.
 - [tansen87/InsightSQL](https://github.com/tansen87/InsightSQL) - Rust Data Processing Toolbox
@@ -6721,7 +6747,7 @@
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [mayneyao/eidos](https://github.com/mayneyao/eidos) - An extensible framework for Personal Data Management.
 - [Kalulukj/TimeIsMoney](https://github.com/Kalulukj/TimeIsMoney) - Simple app for notes, schedules, and expense tracking – all in one place.
-- [lin-snow/Ech0](https://github.com/lin-snow/Ech0) - Ech0 - 开源、自托管、专注思想流动的轻量级发布平台
+- [lin-snow/Ech0](https://github.com/lin-snow/Ech0) - Ech0 - 面向个人的新一代开源、自托管、专注思想流动的轻量级联邦发布平台
 - [chapmanjacobd/library](https://github.com/chapmanjacobd/library) - 99+ CLI tools to build, browse, and blend your media library
 - [sonhmai/how-sqlite-works](https://github.com/sonhmai/how-sqlite-works) - A Book about how SQLite works. Rewriting SQLite in Rust for Learning and Fun and writing a book I wished I had when started.
 - [andreped/IronFlow](https://github.com/andreped/IronFlow) - 📳 IronFlow: Cross-platform mobile app for strength training progress tracking
@@ -6877,7 +6903,7 @@
 
 ## telegram-bot 
 
-- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，趋势分析工具，一键监控抖音、知乎、哔哩哔哩、今日头条、百度热搜、贴吧、微博、华尔街见闻、财联社等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram、邮件推送，30秒网页部署，1分钟手机通知，无需编程基础。也支持docker私人部署⭐ 让算法为你服务，而非被算法绑架
+- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，趋势分析工具，一键监控抖音、知乎、哔哩哔哩、今日头条、百度热搜、贴吧、微博、华尔街见闻、财联社等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram、邮件、ntfy推送，30秒网页部署，1分钟手机通知，无需编程基础。也支持docker私人部署⭐ 让算法为你服务，而非被算法绑架
 - [telegram-sms/telegram-sms](https://github.com/telegram-sms/telegram-sms) - An SMS-forwarding Robot Running on Your Android Device.
 - [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram toolkit written in Golang
 - [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2025最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】
@@ -7219,6 +7245,26 @@
 - [DiemasMichiels/emulator](https://github.com/DiemasMichiels/emulator) - Run Android emulator and iOS simulator easily from VScode!
 - [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) - Windows 10/11 Guide. Including Windows Security tools, Encryption, Nextcloud, Graphics, Gaming, Virtualization, Windows Subsystem for Linux (WSL 2), Software Apps, and Resources.
 
+## visualization 
+
+- [noriah/catnip](https://github.com/noriah/catnip) - terminal audio visualizer for linux/unix/macOS/windblows*
+- [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
+- [fonsp/Pluto.jl](https://github.com/fonsp/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
+- [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
+- [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi
+- [root-project/root](https://github.com/root-project/root) - The official repository for ROOT: analyzing, storing and visualizing big data, scientifically
+- [shervinea/mit-15-003-data-science-tools](https://github.com/shervinea/mit-15-003-data-science-tools) - Study guides for MIT's 15.003 Data Science Tools
+- [penrose/penrose](https://github.com/penrose/penrose) - Create beautiful diagrams just by typing notation in plain text.
+- [vaexio/vaex](https://github.com/vaexio/vaex) - Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second 🚀
+- [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
+- [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from  Python
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
+- [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
+- [lana-k/sqliteviz](https://github.com/lana-k/sqliteviz) - Instant offline SQL-powered data visualisation in your browser
+- [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
+- [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
+- [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your dataframe into an interactive UI for visual analysis
+
 ## vpn 
 
 - [igoogolx/lux](https://github.com/igoogolx/lux) - A light desktop proxy app
@@ -7242,7 +7288,7 @@
 
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [KiWi233333/JiwuChat](https://github.com/KiWi233333/JiwuChat) - JiwuChat 🍂 : 轻量级跨平台IM聊天应用，集成AI机器人( DeepSeek/Gemini/Kimi... )、音视频通话及AI购物。支持多端消息同步，自定义主题，高效便捷  🍒
-- [lin-snow/Ech0](https://github.com/lin-snow/Ech0) - Ech0 - 开源、自托管、专注思想流动的轻量级发布平台
+- [lin-snow/Ech0](https://github.com/lin-snow/Ech0) - Ech0 - 面向个人的新一代开源、自托管、专注思想流动的轻量级联邦发布平台
 - [sweetwisdom/onlyoffice-web-local](https://github.com/sweetwisdom/onlyoffice-web-local) - vue-office, Perform common file preview and editing via the web.
 - [nicejade/markdown-online-editor](https://github.com/nicejade/markdown-online-editor) - 📝 基于 Vue2、Vditor，所构建的在线 Markdown 编辑器，支持绘制流程图、甘特图、时序图、任务列表、echarts 图表、五线谱，以及 PPT 预览、视频音频解析、HTML 自动转换为 Markdown 等功能。https://www.niceshare.site/
 - [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
@@ -7326,6 +7372,10 @@
 - [DiamonWoo/Laosheng.top](https://github.com/DiamonWoo/Laosheng.top) - 老生常谈，节约您的搜寻时间。Laosheng.top 一带一路民间站，全球免费云媒体，五大洲的报纸、电视、通讯社；The Belt and Road Cloud Media。　外交国别速查表，央企股票全家福。高等院校三千所，国际组织四大类。　解放军微博阵列，大萌法律读本。老生常谈排行榜，难搜到的好网站。　LSIP 大规模集成网页。😤
 - [baotlake/periodic-table-pro](https://github.com/baotlake/periodic-table-pro) - 元素周期表Pro，高颜值化学必备小程序，提供全面的元素属性、图片和百科知识等
 - [ramon-victor/freegpt-webui](https://github.com/ramon-victor/freegpt-webui) - GPT 3.5/4 with a Chat Web UI. No API key required.
+
+## whatsapp-bot 
+
+- [NeoKode/quantum-bot](https://github.com/NeoKode/quantum-bot) - Bot designed for a friendly, fun and simple audience. It was prioritized to be run in termux from Android with basic javascript (I don't study programming, but it's fun to do this muahahaha :v), thank
 
 ## windows 
 
@@ -7437,7 +7487,7 @@
 - [laishulu/emacs-smart-input-source](https://github.com/laishulu/emacs-smart-input-source) - Minimize manual input source (input method) switching.
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [WoeUSB/WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng) - WoeUSB-ng is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. This is a rewrite of original WoeUSB.
-- [mahdi-al-mutaallim/msmg-toolkit](https://github.com/mahdi-al-mutaallim/msmg-toolkit) - This is an UnOfficial backup repository for MSMG Toolkit.
+- [madebymehedi/msmg-toolkit](https://github.com/madebymehedi/msmg-toolkit) - This is an UnOfficial backup repository for MSMG Toolkit.
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 - [Macro-Deck-App/Macro-Deck](https://github.com/Macro-Deck-App/Macro-Deck) - Macro Deck transforms your phone, tablet, or any device equipped with a modern internet browser into an efficient remote macro pad. With this tool, you can execute single or multi-step actions seamles
 - [mittelmark/microemacs](https://github.com/mittelmark/microemacs) - Modern Jasspa's Microemacs fork -  based on  Dave Conroy and Daniel Lawrences code.  Text editor with GUI and terminal mode, with syntax highlighting, folding, outlines, abbreviations, own extension l
@@ -7473,7 +7523,7 @@
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
 - [tiddly-gittly/TidGi-Desktop](https://github.com/tiddly-gittly/TidGi-Desktop) - TidGi is an privacy-in-mind, automated, auto-git-backup, freely-deployed knowledge management Desktop note app, based on Tiddlywiki, with REST API for web-clipping and Anki connect. 「 太记 」是一个基于「 太微 Ti
 - [pit-ray/win-vind](https://github.com/pit-ray/win-vind) - You can operate Windows with key bindings like Vim.
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 🤱🏻 一键打包网页生成轻量桌面应用。
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
 
 ## xml 
 
