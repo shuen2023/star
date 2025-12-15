@@ -425,7 +425,7 @@
 - [URUWorks/TeroSubtitler](https://github.com/URUWorks/TeroSubtitler) - Tero Subtitler is an open source, cross-platform, and free subtitle editing software.
 - [InkTimeRecord/TTime](https://github.com/InkTimeRecord/TTime) - 🚀 Screenshots, word marking, OCR, AI, translation software || 截图、划词、文字识别、AI、翻译软件
 - [J0K3Rn/Bardarin](https://github.com/J0K3Rn/Bardarin) - Utilize LLM’s to help in your language studies! Uses Google's Bard to generate sentences from the 1000 most common words in Chinese (Mandarin) to study. Provides English translations and pinyin. Gener
-- [LjyYano/Thinking_in_Java_MindMapping](https://github.com/LjyYano/Thinking_in_Java_MindMapping) - 编程笔记、观影指南、读书笔记、生活感悟、Switch 游戏
+- [LjyYano/Thinking_in_Java_MindMapping](https://github.com/LjyYano/Thinking_in_Java_MindMapping) - 编程笔记、 AI 学习、观影指南、读书笔记、生活感悟、游戏记录
 - [mylxsw/aidea](https://github.com/mylxsw/aidea) - AIdea 是一款支持 GPT  以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - Postgres with GPUs for ML/AI apps.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
@@ -1249,7 +1249,7 @@
 - [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是
 - [curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain) - LangChain & Prompt Engineering tutorials on Large Language Models (LLMs) such as ChatGPT with custom data. Jupyter notebooks on loading and indexing data, creating prompt templates, CSV agents, and us
 - [eko234/geppeto](https://github.com/eko234/geppeto) - Makes your editor a "real boy", use chat gpt trough fifos with kakoune, (or without it if you need it...)
-- [LjyYano/Thinking_in_Java_MindMapping](https://github.com/LjyYano/Thinking_in_Java_MindMapping) - 编程笔记、观影指南、读书笔记、生活感悟、Switch 游戏
+- [LjyYano/Thinking_in_Java_MindMapping](https://github.com/LjyYano/Thinking_in_Java_MindMapping) - 编程笔记、 AI 学习、观影指南、读书笔记、生活感悟、游戏记录
 - [ading2210/poe-api](https://github.com/ading2210/poe-api) - [UNMAINTAINED] A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
 - [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - ChatGPT interface with better UI
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
@@ -1381,7 +1381,7 @@
 - [ElliotKillick/rss2newsletter](https://github.com/ElliotKillick/rss2newsletter) - Convert RSS/Atom feed to email newsletters
 - [szktkfm/clipy](https://github.com/szktkfm/clipy) - clipy: Manage Your Clipboard History
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A portable and hackable fuzzy finder for the terminal.
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder for the terminal.
 - [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string
 - [gptme/gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
 - [viasite/site-audit-seo](https://github.com/viasite/site-audit-seo) - Web service and CLI tool for SEO site audit: crawl site, lighthouse all pages, view public reports in browser. Also output to console, json, csv, xlsx
@@ -1525,7 +1525,7 @@
 
 ## compiler 
 
-- [ring-lang/ring](https://github.com/ring-lang/ring) - Simple and flexible programming language for applications development
+- [ring-lang/ring](https://github.com/ring-lang/ring) - A simple, lightweight, flexible, embeddable, portable and multi-paradigm dynamic programming language for developing applications, tools, and domain-specific languages
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
 - [clasp-developers/clasp](https://github.com/clasp-developers/clasp) - clasp Common Lisp environment
 - [Konloch/bytecode-viewer](https://github.com/Konloch/bytecode-viewer) - A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)
@@ -2438,7 +2438,7 @@
 
 ## games 
 
-- [ring-lang/ring](https://github.com/ring-lang/ring) - Simple and flexible programming language for applications development
+- [ring-lang/ring](https://github.com/ring-lang/ring) - A simple, lightweight, flexible, embeddable, portable and multi-paradigm dynamic programming language for developing applications, tools, and domain-specific languages
 
 ## gaming 
 
@@ -3169,7 +3169,7 @@
 - [forthespada/CS-Books](https://github.com/forthespada/CS-Books) - 🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~
 - [SPLWare/esProc](https://github.com/SPLWare/esProc) - esProc SPL is a JVM-based programming language designed for structured data computation, serving as both a data analysis tool and an embedded computing engine.
 - [mapsforge/mapsforge](https://github.com/mapsforge/mapsforge) - Vector map library and writer - running on Android and Desktop.
-- [LjyYano/Thinking_in_Java_MindMapping](https://github.com/LjyYano/Thinking_in_Java_MindMapping) - 编程笔记、观影指南、读书笔记、生活感悟、Switch 游戏
+- [LjyYano/Thinking_in_Java_MindMapping](https://github.com/LjyYano/Thinking_in_Java_MindMapping) - 编程笔记、 AI 学习、观影指南、读书笔记、生活感悟、游戏记录
 - [Estom/notes](https://github.com/Estom/notes) - 一个码农的毕生所学!笔记 & 教程。考研,就业,上学.语言篇，Android,C++,Java,JavaScript,Latex,MATLAB,NodeJS,PHP,Python,技术篇,docker,git,Linux,Maven,office,Spark,Spring,SVN,基础篇,编译原理,操作系统,单片机,计算机网络,计算机网络实验,架构模式,软件文档写作,设计模式,数据结构,数据库,算
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
 - [asciidocfx/AsciidocFX](https://github.com/asciidocfx/AsciidocFX) - Asciidoc Editor and Toolchain written with JavaFX 21 (Build PDF, Epub, Mobi and HTML books, documents and slides)
@@ -3477,7 +3477,7 @@
 - [v1tzor/TimePlanner](https://github.com/v1tzor/TimePlanner) - Mobile app for planning tasks for the day with multimodule architecture, MVI, Compose, Room, Voyager, AlarmManager, Notification, Charts
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full-featured audio/video downloader for Android using yt-dlp
 - [keymapperorg/KeyMapper](https://github.com/keymapperorg/KeyMapper) - An Android app to remap the buttons on your devices
-- [LjyYano/Thinking_in_Java_MindMapping](https://github.com/LjyYano/Thinking_in_Java_MindMapping) - 编程笔记、观影指南、读书笔记、生活感悟、Switch 游戏
+- [LjyYano/Thinking_in_Java_MindMapping](https://github.com/LjyYano/Thinking_in_Java_MindMapping) - 编程笔记、 AI 学习、观影指南、读书笔记、生活感悟、游戏记录
 - [Yorick-Ryu/SharedNotes](https://github.com/Yorick-Ryu/SharedNotes) - A note-taking application that supports real-time sharing, Markdown syntax, and supports Android platform and Desktop platform (Windows, MacOS, Linux).
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
 - [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
@@ -3508,7 +3508,7 @@
 
 ## language 
 
-- [ring-lang/ring](https://github.com/ring-lang/ring) - Simple and flexible programming language for applications development
+- [ring-lang/ring](https://github.com/ring-lang/ring) - A simple, lightweight, flexible, embeddable, portable and multi-paradigm dynamic programming language for developing applications, tools, and domain-specific languages
 - [knadh/dictpress](https://github.com/knadh/dictpress) - A stand-alone web server application for building and publishing full fledged dictionary websites and APIs for any language.
 - [jancarauma/palaviva](https://github.com/jancarauma/palaviva) - Learning with texts (LWT) open-source language app that tracks word familiarity and translations while reading articles.
 - [yoav-lavi/melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more readable and maintainable
@@ -3587,7 +3587,7 @@
 - [Alex313031/thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
 - [lukehaas/RunJS](https://github.com/lukehaas/RunJS) - RunJS is a JavaScript playground for macOS, Windows and Linux. Write code with instant feedback and access to Node.js and browser APIs.
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible
-- [ring-lang/ring](https://github.com/ring-lang/ring) - Simple and flexible programming language for applications development
+- [ring-lang/ring](https://github.com/ring-lang/ring) - A simple, lightweight, flexible, embeddable, portable and multi-paradigm dynamic programming language for developing applications, tools, and domain-specific languages
 - [byrantech/laptop](https://github.com/byrantech/laptop) - anyon_e, a highly integrated, high end, open source laptop. Attempt the impossible.
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
 - [AlfredoSequeida/hints](https://github.com/AlfredoSequeida/hints) - Hints lets you navigate GUI applications in Linux without your mouse by displaying "hints" you can type on your keyboard to interact with GUI elements.
@@ -3912,7 +3912,7 @@
 - [robertZaufall/mindmanager_ai](https://github.com/robertZaufall/mindmanager_ai) - MindManager AI Integration on Windows and macOS
 - [lukehaas/RunJS](https://github.com/lukehaas/RunJS) - RunJS is a JavaScript playground for macOS, Windows and Linux. Write code with instant feedback and access to Node.js and browser APIs.
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
-- [ring-lang/ring](https://github.com/ring-lang/ring) - Simple and flexible programming language for applications development
+- [ring-lang/ring](https://github.com/ring-lang/ring) - A simple, lightweight, flexible, embeddable, portable and multi-paradigm dynamic programming language for developing applications, tools, and domain-specific languages
 - [bggRGjQaUbCoE/PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) - PiliPlus
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 - [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 跨平台互动桌宠 BongoCat，为桌面增添乐趣！
@@ -4145,7 +4145,7 @@
 
 ## mobile 
 
-- [ring-lang/ring](https://github.com/ring-lang/ring) - Simple and flexible programming language for applications development
+- [ring-lang/ring](https://github.com/ring-lang/ring) - A simple, lightweight, flexible, embeddable, portable and multi-paradigm dynamic programming language for developing applications, tools, and domain-specific languages
 - [ThePalaceProject/android-binaries](https://github.com/ThePalaceProject/android-binaries) - Binaries for most recent builds of the Android app
 - [darkmoonight/Zest](https://github.com/darkmoonight/Zest) - 📝 Task management application
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
@@ -4681,6 +4681,7 @@
 
 ## others 
 
+- [lzwme/scoop-proxy-cn](https://github.com/lzwme/scoop-proxy-cn) - 适合中国大陆的 Scoop buckets 代理镜像库。从多个开源 bucket 仓库同步更新，包含应用 1.6w+。
 - [y9nhjy/Proxifier-Keygen](https://github.com/y9nhjy/Proxifier-Keygen) - Proxifier注册机
 - [lyc0826/COMIGHT](https://github.com/lyc0826/COMIGHT) - A productivity tool offering a wide range of functions to streamline office work and automate repetitive tasks, including batch processing of Excel worksheets, formatting Word documents, and managing 
 - [ECP-Solutions/VBA-Expressions](https://github.com/ECP-Solutions/VBA-Expressions) - A powerful library extending VBA with over 100 functions for math, stats, finance, and data manipulation. It supports matrix operations, and user-defined functions, enhancing automation and analysis w
@@ -4774,7 +4775,7 @@
 - [Knowckx/text-calcer](https://github.com/Knowckx/text-calcer) - Text Calculator, A text expression calculate tool
 - [prompt-toolkit/python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
 - [platonai/Browser4](https://github.com/platonai/Browser4) - Browser4: a lightning-fast, coroutine-safe browser for your AI.
-- [phodal/auto-dev](https://github.com/phodal/auto-dev) - 🧙‍AutoDev: The AI-powered coding wizard（AI  驱动编程助手）with multilingual support 🌐, auto code generation 🏗️, and a helpful bug-slaying assistant 🐞! Customizable prompts 🎨 and a magic Auto Dev/Testing/Docu
+- [phodal/auto-dev](https://github.com/phodal/auto-dev) - 🧙‍AutoDev: The AI-powered coding wizard（AI  驱动编程助手）agent,  One Platform. All Phases. Every Device.
 - [forskscope/quick-diff-me](https://github.com/forskscope/quick-diff-me) - Quick Diff (unified diff) on Microsoft Excel viewer written in Rust as Iced GUI app
 - [lopinx/msdn-images-update](https://github.com/lopinx/msdn-images-update) - 微软官方原版镜像：包括操作系统Microsoft Windows和办公软件Microsoft Office
 - [HobbitDur/IfritXlsx](https://github.com/HobbitDur/IfritXlsx) - FF Monster editor using excel/libre office
@@ -5153,7 +5154,7 @@
 - [whyorean/AuroraStore](https://github.com/whyorean/AuroraStore) - 
 - [ImagineAILab/ai-by-hand-excel](https://github.com/ImagineAILab/ai-by-hand-excel) - 
 - [chirlu/sox](https://github.com/chirlu/sox) - SoX, Swiss Army knife of sound processing
-- [LLOneBot/LLOneBot](https://github.com/LLOneBot/LLOneBot) - 支持 OneBot 11、Satori 和 Milky 协议
+- [LLOneBot/LuckyLilliaBot](https://github.com/LLOneBot/LuckyLilliaBot) - 支持 OneBot 11、Satori 和 Milky 协议
 - [LLOneBot/llonebot-termux](https://github.com/LLOneBot/llonebot-termux) - 在手机上部署 LLOneBot
 - [zim-desktop-wiki/zim-desktop-wiki](https://github.com/zim-desktop-wiki/zim-desktop-wiki) - Main repository of the zim desktop wiki project
 - [kyutai-labs/moshi](https://github.com/kyutai-labs/moshi) - Moshi is a speech-text foundation model and full-duplex spoken dialogue framework. It uses Mimi, a state-of-the-art streaming neural audio codec.
@@ -6041,7 +6042,7 @@
 
 ## programming-language 
 
-- [ring-lang/ring](https://github.com/ring-lang/ring) - Simple and flexible programming language for applications development
+- [ring-lang/ring](https://github.com/ring-lang/ring) - A simple, lightweight, flexible, embeddable, portable and multi-paradigm dynamic programming language for developing applications, tools, and domain-specific languages
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
 - [AmyangXYZ/MMD-MPL](https://github.com/AmyangXYZ/MMD-MPL) - Motion programming language
 - [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
@@ -6617,7 +6618,7 @@
 - [gsidhu/buzee-tauri](https://github.com/gsidhu/buzee-tauri) - A superfast full-text search application
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A portable and hackable fuzzy finder for the terminal.
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder for the terminal.
 - [fastn-stack/fastn](https://github.com/fastn-stack/fastn) - 🚧 (Alpha stage software) fastn 🏎️ - better way to build websites 🚧
 - [nushell/reedline](https://github.com/nushell/reedline) - A feature-rich line editor - powering Nushell
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
@@ -6911,7 +6912,7 @@
 
 - [sudochmod777tanakrit/terminal-kanban](https://github.com/sudochmod777tanakrit/terminal-kanban) - ✨ Collaborate with flair using a Kanban board right in your terminal! 🖥️  TerminalKanban brings the power of visual task management to your command line, making project coordination both productive an
 - [macrozheng/mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
-- [LjyYano/Thinking_in_Java_MindMapping](https://github.com/LjyYano/Thinking_in_Java_MindMapping) - 编程笔记、观影指南、读书笔记、生活感悟、Switch 游戏
+- [LjyYano/Thinking_in_Java_MindMapping](https://github.com/LjyYano/Thinking_in_Java_MindMapping) - 编程笔记、 AI 学习、观影指南、读书笔记、生活感悟、游戏记录
 
 ## spring-boot 
 
@@ -7193,7 +7194,7 @@
 - [termux-play-store/termux-apps](https://github.com/termux-play-store/termux-apps) - Source for the Termux build on Google Play.
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A portable and hackable fuzzy finder for the terminal.
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder for the terminal.
 - [GiorgosXou/TUIFIManager](https://github.com/GiorgosXou/TUIFIManager) - A cross-platform terminal-based termux-oriented file manager (and component), meant to be used with a Uni-Curses project or as is.
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [bajrangCoder/acode-plugin-acodex](https://github.com/bajrangCoder/acode-plugin-acodex) - AcodeX - A Terminal plugin for Acode App
@@ -7592,7 +7593,7 @@
 - [sensepost/gowitness](https://github.com/sensepost/gowitness) - 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
 - [BrowserWorks/waterfox](https://github.com/BrowserWorks/waterfox) - The official Waterfox 💧 source code repository
 - [MultiMote/niimblue](https://github.com/MultiMote/niimblue) - 🖨 NIIMBOT custom web client/app. Design and print labels with NIIMBOT printers directly from your PC or mobile web browser!
-- [ring-lang/ring](https://github.com/ring-lang/ring) - Simple and flexible programming language for applications development
+- [ring-lang/ring](https://github.com/ring-lang/ring) - A simple, lightweight, flexible, embeddable, portable and multi-paradigm dynamic programming language for developing applications, tools, and domain-specific languages
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
 - [RavelloH/EverydayNews](https://github.com/RavelloH/EverydayNews) - 新版的EverydayNews，存储2022/06/04至今的所有每日60s新闻，以JSON格式存放，每日更新，自带搜索功能，可RSS订阅，提供API
 - [owlman/CS_StudyNotes](https://github.com/owlman/CS_StudyNotes) - 基于 Obsidian 系统构建的计算机专业学习/研究笔记
@@ -7661,7 +7662,7 @@
 - [sbroenne/mcp-server-excel](https://github.com/sbroenne/mcp-server-excel) - Excel MCP Server & CLI - 12 tools, 180 operations for AI-powered Excel automation via COM API
 - [lukehaas/RunJS](https://github.com/lukehaas/RunJS) - RunJS is a JavaScript playground for macOS, Windows and Linux. Write code with instant feedback and access to Node.js and browser APIs.
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
-- [ring-lang/ring](https://github.com/ring-lang/ring) - Simple and flexible programming language for applications development
+- [ring-lang/ring](https://github.com/ring-lang/ring) - A simple, lightweight, flexible, embeddable, portable and multi-paradigm dynamic programming language for developing applications, tools, and domain-specific languages
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 - [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP) - MCP Server for Computer Use in Windows
