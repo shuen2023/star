@@ -447,7 +447,6 @@
 - [grame-cncm/faust](https://github.com/grame-cncm/faust) - Functional programming language for signal processing and sound synthesis
 - [junuo-S/WeChatMsgDump](https://github.com/junuo-S/WeChatMsgDump) - 微信数据库解密、展示、分析、导出等
 - [senlinmuvs/xxmoon](https://github.com/senlinmuvs/xxmoon) - xxmoon摘月——信息收藏、Kindle/微信读书/豆瓣阅读笔记管理
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [IgKh/katvan](https://github.com/IgKh/katvan) - A bare-bones editor for Typst files, with a bias for Right-to-Left editing
 - [Lymphatus/caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor) - Caesium is an image compression software that helps you store, send and share digital pictures, supporting JPG, PNG, WebP and TIFF formats.   You can quickly reduce the file size (and resolution, if y
 - [progweb/gpx2video](https://github.com/progweb/gpx2video) - Creating video with telemetry overlay from GPX data
@@ -919,7 +918,6 @@
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [GGP1/kure](https://github.com/GGP1/kure) - CLI password manager with sessions
-- [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted platform for sharing and managing your most frequently used links. Easily create customizable, human-readable shortcuts to streamline your link management.
 - [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬
 - [gobuffalo/pop](https://github.com/gobuffalo/pop) - A Tasty Treat For All Your Database Needs
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
@@ -951,7 +949,6 @@
 ## HTML 
 
 - [campfirium/Mneme](https://github.com/campfirium/Mneme) - An Anki template built for immersion and audio-first learning, with a clean and thoughtful visual design
-- [kbtxwer/IELTS](https://github.com/kbtxwer/IELTS) - 剑桥雅思
 - [5mdld/anki-english-60k-decks](https://github.com/5mdld/anki-english-60k-decks) - An extensive Anki deck of 60,000 high-frequency English words with definitions, examples, and audio from Merriam-Webster's Learner's Dictionary.
 - [terroo/terroo.github.io](https://github.com/terroo/terroo.github.io) - Terminal Root English version
 - [sweetwisdom/onlyoffice-web-local](https://github.com/sweetwisdom/onlyoffice-web-local) - vue-office, Perform common file preview and editing via the web.
@@ -1003,7 +1000,7 @@
 - [word-hunter/word-hunter](https://github.com/word-hunter/word-hunter) - lookup and highlight english words on any web page
 - [eucesar/Course-Sap-Erp-Abap](https://github.com/eucesar/Course-Sap-Erp-Abap) - 🌱📚 - The ABAP course covered everything from the fundamentals of the language to advanced topics such as object-oriented programming, user interfaces and performance optimization. I acquired skills to
 - [zserge/awfice](https://github.com/zserge/awfice) - The world smallest office suite
-- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程。
+- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程/英语学习/学英语
 - [joric/nrfmicro](https://github.com/joric/nrfmicro) - A Pro Micro alternative for wireless keyboards
 - [tinyboxxx/TiBoard](https://github.com/tinyboxxx/TiBoard) - TiBoard的硬件部分及说明文件
 - [sdwh/tsmc](https://github.com/sdwh/tsmc) - tsmc english vocabulary practices 😎
@@ -1224,6 +1221,7 @@
 - [DJB-Developer/wechat-android-history-versions](https://github.com/DJB-Developer/wechat-android-history-versions) - 微信Android 微信安卓版 微信安卓 历史版本 官方下载地址
 - [kscript/markdown-download](https://github.com/kscript/markdown-download) - 谷歌浏览器插件: 将掘金、知乎、思否、简书、博客园、微信公众号、开源中国、CSDN的文章转为markdown文档并下载
 - [PizazzGY/TVBox_warehouse](https://github.com/PizazzGY/TVBox_warehouse) - 
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [chatgptuk/Real-US-Address-Generator](https://github.com/chatgptuk/Real-US-Address-Generator) - 
 - [omaha-consulting/winstall](https://github.com/omaha-consulting/winstall) - A web app for browsing and installing Windows Package Manager apps.
 - [Chadwuo/li-ji-weapp](https://github.com/Chadwuo/li-ji-weapp) - 专注于记录和管理人情往来中的随礼、收礼、份子钱、礼金、心意、礼物、红包等，多维度查询和统计亲友间的往来记录，家人共享记账，你贴心的人情往来数字记账伙伴。
@@ -1311,7 +1309,7 @@
 - [LeaVerou/rety](https://github.com/LeaVerou/rety) - Record typing on one or more editors and replay it at will, to simulate live coding
 - [klaudiosinani/taskbook](https://github.com/klaudiosinani/taskbook) - Tasks, boards & notes for the command-line habitat
 - [fanmingming/live](https://github.com/fanmingming/live) - ✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: The Dropbox like web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: What Dropbox should have been if it was based on SFTP, S3, FTP, WebDAV, Git, and more
 - [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC client(linux, mac, win)
 - [retypeapp/retype](https://github.com/retypeapp/retype) - Retype is an ultra-high-performance static site generator that builds a website based on simple text files. Made in Canada 🇨🇦.
 - [Canop/miaou](https://github.com/Canop/miaou) - A chat server with OAuth2 authentication, persistent and searchable history, video and audio, markdown formatting, private and public rooms, stars, votes, embedded games, and many other features
@@ -1617,7 +1615,7 @@
 - [tuchg/ChinesePinyin-CodeCompletionHelper](https://github.com/tuchg/ChinesePinyin-CodeCompletionHelper) - 让你的 JetBrains 系 IDE ( IDEA ,PyCharm,PhpStorm,WebStorm,AndroidStudio,GoLand等 )支持中文标识符以拼音/五笔等输入方式完成代码补全，享受和英文环境一致的中文智能编码体验，为代码表达提供更多选择，一种值得考虑的折中解决方案📏
 - [soupslurpr/BeauTyXT](https://github.com/soupslurpr/BeauTyXT) - A beautiful, private, secure, and minimalistic Text, Markdown, and Typst editor.
 - [GuoXiCheng/SKIP](https://github.com/GuoXiCheng/SKIP) - 自动跳过APP开屏广告
-- [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
+- [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
 - [v1tzor/TimePlanner](https://github.com/v1tzor/TimePlanner) - Mobile app for planning tasks for the day with multimodule architecture, MVI, Compose, Room, Voyager, AlarmManager, Notification, Charts
 - [dessalines/thumb-key](https://github.com/dessalines/thumb-key) - A privacy-conscious Android keyboard made for your thumbs
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full-featured audio/video downloader for Android using yt-dlp
@@ -1767,7 +1765,6 @@
 - [ThePalaceProject/android-binaries](https://github.com/ThePalaceProject/android-binaries) - Binaries for most recent builds of the Android app
 - [tehtbl/awesome-note-taking](https://github.com/tehtbl/awesome-note-taking) - A curated list of awesome note-taking software.
 - [talhahasanzia/English-Thesaurus](https://github.com/talhahasanzia/English-Thesaurus) - :blue_book: English thesaurus database
-- [Nitish548/emacs-lisp-elements](https://github.com/Nitish548/emacs-lisp-elements) - A book that provides a big picture view of the Emacs Lisp programming language.
 - [PacktPublishing/The-Definitive-Guide-to-Power-Query-M-](https://github.com/PacktPublishing/The-Definitive-Guide-to-Power-Query-M-) - The Definitive Guide to Power Query (M), published by Packt
 - [FarseaSH/dezhe-epub](https://github.com/FarseaSH/dezhe-epub) - 《读者》杂志往期电子书整理
 - [1564307973/Proxifier-CN](https://github.com/1564307973/Proxifier-CN) - A localized Chinese version of Proxifier, designed to help users in China more easily access Proxifier’s powerful features and enhance their user experience.
@@ -1804,7 +1801,6 @@
 - [ajaymalik021/Audible-Data-Cleaning-Project-Excel](https://github.com/ajaymalik021/Audible-Data-Cleaning-Project-Excel) - 
 - [Adeolami06/Advanced_Excel_SaheedAdegboyega](https://github.com/Adeolami06/Advanced_Excel_SaheedAdegboyega) - Formulas and Techniques in Excel
 - [Gurubase/gurubase](https://github.com/Gurubase/gurubase) - Turn Your Content Into a 24/7 AI Support Assistant
-- [Doanquangthe/DocGPT](https://github.com/Doanquangthe/DocGPT) - DocGPT (Doctor GPT) is an advanced medical diagnosis system that combines Vision Transformer (ViT) based deep learning models with LangChain agents to provide comprehensive medical image analysis and 
 - [karminski/one-small-step](https://github.com/karminski/one-small-step) - 这是一个简单的技术科普教程项目，主要聚焦于解释一些有趣的，前沿的技术概念和原理。每篇文章都力求在 5 分钟内阅读完成。
 - [imextralucky/SapphireGuide](https://github.com/imextralucky/SapphireGuide) - An in-depth guide on how to install and setup SapphireOS
 - [qiye45/wechatVideoDownload](https://github.com/qiye45/wechatVideoDownload) - 微信视频号下载工具，支持视频、直播回放、直播下载
@@ -1814,7 +1810,7 @@
 - [ixiaoyang8/iodraw](https://github.com/ixiaoyang8/iodraw) - ioDraw is a free online drawing software, which is used to make flow chart, mind map, Gantt chart, whiteboard, mermaid, poster, and more—no registration required. It also features AI-generated charts.
 - [Rivens7/Livelist](https://github.com/Rivens7/Livelist) - IPTV-ipv6直播源同步及常看直播
 - [RaycornM/TVbox-IPTV](https://github.com/RaycornM/TVbox-IPTV) - 自用影视源直播源配置仓库    随缘维护
-- [vfdeclnc/iptv](https://github.com/vfdeclnc/iptv) - 
+- [tprc1949/iptv](https://github.com/tprc1949/iptv) - 
 - [crdroidandroid/android_vendor_crDroidOTA](https://github.com/crdroidandroid/android_vendor_crDroidOTA) - OTA configuration for crDroidOTA (make your device official)
 - [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
 - [vicjl/myIPTV](https://github.com/vicjl/myIPTV) - 
@@ -2312,7 +2308,7 @@
 - [rabbit168/douyin-helper](https://github.com/rabbit168/douyin-helper) - 抖音辅助工具
 - [pxiptv/TV](https://github.com/pxiptv/TV) - 
 - [xutaijun520/excel_deal_program](https://github.com/xutaijun520/excel_deal_program) - This is an Excel conversion program mainly aimed at converting the real-time inventory table of Kingdee Cloud·Xingkong to batch number adjustment form. It is a batch processing tool.
-- [xszyou/Fay](https://github.com/xszyou/Fay) - fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的mcp框架。
+- [xszyou/Fay](https://github.com/xszyou/Fay) - fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的agent框架。
 - [BrasD99/HeyGenClone](https://github.com/BrasD99/HeyGenClone) - A simple and open-source analogue of the HeyGen system
 - [gurkan-er/Oxford-Pronunciation-for-Anki](https://github.com/gurkan-er/Oxford-Pronunciation-for-Anki) - This project automates the process of pulling pronunciation data from Oxford and integrating it into a CSV file containing words such as British English, French, German and so on. The CSV file can the
 - [modelscope/DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio) - Enjoy the magic of Diffusion models!
@@ -2807,7 +2803,7 @@
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [ucb-substrate/substrate](https://github.com/ucb-substrate/substrate) - 21st century electronic design automation tools, written in Rust.
 - [skim-rs/skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust!
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 
 ## SCSS 
 
@@ -3015,7 +3011,7 @@
 - [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
 - [marcantondahmen/automad](https://github.com/marcantondahmen/automad) - A flat-file content management system and template engine
 - [evo-family/evo-chat](https://github.com/evo-family/evo-chat) - Evo Chat（Evolution Chat）是一个现代化的开源 AI 对话平台，致力于打造最优雅的大模型交互入口。它支持对接 ChatGPT，Deepseak， 等主流大语言模型（LLM）服务商，并在此基础上不断进化，识库增强、多模态处理、MCP（Model Control Protocol）等扩展能力，让 AI 能力更加丰富。支持全平台部署（Web、App、Windows、Mac、Linux
-- [bojue/lemon-form](https://github.com/bojue/lemon-form) - lemon form 柠檬轻表单（Vue3）
+- [nocokit/noco-form](https://github.com/nocokit/noco-form) - lemon form 柠檬轻表单（Vue3）
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
 - [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 跨平台互动桌宠 BongoCat，为桌面增添乐趣！
 - [kortix-ai/suna](https://github.com/kortix-ai/suna) - Kortix – build, manage and train AI Agents.
@@ -3250,6 +3246,7 @@
 - [toppair/peek.nvim](https://github.com/toppair/peek.nvim) - Markdown preview plugin for Neovim
 - [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
 - [VPKSoft/PasswordKeeper](https://github.com/VPKSoft/PasswordKeeper) - A software to store login information into an encrypted file.
+- [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted platform for sharing and managing your most frequently used links. Easily create customizable, human-readable shortcuts to streamline your link management.
 - [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime) - Popcorn Time™ puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.
 - [crimx/ext-saladict](https://github.com/crimx/ext-saladict) - 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
 - [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from  Python
