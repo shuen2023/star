@@ -495,6 +495,7 @@
 
 ## android 
 
+- [alexch33/super-video-downloader](https://github.com/alexch33/super-video-downloader) - Video & Audio downloader for Android with web browser and player. M3U8 and MPD supported, live stream supported, using youtube-dlp and custom mp4/mp3 downloader, cookies supported, HTTP & SOCKS proxy 
 - [thechandrakant15/mobile-specs-api](https://github.com/thechandrakant15/mobile-specs-api) - 📱 Scrape and access phone specifications effortlessly with this unofficial GSMArena API, delivering clean JSON data for easy integration.
 - [JunioJsv/mtk-easy-su](https://github.com/JunioJsv/mtk-easy-su) - Get bootless root access with few clicks.
 - [MultiMote/niimblue](https://github.com/MultiMote/niimblue) - 🖨 NIIMBOT custom web client/app. Design and print labels with NIIMBOT printers directly from your PC or mobile web browser! ## NO ACTIVE DEVELOPMENT CURRENTLY BECAUSE I'M A LITTLE BORED ##
@@ -2761,7 +2762,6 @@
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [thecodrr/fdir](https://github.com/thecodrr/fdir) - ⚡ The fastest directory crawler & globbing library for NodeJS. Crawls 1m files in &lt; 1s
-- [code-charity/youtube](https://github.com/code-charity/youtube) - Open YouTube & Video browser-extension [top~1] Enrich your experience&choice!🧰200+options; clever features📌set&forget📌Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|content discovery|player|extra butt
 - [openboxes/openboxes](https://github.com/openboxes/openboxes) - OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities.
 - [huggingface/blog](https://github.com/huggingface/blog) - Public repo for HF blog posts
 - [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
