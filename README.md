@@ -127,7 +127,7 @@
 
 ## C 
 
-- [xaitax/Chrome-App-Bound-Encryption-Decryption](https://github.com/xaitax/Chrome-App-Bound-Encryption-Decryption) - Bypass Chromium's App-Bound Encryption via Direct Syscall-based Reflective Process Hollowing. Extract cookies, passwords, payment methods & tokens from Chrome, Edge, and Brave - fileless, user-mode,  
+- [xaitax/Chrome-App-Bound-Encryption-Decryption](https://github.com/xaitax/Chrome-App-Bound-Encryption-Decryption) - Bypass Chromium's App-Bound Encryption via Direct Syscall-based Reflective Process Hollowing. Extract cookies, passwords, payment methods & tokens from Chrome, Edge, Brave & Avast - fileless, user-mod
 - [z-libs/Zen-C](https://github.com/z-libs/Zen-C) - Write like a high-level language, run like C.
 - [torvalds/AudioNoise](https://github.com/torvalds/AudioNoise) - Random digital audio effects
 - [sonicdcer/sf64](https://github.com/sonicdcer/sf64) - Decompilation of Starfox 64
@@ -174,7 +174,7 @@
 - [bjasspa/jasspa](https://github.com/bjasspa/jasspa) - Jasspa's MicroEmacs is a powerful and efficient terminal and window based text editor. Designed to be lightweight yet feature-rich its key features include syntax highlighting, macro scripting support
 - [fuckinbusy/usb-sniffer](https://github.com/fuckinbusy/usb-sniffer) - USB Sniffer is an application for monitoring connected USB devices and automatically copying files from USB flash drives.
 - [jo-lund/jomon](https://github.com/jo-lund/jomon) - A network forensics and passive sniffer tool
-- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, 
 - [sqfmi/Watchy](https://github.com/sqfmi/Watchy) - Watchy - An Open Source E-Ink Smartwatch
 - [tubexchat/tubex-wechatbot](https://github.com/tubexchat/tubex-wechatbot) - WechatBot with ASR & LLM 集成Gemini大语言模型API接口和微软ASR服务，华尔街见闻、币安、东方财富等金融数据，可识别语音的微信机器人
 - [thevindu-w/clip_share_server](https://github.com/thevindu-w/clip_share_server) - Share Clipboard across devices. Share copied files and screenshots securely. Free and open-source tool that works on Windows, Linux, macOS, and Android.
@@ -293,7 +293,7 @@
 
 - [lyc0826/COMIGHT](https://github.com/lyc0826/COMIGHT) - A productivity tool offering a wide range of functions to streamline office work and automate repetitive tasks, including batch processing of Excel worksheets, formatting Word documents, and managing 
 - [NetOfficeFw/vbamc](https://github.com/NetOfficeFw/vbamc) - Visual Basic for Applications macro project compiler.
-- [sbroenne/mcp-server-excel](https://github.com/sbroenne/mcp-server-excel) - Excel MCP Server & CLI - 21 tools, 187 operations for AI-powered Excel automation via COM API
+- [sbroenne/mcp-server-excel](https://github.com/sbroenne/mcp-server-excel) - Excel MCP Server & CLI - 22 tools, 211 operations for AI-powered Excel automation via COM API
 - [Achuan-2/SlideSCI](https://github.com/Achuan-2/SlideSCI) - PPT plugin, supports one-click to add image titles, copy and paste positions, one-click image alignment, and one-click to insert Markdown (including bold, hyperlinks, and other inline styles, as well 
 - [Mzying2001/CefFlashBrowser](https://github.com/Mzying2001/CefFlashBrowser) - Flash浏览器 / Flash Browser
 - [Jitendex/Jitendex](https://github.com/Jitendex/Jitendex) - A free, offline, and openly licensed Japanese-to-English dictionary. Updates monthly!
@@ -527,7 +527,7 @@
 - [textbrowser/glitch](https://github.com/textbrowser/glitch) - Life is a glitch. Your Arduino projects should not be. Colorful diagrams for the curious.
 - [ljc545w/ComWeChatRobot](https://github.com/ljc545w/ComWeChatRobot) - PC微信机器人，实现获取通讯录，发送文本、图片、文件等消息，封装COM接口供Python、C#调用
 - [ttttupup/wxhelper](https://github.com/ttttupup/wxhelper) - Hook  WeChat  / 微信逆向
-- [pgmodeler/pgmodeler](https://github.com/pgmodeler/pgmodeler) - Open-source data modeling tool designed for PostgreSQL. No more typing DDL commands. Let pgModeler do the work for you!
+- [nullptrlabs/pgmodeler](https://github.com/nullptrlabs/pgmodeler) - Open-source data modeling tool designed for PostgreSQL. No more typing DDL commands. Let pgModeler do the work for you!
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive, portable, and performant GPU programming in Python.
@@ -1168,7 +1168,7 @@
 - [SeanWong17/Future-Style-Periodic-Table](https://github.com/SeanWong17/Future-Style-Periodic-Table) - ⚛️ 赛博朋克风格的交互式元素周期表。核心亮点：核外电子排布 3D 可视化、沉浸式动效与多维数据热力图。纯原生 JS/CSS 实现。
 - [lrq3000/infinitabs](https://github.com/lrq3000/infinitabs) - Unlimited tabs, Zero RAM! For Chrome/Chromium (and Firefox in the future)
 - [Gidismart/yuns-desktop-pet](https://github.com/Gidismart/yuns-desktop-pet) - 🤖 Enhance your desktop experience with Yuns, an intelligent AI pet that supports multiple AI conversation models and dynamic API calls.
-- [heshengtao/super-agent-party](https://github.com/heshengtao/super-agent-party) - ⭐ All-in-one AI companion! Desktop girlfriend + virtual streamer + instant messaging robot + browser control + smart home control + computer control + virtual reality, and everything else you can imag
+- [heshengtao/super-agent-party](https://github.com/heshengtao/super-agent-party) - ⭐ All-in-one AI companion! Desktop girlfriend + virtual streamer + IM bot + browser control + smart home control + computer control + virtual reality, and everything else you can imagine!⭐全能型AI伴侣！桌面女友
 - [nojaja/memopad-new-tab](https://github.com/nojaja/memopad-new-tab) - Chrome extension to save a note with Markdown directly on the "New Tab" page
 - [electroluxcode/mvp-onlyoffice](https://github.com/electroluxcode/mvp-onlyoffice) - An office editing component based on OnlyOffice that supports document viewing, editing, and conversion entirely on the client side.   基于 OnlyOffice 技术栈构建的浏览器端文档处理解决方案，支持在客户端完成文档的查看、编辑与转换，所有操作均在用户设备上执
 - [jchyng/More-Shortcuts-New-Tab](https://github.com/jchyng/More-Shortcuts-New-Tab) - Overcome Chrome's 10-shortcut limit. Add up to 30 shortcuts, auto-fetch titles, and enjoy a clean dashboard.
@@ -1205,7 +1205,7 @@
 - [ranuts/document](https://github.com/ranuts/document) - Perform common file preview and editing via the web.
 - [owlman/CS_StudyNotes](https://github.com/owlman/CS_StudyNotes) - 基于 Obsidian 系统构建的计算机专业学习/研究笔记
 - [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for power users
-- [code-charity/youtube](https://github.com/code-charity/youtube) - Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰200+options; clever features📌set&forget📌  - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|content discovery|player|extra 
+- [code-charity/ImprovedTube](https://github.com/code-charity/ImprovedTube) - Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰250+options; clever features📌set&forget📌  - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|
 - [netresearch/timetracker](https://github.com/netresearch/timetracker) - Simple time tracking front end with optional Jira synchronization, AD/LDAP integration and XLSX export.
 - [luyu0279/Ainee](https://github.com/luyu0279/Ainee) - Ainee: AI Notetaking and Learning Companion – Speed Up Your Learning, Enhance Your Insight Sharing
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
@@ -1263,7 +1263,7 @@
 - [PizazzGY/TVBox_warehouse](https://github.com/PizazzGY/TVBox_warehouse) - 
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [chatgptuk/Real-US-Address-Generator](https://github.com/chatgptuk/Real-US-Address-Generator) - 
-- [omaha-consulting/winstall](https://github.com/omaha-consulting/winstall) - A web app for browsing and installing Windows Package Manager apps.
+- [SplashtopInc/winstall](https://github.com/SplashtopInc/winstall) - A web app for browsing and installing Windows Package Manager apps.
 - [Chadwuo/li-ji-weapp](https://github.com/Chadwuo/li-ji-weapp) - 专注于记录和管理人情往来中的随礼、收礼、份子钱、礼金、心意、礼物、红包等，多维度查询和统计亲友间的往来记录，家人共享记账，你贴心的人情往来数字记账伙伴。
 - [InternLM/MindSearch](https://github.com/InternLM/MindSearch) - 🔍 An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT)
 - [quanru/obsidian-example-lifeos](https://github.com/quanru/obsidian-example-lifeos) - LifeOS example vault for Obsidian(Combining P.A.R.A with Periodic Notes)
@@ -1501,7 +1501,7 @@
 - [MihaiCristianCondrea/Smart-Cleaner-for-Android](https://github.com/MihaiCristianCondrea/Smart-Cleaner-for-Android) - Smart Cleaner is built for everyday people who want their phones running smoothly, without hassle. Get reminders when it’s time to clean, spot and remove rarely used apps, clear out giant forgotten fi
 - [telegram-sms/telegram-sms](https://github.com/telegram-sms/telegram-sms) - An SMS-forwarding Robot Running on Your Android Device.
 - [ReadYouApp/ReadYou](https://github.com/ReadYouApp/ReadYou) - An Android RSS reader presented in Material You style.
-- [tungnk123/android-cheat-sheet](https://github.com/tungnk123/android-cheat-sheet) - Android cheat sheet 2025 - In progress
+- [tungnk123/android-cheat-sheet](https://github.com/tungnk123/android-cheat-sheet) - Android cheat sheet 2026 - In progress
 - [open-ani/animeko](https://github.com/open-ani/animeko) - 集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform
 - [kiwix/kiwix-android](https://github.com/kiwix/kiwix-android) - Kiwix for Android
 - [theapache64/stackzy](https://github.com/theapache64/stackzy) - 💻 A cross-platform desktop application to identify libraries used inside an android application ⚡
@@ -2177,7 +2177,7 @@
 - [KouriChat/KouriChat](https://github.com/KouriChat/KouriChat) - 【禁止接入微信、QQ等腾讯系软件】接入第三方平台。基于LLM的更逼真的情感陪伴程序。More realistic emotional companionship program based LLM, meet the characters in your dream.
 - [SesameAILabs/csm](https://github.com/SesameAILabs/csm) - A Conversational Speech Generation Model
 - [ustclug/Linux201-docs](https://github.com/ustclug/Linux201-docs) - Linux 201 进阶教程阅读资料
-- [hoochanlon/hamulete](https://github.com/hoochanlon/hamulete) - 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
+- [hoochanlon/hamuleite](https://github.com/hoochanlon/hamuleite) - 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [systemd/mkosi](https://github.com/systemd/mkosi) - 💽 Build Bespoke OS Images
 - [jalan/pdftotext](https://github.com/jalan/pdftotext) - Simple PDF text extraction
@@ -2385,7 +2385,7 @@
 - [auqhjjqdo/LiveRecorder](https://github.com/auqhjjqdo/LiveRecorder) - 基于Streamlink的全自动直播录制工具，已支持哔哩哔哩、斗鱼、虎牙、抖音、YouTube、Twitch等
 - [biliup/biliup](https://github.com/biliup/biliup) - 自动直播录制、投稿、twitch、ytb频道搬运工具。命令行投稿(B站)和视频下载工具，提供多种登录方式，支持多p。
 - [rany2/edge-tts](https://github.com/rany2/edge-tts) - Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Windows or an API key
-- [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone
+- [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o) - MiniCPM-o 4.5: A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Mulitmodal Live Streaming on Your Phone
 - [pndurette/gTTS](https://github.com/pndurette/gTTS) - Python library and CLI tool to interface with Google Translate's text-to-speech API
 - [python-microscope/microscope](https://github.com/python-microscope/microscope) - Python library for control of microscope devices, supporting hardware triggers and distribution of devices over the network for performance and flexibility.
 - [modal-labs/quillman](https://github.com/modal-labs/quillman) - A voice chat app
@@ -2725,6 +2725,7 @@
 - [alley-rs/lsar](https://github.com/alley-rs/lsar) - 直播解析图形化程序
 - [Frederick888/external-editor-revived](https://github.com/Frederick888/external-editor-revived) - External Editor Revived is a Thunderbird MailExtension which allows editing emails in programs such as Vim, Neovim, Emacs, etc.
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours.
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database tool for the terminal
 - [Myriad-Dreamin/tinymist](https://github.com/Myriad-Dreamin/tinymist) - Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
 - [pythops/oryx](https://github.com/pythops/oryx) - 🕵️‍♂️ TUI for sniffing network traffic using eBPF on Linux
@@ -3003,6 +3004,9 @@
 
 ## TypeScript 
 
+- [TeXlyre/texlyre](https://github.com/TeXlyre/texlyre) - A local-first LaTeX & Typst web editor with real-time collaboration & offline support
+- [xushengfeng/lime](https://github.com/xushengfeng/lime) - 大模型优化的拼音输入法
+- [trueleaf/apiflow](https://github.com/trueleaf/apiflow) - A modern API workspace that works both online and offline — combining API documentation, testing, mock, and AI-powered automation in one lightweight tool
 - [workany-ai/workany](https://github.com/workany-ai/workany) - Desktop Agent for Any Task
 - [Chance-fyi/mouse-gestures](https://github.com/Chance-fyi/mouse-gestures) - A lightweight yet powerful browser extension that enhances your browsing efficiency through intuitive mouse gestures, drag-and-drop actions, and cloud-synchronized settings.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
@@ -3155,7 +3159,6 @@
 - [robert/PyMyFlySpy](https://github.com/robert/PyMyFlySpy) - Track your flight using its headrest data
 - [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
-- [zhongyiio/readlite-plugin](https://github.com/zhongyiio/readlite-plugin) - Transform cluttered web pages into clean, distraction-free reading experiences with customizable themes, fonts and multilingual support.
 - [bia-pain-bache/BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel) - A GUI Panel providing Worker subscriptions for VLESS, Trojan and Warp configs alongside chain proxies, offering full DNS, clean IP,  Fragment, Warp, Warp pro and routing settings for cross-platform cl
 - [junobuild/juno](https://github.com/junobuild/juno) - Build serverless apps with self-hosting control
 - [balzack/databag](https://github.com/balzack/databag) - fast & lightweight self-hosted messenger
@@ -3191,7 +3194,6 @@
 - [modstart-lib/linkandroid](https://github.com/modstart-lib/linkandroid) - Link Android and PC easily! 全能手机连接助手！
 - [byodian/oneimg](https://github.com/byodian/oneimg) - 文字转图片应用。适合微信公众号长图推文以及小红书、Instagram 等图片社交媒体贴文制作
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours.
 - [jina-ai/reader](https://github.com/jina-ai/reader) - Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/
 - [LLOneBot/LuckyLilliaBot](https://github.com/LLOneBot/LuckyLilliaBot) - 支持 OneBot 11、Satori 和 Milky 协议
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
