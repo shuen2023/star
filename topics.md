@@ -204,6 +204,7 @@
 - [p2p](#p2p)
 - [package-manager](#package-manager)
 - [parsing](#parsing)
+- [penetration-testing](#penetration-testing)
 - [pentesting](#pentesting)
 - [perl](#perl)
 - [php](#php)
@@ -333,7 +334,7 @@
 - [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
-- [gptme/gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
+- [gptme/gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top!
 - [lenML/Speech-AI-Forge](https://github.com/lenML/Speech-AI-Forge) - 🍦 Speech-AI-Forge is a project developed around TTS generation model, implementing an API Server and a Gradio-based WebUI.
 - [iMeanAI/WebCanvas](https://github.com/iMeanAI/WebCanvas) - All-in-one Web Agent framework for post-training. Start building with a few clicks!
 - [LlamaFamily/Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese) - Llama中文社区，实时汇总最新Llama学习资料，构建最好的中文Llama大模型开源生态，完全开源可商用
@@ -343,6 +344,7 @@
 
 ## ai 
 
+- [oFFensiVe22/seeWxapkg](https://github.com/oFFensiVe22/seeWxapkg) - 🛠️ Decrypt and unpack `.wxapkg` files easily through your browser with this minimalistic WeChat mini-program tool.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [steipete/summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
 - [yusixian/moe-copy-ai](https://github.com/yusixian/moe-copy-ai) - ✨ 萌萌哒的 AI 网页数据提取助手 ✨
@@ -472,7 +474,7 @@
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows
 - [airweave-ai/airweave](https://github.com/airweave-ai/airweave) - Open-source context retrieval layer for AI agents
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
-- [gptme/gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
+- [gptme/gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top!
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
@@ -514,6 +516,7 @@
 
 ## android 
 
+- [Cauan00O1/ADBCommandCenter](https://github.com/Cauan00O1/ADBCommandCenter) - 📱 Execute ADB commands locally on your Android device with ADB Command Center, enabling wireless debugging, APK management, and shell command execution.
 - [alexch33/super-video-downloader](https://github.com/alexch33/super-video-downloader) - Video & Audio downloader for Android with web browser and player. M3U8 and MPD supported, live stream supported, using youtube-dlp and custom mp4/mp3/m3u8/mpd downloader, cookies supported, HTTP & SOC
 - [thechandrakant15/mobile-specs-api](https://github.com/thechandrakant15/mobile-specs-api) - 📱 Scrape and access phone specifications effortlessly with this unofficial GSMArena API, delivering clean JSON data for easy integration.
 - [JunioJsv/mtk-easy-su](https://github.com/JunioJsv/mtk-easy-su) - Get bootless root access with few clicks.
@@ -1217,7 +1220,7 @@
 - [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
-- [gptme/gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
+- [gptme/gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top!
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 - [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
 - [LTEnjoy/easyChat](https://github.com/LTEnjoy/easyChat) - 微信助手（非web微信版）：定时发送信息；群发信息；自动回复等
@@ -1257,7 +1260,7 @@
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
 - [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt) - Play ChatGPT and other LLM with Xiaomi AI Speaker
 - [Taewan-P/gpt_mobile](https://github.com/Taewan-P/gpt_mobile) - Chat app for Android that supports answers from multiple LLMs at once. Bring your own API key AI client. Supports OpenAI, Anthropic, Google, and Ollama. Designed with Material3 & Compose.
-- [gptme/gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
+- [gptme/gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top!
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://gpt-docs.h2o.ai/
 - [karthink/gptel](https://github.com/karthink/gptel) - A simple, extensible LLM client for Emacs
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
@@ -1306,6 +1309,7 @@
 
 ## chrome 
 
+- [Cauan00O1/ADBCommandCenter](https://github.com/Cauan00O1/ADBCommandCenter) - 📱 Execute ADB commands locally on your Android device with ADB Command Center, enabling wireless debugging, APK management, and shell command execution.
 - [ChenYCL/chrome-extension-udemy-translate](https://github.com/ChenYCL/chrome-extension-udemy-translate) - Translate video subtitle
 - [obsidianforensics/hindsight](https://github.com/obsidianforensics/hindsight) - Browser forensics tool for Google Chrome (and other Chromium-based browsers)
 - [hummingme/kahuna](https://github.com/hummingme/kahuna) - Browse, edit and manage IndexedDB databases in Firefox and Chromium browsers
@@ -1346,6 +1350,7 @@
 
 ## chrome-extension 
 
+- [mikaelalvess/chromePluginToWriteNotes](https://github.com/mikaelalvess/chromePluginToWriteNotes) - 📝 Simplify note-taking with this minimalist Chrome extension that uses wiki markup, highlights text, and requires no setup for effortless organization.
 - [Chance-fyi/mouse-gestures](https://github.com/Chance-fyi/mouse-gestures) - A lightweight yet powerful browser extension that enhances your browsing efficiency through intuitive mouse gestures, drag-and-drop actions, and cloud-synchronized settings.
 - [lrq3000/infinitabs](https://github.com/lrq3000/infinitabs) - Unlimited tabs, Zero RAM! For Chrome/Chromium (and Firefox in the future)
 - [ChenYCL/chrome-extension-udemy-translate](https://github.com/ChenYCL/chrome-extension-udemy-translate) - Translate video subtitle
@@ -1441,7 +1446,7 @@
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder.
 - [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string
-- [gptme/gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
+- [gptme/gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top!
 - [viasite/site-audit-seo](https://github.com/viasite/site-audit-seo) - Web service and CLI tool for SEO site audit: crawl site, lighthouse all pages, view public reports in browser. Also output to console, json, csv, xlsx
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
@@ -2024,6 +2029,7 @@
 
 ## django 
 
+- [oFFensiVe22/seeWxapkg](https://github.com/oFFensiVe22/seeWxapkg) - 🛠️ Decrypt and unpack `.wxapkg` files easily through your browser with this minimalistic WeChat mini-program tool.
 - [ciur/papermerge](https://github.com/ciur/papermerge) - Open Source Document Management System for Digital Archives (Scanned Documents)
 - [gowthamrajk/Web-Development-Guide](https://github.com/gowthamrajk/Web-Development-Guide) - I will add some professional notes and reference tutorials which will be very much useful for freshers and beginners who are very passionate to become a web developer ❤️
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
@@ -2349,6 +2355,7 @@
 
 ## firefox 
 
+- [FaFre/WebLibre](https://github.com/FaFre/WebLibre) - Browse privately, search locally. Organize tabs, block tracking, and use Tor.
 - [lrq3000/infinitabs](https://github.com/lrq3000/infinitabs) - Unlimited tabs, Zero RAM! For Chrome/Chromium (and Firefox in the future)
 - [Gidismart/yuns-desktop-pet](https://github.com/Gidismart/yuns-desktop-pet) - 🤖 Enhance your desktop experience with Yuns, an intelligent AI pet that supports multiple AI conversation models and dynamic API calls.
 - [hummingme/kahuna](https://github.com/hummingme/kahuna) - Browse, edit and manage IndexedDB databases in Firefox and Chromium browsers
@@ -2586,6 +2593,7 @@
 
 ## go 
 
+- [oFFensiVe22/seeWxapkg](https://github.com/oFFensiVe22/seeWxapkg) - 🛠️ Decrypt and unpack `.wxapkg` files easily through your browser with this minimalistic WeChat mini-program tool.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [Lallassu/gorss](https://github.com/Lallassu/gorss) - Go Terminal Feed Reader
 - [Gidismart/yuns-desktop-pet](https://github.com/Gidismart/yuns-desktop-pet) - 🤖 Enhance your desktop experience with Yuns, an intelligent AI pet that supports multiple AI conversation models and dynamic API calls.
@@ -3112,6 +3120,7 @@
 
 ## ios 
 
+- [Cauan00O1/ADBCommandCenter](https://github.com/Cauan00O1/ADBCommandCenter) - 📱 Execute ADB commands locally on your Android device with ADB Command Center, enabling wireless debugging, APK management, and shell command execution.
 - [thechandrakant15/mobile-specs-api](https://github.com/thechandrakant15/mobile-specs-api) - 📱 Scrape and access phone specifications effortlessly with this unofficial GSMArena API, delivering clean JSON data for easy integration.
 - [SideStore/SideStore](https://github.com/SideStore/SideStore) - SideStore is a fork of AltStore that doesn't require an AltServer.
 - [sergenes/runandread-audiobook](https://github.com/sergenes/runandread-audiobook) - 🚀 Open-source project for creating high-quality AI TTS-narrated audiobooks at home using models like Zonos, Kokoro-82M, or services like Deepgram and Eleven Labs. Tested on Apple Silicon M1 (32GB RAM)
@@ -3703,6 +3712,7 @@
 
 ## linux 
 
+- [Cauan00O1/ADBCommandCenter](https://github.com/Cauan00O1/ADBCommandCenter) - 📱 Execute ADB commands locally on your Android device with ADB Command Center, enabling wireless debugging, APK management, and shell command execution.
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [Alex313031/thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Source code and Linux releases. Windows/MacOS/ARM builds served in different repos, links are towards the top of the README.md.
@@ -3858,6 +3868,7 @@
 
 ## llm 
 
+- [oFFensiVe22/seeWxapkg](https://github.com/oFFensiVe22/seeWxapkg) - 🛠️ Decrypt and unpack `.wxapkg` files easily through your browser with this minimalistic WeChat mini-program tool.
 - [zai-org/GLM-4.5](https://github.com/zai-org/GLM-4.5) - GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models
 - [xushengfeng/lime](https://github.com/xushengfeng/lime) - 大模型优化的拼音输入法
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
@@ -3902,7 +3913,7 @@
 - [nerve-sparks/iris_android](https://github.com/nerve-sparks/iris_android) - IRIS is an android app for interfacing with GGUF / llama.cpp models locally.
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
-- [gptme/gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
+- [gptme/gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top!
 - [codestoryai/sidecar](https://github.com/codestoryai/sidecar) - Sidecar is the AI brains for the Aide editor and works alongside it, locally on your machine
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [lenML/Speech-AI-Forge](https://github.com/lenML/Speech-AI-Forge) - 🍦 Speech-AI-Forge is a project developed around TTS generation model, implementing an API Server and a Gradio-based WebUI.
@@ -4132,11 +4143,12 @@
 
 ## markdown 
 
+- [mikaelalvess/chromePluginToWriteNotes](https://github.com/mikaelalvess/chromePluginToWriteNotes) - 📝 Simplify note-taking with this minimalist Chrome extension that uses wiki markup, highlights text, and requires no setup for effortless organization.
 - [repplus/rep-chrome](https://github.com/repplus/rep-chrome) - rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to explain requests and suggest attacks
 - [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown) - ✨ A Markdown Editor
 - [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform in native C++.
 - [cotoami/cotoami-remake](https://github.com/cotoami/cotoami-remake) - Connect ideas and places in a knowledge graph. Designed for both private use and real-time collaboration through networked databases.
-- [mak-kirkland/chronicler](https://github.com/mak-kirkland/chronicler) - Chronicler is a free desktop app for note-takers, storytellers, researchers, and creative minds. It saves your notes as plain Markdown files on your computer
+- [mak-kirkland/chronicler](https://github.com/mak-kirkland/chronicler) - Chronicler is a free, offline worldbuilding tool for writers and GMs. It saves your notes locally as plain Markdown files on your computer
 - [vdjagilev/nmap-formatter](https://github.com/vdjagilev/nmap-formatter) - A tool that allows you to convert NMAP results to html, csv, json, markdown, graphviz (dot), sqlite, excel and d2-lang. Simply put it's nmap converter.
 - [sheshbabu/zen](https://github.com/sheshbabu/zen) - Selfhosted notes app. Single golang binary, notes stored as markdown within SQLite, full-text search, very low resource usage
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
@@ -4398,6 +4410,7 @@
 
 ## mysql 
 
+- [oFFensiVe22/seeWxapkg](https://github.com/oFFensiVe22/seeWxapkg) - 🛠️ Decrypt and unpack `.wxapkg` files easily through your browser with this minimalistic WeChat mini-program tool.
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
 - [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, SQLite and PostgreSQL support ++
@@ -4805,7 +4818,7 @@
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [Taewan-P/gpt_mobile](https://github.com/Taewan-P/gpt_mobile) - Chat app for Android that supports answers from multiple LLMs at once. Bring your own API key AI client. Supports OpenAI, Anthropic, Google, and Ollama. Designed with Material3 & Compose.
-- [gptme/gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
+- [gptme/gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top!
 - [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) - [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
 - [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [Storia-AI/sage](https://github.com/Storia-AI/sage) - Chat with any codebase in under two minutes | Fully local or via third-party APIs
@@ -4866,6 +4879,8 @@
 
 ## others 
 
+- [SweetPomelo0/XML-to-CSV-Excel-Converter](https://github.com/SweetPomelo0/XML-to-CSV-Excel-Converter) - A fully client-side English web tool built with Next.js that converts XML files to CSV or Excel directly in the browser.
+- [Nunley-Media-Group/chrome-cli](https://github.com/Nunley-Media-Group/chrome-cli) - A CLI alternative for Chrome Devtools MCP
 - [moyangzhan/mango-desk](https://github.com/moyangzhan/mango-desk) - Search your files using nature language
 - [lc2panda/wps-skills](https://github.com/lc2panda/wps-skills) - WPS Skills | WPS Office 智能助手 | WPS Office AI Assistant
 - [workany-ai/workany](https://github.com/workany-ai/workany) - Desktop Agent for Any Task
@@ -6014,6 +6029,10 @@
 
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 
+## penetration-testing 
+
+- [Cauan00O1/ADBCommandCenter](https://github.com/Cauan00O1/ADBCommandCenter) - 📱 Execute ADB commands locally on your Android device with ADB Command Center, enabling wireless debugging, APK management, and shell command execution.
+
 ## pentesting 
 
 - [vdjagilev/nmap-formatter](https://github.com/vdjagilev/nmap-formatter) - A tool that allows you to convert NMAP results to html, csv, json, markdown, graphviz (dot), sqlite, excel and d2-lang. Simply put it's nmap converter.
@@ -6123,6 +6142,7 @@
 
 ## privacy 
 
+- [FaFre/WebLibre](https://github.com/FaFre/WebLibre) - Browse privately, search locally. Organize tabs, block tracking, and use Tor.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 - [woheller69/browser](https://github.com/woheller69/browser) - A privacy oriented web browser with Greasemonkey style script support and Cookie Banner Blocker
@@ -6171,6 +6191,7 @@
 
 ## productivity 
 
+- [mikaelalvess/chromePluginToWriteNotes](https://github.com/mikaelalvess/chromePluginToWriteNotes) - 📝 Simplify note-taking with this minimalist Chrome extension that uses wiki markup, highlights text, and requires no setup for effortless organization.
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 - [Nuragari/cracked-webpage-note-taker-extension](https://github.com/Nuragari/cracked-webpage-note-taker-extension) - 📝 Create notes and manage tasks seamlessly with this customizable Chrome extension for enhanced productivity across all platforms.
 - [chethanyadav456/JSON-Downloader](https://github.com/chethanyadav456/JSON-Downloader) - A minimal Chrome extension for downloading JSON data from web pages or URLs with a single click. Features automatic JSON detection with a floating download button and a clean, modern UI. Privacy-focus
@@ -6283,6 +6304,7 @@
 
 ## python 
 
+- [spyder-ide/spyder](https://github.com/spyder-ide/spyder) - Official repository for Spyder - The Scientific Python Development Environment
 - [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 75+ formats. Available for Rust, Python, Ruby, 
 - [Therrion1520/reposicion_wms](https://github.com/Therrion1520/reposicion_wms) - 🟩 Manage stock flow efficiently with Reposición WMS, a lightweight system for small businesses to streamline inventory and restocking processes.
 - [mapproxy/mapproxy](https://github.com/mapproxy/mapproxy) - MapProxy is a tile cache and WMS proxy
@@ -6554,6 +6576,7 @@
 
 ## qt 
 
+- [spyder-ide/spyder](https://github.com/spyder-ide/spyder) - Official repository for Spyder - The Scientific Python Development Environment
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible
 - [kefir500/apk-editor-studio](https://github.com/kefir500/apk-editor-studio) - Powerful yet easy to use APK editor for PC and Mac.
 - [LibrePCB/LibrePCB](https://github.com/LibrePCB/LibrePCB) - A powerful, innovative and intuitive EDA suite for everyone!
@@ -6608,7 +6631,7 @@
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
-- [gptme/gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
+- [gptme/gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top!
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 - [yobix-ai/extractous](https://github.com/yobix-ai/extractous) - Fast and efficient unstructured data extraction. Written in Rust with bindings for many languages.
 - [BBC-Esq/VectorDB-Plugin](https://github.com/BBC-Esq/VectorDB-Plugin) - Program that lets you ask questions about your documents including audio and video files.
@@ -7718,6 +7741,7 @@
 
 ## v2ray 
 
+- [Cauan00O1/ADBCommandCenter](https://github.com/Cauan00O1/ADBCommandCenter) - 📱 Execute ADB commands locally on your Android device with ADB Command Center, enabling wireless debugging, APK management, and shell command execution.
 - [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
 - [Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers) - 🚀 免费订阅地址，🚀 免费节点，🚀 6小时更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙、免费科学上网、免费梯子、免费ss/v2ray/trojan节点、谷歌商店、翻墙梯子。🚀 Free subscription address, 🚀 Free node, 🚀 Updated every 6 hours, shared node, high-quality node
 - [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
@@ -7984,9 +8008,10 @@
 
 ## windows 
 
+- [Cauan00O1/ADBCommandCenter](https://github.com/Cauan00O1/ADBCommandCenter) - 📱 Execute ADB commands locally on your Android device with ADB Command Center, enabling wireless debugging, APK management, and shell command execution.
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
-- [abgox/InputTip](https://github.com/abgox/InputTip) - 一个输入法状态管理工具: 实时提示(鼠标方案/符号方案) + 状态切换(窗口触发/热键触发)
+- [abgox/InputTip](https://github.com/abgox/InputTip) - 输入法状态管理: 实时提示 + 状态切换
 - [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
