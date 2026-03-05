@@ -382,7 +382,7 @@
 
 ## C++ 
 
-- [sqmw/MFCMouseEffect](https://github.com/sqmw/MFCMouseEffect) - Windows 鼠标/光标特效（MFC/C++/Win32） | Mouse & cursor effects for Windows (MFC/C++/Win32)
+- [sqmw/MFCMouseEffect](https://github.com/sqmw/MFCMouseEffect) - 跨平台鼠标特效与输入可视化引擎：点击/轨迹/滚轮/悬停等效果，输入指示器叠加层，手势→快捷键自动化映射，可扩展 WASM 特效插件。 Cross-platform mouse effects & input visualization engine: click/trail/scroll/hover effects, indicator overlays, gesture→hotkey autom
 - [condexpr01/rime-wubi86ex-powerful](https://github.com/condexpr01/rime-wubi86ex-powerful) - powerful86码表: for [rime, sougou]. 含魔改工具和数据，可从零制作码表，有五笔编码器，表对象运算工具(交集，并集，差集，可实现去除人名，获取频数等)，数据450w频表，90w拼音表等
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
@@ -664,7 +664,7 @@
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [AlienKevin/wordshk_app](https://github.com/AlienKevin/wordshk_app) - An open Cantonese dictionary for iOS and Android built with Flutter
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
-- [mylxsw/aidea](https://github.com/mylxsw/aidea) - AIdea 是一款支持 GPT  以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。
+- [mylxsw/aidea](https://github.com/mylxsw/aidea) - An APP that integrates mainstream large language models and image generation models, built with Flutter, with fully open-source code.
 - [LinwoodDev/Butterfly](https://github.com/LinwoodDev/Butterfly) - 🎨 Powerful, minimalistic, cross-platform, opensource note-taking app
 - [qaul/qaul.net](https://github.com/qaul/qaul.net) - Internet Independent Wireless Mesh Communication App
 - [saber-notes/saber](https://github.com/saber-notes/saber) - The cross-platform open-source app built for handwriting
@@ -972,7 +972,6 @@
 ## HTML 
 
 - [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
-- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 76+ formats. Available for Rust, Python, Ruby, 
 - [campfirium/Mneme](https://github.com/campfirium/Mneme) - An Anki template built for immersion and audio-first learning, with a clean and thoughtful visual design
 - [5mdld/anki-english-60k-decks](https://github.com/5mdld/anki-english-60k-decks) - An extensive Anki deck of 60,000 high-frequency English words with definitions, examples, and audio from Merriam-Webster's Learner's Dictionary.
 - [terroo/terroo.github.io](https://github.com/terroo/terroo.github.io) - Terminal Root English version
@@ -2125,7 +2124,7 @@
 - [Therrion1520/reposicion_wms](https://github.com/Therrion1520/reposicion_wms) - 🟩 Manage stock flow efficiently with Reposición WMS, a lightweight system for small businesses to streamline inventory and restocking processes.
 - [mapproxy/mapproxy](https://github.com/mapproxy/mapproxy) - MapProxy is a tile cache and WMS proxy
 - [obsidianforensics/hindsight](https://github.com/obsidianforensics/hindsight) - Browser forensics tool for Google Chrome (and other Chromium-based browsers)
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Python APIs for web automation, testing, scraping, and bypassing bot-detection.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Python APIs for web automation, testing, and scraping. Has "CDP Mode" and "Stealthy Playwright".
 - [y9nhjy/Proxifier-Keygen](https://github.com/y9nhjy/Proxifier-Keygen) - Proxifier注册机
 - [robertZaufall/mindmanager_ai](https://github.com/robertZaufall/mindmanager_ai) - MindManager AI Integration on Windows and macOS
 - [NotJoeMartinez/yt-fts](https://github.com/NotJoeMartinez/yt-fts) - YouTube Full Text Search - Search all of YouTube from the command line
@@ -2659,6 +2658,7 @@
 - [White-NX/carbonPaper](https://github.com/White-NX/carbonPaper) - A tool record what you see on your PC, like Recall.
 - [Nunley-Media-Group/AgentChrome](https://github.com/Nunley-Media-Group/AgentChrome) - A CLI alternative for Chrome Devtools MCP
 - [moyangzhan/mango-finder](https://github.com/moyangzhan/mango-finder) - Search your files with natural language
+- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 76+ formats. Available for Rust, Python, Ruby, 
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
 - [balena-os/wifi-connect](https://github.com/balena-os/wifi-connect) - Easy WiFi setup for Linux devices from your mobile phone or laptop
@@ -2733,7 +2733,7 @@
 - [versotile-org/verso](https://github.com/versotile-org/verso) - Mirror of https://gitlab.com/verso-browser/verso
 - [codestoryai/sidecar](https://github.com/codestoryai/sidecar) - Sidecar is the AI brains for the Aide editor and works alongside it, locally on your machine
 - [maplibre/martin](https://github.com/maplibre/martin) - Blazing fast and lightweight PostGIS, MBtiles and PMtiles tile server, tile generation, and mbtiles tooling.
-- [frewsxcv/rgis](https://github.com/frewsxcv/rgis) - Performant, cross-platform (web, desktop) GIS app written in Rust
+- [rgis-app/rgis](https://github.com/rgis-app/rgis) - Performant, cross-platform (web, desktop) GIS app written in Rust
 - [estin/simple-completion-language-server](https://github.com/estin/simple-completion-language-server) - Language server to enable word completion and snippets for Helix editor
 - [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Fast, flexible LLM inference
 - [hashintel/hash](https://github.com/hashintel/hash) - 🚀  The open-source, multi-tenant platform for self-building knowledge graphs and simulation
