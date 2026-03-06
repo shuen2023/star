@@ -486,7 +486,7 @@
 - [leozide/leocad](https://github.com/leozide/leocad) - A CAD application for creating virtual LEGO models
 - [KDE/kxstitch](https://github.com/KDE/kxstitch) - Cross stitch pattern and chart creation
 - [Sigil-Ebook/Sigil](https://github.com/Sigil-Ebook/Sigil) - Sigil is a multi-platform EPUB ebook editor
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍 ugrep 7.5 file pattern searcher -- a user-friendly, faster, more capable grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archi
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍 ugrep 7.6 file pattern searcher -- a user-friendly, faster, more capable grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archi
 - [LibreOffice/core](https://github.com/LibreOffice/core) - Read-only LibreOffice core repo - no pull request (use gerrit instead https://gerrit.libreoffice.org/) - don't download zip, use https://dev-www.libreoffice.org/bundles/  instead
 - [strato-emu/strato](https://github.com/strato-emu/strato) - Run Nintendo Switch homebrew & games on your Android device!
 - [JakubMelka/PDF4QT](https://github.com/JakubMelka/PDF4QT) - Open source PDF editor.
@@ -1177,7 +1177,7 @@
 - [mosheng1/QuickClipboard](https://github.com/mosheng1/QuickClipboard) - QuickClipboard 是一款剪贴板增强工具， 让你的复制与粘贴更加智能、高效与愉悦
 - [mikaelalvess/chromePluginToWriteNotes](https://github.com/mikaelalvess/chromePluginToWriteNotes) - 📝 Simplify note-taking with this minimalist Chrome extension that uses wiki markup, highlights text, and requires no setup for effortless organization.
 - [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3
-- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Cowork, and beyond.
+- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [lc2panda/wps-skills](https://github.com/lc2panda/wps-skills) - WPS Skills | WPS Office 智能助手 | WPS Office AI Assistant
 - [SeanWong17/Future-Style-Periodic-Table](https://github.com/SeanWong17/Future-Style-Periodic-Table) - ⚛️ 赛博朋克风格的交互式元素周期表。核心亮点：核外电子排布 3D 可视化、沉浸式动效与多维数据热力图。纯原生 JS/CSS 实现。
 - [lrq3000/infinitabs](https://github.com/lrq3000/infinitabs) - Unlimited tabs, Zero RAM! For Chrome/Chromium (and Firefox in the future)
@@ -1227,7 +1227,7 @@
 - [ChanceYu/front-end-rss](https://github.com/ChanceYu/front-end-rss) - :orange_book: 根据 RSS 订阅最新前端技术文章并自动分类
 - [Pavinberg/emacs-book](https://github.com/Pavinberg/emacs-book) - An Emacs tutorial with extensions walkthrough
 - [mapbs/mbs.js](https://github.com/mapbs/mbs.js) - 基于cesiumjs的web3d框架
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configration.
 - [hexgrad/kokoro](https://github.com/hexgrad/kokoro) - https://hf.co/hexgrad/Kokoro-82M
 - [openstreetmap/iD](https://github.com/openstreetmap/iD) - 🆔 The easy-to-use OpenStreetMap editor in JavaScript.
 - [veasion/AiPPT](https://github.com/veasion/AiPPT) - AI 智能生成 PPT，通过主题/文件/网址等方式生成PPT，支持原生图表、动画、3D特效等复杂PPT的解析和渲染，支持用户自定义模板，支持智能添加动画，可在线体验。AI generates PowerPoint Presentation, Supports parsing and rendering of complex PPT features such as native charts, a
@@ -2124,7 +2124,7 @@
 - [Therrion1520/reposicion_wms](https://github.com/Therrion1520/reposicion_wms) - 🟩 Manage stock flow efficiently with Reposición WMS, a lightweight system for small businesses to streamline inventory and restocking processes.
 - [mapproxy/mapproxy](https://github.com/mapproxy/mapproxy) - MapProxy is a tile cache and WMS proxy
 - [obsidianforensics/hindsight](https://github.com/obsidianforensics/hindsight) - Browser forensics tool for Google Chrome (and other Chromium-based browsers)
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Python APIs for web automation, testing, and scraping. Has "CDP Mode" and "Stealthy Playwright".
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Python APIs for browser automation, testing, and web-scraping. Bypasses bot-detection with "CDP Mode" and "Stealthy Playwright Mode".
 - [y9nhjy/Proxifier-Keygen](https://github.com/y9nhjy/Proxifier-Keygen) - Proxifier注册机
 - [robertZaufall/mindmanager_ai](https://github.com/robertZaufall/mindmanager_ai) - MindManager AI Integration on Windows and macOS
 - [NotJoeMartinez/yt-fts](https://github.com/NotJoeMartinez/yt-fts) - YouTube Full Text Search - Search all of YouTube from the command line
@@ -2251,7 +2251,7 @@
 - [PiotrMachowski/Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor](https://github.com/PiotrMachowski/Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor) - This custom integration provides a way to present a live view of a map for Xiaomi (Roborock/Viomi/Roidmi/Dreame) vacuums without a need for rooting.
 - [robocorp/rpaframework](https://github.com/robocorp/rpaframework) - Collection of open-source libraries and tools for Robotic Process Automation (RPA), designed to be used with both Robot Framework and Python
 - [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
-- [wkentaro/labelme](https://github.com/wkentaro/labelme) - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
+- [wkentaro/labelme](https://github.com/wkentaro/labelme) - Image annotation with Python. Supports polygon, rectangle, circle, line, point, and AI-assisted annotation.
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
 - [santinic/audiblez](https://github.com/santinic/audiblez) - Generate audiobooks from e-books
 - [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。
@@ -2887,7 +2887,7 @@
 
 ## Scheme 
 
-- [rakino/Testament](https://github.com/rakino/Testament) - Guix System literate configurations and dotfiles
+- [rakino/Testament](https://github.com/rakino/Testament) - [MIRROR] Guix System literate configurations and dotfiles
 - [babariviere/guix-emacs](https://github.com/babariviere/guix-emacs) - [UNMAINTAINED] https://github.com/garrgravarr/guix-emacs
 - [xhcoding/emacs.d](https://github.com/xhcoding/emacs.d) - A simple Emacs config on Windows
 
