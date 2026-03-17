@@ -129,7 +129,7 @@
 ## C 
 
 - [xaitax/Chrome-App-Bound-Encryption-Decryption](https://github.com/xaitax/Chrome-App-Bound-Encryption-Decryption) - Bypass Chromium's App-Bound Encryption via Direct Syscall-based Reflective Process Hollowing. Extract cookies, passwords, payment methods & tokens from Chrome, Edge, Brave & Avast - fileless, user-mod
-- [z-libs/Zen-C](https://github.com/z-libs/Zen-C) - Write like a high-level language, run like C.
+- [zenc-lang/zenc](https://github.com/zenc-lang/zenc) - Write like a high-level language, run like C.
 - [torvalds/AudioNoise](https://github.com/torvalds/AudioNoise) - Random digital audio effects
 - [sonicdcer/sf64](https://github.com/sonicdcer/sf64) - Decompilation of Starfox 64
 - [RfidResearchGroup/ChameleonUltra](https://github.com/RfidResearchGroup/ChameleonUltra) - The new generation chameleon based on NRF52840 makes the performance of card emulation more stable. And gave the chameleon the ability to read, write, and decrypt cards.
@@ -1227,7 +1227,7 @@
 - [ChanceYu/front-end-rss](https://github.com/ChanceYu/front-end-rss) - :orange_book: 根据 RSS 订阅最新前端技术文章并自动分类
 - [Pavinberg/emacs-book](https://github.com/Pavinberg/emacs-book) - An Emacs tutorial with extensions walkthrough
 - [mapbs/mbs.js](https://github.com/mapbs/mbs.js) - 基于cesiumjs的web3d框架
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configration.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
 - [hexgrad/kokoro](https://github.com/hexgrad/kokoro) - https://hf.co/hexgrad/Kokoro-82M
 - [openstreetmap/iD](https://github.com/openstreetmap/iD) - 🆔 The easy-to-use OpenStreetMap editor in JavaScript.
 - [veasion/AiPPT](https://github.com/veasion/AiPPT) - AI 智能生成 PPT，通过主题/文件/网址等方式生成PPT，支持原生图表、动画、3D特效等复杂PPT的解析和渲染，支持用户自定义模板，支持智能添加动画，可在线体验。AI generates PowerPoint Presentation, Supports parsing and rendering of complex PPT features such as native charts, a
@@ -1829,7 +1829,7 @@
 - [DefinetlyNotAI/Solidworks-Crack](https://github.com/DefinetlyNotAI/Solidworks-Crack) - Guide/Cheatsheet to install Solidworks
 - [CrankZ/ben-calc](https://github.com/CrankZ/ben-calc) - 一个简单的文本计算器
 - [Emacs101/howm-manual](https://github.com/Emacs101/howm-manual) - Note-taking in Emacs with howm package
-- [alovezzz/Search-Text-in-Multiple-Excel](https://github.com/alovezzz/Search-Text-in-Multiple-Excel) - search text in multiple Excel files in Windows
+- [WorkOwner/Search-Text-in-Multiple-Excel](https://github.com/WorkOwner/Search-Text-in-Multiple-Excel) - search text in multiple Excel files in Windows
 - [EGTools/EGTools-Excel](https://github.com/EGTools/EGTools-Excel) - Excel Add-in
 - [slackalaxy/wps-office-dicts](https://github.com/slackalaxy/wps-office-dicts) - WPS Office dictionaries
 - [fafa002/yf2025](https://github.com/fafa002/yf2025) - 
@@ -2123,7 +2123,7 @@
 - [Therrion1520/reposicion_wms](https://github.com/Therrion1520/reposicion_wms) - 🟩 Manage stock flow efficiently with Reposición WMS, a lightweight system for small businesses to streamline inventory and restocking processes.
 - [mapproxy/mapproxy](https://github.com/mapproxy/mapproxy) - MapProxy is a tile cache and WMS proxy
 - [obsidianforensics/hindsight](https://github.com/obsidianforensics/hindsight) - Browser forensics tool for Google Chrome (and other Chromium-based browsers)
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 All-in-one browser automation, scraping, testing, and stealth. Works with Playwright. Lots of examples.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 Browser automation for testing, scraping, and stealth. Works with Playwright. Lots of examples.
 - [y9nhjy/Proxifier-Keygen](https://github.com/y9nhjy/Proxifier-Keygen) - Proxifier注册机
 - [robertZaufall/mindmanager_ai](https://github.com/robertZaufall/mindmanager_ai) - MindManager AI Integration on Windows and macOS
 - [NotJoeMartinez/yt-fts](https://github.com/NotJoeMartinez/yt-fts) - YouTube Full Text Search - Search all of YouTube from the command line
