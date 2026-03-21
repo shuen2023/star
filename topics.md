@@ -2127,7 +2127,7 @@
 ## dotfiles 
 
 - [alhassy/emacs.d](https://github.com/alhassy/emacs.d) - My Emacs configuration, literately :smile:
-- [rakino/Testament](https://github.com/rakino/Testament) - [MIRROR] Guix System literate configurations and dotfiles
+- [rakino/Testament](https://github.com/rakino/Testament) - [mirror] Guix System literate configurations and dotfiles
 - [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
 - [2KAbhishek/termux2k](https://github.com/2KAbhishek/termux2k) - CLI Dev Setup in Your Hands ✋📱
 - [nyoom-engineering/nyoom.nvim](https://github.com/nyoom-engineering/nyoom.nvim) - A Neovim framework and doom emacs alternative for the stubborn martian hacker. Powered by fennel and the oxocarbon theme
@@ -2217,7 +2217,7 @@
 
 - [alhassy/emacs.d](https://github.com/alhassy/emacs.d) - My Emacs configuration, literately :smile:
 - [acejump/AceJump](https://github.com/acejump/AceJump) - 🅰️ single character search, select, and jump
-- [rakino/Testament](https://github.com/rakino/Testament) - [MIRROR] Guix System literate configurations and dotfiles
+- [rakino/Testament](https://github.com/rakino/Testament) - [mirror] Guix System literate configurations and dotfiles
 - [kaorahi/howm](https://github.com/kaorahi/howm) - note-taking tool on Emacs
 - [Emacs101/howm-manual](https://github.com/Emacs101/howm-manual) - Note-taking in Emacs with howm package
 - [Pavinberg/emacs-book](https://github.com/Pavinberg/emacs-book) - An Emacs tutorial with extensions walkthrough
