@@ -110,7 +110,6 @@
 ## AutoHotkey 
 
 - [abgox/InputTip](https://github.com/abgox/InputTip) - 输入法状态管理: 实时提示 + 状态切换
-- [executer9648/VimBound](https://github.com/executer9648/VimBound) - vim and more with ahk
 - [ottozumkeller/QR-Code-Reader](https://github.com/ottozumkeller/QR-Code-Reader) - QR-Code Reader with integrated keyboard-shortcut, tray icon and notification using Windows Snipping Tool, the ZXing.Net library and AutoHotkey
 
 ## Awk 
@@ -836,7 +835,7 @@
 - [helloxz/wp2ai](https://github.com/helloxz/wp2ai) - WP2AI可以将您的WordPress文章变成智能知识库，并通过AI智能匹配和解读，使其更准确的回答问题。
 - [philipp-meier/xd](https://github.com/philipp-meier/xd) - :pager: Simple Excel (.xlsx) diff tool for texts.
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
-- [nao1215/sqly](https://github.com/nao1215/sqly) - eaisly execute SQL against CSV/TSV/LTSV and Microsoft Excel™ with shell.
+- [nao1215/sqly](https://github.com/nao1215/sqly) - executes SQL against CSV, TSV, LTSV, JSON, JSONL, Parquet, Microsoft Excel™ , ACH, and Fedwire files with shell.
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
 - [silie666/job-crawler](https://github.com/silie666/job-crawler) - boss，智联招聘，51job，猎聘的岗位爬虫
 - [rainstf/mdpreview](https://github.com/rainstf/mdpreview) - A Neovim markdown previewer written in Go
@@ -872,7 +871,7 @@
 - [measure-sh/measure](https://github.com/measure-sh/measure) - Measure is an open-source tool to monitor mobile apps. We connect the dots between user actions, app events, network calls, logs, and errors to make debugging production issues easy!
 - [MapoMagpie/rimedm](https://github.com/MapoMagpie/rimedm) - 非常轻松地维护你的Rime码表
 - [adamkpickering/wj](https://github.com/adamkpickering/wj) - A tool for personal time tracking and recording work activities
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers,
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [noborus/xlsxsql](https://github.com/noborus/xlsxsql) - A CLI tool that executes SQL queries on various files including xlsx files and outputs the results to various files
 - [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works
 - [itchyny/bed](https://github.com/itchyny/bed) - Binary editor written in Go
@@ -1105,7 +1104,7 @@
 - [ibilux/MobyDroid](https://github.com/ibilux/MobyDroid) - Android Device Manager with a Graphic User Interface (GUI) – Manage Android on Linux, Windows and MacOS.
 - [M66B/FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android
 - [ReVanced/GmsCore](https://github.com/ReVanced/GmsCore) - Free implementation of Play Services
-- [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) - 🧩 Patches for ReVanced
+- [ReVanced/ravanced-patches](https://github.com/ReVanced/ravanced-patches) - 🧩 Patches for ReVanced
 - [moneymanagerex/android-money-manager-ex](https://github.com/moneymanagerex/android-money-manager-ex) - Local-first personal finance app. Encrypted, self-hosted, sync across devices.
 - [BlackyHawky/Clock](https://github.com/BlackyHawky/Clock) - Customizable, privacy‑first, open-source clock app inspired by AOSP Clock
 - [mendhak/gpslogger](https://github.com/mendhak/gpslogger) - :satellite: Lightweight GPS Logging Application For Android.
@@ -2729,7 +2728,7 @@
 - [nushell/reedline](https://github.com/nushell/reedline) - A feature-rich line editor - powering Nushell
 - [AppFlowy-IO/AppFlowy-Cloud](https://github.com/AppFlowy-IO/AppFlowy-Cloud) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [VirusTotal/yara-x](https://github.com/VirusTotal/yara-x) - A rewrite of YARA in Rust.
-- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
+- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
 - [quarylabs/sqruff](https://github.com/quarylabs/sqruff) - Fast SQL formatter/linter
 - [yoav-lavi/melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more readable and maintainable
 - [typst-community/utpm](https://github.com/typst-community/utpm) - A package manager for local and remote Typst packages.
