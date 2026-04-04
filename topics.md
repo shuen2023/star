@@ -89,6 +89,7 @@
 - [emoji](#emoji)
 - [emulator](#emulator)
 - [english](#english)
+- [esp32](#esp32)
 - [ethereum](#ethereum)
 - [express](#express)
 - [facebook](#facebook)
@@ -2340,6 +2341,14 @@
 - [yakhinvadim/longman-to-anki](https://github.com/yakhinvadim/longman-to-anki) - :books: A web app to help you learn English words with Anki
 - [arianneorpilla/jidoujisho](https://github.com/arianneorpilla/jidoujisho) - A full-featured immersion language learning suite for mobile.
 - [Wei-Xia/most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇
+
+## esp32 
+
+- [ElectronicCats/Minino](https://github.com/ElectronicCats/Minino) - Minino is an original multiprotocol and multiband board made for sniffing, communicating, and attacking IoT devices. It was designed as a mini Cat that integrates the powerful ESP32C6, GPS, microSD an
+- [sqfmi/Watchy](https://github.com/sqfmi/Watchy) - Watchy - An Open Source E-Ink Smartwatch
+- [meshtastic/firmware](https://github.com/meshtastic/firmware) - The official firmware for Meshtastic, an open-source, off-grid mesh communication system.
+- [tenderlove/initial-v](https://github.com/tenderlove/initial-v) - It's a BMW shifter converted to a Bluetooth Keyboard that you use with Vim
+- [OMOTE-Community/OMOTE-Firmware](https://github.com/OMOTE-Community/OMOTE-Firmware) - Open Source Remote - Firmware
 
 ## ethereum 
 
@@ -4748,7 +4757,7 @@
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [ilse-langnar/notebook](https://github.com/ilse-langnar/notebook) - Tool for Thought. ʚɞ
 - [Ellpeck/ObsidianCustomFrames](https://github.com/Ellpeck/ObsidianCustomFrames) - An Obsidian plugin that turns web apps into panes using iframes with custom styling. Also comes with presets for Google Keep, Todoist and more.
-- [phibr0/obsidian-commander](https://github.com/phibr0/obsidian-commander) - Commander - Obsidian Plugin | Add Commands to every part of Obsidian's user interface
+- [jsmorabito/obsidian-commander](https://github.com/jsmorabito/obsidian-commander) - Commander - Obsidian Plugin | Add Commands to every part of Obsidian's user interface
 - [windingwind/zotero-better-notes](https://github.com/windingwind/zotero-better-notes) - Everything about note management. All in Zotero.
 - [tadashi-aikawa/obsidian-various-complements-plugin](https://github.com/tadashi-aikawa/obsidian-various-complements-plugin) - This plugin for Obsidian enables you complete words like the auto-completion of IDE.
 - [st3v3nmw/obsidian-spaced-repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) - Fight the forgetting curve by reviewing flashcards & entire notes on Obsidian
@@ -4776,7 +4785,7 @@
 - [blacksmithgu/datacore](https://github.com/blacksmithgu/datacore) - Work-in-progress successor to Dataview with a focus on UX and speed.
 - [ObsidianToAnki/Obsidian_to_Anki](https://github.com/ObsidianToAnki/Obsidian_to_Anki) - Script to add flashcards from text/markdown files to Anki
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
-- [phibr0/obsidian-commander](https://github.com/phibr0/obsidian-commander) - Commander - Obsidian Plugin | Add Commands to every part of Obsidian's user interface
+- [jsmorabito/obsidian-commander](https://github.com/jsmorabito/obsidian-commander) - Commander - Obsidian Plugin | Add Commands to every part of Obsidian's user interface
 - [windingwind/zotero-better-notes](https://github.com/windingwind/zotero-better-notes) - Everything about note management. All in Zotero.
 - [st3v3nmw/obsidian-spaced-repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) - Fight the forgetting curve by reviewing flashcards & entire notes on Obsidian
 - [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A data index and query language over Markdown files, for https://obsidian.md/.
@@ -4805,7 +4814,7 @@
 - [SilentVoid13/Templater](https://github.com/SilentVoid13/Templater) - A template plugin for obsidian
 - [ObsidianToAnki/Obsidian_to_Anki](https://github.com/ObsidianToAnki/Obsidian_to_Anki) - Script to add flashcards from text/markdown files to Anki
 - [Ellpeck/ObsidianCustomFrames](https://github.com/Ellpeck/ObsidianCustomFrames) - An Obsidian plugin that turns web apps into panes using iframes with custom styling. Also comes with presets for Google Keep, Todoist and more.
-- [phibr0/obsidian-commander](https://github.com/phibr0/obsidian-commander) - Commander - Obsidian Plugin | Add Commands to every part of Obsidian's user interface
+- [jsmorabito/obsidian-commander](https://github.com/jsmorabito/obsidian-commander) - Commander - Obsidian Plugin | Add Commands to every part of Obsidian's user interface
 - [st3v3nmw/obsidian-spaced-repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) - Fight the forgetting curve by reviewing flashcards & entire notes on Obsidian
 - [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A data index and query language over Markdown files, for https://obsidian.md/.
 
@@ -4963,7 +4972,6 @@
 - [ImSingee/open-english-dictionary](https://github.com/ImSingee/open-english-dictionary) - 
 - [EutropicAI/FinalDream](https://github.com/EutropicAI/FinalDream) - One last step for your dreams
 - [jinhan1414/android-docker-cli](https://github.com/jinhan1414/android-docker-cli) - Run Docker images on Android Termux without Docker engine.
-- [cx338/Memory3](https://github.com/cx338/Memory3) - 
 - [lllll081926i/Ankismart](https://github.com/lllll081926i/Ankismart) - 
 - [paopaoandlingyia/PrismCat](https://github.com/paopaoandlingyia/PrismCat) - 
 - [Everless321/dYm](https://github.com/Everless321/dYm) - 抖音视频下载与智能分析管理工具 | Douyin Video Download & AI Analysis Manager
@@ -5029,6 +5037,7 @@
 - [barisgrbz/scanxcel](https://github.com/barisgrbz/scanxcel) - Barcode and Qr Code Scan To Excel
 - [minbrowser/min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
 - [zen-browser/www](https://github.com/zen-browser/www) - Homepage for @zen-browser!
+- [vivoblueos/kernel](https://github.com/vivoblueos/kernel) - 
 - [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 - [Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2) - Wan: Open and Advanced Large-Scale Video Generative Models
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
@@ -5392,7 +5401,6 @@
 - [otaviosoaresp/rag_bot_ollama](https://github.com/otaviosoaresp/rag_bot_ollama) - A Chatbot that use a local LLM through ollama and a vector search with Qdrant to find and return relevant response from text, PDF, CSV and XLSX files.
 - [lumina-ai-inc/chunkr](https://github.com/lumina-ai-inc/chunkr) - Vision infrastructure to turn complex documents into RAG/LLM-ready data
 - [fuckinbusy/usb-sniffer](https://github.com/fuckinbusy/usb-sniffer) - USB Sniffer is an application for monitoring connected USB devices and automatically copying files from USB flash drives.
-- [ElectronicCats/Minino](https://github.com/ElectronicCats/Minino) - Minino is an original multiprotocol and multiband board made for sniffing, communicating, and attacking IoT devices. It was designed as a mini Cat that integrates the powerful ESP32C6, GPS, microSD an
 - [aya-rs/bpf-linker](https://github.com/aya-rs/bpf-linker) - Simple BPF static linker
 - [KoriIku/luxirty-search](https://github.com/KoriIku/luxirty-search) - 一个搜索引擎，基于 Google，屏蔽内容农场，无广告，无跟踪，干净，简洁，快。
 - [zufuliu/notepad4](https://github.com/zufuliu/notepad4) - Notepad4 (Notepad2⨯2, Notepad2++) is a light-weight Scintilla based text editor for Windows with syntax highlighting, code folding, auto-completion and API list for many programming languages and docu
@@ -5418,7 +5426,6 @@
 - [wahasa/Fedora](https://github.com/wahasa/Fedora) - Welcome To Fedora Termux For Android
 - [Anon4You/alienkrishn](https://github.com/Anon4You/alienkrishn) - Custom termux apt repository
 - [siddharthsky/CustTermux](https://github.com/siddharthsky/CustTermux) - Fork of the Termux to run TV
-- [meshtastic/firmware](https://github.com/meshtastic/firmware) - The official firmware for Meshtastic, an open-source, off-grid mesh communication system.
 - [termuxBash/cbz2pdf](https://github.com/termuxBash/cbz2pdf) - Used to convert cbz to pdf files in termux
 - [chaosprint/asak](https://github.com/chaosprint/asak) - A cross-platform audio recording/playback CLI tool with TUI, written in Rust.
 - [sonic-visualiser/sonic-visualiser](https://github.com/sonic-visualiser/sonic-visualiser) - Visualisation, analysis, and annotation of music audio recordings
@@ -5502,7 +5509,6 @@
 - [chenxiaolong/avbroot](https://github.com/chenxiaolong/avbroot) - Tool for manipulating and re-signing Android A/B OTAs
 - [tumic0/GPXSee](https://github.com/tumic0/GPXSee) - GPS log file viewer and analyzer with support for GPX, TCX, KML, FIT, IGC, NMEA, SLF, SML, LOC, GPI, GeoJSON and OziExplorer files.
 - [v3ucn/CosyVoice_For_Windows](https://github.com/v3ucn/CosyVoice_For_Windows) - CosyVoice在Windows环境下使用的版本
-- [OMOTE-Community/OMOTE-Firmware](https://github.com/OMOTE-Community/OMOTE-Firmware) - Open Source Remote - Firmware
 - [opendatalab/PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit) - A Comprehensive Toolkit for High-Quality PDF Content Extraction
 - [zhangweibo413/yixue](https://github.com/zhangweibo413/yixue) - 易学案例整理（奇门，八字，风水，六爻等等）
 - [Ayx03/DouyinIM](https://github.com/Ayx03/DouyinIM) - 手机版名为多闪。抖音聊天不是开源软件。DouyinIM isn't a open-source software.
