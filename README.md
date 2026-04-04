@@ -11,7 +11,6 @@
 - [AutoHotkey](#autohotkey)
 - [Awk](#awk)
 - [Batchfile](#batchfile)
-- [Blade](#blade)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -125,10 +124,6 @@
 - [FongMi/Release](https://github.com/FongMi/Release) - 
 - [ShadowWhisperer/Remove-MS-Edge](https://github.com/ShadowWhisperer/Remove-MS-Edge) - Uninstall Microsoft Edge with an executable or batch script.
 - [qmlbook/qmlbook](https://github.com/qmlbook/qmlbook) - The source code for the upcoming qml book
-
-## Blade 
-
-- [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 
 ## C 
 
@@ -772,6 +767,7 @@
 
 - [mozilla/blurts-server](https://github.com/mozilla/blurts-server) - Mozilla Monitor arms you with tools to keep your personal information safe. Find out what hackers already know about you and learn how to stay a step ahead of them.
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [ankitects/anki-core-i18n](https://github.com/ankitects/anki-core-i18n) - Fluent translation files for Anki
 
 ## FreeBASIC 
@@ -1400,6 +1396,7 @@
 - [danburzo/percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into readable PDF, EPUB, HTML, or Markdown docs.
 - [nickcoutsos/keymap-editor](https://github.com/nickcoutsos/keymap-editor) - A web based graphical editor of ZMK keymaps.
 - [Jelmerro/Vieb](https://github.com/Jelmerro/Vieb) - Vim Inspired Electron Browser - Vim bindings for the web by design
+- [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 - [1c7/Crash-Course-Computer-Science-Chinese](https://github.com/1c7/Crash-Course-Computer-Science-Chinese) - 计算机速成课（播放量 496.2 万） （共40集，每一集 10 分钟）2018 年完成翻译。视频评论区可以看到诸多好评
 - [jhenniferknc/solucoes-bee-crowd](https://github.com/jhenniferknc/solucoes-bee-crowd) - Soluções em JavaScript, Python e SQL de alguns exercícios do BeeCrowd (URI Online Judge).
 - [ipython-contrib/jupyter_contrib_nbextensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions) - A collection of various notebook extensions for Jupyter
@@ -2110,7 +2107,6 @@
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 - [ImSingee/open-english-dictionary](https://github.com/ImSingee/open-english-dictionary) - 
 - [jinhan1414/android-docker-cli](https://github.com/jinhan1414/android-docker-cli) - Run Docker images on Android Termux without Docker engine.
-- [cx338/Memory3](https://github.com/cx338/Memory3) - 
 - [lllll081926i/Ankismart](https://github.com/lllll081926i/Ankismart) - 
 - [Kiowx/c_cleaner_plus](https://github.com/Kiowx/c_cleaner_plus) - Windows的开源C盘强力清理工具，可扫描并清理全盘中的垃圾文件、大文件、重复文件及系统残留等
 - [denizsafak/abogen](https://github.com/denizsafak/abogen) - Generate audiobooks from EPUBs, PDFs and text with synchronized captions.
@@ -2660,6 +2656,7 @@
 - [balena-os/wifi-connect](https://github.com/balena-os/wifi-connect) - Easy WiFi setup for Linux devices from your mobile phone or laptop
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
 - [cotoami/cotoami-remake](https://github.com/cotoami/cotoami-remake) - Connect ideas and places in a knowledge graph. Designed for both private use and real-time collaboration through networked databases.
+- [vivoblueos/kernel](https://github.com/vivoblueos/kernel) - 
 - [Cierra-Runis/caduceus](https://github.com/Cierra-Runis/caduceus) - An open-source alternative to Typst App.
 - [lukasl-dev/rime](https://github.com/lukasl-dev/rime) - An MCP server for NixOS users.
 - [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
@@ -2805,7 +2802,6 @@
 - [mikeroyal/Linux-Guide](https://github.com/mikeroyal/Linux-Guide) - Linux Guide. Learn about Linux Hardware vendors, Linux in the Cloud, Desktop Environments, Window Mangers, Linux Distributions, Linux Security, Graphics (AMD/NVIDIA/Intel ARC), and Software Apps.
 - [MolotovCherry/virtual-display-rs](https://github.com/MolotovCherry/virtual-display-rs) - A Windows virtual display driver to add multiple virtual monitors to your PC! For Win10+. Works with VR, obs, streaming software, etc
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [http-rs/tide](https://github.com/http-rs/tide) - Fast and friendly HTTP server framework for async Rust
 - [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - GitQL is a extensible SQL-like query language and SDK to perform queries on various data sources such .git files with supports of most of SQL features such as grouping, ordering and aggregation and wi
 - [joseluisq/paket](https://github.com/joseluisq/paket) - A simple and fast package manager for the Fish shell written in Rust. 📦
@@ -3349,7 +3345,7 @@
 - [Ellpeck/ObsidianCustomFrames](https://github.com/Ellpeck/ObsidianCustomFrames) - An Obsidian plugin that turns web apps into panes using iframes with custom styling. Also comes with presets for Google Keep, Todoist and more.
 - [lumen-notes/lumen](https://github.com/lumen-notes/lumen) - A free, open-source note-taking app that syncs with markdown files in your GitHub repository
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
-- [phibr0/obsidian-commander](https://github.com/phibr0/obsidian-commander) - Commander - Obsidian Plugin | Add Commands to every part of Obsidian's user interface
+- [jsmorabito/obsidian-commander](https://github.com/jsmorabito/obsidian-commander) - Commander - Obsidian Plugin | Add Commands to every part of Obsidian's user interface
 - [windingwind/zotero-better-notes](https://github.com/windingwind/zotero-better-notes) - Everything about note management. All in Zotero.
 - [toppair/peek.nvim](https://github.com/toppair/peek.nvim) - Markdown preview plugin for Neovim
 - [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
