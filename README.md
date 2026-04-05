@@ -1148,7 +1148,7 @@
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
 - [asciidocfx/AsciidocFX](https://github.com/asciidocfx/AsciidocFX) - Asciidoc Editor and Toolchain written with JavaFX 21 (Build PDF, Epub, Mobi and HTML books, documents and slides)
 - [TrackerControl/tracker-control-android](https://github.com/TrackerControl/tracker-control-android) - TrackerControl Android: monitor and control trackers and ads.
-- [danielt998/HanziToAnki](https://github.com/danielt998/HanziToAnki) - This is a program that takes a Chinese text as input and converts it to an Anki Deck
+- [danielt998/HanziToAnki](https://github.com/danielt998/HanziToAnki) - This is a program that takes a Chinese text as input and converts it to an Anki Deck. It has both CLI and API server/web UI modes.
 - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
 - [federicoiosue/Omni-Notes](https://github.com/federicoiosue/Omni-Notes) - Open source note-taking application for Android
 - [mrprogre/avandy-news](https://github.com/mrprogre/avandy-news) - News analyzer/RSS aggregator with powerful filtering of unnecessary information and headline search by keywords in any language of the World with one click. The program is included in Register of Russ
@@ -2696,7 +2696,7 @@
 - [Nutomic/ibis](https://github.com/Nutomic/ibis) - A federated online encyclopedia
 - [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown memory system for you and your AI agent
 - [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - PKM Markdown Language Server
-- [JuliaLang/juliaup](https://github.com/JuliaLang/juliaup) - Julia installer and version multiplexer
+- [JuliaLang/juliaup](https://github.com/JuliaLang/juliaup) - Julia installer and version manager
 - [hooyuser/typst_font_manager](https://github.com/hooyuser/typst_font_manager) - A CLI tool to manage fonts for Typst projects.
 - [hongjr03/typst-rexllent](https://github.com/hongjr03/typst-rexllent) - Convert xlsx/ods format tables to typst tables, powered by wasm.
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips (and optionally Bluetooth) 
@@ -2749,7 +2749,7 @@
 - [alley-rs/lsar](https://github.com/alley-rs/lsar) - 直播解析图形化程序
 - [Frederick888/external-editor-revived](https://github.com/Frederick888/external-editor-revived) - External Editor Revived is a Thunderbird MailExtension which allows editing emails in programs such as Vim, Neovim, Emacs, etc.
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - run agents that work for you in the background based on what you do
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Run agents that work for you based on what you do. AI finally knows what you are doing
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database tool for the terminal
 - [Myriad-Dreamin/tinymist](https://github.com/Myriad-Dreamin/tinymist) - Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
 - [pythops/oryx](https://github.com/pythops/oryx) - 🕵️‍♂️ TUI for sniffing network traffic using eBPF on Linux
