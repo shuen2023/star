@@ -318,7 +318,7 @@
 - [moom825/xeno-rat](https://github.com/moom825/xeno-rat) - Xeno-RAT is an open-source remote access tool (RAT) developed in C#, providing a comprehensive set of features for remote system management. Has features such as HVNC, live microphone, reverse proxy, 
 - [AGD-Class/EasyChat](https://github.com/AGD-Class/EasyChat) - 基于MQTT实现的局域网通讯，使用WPF仿照微信绘制界面
 - [xmosnewone/ICEPOS-Cashier-System](https://github.com/xmosnewone/ICEPOS-Cashier-System) - 国内为数不多的全代码开源收银软件,开源协议遵循 Apache2.0,运行架构是C/S，PC端使用C#语言，管理后台使用PHP语言(Thinkphp框架),移动端使用VUE前端框架。多门店管理，离线使用，门店收银，员工登录交接，会员系统接口，会员折扣，微信/支付宝/银行卡/现金支付，库存检测，促销方案，支持扫码枪，小票打印，钱箱控制等。适用于多种商店收银场景，移动端可适配智能手机或自助收银机设备。
-- [ErsatzTV/ErsatzTV](https://github.com/ErsatzTV/ErsatzTV) - Open-source platform that transforms your personal media library into live, custom TV channels.
+- [ErsatzTV/ErsatzTV-legacy](https://github.com/ErsatzTV/ErsatzTV-legacy) - Open-source platform that transforms your personal media library into live, custom TV channels.
 - [straw-git/WPFManager](https://github.com/straw-git/WPFManager) - 一款非常漂亮的 WPF 管理系统
 - [bcvgh/Kingdee_erp_MemShell](https://github.com/bcvgh/Kingdee_erp_MemShell) - 金蝶星空云反序列化漏洞内存马
 - [f-shake/MapBoard](https://github.com/f-shake/MapBoard) - 地图画板，一款以ArcGIS Maps SDK为引擎、地图为底图、支持绘制点线面的矢量画板。支持各种格式的导入导出、基础地理分析等功能。支持Windows（完全支持）、Android（仅部分功能）。
@@ -864,7 +864,7 @@
 - [chainguard-dev/apko](https://github.com/chainguard-dev/apko) - Build OCI images from APK packages directly without Dockerfile
 - [zeabur/zbpack](https://github.com/zeabur/zbpack) - Build your project into static assets, serverless function or container image with magic, no Dockerfile needed!
 - [sudochmod777tanakrit/terminal-kanban](https://github.com/sudochmod777tanakrit/terminal-kanban) - ✨ Collaborate with flair using a Kanban board right in your terminal! 🖥️  TerminalKanban brings the power of visual task management to your command line, making project coordination both productive an
-- [measure-sh/measure](https://github.com/measure-sh/measure) - Measure is an open-source tool to monitor mobile apps. We connect the dots between user actions, app events, network calls, logs, and errors to make debugging production issues easy!
+- [measure-sh/measure](https://github.com/measure-sh/measure) - Open source mobile monitoring that gets to the root cause.
 - [MapoMagpie/rimedm](https://github.com/MapoMagpie/rimedm) - 非常轻松地维护你的Rime码表
 - [adamkpickering/wj](https://github.com/adamkpickering/wj) - A tool for personal time tracking and recording work activities
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
@@ -1000,6 +1000,7 @@
 - [s5k/ipa](https://github.com/s5k/ipa) - An IPA-based tool for mastering British English pronunciation with visuals and audio.
 - [Ceelog/DictionaryByGPT4](https://github.com/Ceelog/DictionaryByGPT4) - 一本 GPT4 生成的单词书📚，超过 8000 个单词分析，涵盖了词义、例句、词根词缀、变形、文化背景、记忆技巧和小故事
 - [xisohi/CHINA-IPTV](https://github.com/xisohi/CHINA-IPTV) - 现在各个宽带运营商都有 IPTV 业务，不用安装有线电视就可以高清无卡顿的看电视。  没有开通 iptv 可以使用抓取的直播源地址，复制到电脑、手机、电视网络盒子等设备上看，如果动手能力强也可以自己抓包获取直播源。  注意、注意、注意：食用组播源的设备必须和光猫在同一个网段！
+- [inboxpraveen/LLM-Minutes-of-Meeting](https://github.com/inboxpraveen/LLM-Minutes-of-Meeting) - A tool that transforms audio or video files into text transcripts and generates concise meeting minutes. Stay organized and efficient in your meetings, and get ready for Phase 2 where we'll be open fo
 - [iptv-org/epg](https://github.com/iptv-org/epg) - Utilities for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hundreds of sources.
 - [gpxstudio/gpxstudio.github.io](https://github.com/gpxstudio/gpxstudio.github.io) - The online GPX file editor
 - [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
@@ -2103,14 +2104,14 @@
 - [ImSingee/open-english-dictionary](https://github.com/ImSingee/open-english-dictionary) - 
 - [jinhan1414/android-docker-cli](https://github.com/jinhan1414/android-docker-cli) - Run Docker images on Android Termux without Docker engine.
 - [lllll081926i/Ankismart](https://github.com/lllll081926i/Ankismart) - 
-- [Kiowx/c_cleaner_plus](https://github.com/Kiowx/c_cleaner_plus) - Windows的开源C盘强力清理工具，可扫描并清理全盘中的垃圾文件、大文件、重复文件及系统残留等
+- [Kiowx/c_cleaner_plus](https://github.com/Kiowx/c_cleaner_plus) - Windows的开源强力清理工具，可扫描并清理全盘中的垃圾文件、大文件、重复文件及系统残留等
 - [denizsafak/abogen](https://github.com/denizsafak/abogen) - Generate audiobooks from EPUBs, PDFs and text with synchronized captions.
 - [eel-brah/kokorodoki](https://github.com/eel-brah/kokorodoki) - Natural-sounding Text-to-Speech App that fits anywhere. Fast, Real-Time and flexible.
 - [spyder-ide/spyder](https://github.com/spyder-ide/spyder) - Official repository for Spyder - The Scientific Python Development Environment
 - [zai-org/GLM-4.5](https://github.com/zai-org/GLM-4.5) - GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models
 - [Therrion1520/reposicion_wms](https://github.com/Therrion1520/reposicion_wms) - 🟩 Manage stock flow efficiently with Reposición WMS, a lightweight system for small businesses to streamline inventory and restocking processes.
 - [mapproxy/mapproxy](https://github.com/mapproxy/mapproxy) - MapProxy is a tile cache and WMS proxy
-- [obsidianforensics/hindsight](https://github.com/obsidianforensics/hindsight) - Browser forensics tool for Google Chrome (and other Chromium-based browsers)
+- [RyanDFIR/hindsight](https://github.com/RyanDFIR/hindsight) - Browser forensics tool for Google Chrome (and other Chromium-based browsers)
 - [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - APIs for browser automation, testing, and bypassing bot-detection.
 - [y9nhjy/Proxifier-Keygen](https://github.com/y9nhjy/Proxifier-Keygen) - Proxifier注册机
 - [robertZaufall/mindmanager_ai](https://github.com/robertZaufall/mindmanager_ai) - MindManager AI Integration on Windows and macOS
@@ -2378,7 +2379,6 @@
 - [MrBukLau/youtube-to-m3u8](https://github.com/MrBukLau/youtube-to-m3u8) - Chinese Live Streams from YouTube
 - [sumingyd/Telecom-Shandong-IPTV-List](https://github.com/sumingyd/Telecom-Shandong-IPTV-List) - 山东电信IPTV直播源
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
-- [inboxpraveen/LLM-Minutes-of-Meeting](https://github.com/inboxpraveen/LLM-Minutes-of-Meeting) - 🎤📄 An innovative tool that transforms audio or video files into text transcripts and generates concise meeting minutes. Stay organized and efficient in your meetings, and get ready for Phase 2 where w
 - [hl128k/tvbox](https://github.com/hl128k/tvbox) - 一个域名替换工具
 - [mxdabc/epg](https://github.com/mxdabc/epg) - 抓取多来源电视节目单(EPG),生成TVXML文件，并提供对外访问接口及后台配置。修改自老张的EPG源码
 - [cubicibo/SUPer](https://github.com/cubicibo/SUPer) - HDMV PGS (BD SUP) subtitle encoder compatible with typesetting effects.
@@ -3189,7 +3189,7 @@
 - [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
 - [bia-pain-bache/BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel) - A GUI Panel providing Worker subscriptions for VLESS, Trojan and Warp configs alongside a private DoH server and chain proxies, offering full DNS, clean IP,  Fragment, Warp, Warp pro and routing setti
-- [junobuild/juno](https://github.com/junobuild/juno) - Build serverless apps with self-hosting control
+- [junobuild/juno](https://github.com/junobuild/juno) - Open-Source SDK for building apps
 - [balzack/databag](https://github.com/balzack/databag) - fast & lightweight self-hosted messenger
 - [ninoseki/mitaka](https://github.com/ninoseki/mitaka) - A browser extension for OSINT search
 - [codestoryai/aide](https://github.com/codestoryai/aide) - The open-source AI-native IDE
