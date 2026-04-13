@@ -381,7 +381,7 @@
 ## C++ 
 
 - [sqmw/MFCMouseEffect](https://github.com/sqmw/MFCMouseEffect) - 跨平台鼠标特效与输入可视化引擎：点击/轨迹/滚轮/悬停等效果，输入指示器叠加层，手势→快捷键自动化映射，可扩展 WASM 插件。 Cross-platform mouse effects & input visualization engine: click/trail/scroll/hover effects, indicator overlays, gesture→hotkey automat
-- [condexpr01/rime-wubi86ex-powerful](https://github.com/condexpr01/rime-wubi86ex-powerful) - powerful86码表: for [rime, sougou]. 含魔改工具和数据，可从零制作码表，有五笔编码器，表对象运算工具(交集，并集，差集，可实现去除人名，获取频数等)，数据450w频表，90w拼音表等
+- [condexpr01/rime-wubi86ex](https://github.com/condexpr01/rime-wubi86ex) - powerful86码表: 支持[rime, sougou,etc], abliterated. 含魔改工具和数据，可从零制作码表，有五笔编码器，表对象运算工具(交集，并集，差集，可实现去除人名，获取频数等)，数据450w频表，90w拼音表等
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 - [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 - [ajayrandhawa/Keylogger](https://github.com/ajayrandhawa/Keylogger) - Keylogger is 100% invisible keylogger not only for users, but also undetectable by antivirus software. keylogger Monitors all keystokes, Mouse clicks. It has a seperate process which continues capture
@@ -1270,7 +1270,7 @@
 - [NeoKode/quantum-bot](https://github.com/NeoKode/quantum-bot) - Bot designed for a friendly, fun and simple audience. It was prioritized to be run in termux from Android with basic javascript (I don't study programming, but it's fun to do this muahahaha :v), thank
 - [Thomaash/me](https://github.com/Thomaash/me) - SDN topology editor in your web browser with Mininet, image and addressing plan export.
 - [polyrabbit/WeCron](https://github.com/polyrabbit/WeCron) - :heavy_check_mark: 微信上的定时提醒 - Cron on WeChat
-- [xiangyuecn/Recorder](https://github.com/xiangyuecn/Recorder) - html5 js 录音 mp3 wav ogg webm amr g711a g711u 格式，支持pc和Android、iOS部分浏览器、Hybrid App（提供Android iOS App源码）、微信，提供ASR语音识别转文字 H5版语音通话聊天示例 DTMF编码解码
+- [xiangyuecn/Recorder](https://github.com/xiangyuecn/Recorder) - html5 js 录音 mp3 wav ogg webm amr g711a g711u 格式，支持pc和Android、iOS部分Web浏览器、Hybrid App（提供Android iOS App源码）、微信，提供ASR语音识别转文字 H5版语音通话聊天示例 DTMF编码解码
 - [DJB-Developer/wechat-android-history-versions](https://github.com/DJB-Developer/wechat-android-history-versions) - 微信Android 微信安卓版 微信安卓 历史版本 官方下载地址
 - [kscript/markdown-download](https://github.com/kscript/markdown-download) - 谷歌浏览器插件: 将掘金、知乎、思否、简书、博客园、微信公众号、开源中国、CSDN的文章转为markdown文档并下载
 - [PizazzGY/TVBox_warehouse](https://github.com/PizazzGY/TVBox_warehouse) - 
@@ -2310,7 +2310,7 @@
 - [open-mmlab/Amphion](https://github.com/open-mmlab/Amphion) - Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, 
 - [lbesnard/LingoAnki](https://github.com/lbesnard/LingoAnki) - automates the creation of Anki flashcards from transcripts extracted from audio recordings (Perfect for Assimil Courses and Podcasts)
 - [BrokenSource/DepthFlow](https://github.com/BrokenSource/DepthFlow) - 🌊 Images to 3D Parallax effect video
-- [BBC-Esq/VectorDB-Plugin](https://github.com/BBC-Esq/VectorDB-Plugin) - Program that lets you ask questions about your documents including audio and video files.
+- [BBC-Esq/VectorDB-Plugin](https://github.com/BBC-Esq/VectorDB-Plugin) - Program that lets you ask questions about your documents, audio, and video files.
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://gpt-docs.h2o.ai/
 - [otaviosoaresp/rag_bot_ollama](https://github.com/otaviosoaresp/rag_bot_ollama) - A Chatbot that use a local LLM through ollama and a vector search with Qdrant to find and return relevant response from text, PDF, CSV and XLSX files.
 - [leminlimez/Nugget](https://github.com/leminlimez/Nugget) - Unlock the fullest potential of your device
@@ -3232,7 +3232,7 @@
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
 - [puemos/hls-downloader](https://github.com/puemos/hls-downloader) - Web Extension for sniffing and downloading HTTP Live streams (HLS)
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI RSS Reader
-- [caorushizi/mediago](https://github.com/caorushizi/mediago) - 跨平台视频提取工具：支持流媒体下载、视频下载、m3u8 下载及 B站视频下载，提供 Windows 和 Mac 桌面客户端。Cross-platform video extraction tool: Supports streaming download, video download, m3u8 download, and Bilibili video download, with deskto
+- [caorushizi/mediago](https://github.com/caorushizi/mediago) - Cross-platform video downloader — sniff and grab m3u8/HLS streams, Bilibili, YouTube and more. Desktop + Docker + web.
 - [redotvideo/revideo](https://github.com/redotvideo/revideo) - Create Videos with Code
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
 - [LalanaChami/Pharmacy-Mangment-System](https://github.com/LalanaChami/Pharmacy-Mangment-System) - 👨‍💻 :hospital: MEAN stack Pharmacy Management system.
