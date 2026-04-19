@@ -318,7 +318,7 @@
 - [moom825/xeno-rat](https://github.com/moom825/xeno-rat) - Xeno-RAT is an open-source remote access tool (RAT) developed in C#, providing a comprehensive set of features for remote system management. Has features such as HVNC, live microphone, reverse proxy, 
 - [AGD-Class/EasyChat](https://github.com/AGD-Class/EasyChat) - 基于MQTT实现的局域网通讯，使用WPF仿照微信绘制界面
 - [xmosnewone/ICEPOS-Cashier-System](https://github.com/xmosnewone/ICEPOS-Cashier-System) - 国内为数不多的全代码开源收银软件,开源协议遵循 Apache2.0,运行架构是C/S，PC端使用C#语言，管理后台使用PHP语言(Thinkphp框架),移动端使用VUE前端框架。多门店管理，离线使用，门店收银，员工登录交接，会员系统接口，会员折扣，微信/支付宝/银行卡/现金支付，库存检测，促销方案，支持扫码枪，小票打印，钱箱控制等。适用于多种商店收银场景，移动端可适配智能手机或自助收银机设备。
-- [ErsatzTV/ErsatzTV-legacy](https://github.com/ErsatzTV/ErsatzTV-legacy) - Open-source platform that transforms your personal media library into live, custom TV channels.
+- [ErsatzTV/legacy](https://github.com/ErsatzTV/legacy) - Open-source platform that transforms your personal media library into live, custom TV channels.
 - [straw-git/WPFManager](https://github.com/straw-git/WPFManager) - 一款非常漂亮的 WPF 管理系统
 - [bcvgh/Kingdee_erp_MemShell](https://github.com/bcvgh/Kingdee_erp_MemShell) - 金蝶星空云反序列化漏洞内存马
 - [f-shake/MapBoard](https://github.com/f-shake/MapBoard) - 地图画板，一款以ArcGIS Maps SDK为引擎、地图为底图、支持绘制点线面的矢量画板。支持各种格式的导入导出、基础地理分析等功能。支持Windows（完全支持）、Android（仅部分功能）。
@@ -986,7 +986,6 @@
 - [hongjr03/excel-to-typst](https://github.com/hongjr03/excel-to-typst) - Tool that convert Excel table to Typst table.
 - [vxiaozhi/vocabulary-book-by-deepseek](https://github.com/vxiaozhi/vocabulary-book-by-deepseek) - vocabulary-book-by-deepseek｜使用 DeepSeek 开发实现的四六级、考研、托福单词词汇库， 提供单词的词义、词根、例句、辅助记忆、助记图像等信息|小智晖的AI单词库。
 - [yandong2023/piano-online](https://github.com/yandong2023/piano-online) - 在线钢琴
-- [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer) - wanderer is a self-hosted trail database. Save your adventures!
 - [treffynnon/sqlstyle.guide](https://github.com/treffynnon/sqlstyle.guide) - A consistent code style guide for SQL to ensure legible and maintainable projects
 - [DualSubs/YouTube](https://github.com/DualSubs/YouTube) - YouTube增强及双语字幕解决方案
 - [qq254950134/my-iptv](https://github.com/qq254950134/my-iptv) - 用于个人托管自用直播源
@@ -1503,7 +1502,7 @@
 - [onionshare/onionshare-android](https://github.com/onionshare/onionshare-android) - Android version of OnionShare
 - [shubham0204/SmolChat-Android](https://github.com/shubham0204/SmolChat-Android) - Running any GGUF SLMs/LLMs locally, on-device in Android
 - [BelledonneCommunications/linphone-android](https://github.com/BelledonneCommunications/linphone-android) - Linphone.org mirror for linphone-android (https://gitlab.linphone.org/BC/public/linphone-android)
-- [CosminMihuMDC/KtorMonitor](https://github.com/CosminMihuMDC/KtorMonitor) - Powerful tool to monitor Ktor Client requests and responses, making it easier to debug and analyze network communication.
+- [CosminMihuMDC/KtorMonitor](https://github.com/CosminMihuMDC/KtorMonitor) - Powerful tool to monitor Ktor Client  and OkHttp requests and responses, making it easier to debug and analyze network communication.
 - [tuskyapp/Tusky](https://github.com/tuskyapp/Tusky) - An Android client for the microblogging server Mastodon
 - [spacecowboy/Feeder](https://github.com/spacecowboy/Feeder) - Android feed reader app
 - [telegram-sms/telegram-sms](https://github.com/telegram-sms/telegram-sms) - An SMS-forwarding Robot Running on Your Android Device.
@@ -2985,6 +2984,7 @@
 - [mak-kirkland/chronicler](https://github.com/mak-kirkland/chronicler) - Chronicler is a free, offline worldbuilding tool and local wiki for writers, game masters, and tabletop RPG creators. It saves your notes as plain Markdown files on your computer. No sign-up, no subsc
 - [Akylas/alpimaps](https://github.com/Akylas/alpimaps) - Offline map app iOS/Android
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
+- [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer) - wanderer is a self-hosted trail database. Save your adventures!
 - [gsidhu/buzee-tauri](https://github.com/gsidhu/buzee-tauri) - A superfast full-text search application
 - [Figma-Linux/figma-linux](https://github.com/Figma-Linux/figma-linux) - Figma is the first interface design tool based in the browser, making it easier for teams to create software. Join us in https://t.me/figma_linux
 - [obsmd-projects/obsidian-projects](https://github.com/obsmd-projects/obsidian-projects) - Plain text project planning in Obsidian
