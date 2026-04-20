@@ -609,7 +609,7 @@
 
 ## Dart 
 
-- [FaFre/WebLibre](https://github.com/FaFre/WebLibre) - Browse privately, search locally. Organize tabs, block tracking, and use Tor.
+- [FaFre/WebLibre](https://github.com/FaFre/WebLibre) - Libre Android browser built from scratch on Gecko. Privacy by default, powerful tab containers, and a local-first search engine.
 - [barisgrbz/scanxcel](https://github.com/barisgrbz/scanxcel) - Barcode and Qr Code Scan To Excel
 - [MoazSalem/colorful-notes-flutter](https://github.com/MoazSalem/colorful-notes-flutter) - A Colorful Note App with Many Options Made Using Flutter Framework.
 - [qliuyang/english_learn](https://github.com/qliuyang/english_learn) - An English learning software
@@ -1055,7 +1055,7 @@
 - [proninyaroslav/libretorrent](https://github.com/proninyaroslav/libretorrent) - Free and Open Source, full-featured torrent client for Android. Mirrored from https://gitlab.com/proninyaroslav/libretorrent
 - [tawhidmonowar/WebCapture](https://github.com/tawhidmonowar/WebCapture) - WebCapture is an open source Android application that allows users to convert any web page into a PDF file.
 - [freeok/so-novel](https://github.com/freeok/so-novel) - 小说下载｜网文下载 | 网络小说
-- [Skythinker616/gpt-assistant-android](https://github.com/Skythinker616/gpt-assistant-android) - 【新增PDF和Office文件解析上传】安卓端全场景GPT助手，可用音量键唤起并进行语音交流，支持联网、拍照、模板、PDF和Office文件解析等 | GPT assistant for Android, activated via volume keys for voice interaction, supporting features such as networking, taking p
+- [Skythinker616/gpt-assistant-android](https://github.com/Skythinker616/gpt-assistant-android) - 【新增智能体模式】安卓端全场景GPT助手，可用音量键唤起并进行语音交流，支持联网、拍照、模板、附件解析、智能体模式等 | GPT assistant for Android, activated via volume keys for voice interaction, supporting features such as networking, taking photos, template
 - [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
 - [dromara/skyeye](https://github.com/dromara/skyeye) - 智能办公OA系统[SpringBoot2-快速开发平台]，适用于医院，学校，中小型企业等机构的管理。Activiti5.22+动态表单实现零java代码即可做到复杂业务的流程实施，同时包含文件在线操作、日志、考勤、CRM、ERP进销存、项目、拖拽式生成问卷、日程、笔记、计划、行政等多种复杂业务功能。同时，可进行授权二开。
 - [osmandapp/OsmAnd](https://github.com/osmandapp/OsmAnd) - OsmAnd
@@ -1134,7 +1134,7 @@
 - [christianrowlands/android-network-survey](https://github.com/christianrowlands/android-network-survey) - Cellular Survey Android App
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
 - [deltachat/deltachat-android](https://github.com/deltachat/deltachat-android) - Decentralized private messenger with chat-shared tools and games for Android
-- [semicons/java_oci_manage](https://github.com/semicons/java_oci_manage) - Web SSH Smart Terminal for multi-cloud management, with cloud panel, Telegram bot, and Cloudflare integration — 面向多云管理的 Web SSH 智能终端，集成云管理面板、Telegram 机器人与 Cloudflare，支持 OCI / AWS / Azure / SolusVM
+- [semicons/java_oci_manage](https://github.com/semicons/java_oci_manage) - Web SSH Smart Terminal for multi-cloud management (OCI / AWS / GCP / Azure / SolusVM), with cloud panel, Telegram bot, and Cloudflare integration — 面向多云管理的 Web SSH 智能终端，集成云管理面板、Telegram 机器人与Cloudflare
 - [apache/pdfbox](https://github.com/apache/pdfbox) - Mirror of Apache PDFBox
 - [torakiki/pdfsam](https://github.com/torakiki/pdfsam) - PDFsam, a desktop application to split, merge, mix, rotate PDF files and extract pages
 - [ai-republic/bms-to-inverter](https://github.com/ai-republic/bms-to-inverter) - Use, monitor and control any battery brand with any inverter! Application to read and monitor data from BMSes and write data to an inverter using any protocol (e.g. UART, RS485, ModBus or CAN)
@@ -1856,9 +1856,7 @@
 - [ixiaoyang8/iodraw](https://github.com/ixiaoyang8/iodraw) - ioDraw is a free online drawing software, which is used to make flow chart, mind map, Gantt chart, whiteboard, mermaid, poster, and more—no registration required. It also features AI-generated charts.
 - [Rivens7/Livelist](https://github.com/Rivens7/Livelist) - IPTV-ipv6直播源同步及常看直播
 - [RaycornM/TVbox-IPTV](https://github.com/RaycornM/TVbox-IPTV) - 自用影视源直播源配置仓库    随缘维护
-- [tprc1949/iptv](https://github.com/tprc1949/iptv) - 
 - [crdroidandroid/android_vendor_crDroidOTA](https://github.com/crdroidandroid/android_vendor_crDroidOTA) - OTA configuration for crDroidOTA (make your device official)
-- [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
 - [vicjl/myIPTV](https://github.com/vicjl/myIPTV) - 
 - [cursor/cursor](https://github.com/cursor/cursor) - The AI Code Editor
 - [HW140701/Book-list-of-computational-geometry-and-computer-graphics](https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics) - Must-read and classic books of computational geometry and computer graphics
@@ -2205,7 +2203,7 @@
 - [scrapfly/scrapfly-scrapers](https://github.com/scrapfly/scrapfly-scrapers) - Scalable Python web scraping scripts for +40 popular domains
 - [internetarchive/brozzler](https://github.com/internetarchive/brozzler) - brozzler - distributed browser-based web crawler
 - [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
-- [xerrors/Yuxi](https://github.com/xerrors/Yuxi) - 结合知识库管理的 多租户 Agent Harness 平台。 An agent harness that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.
+- [xerrors/Yuxi](https://github.com/xerrors/Yuxi) - 结合知识库管理的 多租户 Agent Harness 平台。 An agent harness that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.
 - [blackteahamburger/fcitx5-pinyin-sougou-dict](https://github.com/blackteahamburger/fcitx5-pinyin-sougou-dict) - Sougou Pinyin dictionary for Fcitx5 and RIME
 - [yaoyhu/anki_packager](https://github.com/yaoyhu/anki_packager) - An intelligent, automatic Anki flashcard generator designed for Chinese speakers learning English.
 - [veops/cmdb](https://github.com/veops/cmdb) - CMDB: configuration and management of IT resources
@@ -2243,6 +2241,7 @@
 - [santinic/audiblez](https://github.com/santinic/audiblez) - Generate audiobooks from e-books
 - [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。
 - [LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
+- [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
 - [dp247/Freeview-EPG](https://github.com/dp247/Freeview-EPG) - Open source XMLTV data for UK free-to-air TV channels and radio stations
 - [0xdsm/Apepe](https://github.com/0xdsm/Apepe) - 📲 Apepe is a project developed to help to capture informations from a Android app through his APK file. It can be used to extract the content, get app settings, suggest SSL Pinning bypass based on the
 - [brandon-baek/EmailChat](https://github.com/brandon-baek/EmailChat) - An Email-based "Instant" Messaging program.
