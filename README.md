@@ -291,6 +291,7 @@
 
 ## C# # 
 
+- [Sunse666/Vimina](https://github.com/Sunse666/Vimina) - AI-friendly Windows GUI automation - Convert interface to text, no vision model needed
 - [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation requir
 - [Jerry-Z07/WindBoard](https://github.com/Jerry-Z07/WindBoard) - 轻风白板（WindBoard）
 - [lyc0826/COMIGHT](https://github.com/lyc0826/COMIGHT) - A productivity tool offering a wide range of functions to streamline office work and automate repetitive tasks, including batch processing of Excel worksheets, formatting Word documents, and managing 
@@ -786,6 +787,7 @@
 
 ## Go 
 
+- [y3owk1n/neru](https://github.com/y3owk1n/neru) - Keyboard-driven navigation for macOS and partial linux (possible for windows) - Navigate and click without touching your mouse.
 - [hanxi/cups-web](https://github.com/hanxi/cups-web) - 把家用 USB 打印机变成随时可访问的网络打印服务
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [Lallassu/gorss](https://github.com/Lallassu/gorss) - Go Terminal Feed Reader
@@ -2223,7 +2225,7 @@
 - [dsnato/visualizador-excel-kivy](https://github.com/dsnato/visualizador-excel-kivy) - Aplicativo Kivy para visualizar arquivos Excel de forma dinâmica, com um layout ajustável e rolagem interativa. Permite carregar planilhas (.xls, .xlsx) e exibir dados em um grid com largura de coluna
 - [donkirkby/live-py-plugin](https://github.com/donkirkby/live-py-plugin) - Live coding in Python with PyCharm, Emacs, Sublime Text, or even a browser
 - [emacs-eaf/emacs-application-framework](https://github.com/emacs-eaf/emacs-application-framework) - EAF, an extensible framework that revolutionizes the graphical capabilities of Emacs
-- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - AI Agent Assistant that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
+- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
 - [chapmanjacobd/library](https://github.com/chapmanjacobd/library) - 99+ CLI tools to build, browse, and blend your media library
 - [wuwentao/midea_ac_lan](https://github.com/wuwentao/midea_ac_lan) - Auto-configure and then control your Midea M-Smart devices (Air conditioner, Fan, Water heater, Washer, etc) via local area network.
 - [ONSdigital/gptables](https://github.com/ONSdigital/gptables) - Good Practice Tables - an XlsxWriter wrapper to write consistently formatted statistical tables to Excel.
