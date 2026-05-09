@@ -553,6 +553,7 @@
 
 ## android 
 
+- [jenly1314/ZXingLite](https://github.com/jenly1314/ZXingLite) - 🔥 ZXing的精简极速版，优化扫码和生成二维码/条形码，内置闪光灯等功能。扫描风格支持：微信的线条样式，支付宝的网格样式。几句代码轻松拥有扫码功能 ，ZXingLite让集成扫码更简单。
 - [alexch33/super-video-downloader](https://github.com/alexch33/super-video-downloader) - Video & Audio downloader for Android with web browser and player. M3U8 and MPD supported, live stream supported, using youtube-dlp and custom mp4/mp3/m3u8/mpd downloader, cookies supported, HTTP & SOC
 - [JunioJsv/mtk-easy-su](https://github.com/JunioJsv/mtk-easy-su) - Get bootless root access with few clicks.
 - [MultiMote/niimblue](https://github.com/MultiMote/niimblue) - 🖨 NIIMBOT custom web client/app. Design and print labels with NIIMBOT printers directly from your PC or mobile web browser!
@@ -720,7 +721,7 @@
 - [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster) - A Weather app for android 🌦🌞☔
 - [nightkr/flickboard](https://github.com/nightkr/flickboard) - Flicking keyboard for Android
 - [firerpa/lamda](https://github.com/firerpa/lamda) - The most powerful Android RPA agent framework, next generation mobile automation.
-- [ossdocumentscanner/OSS-DocumentScanner](https://github.com/ossdocumentscanner/OSS-DocumentScanner) - Document scanning app
+- [ossappscollective/OSS-DocumentScanner](https://github.com/ossappscollective/OSS-DocumentScanner) - Document scanning app
 - [Kin69/EasyNotes](https://github.com/Kin69/EasyNotes) - EasyNotes: Jetpack Compose MVVM for seamless note-taking. Effortless creation, editing, and organization.
 - [samolego/Canta](https://github.com/samolego/Canta) - Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, no PC required.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -788,7 +789,7 @@
 - [hxh19950701/WebViewTvLive](https://github.com/hxh19950701/WebViewTvLive) - 使用 腾讯X5 WebView 开发的电视直播App
 - [nathaneltitane/dextop](https://github.com/nathaneltitane/dextop) - Unlock the full potential of your Android device and transform it into a Linux-based workstation in minutes with Dextop! No tech expertise needed - it's user-friendly and hassle-free!
 - [saschpe/Kex](https://github.com/saschpe/Kex) - Hex string encoder/decoder for Kotlin/Multiplatform. Supports Android, iOS, JavaScript and plain JVM environments.
-- [measure-sh/measure](https://github.com/measure-sh/measure) - Complete Mobile App Monitoring platform with Crash Reporting 💥, ANR Tracking ⏳, Bug Reporting 🐞, Performance Tracing ⚡️, Logging 🪵 and more! 100% open source alternative to Firebase Crashlytics.
+- [measure-sh/measure](https://github.com/measure-sh/measure) - Complete Mobile App Monitoring platform with Crash Reporting, ANR Tracking, Bug Reporting, Performance Tracing, Logging and more! 100% open source alternative to Firebase Crashlytics.
 - [picguard/picguard](https://github.com/picguard/picguard) - Your pictures, your signature.
 - [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android.
 - [gujjwal00/avnc](https://github.com/gujjwal00/avnc) - VNC Client for Android
@@ -1667,7 +1668,7 @@
 - [superpung/TJU-CourseSharing](https://github.com/superpung/TJU-CourseSharing) - 天津大学课程共享计划
 - [azl397985856/leetcode](https://github.com/azl397985856/leetcode) - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
 - [JackeyLea/NJUCS](https://github.com/JackeyLea/NJUCS) - 2025南京大学计算机科学与技术845考研公共课和专业课资料：数学一、英语一、政治、数据结构、计算机网络、计算机系统基础、操作系统教程、算法设计与分析-包括真题、期末考试、PPT、模拟题、专业课参考书及课后答案、报录比、经验等等
-- [1c7/Crash-Course-Computer-Science-Chinese](https://github.com/1c7/Crash-Course-Computer-Science-Chinese) - 计算机速成课（播放量 496.2 万） （共40集，每一集 10 分钟）2018 年完成翻译。评论区有大量好评
+- [1c7/Crash-Course-Computer-Science-Chinese](https://github.com/1c7/Crash-Course-Computer-Science-Chinese) - 计算机速成课（播放量 499 万） （共40集，每一集 10 分钟）2018 年完成翻译。评论区有大量好评
 
 ## computer-vision 
 
@@ -1719,7 +1720,7 @@
 - [vsaint1/kernel-mouse](https://github.com/vsaint1/kernel-mouse) - Kernel driver with mouse and keyboard input
 - [forthespada/CS-Books](https://github.com/forthespada/CS-Books) - 🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~
 - [bkryza/clang-uml](https://github.com/bkryza/clang-uml) - Customizable automatic UML diagram generator for C++ based on Clang.
-- [pawelsalawa/sqlitestudio](https://github.com/pawelsalawa/sqlitestudio) - A free, open source, multi-platform SQLite database manager.
+- [pawelsalawa/letos](https://github.com/pawelsalawa/letos) - A free, open source, multi-platform SQLite database manager.
 - [mytechnotalent/Hacking-Windows](https://github.com/mytechnotalent/Hacking-Windows) - A FREE Windows C development course where we will learn the Win32API and reverse engineer each step utilizing IDA Free in both an x86 and x64 environment.
 - [asciphx/FabCc](https://github.com/asciphx/FabCc) - Asynchronous non-blocking dark magic for all-platform c++ web🌐 .No GC📵! LOW CODE💾!
 - [szad670401/HyperLPR](https://github.com/szad670401/HyperLPR) - High Performance Chinese License Plate Recognition Framework.
@@ -1810,7 +1811,7 @@
 - [SankethBK/diaryvault](https://github.com/SankethBK/diaryvault) - A personal diary application written in Flutter
 - [FriesI23/mhabit](https://github.com/FriesI23/mhabit) - Our app helps you form and track micro habits with easy-to-use 📈 charts and tools, making it simple to establish healthy habits that stick 🌱. Start your personal growth journey today 🚀!
 - [nightmare-space/code_lfa](https://github.com/nightmare-space/code_lfa) - Port VS Code to Android and support local operation
-- [measure-sh/measure](https://github.com/measure-sh/measure) - Complete Mobile App Monitoring platform with Crash Reporting 💥, ANR Tracking ⏳, Bug Reporting 🐞, Performance Tracing ⚡️, Logging 🪵 and more! 100% open source alternative to Firebase Crashlytics.
+- [measure-sh/measure](https://github.com/measure-sh/measure) - Complete Mobile App Monitoring platform with Crash Reporting, ANR Tracking, Bug Reporting, Performance Tracing, Logging and more! 100% open source alternative to Firebase Crashlytics.
 - [thunder-app/thunder](https://github.com/thunder-app/thunder) - An open-source cross-platform Lemmy & PieFed client for iOS and Android
 - [CCExtractor/taskwarrior-flutter](https://github.com/CCExtractor/taskwarrior-flutter) - This is the repo of mobile app of taskwarrior
 - [Berrysoft/tunet-rust](https://github.com/Berrysoft/tunet-rust) - 清华大学校园网 Rust 库与客户端
@@ -1973,7 +1974,7 @@
 - [coleifer/sqlite-web](https://github.com/coleifer/sqlite-web) - Web-based SQLite database browser written in Python
 - [nullptrlabs/pgmodeler](https://github.com/nullptrlabs/pgmodeler) - Open-source data modeling tool designed for PostgreSQL. No more typing DDL commands. Let pgModeler do the work for you!
 - [drkameleon/grafito](https://github.com/drkameleon/grafito) - Portable, Serverless & Lightweight SQLite-based Graph Database in Arturo
-- [pawelsalawa/sqlitestudio](https://github.com/pawelsalawa/sqlitestudio) - A free, open source, multi-platform SQLite database manager.
+- [pawelsalawa/letos](https://github.com/pawelsalawa/letos) - A free, open source, multi-platform SQLite database manager.
 - [gobuffalo/pop](https://github.com/gobuffalo/pop) - A Tasty Treat For All Your Database Needs
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
 - [indradb/indradb](https://github.com/indradb/indradb) - A graph database written in rust
@@ -2496,7 +2497,7 @@
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Build realtime web, mobile and desktop apps in Python only. No frontend experience required.
 - [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
 - [LinwoodDev/Flow](https://github.com/LinwoodDev/Flow) - ⌚ Feature rich event, group and time managment system
-- [measure-sh/measure](https://github.com/measure-sh/measure) - Complete Mobile App Monitoring platform with Crash Reporting 💥, ANR Tracking ⏳, Bug Reporting 🐞, Performance Tracing ⚡️, Logging 🪵 and more! 100% open source alternative to Firebase Crashlytics.
+- [measure-sh/measure](https://github.com/measure-sh/measure) - Complete Mobile App Monitoring platform with Crash Reporting, ANR Tracking, Bug Reporting, Performance Tracing, Logging and more! 100% open source alternative to Firebase Crashlytics.
 - [picguard/picguard](https://github.com/picguard/picguard) - Your pictures, your signature.
 - [AppFlowy-IO/appflowy-editor](https://github.com/AppFlowy-IO/appflowy-editor) - A highly customizable rich-text editor for Flutter. The AppFlowy Editor project for AppFlowy and beyond.
 - [pichillilorenzo/flutter_browser_app](https://github.com/pichillilorenzo/flutter_browser_app) - A Full-Featured Mobile and Desktop Browser App (such as the Google Chrome mobile browser) created using Flutter and the features offered by the flutter_inappwebview plugin.
@@ -2734,7 +2735,6 @@
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
-- [emad-elsaid/xlog](https://github.com/emad-elsaid/xlog) - 💥 Personal knowledge management application. One binary HTTP server. works in any Markdown directory. autolinks pages, hashtags, auto preview images link, screenshare, screenshot, camera recording and
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 
 ## golang 
@@ -2819,7 +2819,6 @@
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [anzhihe/learning](https://github.com/anzhihe/learning) - Learning Shell，Python，Golang，System，Network
 - [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2024 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test
-- [emad-elsaid/xlog](https://github.com/emad-elsaid/xlog) - 💥 Personal knowledge management application. One binary HTTP server. works in any Markdown directory. autolinks pages, hashtags, auto preview images link, screenshare, screenshot, camera recording and
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [traggo/server](https://github.com/traggo/server) - self-hosted tag-based time tracking
 
@@ -3167,7 +3166,7 @@
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
 - [tannerhelland/PhotoDemon](https://github.com/tannerhelland/PhotoDemon) - A free portable photo editor focused on pro-grade features, high performance, and maximum usability.
-- [ossdocumentscanner/OSS-DocumentScanner](https://github.com/ossdocumentscanner/OSS-DocumentScanner) - Document scanning app
+- [ossappscollective/OSS-DocumentScanner](https://github.com/ossappscollective/OSS-DocumentScanner) - Document scanning app
 - [codeforreal1/compressO](https://github.com/codeforreal1/compressO) - Convert any video/image into a tiny size. 100% free & open-source. Available for Mac, Windows & Linux.
 - [FastTrackOrg/FastTrack](https://github.com/FastTrackOrg/FastTrack) - FastTrack is a cross-platform application designed to track multiple objects in video recording.
 - [pixa-pics/pixa-pics.github.io](https://github.com/pixa-pics/pixa-pics.github.io) - Powerful As Photoshop and Simple As Paint... 🖌️🎨 For Pixel Art Only! 🖥️ 🌟 This Open Source Web App Is Pixa.Pics And Yours To Keep!
@@ -3243,7 +3242,7 @@
 - [kamgurgul/cpu-info](https://github.com/kamgurgul/cpu-info) - CPU Info is a multiplatform application which provides information about device hardware and software
 - [tiddly-gittly/TidGi-Mobile](https://github.com/tiddly-gittly/TidGi-Mobile) - A Note App that is local-first, uses tid/md pure text file, all-in-one with calendar/todo/diary widget, lazy-loading, backlink & outline & Zettelkasten, and syncs with the open-source TidGi-Desktop.
 - [saschpe/Kex](https://github.com/saschpe/Kex) - Hex string encoder/decoder for Kotlin/Multiplatform. Supports Android, iOS, JavaScript and plain JVM environments.
-- [measure-sh/measure](https://github.com/measure-sh/measure) - Complete Mobile App Monitoring platform with Crash Reporting 💥, ANR Tracking ⏳, Bug Reporting 🐞, Performance Tracing ⚡️, Logging 🪵 and more! 100% open source alternative to Firebase Crashlytics.
+- [measure-sh/measure](https://github.com/measure-sh/measure) - Complete Mobile App Monitoring platform with Crash Reporting, ANR Tracking, Bug Reporting, Performance Tracing, Logging and more! 100% open source alternative to Firebase Crashlytics.
 - [picguard/picguard](https://github.com/picguard/picguard) - Your pictures, your signature.
 - [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android.
 - [pichillilorenzo/flutter_browser_app](https://github.com/pichillilorenzo/flutter_browser_app) - A Full-Featured Mobile and Desktop Browser App (such as the Google Chrome mobile browser) created using Flutter and the features offered by the flutter_inappwebview plugin.
@@ -3434,7 +3433,7 @@
 - [hxh19950701/WebViewTvLive](https://github.com/hxh19950701/WebViewTvLive) - 使用 腾讯X5 WebView 开发的电视直播App
 - [calculang/calculang](https://github.com/calculang/calculang) - calculang is a language for calculations 🧮💬👩‍💻
 - [sudochmod777tanakrit/terminal-kanban](https://github.com/sudochmod777tanakrit/terminal-kanban) - ✨ Collaborate with flair using a Kanban board right in your terminal! 🖥️  TerminalKanban brings the power of visual task management to your command line, making project coordination both productive an
-- [measure-sh/measure](https://github.com/measure-sh/measure) - Complete Mobile App Monitoring platform with Crash Reporting 💥, ANR Tracking ⏳, Bug Reporting 🐞, Performance Tracing ⚡️, Logging 🪵 and more! 100% open source alternative to Firebase Crashlytics.
+- [measure-sh/measure](https://github.com/measure-sh/measure) - Complete Mobile App Monitoring platform with Crash Reporting, ANR Tracking, Bug Reporting, Performance Tracing, Logging and more! 100% open source alternative to Firebase Crashlytics.
 - [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android.
 - [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is at https://wekan.fi/commercial-support/ . New English strings for new features a
 - [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the Kanban-style project mastering tool for everyone
@@ -3698,7 +3697,7 @@
 - [DanielRendox/RoutineTracker](https://github.com/DanielRendox/RoutineTracker) - An Android planner calendar app and a habit tracker that aims to simplify scheduling consistent activities and tracking your progress.
 - [hxh19950701/WebViewTvLive](https://github.com/hxh19950701/WebViewTvLive) - 使用 腾讯X5 WebView 开发的电视直播App
 - [saschpe/Kex](https://github.com/saschpe/Kex) - Hex string encoder/decoder for Kotlin/Multiplatform. Supports Android, iOS, JavaScript and plain JVM environments.
-- [measure-sh/measure](https://github.com/measure-sh/measure) - Complete Mobile App Monitoring platform with Crash Reporting 💥, ANR Tracking ⏳, Bug Reporting 🐞, Performance Tracing ⚡️, Logging 🪵 and more! 100% open source alternative to Firebase Crashlytics.
+- [measure-sh/measure](https://github.com/measure-sh/measure) - Complete Mobile App Monitoring platform with Crash Reporting, ANR Tracking, Bug Reporting, Performance Tracing, Logging and more! 100% open source alternative to Firebase Crashlytics.
 - [gujjwal00/avnc](https://github.com/gujjwal00/avnc) - VNC Client for Android
 - [Wavesonics/hammer-editor](https://github.com/Wavesonics/hammer-editor) - A simple tool for building stories.
 - [FossifyOrg/Voice-Recorder](https://github.com/FossifyOrg/Voice-Recorder) - An easy way of recording any discussion or sounds without ads or internet access
@@ -3931,7 +3930,6 @@
 - [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis is a download manager written in Python.
 - [cyanfish/naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
-- [h4ck3r0/Metasploit-termux](https://github.com/h4ck3r0/Metasploit-termux) - Install Latest Metrasploit In Termux (2026). Features automatic Ruby 3.4+ Nokogiri/Gumbo patches, PostgreSQL auto-fix, and silent installation logic.  Maintained by @h4ck3r0.
 - [goq/telegram-list](https://github.com/goq/telegram-list) - List of telegram groups, channels & bots // Список интересных групп, каналов и ботов телеграма // Список чатов для программистов
 - [KiCad/kicad-source-mirror](https://github.com/KiCad/kicad-source-mirror) - This is an active mirror of the KiCad development branch, which is hosted at GitLab (updated every time something is pushed). Pull requests on GitHub are not accepted or watched.
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
@@ -4088,7 +4086,7 @@
 
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
-- [nocokit/noco-form](https://github.com/nocokit/noco-form) - noco-form
+- [nocokit/noco-form](https://github.com/nocokit/noco-form) - 拖拉拽低代码表单
 - [Budibase/budibase](https://github.com/Budibase/budibase) - AI agents, automations and apps that run your operations. Model agnostic.
 - [asciphx/FabCc](https://github.com/asciphx/FabCc) - Asynchronous non-blocking dark magic for all-platform c++ web🌐 .No GC📵! LOW CODE💾!
 - [baserow/baserow](https://github.com/baserow/baserow) - Build databases, automations, apps & agents with AI — no code.  Open source platform available on cloud and self-hosted. GDPR, HIPAA, SOC 2 compliant. Best Airtable alternative.
@@ -4099,7 +4097,7 @@
 - [luakit/luakit](https://github.com/luakit/luakit) - Fast, small, webkit based browser framework extensible by Lua.
 - [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, SQLite and PostgreSQL support ++
 - [terroo/terroo.github.io](https://github.com/terroo/terroo.github.io) - Terminal Root English version
-- [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Plugin to improve viewing Markdown files in Neovim
+- [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Improve viewing Markdown in Neovim
 - [AstroNvim/astrocommunity](https://github.com/AstroNvim/astrocommunity) - A community repository of common plugin specifications
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [brianhuster/live-preview.nvim](https://github.com/brianhuster/live-preview.nvim) - A Live Preview Plugin for Neovim that allows you to view Markdown, HTML (along with CSS, JavaScript), AsciiDoc, SVG files in a web browser with live updates.
@@ -4294,7 +4292,7 @@
 - [ArthurSonzogni/Diagon](https://github.com/ArthurSonzogni/Diagon) - Interactive ASCII art diagram generators. :star2:
 - [behringer24/spell](https://github.com/behringer24/spell) - Smart Processing and Enhanced Lightweight Layout - Markdown to EPUB converter
 - [fengxxc/wechatmp2markdown](https://github.com/fengxxc/wechatmp2markdown) - 微信公众号文章转Markdown
-- [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Plugin to improve viewing Markdown files in Neovim
+- [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Improve viewing Markdown in Neovim
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [Skythinker616/gpt-assistant-android](https://github.com/Skythinker616/gpt-assistant-android) - 【新增智能体模式】安卓端全场景GPT助手，可用音量键唤起并进行语音交流，支持联网、拍照、模板、附件解析、智能体模式等 | GPT assistant for Android, activated via volume keys for voice interaction, supporting features such as networking, taking photos, template
 - [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
@@ -4362,7 +4360,7 @@
 - [haiwen/seafile](https://github.com/haiwen/seafile) - Beyond file syncing and sharing, a new way to organize your files with extensible file properties and flexible views
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [danburzo/percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into readable PDF, EPUB, HTML, or Markdown docs.
-- [emad-elsaid/xlog](https://github.com/emad-elsaid/xlog) - 💥 Personal knowledge management application. One binary HTTP server. works in any Markdown directory. autolinks pages, hashtags, auto preview images link, screenshare, screenshot, camera recording and
+- [emad-elsaid/xlog](https://github.com/emad-elsaid/xlog) - 💥 Fast, Git-native framework for building knowledge bases - Static site generator for digital gardens and personal wikis
 - [kolynzb/rust-lang-simplified](https://github.com/kolynzb/rust-lang-simplified) - Simplifying Rust programming for beginners. It contains easy-to-follow code examples and tutorials that cover everything from basic syntax to advanced topics such as asynchronous programming and syste
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 
@@ -4592,7 +4590,7 @@
 
 ## neovim 
 
-- [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Plugin to improve viewing Markdown files in Neovim
+- [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Improve viewing Markdown in Neovim
 - [AstroNvim/astrocommunity](https://github.com/AstroNvim/astrocommunity) - A community repository of common plugin specifications
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
@@ -4893,7 +4891,7 @@
 - [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster) - A Weather app for android 🌦🌞☔
 - [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [FossifyOrg/Calendar](https://github.com/FossifyOrg/Calendar) - A simple calendar with events, customizable widgets and no ads.
-- [measure-sh/measure](https://github.com/measure-sh/measure) - Complete Mobile App Monitoring platform with Crash Reporting 💥, ANR Tracking ⏳, Bug Reporting 🐞, Performance Tracing ⚡️, Logging 🪵 and more! 100% open source alternative to Firebase Crashlytics.
+- [measure-sh/measure](https://github.com/measure-sh/measure) - Complete Mobile App Monitoring platform with Crash Reporting, ANR Tracking, Bug Reporting, Performance Tracing, Logging and more! 100% open source alternative to Firebase Crashlytics.
 - [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android.
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 - [WWBN/AVideo](https://github.com/WWBN/AVideo) - Create Your Own Broadcast Network With AVideo Platform Open-Source. OAVP OVP
@@ -4977,7 +4975,7 @@
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA, GUI automation, Auto test and Computer use  @vcaesar
 - [robocorp/rpaframework](https://github.com/robocorp/rpaframework) - Collection of open-source libraries and tools for Robotic Process Automation (RPA), designed to be used with both Robot Framework and Python
-- [ossdocumentscanner/OSS-DocumentScanner](https://github.com/ossdocumentscanner/OSS-DocumentScanner) - Document scanning app
+- [ossappscollective/OSS-DocumentScanner](https://github.com/ossappscollective/OSS-DocumentScanner) - Document scanning app
 - [FastTrackOrg/FastTrack](https://github.com/FastTrackOrg/FastTrack) - FastTrack is a cross-platform application designed to track multiple objects in video recording.
 - [sz3/libcimbar](https://github.com/sz3/libcimbar) - Optimized implementation for color-icon-matrix barcodes
 - [GauravSingh9356/J.A.R.V.I.S](https://github.com/GauravSingh9356/J.A.R.V.I.S) - Personal Assistant built using python libraries. It does almost anything which includes sending emails, Optical Text Recognition, Dynamic News Reporting at any time with API integration, Todo list gen
@@ -5104,7 +5102,7 @@
 - [Zippland/worth-calculator](https://github.com/Zippland/worth-calculator) - Calculating the actual value of your job beyond just salary
 - [Cierra-Runis/caduceus](https://github.com/Cierra-Runis/caduceus) - An open-source alternative to Typst App.
 - [aoguai/LiYing](https://github.com/aoguai/LiYing) - LiYing is an automated photo processing program designed for automating the post-processing workflow of ID photos in general photo studios. | LiYing 是一套适用于自动化 完成一般照相馆后期证件照处理流程的照片自动处理的程序。
-- [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) - 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
+- [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) - 🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
 - [hanslub42/rlwrap](https://github.com/hanslub42/rlwrap) - A readline wrapper
 - [AnBui2004/Vectras-VM-Emu-Android](https://github.com/AnBui2004/Vectras-VM-Emu-Android) - It's a Virtual Machine App for Android Which is Based on QEMU
 - [Jitendex/Jitendex](https://github.com/Jitendex/Jitendex) - A free, offline, and openly licensed Japanese-to-English dictionary. Updates monthly!
@@ -6386,7 +6384,6 @@
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [orgzly/orgzly-android](https://github.com/orgzly/orgzly-android) - Outliner for taking notes and managing to-do lists
 - [mhss1/MyBrain](https://github.com/mhss1/MyBrain) - All-in-one productivity app and AI assistant with Tasks, Notes, Calendar, Diary and Bookmarks.
-- [emad-elsaid/xlog](https://github.com/emad-elsaid/xlog) - 💥 Personal knowledge management application. One binary HTTP server. works in any Markdown directory. autolinks pages, hashtags, auto preview images link, screenshare, screenshot, camera recording and
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [alyssaxuu/slashy](https://github.com/alyssaxuu/slashy) - Supercharge Notion with custom commands to record, draw, and more ✍️
@@ -6744,7 +6741,7 @@
 - [aaronhktan/jyut-dict](https://github.com/aaronhktan/jyut-dict) - A free, open-source, offline Cantonese Dictionary for Windows, Mac, and Linux. Qt, SQLite. C++ and Python.
 - [GPSBabel/gpsbabel](https://github.com/GPSBabel/gpsbabel) - GPSBabel: convert, manipulate, and transfer data from GPS programs or GPS receivers. Open Source and supported on MacOS, Windows, Linux, and more. Pointy clicky GUI or a command line version...
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
-- [pawelsalawa/sqlitestudio](https://github.com/pawelsalawa/sqlitestudio) - A free, open source, multi-platform SQLite database manager.
+- [pawelsalawa/letos](https://github.com/pawelsalawa/letos) - A free, open source, multi-platform SQLite database manager.
 - [mortbopet/Ripes](https://github.com/mortbopet/Ripes) - A graphical processor simulator and assembly editor for the RISC-V ISA
 
 ## r 
@@ -6884,7 +6881,7 @@
 - [artsy/eigen](https://github.com/artsy/eigen) - The Art World in Your Pocket or Your Trendy Tech Company's Tote, Artsy's mobile app.
 - [status-im/status-legacy](https://github.com/status-im/status-legacy) - a free (libre) open source, mobile OS for Ethereum
 - [balzack/databag](https://github.com/balzack/databag) - fast & lightweight self-hosted messenger
-- [measure-sh/measure](https://github.com/measure-sh/measure) - Complete Mobile App Monitoring platform with Crash Reporting 💥, ANR Tracking ⏳, Bug Reporting 🐞, Performance Tracing ⚡️, Logging 🪵 and more! 100% open source alternative to Firebase Crashlytics.
+- [measure-sh/measure](https://github.com/measure-sh/measure) - Complete Mobile App Monitoring platform with Crash Reporting, ANR Tracking, Bug Reporting, Performance Tracing, Logging and more! 100% open source alternative to Firebase Crashlytics.
 - [numandev1/react-native-compressor](https://github.com/numandev1/react-native-compressor) - 🗜️Compress Image, Video, and Audio same like Whatsapp 🚀✨
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
@@ -7199,7 +7196,7 @@
 - [mealie-recipes/mealie](https://github.com/mealie-recipes/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes 
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [LinwoodDev/Flow](https://github.com/LinwoodDev/Flow) - ⌚ Feature rich event, group and time managment system
-- [measure-sh/measure](https://github.com/measure-sh/measure) - Complete Mobile App Monitoring platform with Crash Reporting 💥, ANR Tracking ⏳, Bug Reporting 🐞, Performance Tracing ⚡️, Logging 🪵 and more! 100% open source alternative to Firebase Crashlytics.
+- [measure-sh/measure](https://github.com/measure-sh/measure) - Complete Mobile App Monitoring platform with Crash Reporting, ANR Tracking, Bug Reporting, Performance Tracing, Logging and more! 100% open source alternative to Firebase Crashlytics.
 - [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the Kanban-style project mastering tool for everyone
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
@@ -7436,7 +7433,7 @@
 - [nsstnc/weather](https://github.com/nsstnc/weather) - 🌦💻 Weather web application with a nice design and the most necessary information
 - [drkameleon/grafito](https://github.com/drkameleon/grafito) - Portable, Serverless & Lightweight SQLite-based Graph Database in Arturo
 - [mrprogre/avandy-news](https://github.com/mrprogre/avandy-news) - News analyzer/RSS aggregator with powerful filtering of unnecessary information and headline search by keywords in any language of the World with one click. The program is included in Register of Russ
-- [pawelsalawa/sqlitestudio](https://github.com/pawelsalawa/sqlitestudio) - A free, open source, multi-platform SQLite database manager.
+- [pawelsalawa/letos](https://github.com/pawelsalawa/letos) - A free, open source, multi-platform SQLite database manager.
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted platform for sharing and managing your most frequently used links. Easily create customizable, human-readable shortcuts to streamline your link management.
 - [gobuffalo/pop](https://github.com/gobuffalo/pop) - A Tasty Treat For All Your Database Needs
@@ -7504,7 +7501,7 @@
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 - [turms-im/turms](https://github.com/turms-im/turms) - 🕊️ The world's most advanced open source instant messaging engine for 100K~10M concurrent users https://turms-im.github.io/docs
 - [artsy/eigen](https://github.com/artsy/eigen) - The Art World in Your Pocket or Your Trendy Tech Company's Tote, Artsy's mobile app.
-- [measure-sh/measure](https://github.com/measure-sh/measure) - Complete Mobile App Monitoring platform with Crash Reporting 💥, ANR Tracking ⏳, Bug Reporting 🐞, Performance Tracing ⚡️, Logging 🪵 and more! 100% open source alternative to Firebase Crashlytics.
+- [measure-sh/measure](https://github.com/measure-sh/measure) - Complete Mobile App Monitoring platform with Crash Reporting, ANR Tracking, Bug Reporting, Performance Tracing, Logging and more! 100% open source alternative to Firebase Crashlytics.
 - [yangwenmai/github-trending-backup](https://github.com/yangwenmai/github-trending-backup) - Github trending backup by everyday.
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [xitu/gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
