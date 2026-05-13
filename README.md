@@ -573,7 +573,6 @@
 
 - [Bali10050/FirefoxCSS](https://github.com/Bali10050/FirefoxCSS) - Custom firefox interface
 - [MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks) - Collection of userstyles affecting the browser
-- [owlman/CS_StudyNotes](https://github.com/owlman/CS_StudyNotes) - 基于 Obsidian 系统构建的计算机专业学习/研究笔记
 - [secure-77/Perlite](https://github.com/secure-77/Perlite) - A web-based markdown viewer optimized for Obsidian
 - [aculix/bitplay](https://github.com/aculix/bitplay) - Stream video torrents in your web browser with ease.
 - [0x2b3bfa0/armarius](https://github.com/0x2b3bfa0/armarius) - Updated list of books and magnet links from https://epublibre.org
@@ -811,7 +810,7 @@
 - [zbuzhi/diff-excel](https://github.com/zbuzhi/diff-excel) - Excel文件对比工具
 - [rodrigocfd/windigo](https://github.com/rodrigocfd/windigo) - Windows API and GUI in idiomatic Go.
 - [chromedp/chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
-- [zk-org/zk](https://github.com/zk-org/zk) - Plain text note-taking assistant
+- [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant for Zettelkasten or otherwise
 - [lin-snow/Ech0](https://github.com/lin-snow/Ech0) - Ech0 – An open-source, self-hosted lightweight publishing platform for personal idea sharing.
 - [noriah/catnip](https://github.com/noriah/catnip) - terminal audio visualizer for linux/unix/macOS/windblows*
 - [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis
@@ -929,6 +928,7 @@
 - [mmpx12/twitter-media-downloader](https://github.com/mmpx12/twitter-media-downloader) - twmd: CLI/GUI Apiless twitter downlaoder. Download medias from single tweet or a whole profile.
 - [atlasdatatech/tiler](https://github.com/atlasdatatech/tiler) - 一款极速瓦片地图下载器，支持mapbox矢量瓦片下载。支持谷歌影像、百度地图、高德、天地图、OSM、ESRI、腾讯、微软等瓦片地图下载，离线地图soeasy。
 - [ViBiOh/fibr](https://github.com/ViBiOh/fibr) - Web FIleBRowser
+- [containers/toolbox](https://github.com/containers/toolbox) - Tool for interactive command line environments on Linux
 - [cogentcore/cogent](https://github.com/cogentcore/cogent) - A powerful, fast, elegant software ecosystem of apps for all platforms.
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io. Proxy to remove CORS headers and modify HTML
@@ -1222,6 +1222,7 @@
 - [RavelloH/EverydayNews](https://github.com/RavelloH/EverydayNews) - 新版的EverydayNews，存储2022/06/04至今的所有每日60s新闻，以JSON格式存放，每日更新，自带搜索功能，可RSS订阅，提供API
 - [longxiao7/stars](https://github.com/longxiao7/stars) - 给自己star的项目写备注
 - [ranuts/document](https://github.com/ranuts/document) - Perform common file preview and editing via the web.
+- [owlman/CS_StudyNotes](https://github.com/owlman/CS_StudyNotes) - 基于 Obsidian 系统构建的计算机专业学习/研究笔记
 - [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for power users
 - [code-charity/youtube](https://github.com/code-charity/youtube) - Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰250+tweaks & smart features📌set&forget📌  - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|q
 - [netresearch/timetracker](https://github.com/netresearch/timetracker) - Simple time tracking front end with optional Jira synchronization, AD/LDAP integration and XLSX export.
@@ -2105,7 +2106,7 @@
 
 ## Python 
 
-- [eugeniughelbur/obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain) - Claude Code skill for Obsidian. Turn your vault into a living AI-first second brain. 31 commands, vault-first research, scheduled agents.
+- [eugeniughelbur/obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain) - Cross-CLI skill for Obsidian. Turns your vault into a living AI-first second brain across Claude Code, Codex CLI, Gemini CLI, and OpenCode. 32 commands, vault-first research, scheduled agents, write-t
 - [dseditor/QwenASRMiniTool](https://github.com/dseditor/QwenASRMiniTool) - 基於OpenVino-int8權重，精簡的QwenASR小工具，用於即時辨識以及字幕轉換使用
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 - [ImSingee/open-english-dictionary](https://github.com/ImSingee/open-english-dictionary) - 
@@ -2672,7 +2673,7 @@
 - [wasabeef/emu](https://github.com/wasabeef/emu) - A TUI for managing Android emulators and iOS simulators.
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
 - [teamclouday/AndroidMic](https://github.com/teamclouday/AndroidMic) - Use your Android phone as a microphone for your PC
-- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine
 - [ChanTsune/Portable-Network-Archive](https://github.com/ChanTsune/Portable-Network-Archive) - PNA (Portable Network Archive) is a highly scalable archive format that can be compressed, encrypted, and split. Also, its data structure is inspired by the PNG data structure.
 - [typedb/typeql](https://github.com/typedb/typeql) - TypeQL: Built for systems, not records
 - [probablykasper/cpc](https://github.com/probablykasper/cpc) - Text calculator with support for units and conversion
@@ -2949,7 +2950,6 @@
 - [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
 - [h4ck3r0/Metasploit-termux](https://github.com/h4ck3r0/Metasploit-termux) - Install Latest Metrasploit In Termux (2026). Features automatic Ruby 3.4+ Nokogiri/Gumbo patches, PostgreSQL auto-fix, and silent installation logic.  Maintained by @h4ck3r0.
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
-- [containers/toolbox](https://github.com/containers/toolbox) - Tool for interactive command line environments on Linux
 - [openwall/john-packages](https://github.com/openwall/john-packages) - Community packages of John the Ripper, the auditing tool and advanced offline password cracker (Docker images, Windows PortableApp, Mac OS, Flatpak, and Ubuntu SNAP packages)
 - [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) - 🚀 Awesome (free) web apps that work without login
 - [IceWhaleTech/ZimaOS](https://github.com/IceWhaleTech/ZimaOS) - A Simplified, Focused and Open NAS OS_
