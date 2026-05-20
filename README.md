@@ -61,6 +61,7 @@
 - [Perl](#perl)
 - [PowerShell](#powershell)
 - [Python](#python)
+- [QML](#qml)
 - [R](#r)
 - [Roff](#roff)
 - [Ruby](#ruby)
@@ -791,6 +792,7 @@
 
 ## Go 
 
+- [Presto-io/Presto](https://github.com/Presto-io/Presto) - Markdown → Typst → PDF 桌面排版工具
 - [iota-uz/iota-sdk](https://github.com/iota-uz/iota-sdk) - IOTA-SDK - is an open-source modular ERP. An alternative to SAP, Oracle, Odoo written in Go with modern look & feel
 - [y3owk1n/neru](https://github.com/y3owk1n/neru) - Keyboard-driven navigation for macOS and partial linux (possible for windows) - Navigate and click without touching your mouse.
 - [hanxi/cups-web](https://github.com/hanxi/cups-web) - 把家用 USB 打印机变成随时可访问的网络打印服务
@@ -1143,7 +1145,6 @@
 - [sleuthkit/autopsy](https://github.com/sleuthkit/autopsy) - Autopsy® is a digital forensics platform and graphical interface to The Sleuth Kit® and other digital forensics tools. It can be used by law enforcement, military, and corporate examiners to investiga
 - [google/bundletool](https://github.com/google/bundletool) - Bundletool is a command-line tool to manipulate Android App Bundles
 - [termux/termux-api](https://github.com/termux/termux-api) - Termux add-on app which exposes device functionality as API to command line programs.
-- [christianrowlands/android-network-survey](https://github.com/christianrowlands/android-network-survey) - Cellular Survey Android App
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
 - [deltachat/deltachat-android](https://github.com/deltachat/deltachat-android) - Decentralized private messenger with chat-shared tools and games for Android
 - [semicons/java_oci_manage](https://github.com/semicons/java_oci_manage) - Web SSH Smart Terminal for multi-cloud management (OCI / AWS / GCP / Azure / DO / SolusVM /VirtFusion), with cloud panel, Telegram bot, and Cloudflare integration — 面向多云管理的 Web SSH 智能终端，集成云管理面板、Telegr
@@ -1395,7 +1396,7 @@
 - [uiwjs/province-city-china](https://github.com/uiwjs/province-city-china) - 🇨🇳 Complete and updated China administrative divisions (province, city, county, town) in JSON, CSV, and SQL formats 🇨🇳最全最新中国【省、市、区县、乡镇街道】json,csv,sql数据
 - [azl397985856/leetcode](https://github.com/azl397985856/leetcode) - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
-- [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
+- [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 - [mbloch/mapshaper](https://github.com/mbloch/mapshaper) - Tools for editing Shapefile, GeoJSON, TopoJSON and CSV files
 - [pnlpal/dictionariez](https://github.com/pnlpal/dictionariez) - 📚 A customizable dictionary extension that supports double-click lookups in 20+ languages, 1000+ dictionaries, text-to-speech, translation and Anki integration.
 - [ricklamers/gridstudio](https://github.com/ricklamers/gridstudio) - Grid studio is a web-based application for data science with full integration of open source data science frameworks and languages.
@@ -1662,6 +1663,7 @@
 - [AndroidCoderPeng/DailyTask](https://github.com/AndroidCoderPeng/DailyTask) - 钉钉自动打卡
 - [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
 - [abhinav12k/Typster](https://github.com/abhinav12k/Typster) - Typster is a simple typing game built using Desktop Compose. The game allows you to test your typing skills by typing a given text as fast and accurately as possible. You can also customize the text t
+- [christianrowlands/android-network-survey](https://github.com/christianrowlands/android-network-survey) - Cellular Survey Android App
 - [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
 - [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) - Yet another barcode scanner for Android
 - [mwarning/trigger](https://github.com/mwarning/trigger) - Android app to lock/unlock/ring doors. Supports generic HTTPS/SSH/Bluetooth/MQTT and Nuki Smartlock.
@@ -2194,7 +2196,7 @@
 - [yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) - Make bilingual epub books Using AI translate
 - [lukaszliniewicz/Pandrator](https://github.com/lukaszliniewicz/Pandrator) - Turn PDFs and EPUBs into audiobooks; subtitles or videos into dubbed videos (including translation), and more. For free. Pandrator uses local models, including voice-cloning (instant, RVC-enhanced, XT
 - [prakharsr/audiobook-creator](https://github.com/prakharsr/audiobook-creator) - Audiobook Creator is an app that converts books (EPUB, PDF, TXT etc.) into fully voiced audiobooks with intelligent character voice attribution. It uses LLMs and Kokoro/Orpheus TTS  to generate engagi
-- [remsky/Kokoro-FastAPI](https://github.com/remsky/Kokoro-FastAPI) - Dockerized FastAPI wrapper for Kokoro-82M text-to-speech model w/CPU ONNX and NVIDIA GPU PyTorch support, handling, and auto-stitching
+- [remsky/Kokoro-FastAPI](https://github.com/remsky/Kokoro-FastAPI) - Dockerized FastAPI wrapper for Kokoro-82M text-to-speech model w/multiplatform CPU, AMD, NVIDIA GPU PyTorch support, handling, and auto-stitching
 - [p0n1/epub_to_audiobook](https://github.com/p0n1/epub_to_audiobook) - EPUB to audiobook converter, optimized for Audiobookshelf, WebUI included
 - [nazdridoy/kokoro-tts](https://github.com/nazdridoy/kokoro-tts) - A CLI text-to-speech tool using the Kokoro model, supporting multiple languages, voices (with blending), and various input formats including EPUB books and PDF documents.
 - [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) - Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isola
@@ -2419,7 +2421,6 @@
 - [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - A Pocket-Sized MLLM for Ultra-Efficient Image and Video Understanding on Your Phone
 - [pndurette/gTTS](https://github.com/pndurette/gTTS) - Python library and CLI tool to interface with Google Translate's text-to-speech API
 - [python-microscope/microscope](https://github.com/python-microscope/microscope) - Python library for control of microscope devices, supporting hardware triggers and distribution of devices over the network for performance and flexibility.
-- [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - Node-based Visual Programming Toolbox
 - [modal-labs/quillman](https://github.com/modal-labs/quillman) - A voice chat app
 - [jianchang512/clone-voice](https://github.com/jianchang512/clone-voice) - A sound cloning tool with a web interface, using your voice or any sound to record audio / 一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频
 - [LlamaChinese/Llama-Chinese](https://github.com/LlamaChinese/Llama-Chinese) - Llama中文社区，实时汇总最新Llama学习资料，构建最好的中文Llama大模型开源生态，完全开源可商用
@@ -2628,6 +2629,10 @@
 - [jupyter/nbconvert](https://github.com/jupyter/nbconvert) - Jupyter Notebook Conversion
 - [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
+
+## QML 
+
+- [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - Node-based Visual Programming Toolbox
 
 ## R 
 
@@ -2998,7 +3003,6 @@
 
 ## Svelte 
 
-- [Presto-io/Presto](https://github.com/Presto-io/Presto) - Markdown → Typst → PDF 桌面排版工具
 - [nicejade/wealth-tracker](https://github.com/nicejade/wealth-tracker) - 💰生财有迹（Wealth Tracker）是一款专注于个人资产分析的应用程序。其核心功能是：全面记录并展示用户的资产状况，帮助用户轻松了解财务现状；运用 AI 能力，结合每种资产的特性和当前环境，提供适宜的财务建议。
 - [mak-kirkland/chronicler](https://github.com/mak-kirkland/chronicler) - Chronicler is a free, offline worldbuilding tool and local wiki for writers, game masters, and tabletop RPG creators. It saves your notes as plain Markdown files on your computer. No sign-up, no subsc
 - [Akylas/alpimaps](https://github.com/Akylas/alpimaps) - Offline map app iOS/Android
