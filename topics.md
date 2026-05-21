@@ -5216,7 +5216,7 @@
 - [lllyasviel/FramePack](https://github.com/lllyasviel/FramePack) - Lets make video diffusion practical!
 - [ArcaneChat/android](https://github.com/ArcaneChat/android) - ArcaneChat for Android: ⚡ Fast encrypted chats for the family
 - [zhangchenchen/query_gpt](https://github.com/zhangchenchen/query_gpt) - Query GPT: Transform Natural Language into Any SQL
-- [rockbenben/subtitle-translator](https://github.com/rockbenben/subtitle-translator) - ⚡️ Blazing-fast batch subtitle translation for SRT/ASS/VTT/LRC — 70+ languages, AI-powered 批量字幕翻译
+- [rockbenben/subtitle-translator](https://github.com/rockbenben/subtitle-translator) - ⚡ Blazing-fast batch subtitle translation, .srt/.ass/.vtt/.lrc, 17+ LLM providers ·  批量字幕翻译，支持 70+ 语言
 - [cosin2077/easyVoice](https://github.com/cosin2077/easyVoice) - 开源文本转语音工具，支持超长文本，多角色配音
 - [RylanBot/melody-canvas](https://github.com/RylanBot/melody-canvas) - 🎼 Audio visualization editor「音频可视化画布」
 - [CoderLim/transfer-files](https://github.com/CoderLim/transfer-files) - 
@@ -5488,7 +5488,7 @@
 - [otaviosoaresp/rag_bot_ollama](https://github.com/otaviosoaresp/rag_bot_ollama) - A Chatbot that use a local LLM through ollama and a vector search with Qdrant to find and return relevant response from text, PDF, CSV and XLSX files.
 - [lumina-ai-inc/chunkr](https://github.com/lumina-ai-inc/chunkr) - Vision infrastructure to turn complex documents into RAG/LLM-ready data
 - [fuckinbusy/usb-sniffer](https://github.com/fuckinbusy/usb-sniffer) - USB Sniffer is an application for monitoring connected USB devices and automatically copying files from USB flash drives.
-- [aya-rs/bpf-linker](https://github.com/aya-rs/bpf-linker) - Simple BPF static linker
+- [aya-rs/bpf-linker](https://github.com/aya-rs/bpf-linker) - BPF static linker
 - [KoriIku/luxirty-search](https://github.com/KoriIku/luxirty-search) - 一个搜索引擎，基于 Google，屏蔽内容农场，无广告，无跟踪，干净，简洁，快。
 - [zufuliu/notepad4](https://github.com/zufuliu/notepad4) - Notepad4 (Notepad2⨯2, Notepad2++) is a light-weight Scintilla based text editor for Windows with syntax highlighting, code folding, auto-completion and API list for many programming languages and docu
 - [leminlimez/Nugget](https://github.com/leminlimez/Nugget) - Unlock the fullest potential of your device
