@@ -159,7 +159,7 @@
 - [winebox64/winlator](https://github.com/winebox64/winlator) - Android application for running Windows applications with Wine and Box86/Box64
 - [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
 - [pjsip/pjproject](https://github.com/pjsip/pjproject) - PJSIP project
-- [fgkeepalive/AndroidKeepAlive](https://github.com/fgkeepalive/AndroidKeepAlive) - 
+- [fgkeepalive/AndroidKeepAlive](https://github.com/fgkeepalive/AndroidKeepAlive) - Android 保活方案，进程永生, 无权限自启动, 安装自启动,禁止卸载,后台弹出页面,体外弹出,现已全面支持安卓16！
 - [JFreegman/toxic](https://github.com/JFreegman/toxic) - A Tox-based instant messaging and video chat client.
 - [moonlight-stream/moonlight-android](https://github.com/moonlight-stream/moonlight-android) - GameStream client for Android
 - [surge-synthesizer/surge](https://github.com/surge-synthesizer/surge) - Synthesizer plug-in (previously released as Vember Audio Surge)
@@ -791,6 +791,7 @@
 
 ## Go 
 
+- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [Presto-io/Presto](https://github.com/Presto-io/Presto) - Markdown → Typst → PDF 桌面排版工具
 - [iota-uz/iota-sdk](https://github.com/iota-uz/iota-sdk) - IOTA-SDK - is an open-source modular ERP. An alternative to SAP, Oracle, Odoo written in Go with modern look & feel
 - [y3owk1n/neru](https://github.com/y3owk1n/neru) - Keyboard-driven navigation for macOS and partial linux (possible for windows) - Navigate and click without touching your mouse.
@@ -1124,7 +1125,7 @@
 - [MarcusWolschon/osmeditor4android](https://github.com/MarcusWolschon/osmeditor4android) - Vespucci is a OpenStreetMap editor for Android
 - [ZCShou/GoGoGo](https://github.com/ZCShou/GoGoGo) - 一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆
 - [supernevi/KaraokeProvider](https://github.com/supernevi/KaraokeProvider) - A java based server to provide songs, videos and lyrics for karaoke machines like UltraStar Play
-- [siddharthsky/CustTermux](https://github.com/siddharthsky/CustTermux) - Fork of the Termux to run TV
+- [siddharthsky/CustTermux](https://github.com/siddharthsky/CustTermux) - Fork of Termux optimized for TV streaming with extended plugin support.
 - [KhaledAshrafH/FinTracker](https://github.com/KhaledAshrafH/FinTracker) - FinTracker is a command-line application designed to empower you with control over your finances. It streamlines the process of recording, tracking, and analyzing your financial transactions, providin
 - [Eanya-Tonic/CCTV_Viewer](https://github.com/Eanya-Tonic/CCTV_Viewer) - 电视浏览器，一款简易电视视频收看软件，用于方便的在机顶盒上收看网页视频
 - [UISSD/Don-t-Kill](https://github.com/UISSD/Don-t-Kill) - 适用于Android12的后台应用保活模块
@@ -1723,7 +1724,6 @@
 ## Lua 
 
 - [chenlin014/rime-triple-hangul](https://github.com/chenlin014/rime-triple-hangul) - Rime Triple Key Hangul / 中州韻三鍵韓文
-- [HEyashdjkasgdkzxjhck/Rimecoding](https://github.com/HEyashdjkasgdkzxjhck/Rimecoding) - 输入拼音选择汉字候选词 按TAB 会根据选中的候选词进行翻译
 - [Fidelxyz/rime-wanxiang-slim](https://github.com/Fidelxyz/rime-wanxiang-slim) - 支持直接辅助码的 Rime 拼音/双拼输入方案 – 万象拼音输入方案的精简分支
 - [luakit/luakit](https://github.com/luakit/luakit) - Fast, small, webkit based browser framework extensible by Lua.
 - [Sjj1024/PakePlus-Android](https://github.com/Sjj1024/PakePlus-Android) - Turn any webpage/HTML/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/HTML/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app
@@ -2026,7 +2026,6 @@
 - [ronytacodev/practica-excel-tablas-dinamicas-y-mas](https://github.com/ronytacodev/practica-excel-tablas-dinamicas-y-mas) - Una práctica con varios ejercicios de EXCEL.
 - [XD-DENG/SQL-exercise](https://github.com/XD-DENG/SQL-exercise) - Practice with "Real" SQL Problems
 - [Moataz-Elmesmary/Data-Science-Roadmap](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap) - Data Science Roadmap from A to Z
-- [lTbgykio/Books-Free-Books](https://github.com/lTbgykio/Books-Free-Books) - 免费书籍汇总。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [EasyChart/Excel-Chart-Plugin-EasyCharts](https://github.com/EasyChart/Excel-Chart-Plugin-EasyCharts) - Excel图表插件：EasyCharts1.0
 - [toowaki/AutoFitRowEx](https://github.com/toowaki/AutoFitRowEx) - This is Excel add-in. This add-in is provided with a function of "automatic adjustment of the row height, including the merged cell" and " adjustment of the row　height for printing".
 - [PAVANINADELLA/DATA-SCIENCE-NOTES](https://github.com/PAVANINADELLA/DATA-SCIENCE-NOTES) - PYTHON, MACHINE LEARNING, SQL, TABLEAU
@@ -2113,6 +2112,7 @@
 
 ## Python 
 
+- [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 - [injetlee/Python](https://github.com/injetlee/Python) - Python脚本。模拟登录知乎， 爬虫，操作excel，微信公众号，远程开机
 - [SahirVhora/daily-news-bot](https://github.com/SahirVhora/daily-news-bot) - Daily top 10 news to Telegram via GitHub Actions
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C and C++ package manager
@@ -2130,7 +2130,7 @@
 - [Therrion1520/reposicion_wms](https://github.com/Therrion1520/reposicion_wms) - 🟩 Manage stock flow efficiently with Reposición WMS, a lightweight system for small businesses to streamline inventory and restocking processes.
 - [mapproxy/mapproxy](https://github.com/mapproxy/mapproxy) - MapProxy is a tile cache and WMS proxy
 - [RyanDFIR/hindsight](https://github.com/RyanDFIR/hindsight) - Browser forensics tool for Google Chrome (and other Chromium-based browsers)
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Stealthy Chromium automation that passes every bot detection test with CDP Mode. Includes E2E Testing, CAPTCHA-bypass, and a Playwright integration.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - APIs for browser automation, testing, and bypassing bot-detection. Works with Selenium, Playwright, and CDP.
 - [y9nhjy/Proxifier-Keygen](https://github.com/y9nhjy/Proxifier-Keygen) - Proxifier注册机
 - [robertZaufall/mindmanager_ai](https://github.com/robertZaufall/mindmanager_ai) - MindManager AI Integration on Windows and macOS
 - [NotJoeMartinez/yt-fts](https://github.com/NotJoeMartinez/yt-fts) - YouTube Full Text Search - Search all of YouTube from the command line
@@ -2356,7 +2356,6 @@
 - [kyutai-labs/moshi](https://github.com/kyutai-labs/moshi) - Moshi is a speech-text foundation model and full-duplex spoken dialogue framework. It uses Mimi, a state-of-the-art streaming neural audio codec.
 - [pxiptv/live](https://github.com/pxiptv/live) - 
 - [r4ulcl/wifi_db](https://github.com/r4ulcl/wifi_db) - Script to parse Aircrack-ng captures into a SQLite database and extract useful information like handshakes, MGT identities, interesting relations between APs, clients and it's Probes, WPS information 
-- [iOfficeAI/OfficeAI](https://github.com/iOfficeAI/OfficeAI) - Make Office/WPS more powerful and easier to use with AI, similar to Office Copilot and WordGPT.
 - [thumbor/thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com
 - [Cassius0924/WeChatter](https://github.com/Cassius0924/WeChatter) - 基于 wechatbot-webhook 的微信机器人，支持 GPT 问答、热搜、天气预报、消息转发、小游戏、Webhook提醒等功能。
 - [treebignewbee/wechat_image_decoder](https://github.com/treebignewbee/wechat_image_decoder) - 解析微信聊天消息中的dat图片为原有格式
@@ -2781,7 +2780,7 @@
 - [x2bool/sqliteclip](https://github.com/x2bool/sqliteclip) - SQLite extension for working with operating system's clipboard (copy/paste functions)
 - [wflixu/typster](https://github.com/wflixu/typster) - a typst reader and editor
 - [mufeedvh/pdfrip](https://github.com/mufeedvh/pdfrip) - A multi-threaded PDF password cracking utility equipped with commonly encountered password format builders and dictionary attacks.
-- [clitic/vsd](https://github.com/clitic/vsd) - Download streams from DASH and HLS playlists.
+- [clitic/vsd](https://github.com/clitic/vsd) - A command-line utility and library for downloading DASH and HLS playlists.
 - [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
 - [Berrysoft/tunet-rust](https://github.com/Berrysoft/tunet-rust) - 清华大学校园网 Rust 库与客户端
 - [Beastwick18/nyaa](https://github.com/Beastwick18/nyaa) - A tui tool for browsing and downloading torrents
@@ -3043,7 +3042,7 @@
 
 - [asbplayer/asbplayer](https://github.com/asbplayer/asbplayer) - Browser-based media player and Chrome extension for subtitle sentence mining
 - [ArseneWg/lexiglow](https://github.com/ArseneWg/lexiglow) - Learn English inside your reading flow with fast hover translation, contextual LLM help, and in-page sentence analysis.
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source  Claude Design alternative. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed p
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandb
 - [CorrectRoadH/OpenTickly](https://github.com/CorrectRoadH/OpenTickly) - Self-hosted, Toggl-compatible time tracker
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents
@@ -3265,7 +3264,7 @@
 - [tscircuit/tscircuit](https://github.com/tscircuit/tscircuit) - Create real electronics with Typescript and React
 - [TeamWiseFlow/wiseflow](https://github.com/TeamWiseFlow/wiseflow) - 为你 7*24 在线搞钱的“云上牛马”团队
 - [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Search, scrape, and clean the web for AI agents.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
 - [chenfan0/fideo-live-record](https://github.com/chenfan0/fideo-live-record) - A convenient live broadcast recording software! Supports Tiktok, Youtube, Twitch, Bilibili, Bigo!(一款方便的直播录制软件! 支持tiktok, youtube, twitch, 抖音，虎牙，斗鱼，快手，微博，网易cc，bilibili，花椒, 淘宝, 京东)
 - [ljcoder2015/obsidian-sheet-plus](https://github.com/ljcoder2015/obsidian-sheet-plus) - obsidian spreadsheets solutions
 - [lzwme/m3u8-dl](https://github.com/lzwme/m3u8-dl) - A command-line tool for batch downloading m3u8 format videos. 一个 m3u8 视频文件批量下载工具，支持PC客户端、浏览器、命令行、API调用、docker部署多种形式使用，支持m3u8文件自动嗅探一键下载。
