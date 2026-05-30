@@ -388,7 +388,7 @@
 - [mewmix/nabu](https://github.com/mewmix/nabu) - A multi engine TTS & LLM edge computing playground with audio book features and more!
 - [sergenes/runandread-audiobook](https://github.com/sergenes/runandread-audiobook) - 🚀 Open-source project for creating high-quality AI TTS-narrated audiobooks at home using models like Zonos, Kokoro-82M, or services like Deepgram and Eleven Labs. Tested on Apple Silicon M1 (32GB RAM)
 - [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP) - MCP Server for Computer Use in Windows
-- [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
+- [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) - AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 - [openl-translate/ai-dictionary](https://github.com/openl-translate/ai-dictionary) - A dictionary of common AI terms.
 - [huggingface/aisheets](https://github.com/huggingface/aisheets) - Build, enrich, and transform datasets using AI models with no code
 - [nextify-limited/libra](https://github.com/nextify-limited/libra) - The open-source V0/Lovable alternative
@@ -1296,7 +1296,7 @@
 - [ttop32/MouseTooltipTranslator](https://github.com/ttop32/MouseTooltipTranslator) - Mouseover Translate Any Language At Once - Chrome Extension: PDF Translator, EBOOK, EPUB, OCR, TTS, NETFLIX, YOUTUBE DUAL SUBTITLES, GOOGLE DOCS, AI, VIEWER, GMAIL, WRITING, IMAGE, DUAL SUBS, MANGA, H
 - [zxlie/FeHelper](https://github.com/zxlie/FeHelper) - 😍FeHelper--Web前端助手（Awesome！Chrome & Firefox & MS-Edge Extension, All in one Toolbox!）
 - [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
-- [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
+- [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) - AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 - [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) - RikkaHub is an Android APP that supports for multiple LLM providers.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
@@ -1942,7 +1942,7 @@
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - TypeScript & JavaScript ORM for Node.js — supports PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, Oracle, and more.
 - [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
-- [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
+- [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) - AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [mayneyao/eidos](https://github.com/mayneyao/eidos) - An extensible framework for Personal Data Management.
 - [talhahasanzia/English-Thesaurus](https://github.com/talhahasanzia/English-Thesaurus) - :blue_book: English thesaurus database
@@ -2118,7 +2118,6 @@
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [nsstnc/weather](https://github.com/nsstnc/weather) - 🌦💻 Weather web application with a nice design and the most necessary information
-- [anzhihe/learning](https://github.com/anzhihe/learning) - Learning Shell，Python，Golang，System，Network
 
 ## docker 
 
@@ -2408,6 +2407,7 @@
 - [ElectronicCats/Minino](https://github.com/ElectronicCats/Minino) - Minino is an original multiprotocol and multiband board made for sniffing, communicating, and attacking IoT devices. It was designed as a mini Cat that integrates the powerful ESP32C6, GPS, microSD an
 - [sqfmi/Watchy](https://github.com/sqfmi/Watchy) - Watchy - An Open Source E-Ink Smartwatch
 - [meshtastic/firmware](https://github.com/meshtastic/firmware) - The official firmware for Meshtastic, an open-source, off-grid mesh communication system.
+- [meshtastic/Meshtastic-Android](https://github.com/meshtastic/Meshtastic-Android) - Android application for Meshtastic
 - [tenderlove/initial-v](https://github.com/tenderlove/initial-v) - It's a BMW shifter converted to a Bluetooth Keyboard that you use with Vim
 - [OMOTE-Community/OMOTE-Firmware](https://github.com/OMOTE-Community/OMOTE-Firmware) - Open Source Remote - Firmware
 
@@ -2839,7 +2839,6 @@
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cozy typing speed tester in terminal
 - [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
-- [anzhihe/learning](https://github.com/anzhihe/learning) - Learning Shell，Python，Golang，System，Network
 - [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2024 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [traggo/server](https://github.com/traggo/server) - self-hosted tag-based time tracking
@@ -3303,6 +3302,7 @@
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [sqfmi/Watchy](https://github.com/sqfmi/Watchy) - Watchy - An Open Source E-Ink Smartwatch
 - [home-assistant/operating-system](https://github.com/home-assistant/operating-system) - :beginner: Home Assistant Operating System
+- [meshtastic/Meshtastic-Android](https://github.com/meshtastic/Meshtastic-Android) - Android application for Meshtastic
 - [openlgtv/epk2extract](https://github.com/openlgtv/epk2extract) - Extraction tool for LG, Hisense, Sharp, Philips/TPV, Thompson and similar TVs/Embedded Devices
 - [RaspAP/raspap-webgui](https://github.com/RaspAP/raspap-webgui) - The easiest, full-featured wireless router setup for Debian-based devices. Period.
 - [OpenCCU/OpenCCU](https://github.com/OpenCCU/OpenCCU) - :house: Buildroot-based, cloud-free smart-home platform for a Homematic IP CCU (CCU3/ELV-Charly). Runs on Raspberry Pi & x86/ARM or as a virtual appliance (Proxmox VE, Home Assistant, Docker/LXC/K8s).
@@ -3561,6 +3561,7 @@
 - [DanielRendox/GroceryGenius](https://github.com/DanielRendox/GroceryGenius) - A feature-rich shopping list Android app with offline-first mode and Material You design
 - [DanielRendox/RoutineTracker](https://github.com/DanielRendox/RoutineTracker) - An Android planner calendar app and a habit tracker that aims to simplify scheduling consistent activities and tracking your progress.
 - [stephenWanjala/ExpenseTracker](https://github.com/stephenWanjala/ExpenseTracker) - simple Android application developed using Jetpack Compose and Room database to help you keep track of your expenses. You can add, categorize, and view your expenses, and the app will group expenses b
+- [meshtastic/Meshtastic-Android](https://github.com/meshtastic/Meshtastic-Android) - Android application for Meshtastic
 - [msfjarvis/compose-lobsters](https://github.com/msfjarvis/compose-lobsters) - Claw for Android: Unofficial read-only client for https://lobste.rs, built using Jetpack Compose.
 - [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp
 - [Alberto97/OUILookup](https://github.com/Alberto97/OUILookup) - OUI browser and MAC Address lookup Android application
@@ -3727,6 +3728,7 @@
 - [FossifyOrg/Voice-Recorder](https://github.com/FossifyOrg/Voice-Recorder) - An easy way of recording any discussion or sounds without ads or internet access
 - [SimpleMobileTools/Simple-Voice-Recorder](https://github.com/SimpleMobileTools/Simple-Voice-Recorder) - An easy way of recording any discussion or sounds without ads or internet access
 - [Bartuzen/qBitController](https://github.com/Bartuzen/qBitController) - Control qBittorrent from any device
+- [meshtastic/Meshtastic-Android](https://github.com/meshtastic/Meshtastic-Android) - Android application for Meshtastic
 - [chvp/NanoLedger](https://github.com/chvp/NanoLedger) - Ledger (plain text accounting) data entry app for Android
 - [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp
 - [pandulapeter/beagle](https://github.com/pandulapeter/beagle) - A smart, reliable, and highly customizable debug menu library for Android apps that supports screen recording, network activity logging, and many other useful features.
@@ -4571,7 +4573,7 @@
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - TypeScript & JavaScript ORM for Node.js — supports PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, Oracle, and more.
 - [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
 - [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, TypeScript, SQLite and PostgreSQL support ++
-- [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
+- [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) - AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [ariacom/Seal-Report](https://github.com/ariacom/Seal-Report) - Database Reporting Tool and Tasks (.Net)
 - [Breeze0806/go-etl](https://github.com/Breeze0806/go-etl) - go-etl is a toolset for data extraction, transformation and loading.
@@ -4602,7 +4604,6 @@
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [antares-sql/antares](https://github.com/antares-sql/antares) - A modern, fast and productivity driven SQL client with a focus in UX
 - [brianluft/sqlnotebook](https://github.com/brianluft/sqlnotebook) - SQL Notebook — Casual data exploration in SQL
-- [anzhihe/learning](https://github.com/anzhihe/learning) - Learning Shell，Python，Golang，System，Network
 
 ## natural-language-processing 
 
@@ -5636,7 +5637,7 @@
 - [putyy/res-downloader](https://github.com/putyy/res-downloader) - 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
 - [xisohi/CHINA-IPTV](https://github.com/xisohi/CHINA-IPTV) - 现在各个宽带运营商都有 IPTV 业务，不用安装有线电视就可以高清无卡顿的看电视。  没有开通 iptv 可以使用抓取的直播源地址，复制到电脑、手机、电视网络盒子等设备上看，如果动手能力强也可以自己抓包获取直播源。  注意、注意、注意：食用组播源的设备必须和光猫在同一个网段！
 - [wangke1993/gz-iptv](https://github.com/wangke1993/gz-iptv) - 贵州电信iptv
-- [sumingyd/Telecom-Shandong-IPTV-List](https://github.com/sumingyd/Telecom-Shandong-IPTV-List) - 山东电信IPTV直播源
+- [sumingyd/Telecom-Shandong-IPTV-List](https://github.com/sumingyd/Telecom-Shandong-IPTV-List) - 山东电信IPTV直播源（含联通和移动）
 - [hujingguang/ChinaIPTV](https://github.com/hujingguang/ChinaIPTV) - 中国电视直播源 cnTV m3u（实时更新,长期有效）
 - [skddyj/iptv](https://github.com/skddyj/iptv) - IPTV直播源
 - [Harlan-H/M3u8Downloader_H](https://github.com/Harlan-H/M3u8Downloader_H) - m3u8下载器,功能强大,多线程,多任务,支持aes-128-cbc解密,自定义请求头,自定义插件
@@ -6267,7 +6268,7 @@
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - TypeScript & JavaScript ORM for Node.js — supports PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, Oracle, and more.
 - [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, TypeScript, SQLite and PostgreSQL support ++
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
-- [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
+- [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) - AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [osm2pgsql-dev/osm2pgsql](https://github.com/osm2pgsql-dev/osm2pgsql) - Import OpenStreetMap data into a PostgreSQL/PostGIS database
 - [SteveSuv/remix-words-funny](https://github.com/SteveSuv/remix-words-funny) - a fullstack English words study website: remix (react-router v7) + trpc + drizzle + postgresql + heroui + jotai + docker
@@ -6440,7 +6441,6 @@
 - [goq/telegram-list](https://github.com/goq/telegram-list) - List of telegram groups, channels & bots // Список интересных групп, каналов и ботов телеграма // Список чатов для программистов
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
-- [anzhihe/learning](https://github.com/anzhihe/learning) - Learning Shell，Python，Golang，System，Network
 
 ## programming-language 
 
@@ -6499,7 +6499,7 @@
 - [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python
 - [Therrion1520/reposicion_wms](https://github.com/Therrion1520/reposicion_wms) - 🟩 Manage stock flow efficiently with Reposición WMS, a lightweight system for small businesses to streamline inventory and restocking processes.
 - [mapproxy/mapproxy](https://github.com/mapproxy/mapproxy) - MapProxy is a tile cache and WMS proxy
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - APIs for browser automation, testing, and bypassing bot-detection. Works with Selenium, Playwright, and CDP.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Python APIs for web automation, E2E testing, and bypassing bot-detection.
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [alephpi/Texo](https://github.com/alephpi/Texo) - A minimalist SOTA LaTeX OCR model with only 20M parameters, running in browser. Full training pipeline available for self-reproduction. | 超轻量SOTA LaTeX公式识别模型，仅20M参数量，可在浏览器中运行。训练全流程代码开源，以便自学复现。
@@ -6705,7 +6705,6 @@
 - [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language compatible with Python
 - [xlwings/xlwings](https://github.com/xlwings/xlwings) - xlwings is a Python library that makes it easy to call Python from Excel and vice versa. It works with Excel on Windows and macOS as well as with Google Sheets and Excel on the web.
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
-- [anzhihe/learning](https://github.com/anzhihe/learning) - Learning Shell，Python，Golang，System，Network
 - [mljar/mercury](https://github.com/mljar/mercury) - Create web apps from Python notebooks
 - [mapnik/mapnik](https://github.com/mapnik/mapnik) - Mapnik is an open source toolkit for developing mapping applications
 - [SAP-archive/PyRFC](https://github.com/SAP-archive/PyRFC) - Asynchronous, non-blocking SAP NW RFC SDK bindings for Python
@@ -7331,7 +7330,6 @@
 - [warbacon/zunder-zsh](https://github.com/warbacon/zunder-zsh) - ⚡ A minimalistic zsh configuration with sane defaults
 - [jtyr/gbt](https://github.com/jtyr/gbt) - Highly configurable prompt builder for Bash, ZSH and PowerShell written in Go.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
-- [anzhihe/learning](https://github.com/anzhihe/learning) - Learning Shell，Python，Golang，System，Network
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 
@@ -7422,7 +7420,6 @@
 - [x2bool/xlite](https://github.com/x2bool/xlite) - Query Excel spredsheets (.xlsx, .xls, .ods) using SQLite
 - [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang) - A cross-platform TUI database management tool written in Rust
 - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
-- [anzhihe/learning](https://github.com/anzhihe/learning) - Learning Shell，Python，Golang，System，Network
 - [little-brother/sqlite-gui](https://github.com/little-brother/sqlite-gui) - Lightweight SQLite editor for Windows
 - [ByConity/ByConity](https://github.com/ByConity/ByConity) - ByConity is an open source cloud data warehouse
 - [risinglightdb/risinglight](https://github.com/risinglightdb/risinglight) - An educational OLAP database system.
