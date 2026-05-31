@@ -827,7 +827,7 @@
 - [negokaz/excel-mcp-server](https://github.com/negokaz/excel-mcp-server) - A Model Context Protocol (MCP) server that reads and writes MS Excel data
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
 - [Wsine/feishu2md](https://github.com/Wsine/feishu2md) - 一键命令下载飞书文档为 Markdown（寻找维护者）
-- [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) - Video translation and dubbing tool powered by LLMs. The video translator offers 100 language translations and one-click full-process deployment. The video translation output is optimized for platforms
+- [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) - AI video translation & dubbing tool for humans and AI Agents, powered by LLMs. Full pipeline: download, transcribe, translate, TTS dub, reformat, cover generation. 100+ languages, optimized for YouTub
 - [C-Loftus/QuickPiperAudiobook](https://github.com/C-Loftus/QuickPiperAudiobook) - With one command, create a natural-sounding audiobook from a variety of input formats (epub, mobi, txt, PDF, HTML and more!)
 - [svera/coreander](https://github.com/svera/coreander) - Your books. Anytime. Anywhere.
 - [Ray-D-Song/goread](https://github.com/Ray-D-Song/goread) - cli epub reader written in Go
@@ -1061,7 +1061,6 @@
 - [AnBui2004/Vectras-VM-Emu-Android](https://github.com/AnBui2004/Vectras-VM-Emu-Android) - It's a Virtual Machine App for Android Which is Based on QEMU
 - [SubhamTyagi/android-ocr](https://github.com/SubhamTyagi/android-ocr) - Tesseract based OCR for android
 - [HeliBorg/HeliBoard](https://github.com/HeliBorg/HeliBoard) - Customizable and privacy-conscious open-source keyboard
-- [jenly1314/MLKit](https://github.com/jenly1314/MLKit) - 🌝  MLKit是一个强大易用的工具包。通过ML Kit您可以很轻松的实现文字识别、条码识别、图像标记、人脸检测、对象检测等功能。
 - [REAndroid/APKEditor](https://github.com/REAndroid/APKEditor) - Powerful android apk editor - aapt/aapt2 independent
 - [apache/zeppelin](https://github.com/apache/zeppelin) - Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.
 - [petoncle/mousemaster](https://github.com/petoncle/mousemaster) - Mouseless mouse control and advanced keyboard customization.
@@ -1227,7 +1226,7 @@
 - [ranuts/document](https://github.com/ranuts/document) - Perform common file preview and editing via the web.
 - [owlman/CS_StudyNotes](https://github.com/owlman/CS_StudyNotes) - 基于 Obsidian 系统构建的计算机专业学习/研究笔记
 - [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for power users
-- [code-charity/youtube](https://github.com/code-charity/youtube) - Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰250+tweaks & smart features📌set&forget📌  - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|q
+- [code-charity/youtube](https://github.com/code-charity/youtube) - Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰Smart features📌set&forget📌250+tweaks - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|quali
 - [netresearch/timetracker](https://github.com/netresearch/timetracker) - Simple time tracking front end with optional Jira synchronization, AD/LDAP integration and XLSX export.
 - [luyu0279/Ainee](https://github.com/luyu0279/Ainee) - Ainee: AI Notetaking and Learning Companion – Speed Up Your Learning, Enhance Your Insight Sharing
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
@@ -1490,6 +1489,7 @@
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in beta.
 - [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
 - [igorescodro/alkaa](https://github.com/igorescodro/alkaa) - Kotlin multiplatform app to manage your tasks
+- [jenly1314/MLKit](https://github.com/jenly1314/MLKit) - 🌝  MLKit是一个强大易用的工具包。通过ML Kit您可以很轻松的实现文字识别、条码识别、图像标记、人脸检测、对象检测等功能。
 - [HaishinKit/HaishinKit.kt](https://github.com/HaishinKit/HaishinKit.kt) - Camera and Microphone streaming library via RTMP for Android.
 - [DigitallyRefined/android-ip-camera](https://github.com/DigitallyRefined/android-ip-camera) - An Android MJPEG IP Camera app
 - [WirelessAlien/MovieDB](https://github.com/WirelessAlien/MovieDB) - ShowCase is a fully open-source android application for exploring and organizing your personal collection of films and television series.
@@ -2758,7 +2758,7 @@
 - [alley-rs/lsar](https://github.com/alley-rs/lsar) - 直播解析图形化程序
 - [Frederick888/external-editor-revived](https://github.com/Frederick888/external-editor-revived) - External Editor Revived is a Thunderbird MailExtension which allows editing emails in programs such as Vim, Neovim, Emacs, etc.
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | AI that knows what you've seen, said, or heard. Records everything you do, say, hear 24/7, local, private, secure
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database tool for the terminal
 - [Myriad-Dreamin/tinymist](https://github.com/Myriad-Dreamin/tinymist) - Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
 - [pythops/oryx](https://github.com/pythops/oryx) - 🕵️‍♂️ TUI for sniffing network traffic using eBPF on Linux
@@ -3250,7 +3250,6 @@
 - [LLOneBot/LuckyLilliaBot](https://github.com/LLOneBot/LuckyLilliaBot) - 支持 OneBot 11、Satori 和 Milky 协议
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [frost-beta/sisi](https://github.com/frost-beta/sisi) - Semantic Image Search CLI tool.
-- [Jieli-Tech/WeChat-Mini-Program-OTA](https://github.com/Jieli-Tech/WeChat-Mini-Program-OTA) - 微信小程序 OTA
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
 - [puemos/hls-downloader](https://github.com/puemos/hls-downloader) - Web Extension for sniffing and downloading HTTP Live streams (HLS)
