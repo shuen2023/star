@@ -523,7 +523,7 @@
 - [fcitx/libime](https://github.com/fcitx/libime) - 
 - [rime/librime](https://github.com/rime/librime) - Rime Input Method Engine, the core library
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
-- [p-groarke/wsay](https://github.com/p-groarke/wsay) - Windows "say"
+- [p-groarke/wsay](https://github.com/p-groarke/wsay) - Windows 'say'.
 - [rochus-keller/Algol60](https://github.com/rochus-keller/Algol60) - A parser and code editor with syntax coloring for Algol 60 written in Qt
 - [houmain/keymapper](https://github.com/houmain/keymapper) - A cross-platform context-aware key remapper.
 - [rime/weasel](https://github.com/rime/weasel) - 【小狼毫】Rime for Windows
@@ -986,7 +986,6 @@
 
 - [dante0747/geekspulse.dev](https://github.com/dante0747/geekspulse.dev) - Free indie developer news aggregator — curated RSS feeds, no ads, no paywalls.
 - [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
-- [m-v-priest/02_myself_ID_EGO](https://github.com/m-v-priest/02_myself_ID_EGO) - my diary , note , math, English learning
 - [campfirium/Mneme](https://github.com/campfirium/Mneme) - An Anki template built for immersion and audio-first learning, with a clean and thoughtful visual design
 - [5mdld/anki-english-60k-decks](https://github.com/5mdld/anki-english-60k-decks) - An extensive Anki deck of 60,000 high-frequency English words with definitions, examples, and audio from Merriam-Webster's Learner's Dictionary.
 - [terroo/terroo.github.io](https://github.com/terroo/terroo.github.io) - Terminal Root English version
@@ -1051,7 +1050,6 @@
 
 ## Java 
 
-- [jenly1314/ZXingLite](https://github.com/jenly1314/ZXingLite) - 🔥 ZXing的精简极速版，优化扫码和生成二维码/条形码，内置闪光灯等功能。扫描风格支持：微信的线条样式，支付宝的网格样式。几句代码轻松拥有扫码功能 ，ZXingLite让集成扫码更简单。
 - [sh123/codec2_talkie](https://github.com/sh123/codec2_talkie) - Turn your Android phone into Amateur Radio Codec2/OPUS APRS enabled DV handheld transceiver (Bluetooth/BLE/USB/TCPIP KISS/Sound modem client for DV digital voice communication)
 - [getrebuild/rebuild](https://github.com/getrebuild/rebuild) - 高度可配置化的企业管理系统！企业内部可免费使用！零代码/低代码快速搭建企业中台、CRM客户关系管理、WMS库存管理、TMS运输管理、SCM供应链管理、MES/MOM，甚至是 ERP 企业资源计划！
 - [isHarryh/Ark-Pets](https://github.com/isHarryh/Ark-Pets) - Arknights Desktop Pets | 明日方舟桌宠 (ArkPets)
@@ -1237,7 +1235,7 @@
 - [ChanceYu/front-end-rss](https://github.com/ChanceYu/front-end-rss) - :orange_book: 根据 RSS 订阅最新前端技术文章并自动分类
 - [Pavinberg/emacs-book](https://github.com/Pavinberg/emacs-book) - An Emacs tutorial with extensions walkthrough
 - [mapbs/mbs.js](https://github.com/mapbs/mbs.js) - 基于cesiumjs的web3d框架
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [hexgrad/kokoro](https://github.com/hexgrad/kokoro) - https://hf.co/hexgrad/Kokoro-82M
 - [openstreetmap/iD](https://github.com/openstreetmap/iD) - 🆔 The easy-to-use OpenStreetMap editor in JavaScript.
 - [veasion/AiPPT](https://github.com/veasion/AiPPT) - AI 智能生成 PPT，通过主题/文件/网址等方式生成PPT，支持原生图表、动画、3D特效等复杂PPT的解析和渲染，支持用户自定义模板，支持智能添加动画，可在线体验。AI generates PowerPoint Presentation, Supports parsing and rendering of complex PPT features such as native charts, a
@@ -1475,6 +1473,7 @@
 ## Kotlin 
 
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
+- [jenly1314/ZXingLite](https://github.com/jenly1314/ZXingLite) - 🔥 ZXing的精简极速版，优化扫码和生成二维码/条形码，内置闪光灯等功能。扫描风格支持：微信的线条样式，支付宝的网格样式。几句代码轻松拥有扫码功能 ，ZXingLite让集成扫码更简单。
 - [cuongpm/youtube-dl-android](https://github.com/cuongpm/youtube-dl-android) - 📦📦Video downloader for Android - Download videos from Youtube, Facebook, Twitter, Instagram, Dailymotion, Vimeo and more than 1000 other sites
 - [cdpdriver/kdriver](https://github.com/cdpdriver/kdriver) - A blazing fast, coroutine-first, undetectable web scraping / browser automation CDP-based library for Kotlin
 - [alexch33/super-video-downloader](https://github.com/alexch33/super-video-downloader) - Video & Audio downloader for Android with web browser and player. M3U8 and MPD supported, live stream supported, using youtube-dlp and custom mp4/mp3/m3u8/mpd downloader, cookies supported, HTTP & SOC
@@ -2780,7 +2779,7 @@
 - [x2bool/sqliteclip](https://github.com/x2bool/sqliteclip) - SQLite extension for working with operating system's clipboard (copy/paste functions)
 - [wflixu/typster](https://github.com/wflixu/typster) - a typst reader and editor
 - [mufeedvh/pdfrip](https://github.com/mufeedvh/pdfrip) - A multi-threaded PDF password cracking utility equipped with commonly encountered password format builders and dictionary attacks.
-- [clitic/vsd](https://github.com/clitic/vsd) - A command-line utility and library for downloading DASH and HLS playlists.
+- [clitic/vsd](https://github.com/clitic/vsd) - A command-line utility and library for downloading streams from DASH manifests and HLS playlists.
 - [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
 - [Berrysoft/tunet-rust](https://github.com/Berrysoft/tunet-rust) - 清华大学校园网 Rust 库与客户端
 - [Beastwick18/nyaa](https://github.com/Beastwick18/nyaa) - A tui tool for browsing and downloading torrents
@@ -2949,7 +2948,7 @@
 - [egandro/docker-qemu-arm](https://github.com/egandro/docker-qemu-arm) - 
 - [yonggekkk/warp-yg](https://github.com/yonggekkk/warp-yg) - warp多功能一键脚本，支持warp-go与wgcf切换，无限生成warp配置文件，支持升级warp+、warp团队账户，查看VPS本地IP、netflix、chatgpt解锁状态
 - [Oralux/voxin-installer](https://github.com/Oralux/voxin-installer) - 
-- [DevCoreXOfficial/core-termux](https://github.com/DevCoreXOfficial/core-termux) - Core-Termux, Automates the setup of a web development environment in Termux, enabling developers to quickly start building web applications on Android.
+- [DevCoreXOfficial/core-termux](https://github.com/DevCoreXOfficial/core-termux) - Turn Termux into a complete development workstation with AI coding agents, a modern code editor, databases, automation, and developer tools.
 - [gushmazuko/metasploit_in_termux](https://github.com/gushmazuko/metasploit_in_termux) - Install Metasploit Framework 6 in Termux
 - [web1n/wechat-universal-flatpak](https://github.com/web1n/wechat-universal-flatpak) - Flatpak 打包微信 Linux Universal 版
 - [msojocs/wechat-web-devtools-linux](https://github.com/msojocs/wechat-web-devtools-linux) - 适用于微信小程序的微信开发者工具 Linux移植版
