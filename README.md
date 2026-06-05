@@ -508,7 +508,6 @@
 - [pedrolcl/VMPK](https://github.com/pedrolcl/VMPK) - Virtual MIDI Piano Keyboard (Mirror)
 - [pgkt04/defender-control](https://github.com/pgkt04/defender-control) - An open-source windows defender manager. Now you can disable windows defender permanently.
 - [aardappel/treesheets](https://github.com/aardappel/treesheets) - TreeSheets : Free Form Data Organizer (see strlen.com/treesheets)
-- [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [texstudio-org/texstudio](https://github.com/texstudio-org/texstudio) - TeXstudio is a fully featured LaTeX editor. Our goal is to make writing LaTeX documents as easy and comfortable as possible.
 - [nefarius/nefcon](https://github.com/nefarius/nefcon) - Windows device driver installation and management tool.
 - [shundhammer/qdirstat](https://github.com/shundhammer/qdirstat) - QDirStat - Qt-based directory statistics (KDirStat without any KDE - from the original KDirStat author)
@@ -558,6 +557,7 @@
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [newsboat/newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for text terminals
+- [perspective-dev/perspective](https://github.com/perspective-dev/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management
 - [ShiqiYu/CPP](https://github.com/ShiqiYu/CPP) - Lecture notes, projects and other materials for Course 'CS219 Advanced Programming' at Southern University of Science and Technology.
 - [ByConity/ByConity](https://github.com/ByConity/ByConity) - ByConity is an open source cloud data warehouse
@@ -956,7 +956,7 @@
 - [GGP1/kure](https://github.com/GGP1/kure) - CLI password manager with sessions
 - [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬
 - [gobuffalo/pop](https://github.com/gobuffalo/pop) - A Tasty Treat For All Your Database Needs
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [jetify-com/typeid](https://github.com/jetify-com/typeid) - Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs
 - [superfly/litefs](https://github.com/superfly/litefs) - FUSE-based file system for replicating SQLite databases across a cluster of machines
@@ -1188,7 +1188,6 @@
 - [mikaelalvess/chromePluginToWriteNotes](https://github.com/mikaelalvess/chromePluginToWriteNotes) - 📝 Simplify note-taking with this minimalist Chrome extension that uses wiki markup, highlights text, and requires no setup for effortless organization.
 - [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-- [SeanWong17/Future-Style-Periodic-Table](https://github.com/SeanWong17/Future-Style-Periodic-Table) - ⚛️ 赛博朋克风格的交互式元素周期表。核心亮点：核外电子排布 3D 可视化、沉浸式动效与多维数据热力图。纯原生 JS/CSS 实现。
 - [lrq3000/infinitabs](https://github.com/lrq3000/infinitabs) - Unlimited tabs, Zero RAM! For Chrome/Chromium (and Firefox in the future)
 - [Gidismart/yuns-desktop-pet](https://github.com/Gidismart/yuns-desktop-pet) - 🤖 Enhance your desktop experience with Yuns, an intelligent AI pet that supports multiple AI conversation models and dynamic API calls.
 - [heshengtao/super-agent-party](https://github.com/heshengtao/super-agent-party) - ⭐ All-in-one AI companion! Super Agent Party = Self hosted neuro sama + openclaw! ⭐ 全能AI伴侣！超级智能体派对 = 自托管neuro sama + openclaw!
@@ -1217,6 +1216,7 @@
 - [sheshbabu/zen](https://github.com/sheshbabu/zen) - Selfhosted notes app. Single golang binary, notes stored as markdown within SQLite, full-text search, very low resource usage
 - [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, TypeScript, SQLite and PostgreSQL support ++
 - [qqcarlosqq/Wordle_ENG](https://github.com/qqcarlosqq/Wordle_ENG) - Wordle Solver for English version
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
 - [law-chain-hot/websocket-devtools](https://github.com/law-chain-hot/websocket-devtools) - Complete WebSocket Traffic Control with advanced proxy, simulation, and blocking capabilities
 - [yuis-ice/note-cli](https://github.com/yuis-ice/note-cli) - Markdown Indexing and Pcre Regular Expression Compatible Full Text Searching for Advanced Note Takers.
@@ -1975,6 +1975,7 @@
 - [wuhgit/CustomPinyinDictionary](https://github.com/wuhgit/CustomPinyinDictionary) - 自建拼音输入法词库，百万常用词汇量，适配 Fcitx5 (Linux / Android) 及 Gboard (Android + Magisk or KernelSU) 。
 - [DenverCoder1/latex-gboard-dictionary](https://github.com/DenverCoder1/latex-gboard-dictionary) - ⌨ Importable dictionary for typing math symbols more easily on your Android phone by using keyboard shortcuts inspired by LaTeX
 - [Galaxies99/SJTU-course-notes](https://github.com/Galaxies99/SJTU-course-notes) - ✍️ The notes of courses in Shanghai Jiao Tong University
+- [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [f3lze3/CloseWindowsAutoUpdate](https://github.com/f3lze3/CloseWindowsAutoUpdate) - Disable Automatic Windows Update
 - [crdroidandroid/android](https://github.com/crdroidandroid/android) - Build crDroid and some general information
 - [reduce-algebra/reduce-algebra](https://github.com/reduce-algebra/reduce-algebra) - reduce-algebra: a portable general-purpose computer algebra system, automatically mirrored from https://svn.code.sf.net/p/reduce-algebra/code/. Please visit the REDUCE Homepage, https://reduce-algebra
@@ -2138,7 +2139,7 @@
 - [xsrazy/Download-All-Tiktok-Videos](https://github.com/xsrazy/Download-All-Tiktok-Videos) - Download all tiktok videos including description from username without watermark.
 - [alephpi/Texo](https://github.com/alephpi/Texo) - A minimalist SOTA LaTeX OCR model with only 20M parameters, running in browser. Full training pipeline available for self-reproduction. | 超轻量SOTA LaTeX公式识别模型，仅20M参数量，可在浏览器中运行。训练全流程代码开源，以便自学复现。
 - [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) - Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！
-- [Bush2021/chrome_installer](https://github.com/Bush2021/chrome_installer) - Automatically fetch Google Chrome offline installer using GitHub Actions
+- [Bush2021/chrome_installer](https://github.com/Bush2021/chrome_installer) - Auto-updated Google Chrome offline installers for Windows (Stable/Beta/Dev/Canary, x86/x64/ARM64) with direct links and SHA-256, via GitHub Actions
 - [neuphonic/neutts](https://github.com/neuphonic/neutts) - On-device TTS model by Neuphonic
 - [allencch/wubiluna](https://github.com/allencch/wubiluna) - Wubiluna is the input method combining Pinyin and Wubi86 using Rime
 - [nishuzumi/gemini-teacher](https://github.com/nishuzumi/gemini-teacher) - English pronunciation correction teacher built with gemini
@@ -2779,7 +2780,7 @@
 - [x2bool/sqliteclip](https://github.com/x2bool/sqliteclip) - SQLite extension for working with operating system's clipboard (copy/paste functions)
 - [wflixu/typster](https://github.com/wflixu/typster) - a typst reader and editor
 - [mufeedvh/pdfrip](https://github.com/mufeedvh/pdfrip) - A multi-threaded PDF password cracking utility equipped with commonly encountered password format builders and dictionary attacks.
-- [clitic/vsd](https://github.com/clitic/vsd) - A command-line utility and library for downloading streams from DASH manifests and HLS playlists.
+- [clitic/vsd](https://github.com/clitic/vsd) - A command-line utility and library for downloading streams from DASH .mpd manifests and HLS .m3u8 playlists.
 - [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
 - [Berrysoft/tunet-rust](https://github.com/Berrysoft/tunet-rust) - 清华大学校园网 Rust 库与客户端
 - [Beastwick18/nyaa](https://github.com/Beastwick18/nyaa) - A tui tool for browsing and downloading torrents
@@ -2868,7 +2869,6 @@
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [asg017/sqlite-regex](https://github.com/asg017/sqlite-regex) - A fast regular expression SQLite extension, written in Rust
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-- [perspective-dev/perspective](https://github.com/perspective-dev/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [BenjaminRi/Redwood-Wiki](https://github.com/BenjaminRi/Redwood-Wiki) - SQLite-based knowledge base
 - [x2bool/xlite](https://github.com/x2bool/xlite) - Query Excel spredsheets (.xlsx, .xls, .ods) using SQLite
 - [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang) - A cross-platform TUI database management tool written in Rust
@@ -3060,6 +3060,7 @@
 - [xushengfeng/lime](https://github.com/xushengfeng/lime) - 大模型驱动的拼音输入法
 - [trueleaf/apiflow](https://github.com/trueleaf/apiflow) - A modern API workspace that works both online and offline — combining API documentation, testing, mock, and AI-powered automation in one lightweight tool
 - [lc2panda/wps-skills](https://github.com/lc2panda/wps-skills) - WPS Skills | WPS Office 智能助手 | WPS Office AI Assistant
+- [SeanWong17/Future-Style-Periodic-Table](https://github.com/SeanWong17/Future-Style-Periodic-Table) - ⚛️ 赛博朋克风格的交互式元素周期表。核心亮点：核外电子排布 3D 可视化、沉浸式动效与多维数据热力图。纯原生 JS/CSS 实现。
 - [workany-ai/workany](https://github.com/workany-ai/workany) - Desktop Agent for Any Task
 - [Chance-fyi/mouse-gestures](https://github.com/Chance-fyi/mouse-gestures) - A lightweight yet powerful browser extension that enhances your browsing efficiency through intuitive mouse gestures, drag-and-drop actions, and cloud-synchronized settings.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
@@ -3117,7 +3118,6 @@
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 - [HiMeditator/auto-caption](https://github.com/HiMeditator/auto-caption) - A cross-platform real-time subtitle display software. 一个跨平台的实时字幕显示软件。
 - [thecodrr/fdir](https://github.com/thecodrr/fdir) - ⚡ The fastest directory crawler & globbing library for NodeJS. Crawls 1m files in &lt; 1s
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) - The AI Markdown Editor
@@ -3262,7 +3262,7 @@
 - [LalanaChami/Pharmacy-Mangment-System](https://github.com/LalanaChami/Pharmacy-Mangment-System) - 👨‍💻 :hospital: MEAN stack Pharmacy Management system.
 - [robbie-cahill/tunnelmole-client](https://github.com/robbie-cahill/tunnelmole-client) - Tunnelmole - Connect to local servers from anywhere
 - [tscircuit/tscircuit](https://github.com/tscircuit/tscircuit) - Create real electronics with Typescript and React
-- [TeamWiseFlow/wiseflow](https://github.com/TeamWiseFlow/wiseflow) - 为你 7*24 在线搞钱的“云上牛马”团队
+- [TeamWiseFlow/wiseflow](https://github.com/TeamWiseFlow/wiseflow) - 为所有人准备的AI搞钱团队。技术平权，对抗AI引发的新一轮贫富差距加大！
 - [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
 - [chenfan0/fideo-live-record](https://github.com/chenfan0/fideo-live-record) - A convenient live broadcast recording software! Supports Tiktok, Youtube, Twitch, Bilibili, Bigo!(一款方便的直播录制软件! 支持tiktok, youtube, twitch, 抖音，虎牙，斗鱼，快手，微博，网易cc，bilibili，花椒, 淘宝, 京东)
