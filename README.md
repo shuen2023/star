@@ -297,7 +297,7 @@
 - [lyc0826/COMIGHT](https://github.com/lyc0826/COMIGHT) - A productivity tool offering a wide range of functions to streamline office work and automate repetitive tasks, including batch processing of Excel worksheets, formatting Word documents, and managing 
 - [NetOfficeFw/vbamc](https://github.com/NetOfficeFw/vbamc) - Visual Basic for Applications macro project compiler.
 - [sbroenne/mcp-server-excel](https://github.com/sbroenne/mcp-server-excel) - Excel MCP Server & CLI - 23 tools, 214 operations for AI-powered Excel automation via COM API
-- [Achuan-2/SlideSCI](https://github.com/Achuan-2/SlideSCI) - PPT plugin, supports one-click to add image titles, copy and paste positions, one-click image alignment, and one-click to insert Markdown (including bold, hyperlinks, and other inline styles, as well 
+- [Achuan-2/SlideSCI](https://github.com/Achuan-2/SlideSCI) - PPT插件，支持制作素材库、AI助手、一键添加图片标题，复制粘贴位置、一键图片对齐、一键插入Markdown（加粗、超链接等行内样式、代码块、LaTeX等块级样式）、便捷导出图片！
 - [Mzying2001/CefFlashBrowser](https://github.com/Mzying2001/CefFlashBrowser) - Flash浏览器 / Flash Browser
 - [Jitendex/Jitendex](https://github.com/Jitendex/Jitendex) - A free, offline, and openly licensed Japanese-to-English dictionary. Updates monthly!
 - [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
@@ -1186,7 +1186,7 @@
 - [UltraHackerDog/Hokus](https://github.com/UltraHackerDog/Hokus) - Hokus is a Chrome extension that helps you learn Chinese by replacing English words on web pages with HSK 2.0 vocabulary (Levels 1–6). Learn passively while browsing with hover translations, pinyin, a
 - [wamich/personal-vocabulary](https://github.com/wamich/personal-vocabulary) - 「个人词库」是一款浏览器插件。 用于英文阅读时，不断记住生词，构建个人词库。
 - [mikaelalvess/chromePluginToWriteNotes](https://github.com/mikaelalvess/chromePluginToWriteNotes) - 📝 Simplify note-taking with this minimalist Chrome extension that uses wiki markup, highlights text, and requires no setup for effortless organization.
-- [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3
+- [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Find related notes and excerpts while writing. Your link building copilot displays relevant content in graph + list view. A local embedding model powers semantic search. Zero setup. No API key.
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [lrq3000/infinitabs](https://github.com/lrq3000/infinitabs) - Unlimited tabs, Zero RAM! For Chrome/Chromium (and Firefox in the future)
 - [Gidismart/yuns-desktop-pet](https://github.com/Gidismart/yuns-desktop-pet) - 🤖 Enhance your desktop experience with Yuns, an intelligent AI pet that supports multiple AI conversation models and dynamic API calls.
@@ -1758,6 +1758,7 @@
 - [ellisonleao/glow.nvim](https://github.com/ellisonleao/glow.nvim) - A markdown preview directly in your neovim.
 - [Ajatt-Tools/mpvacious](https://github.com/Ajatt-Tools/mpvacious) - 🍜 Adds mpv keybindings to create Anki cards from movies and TV shows.
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
+- [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 
@@ -1897,7 +1898,7 @@
 - [PRProd/HA-Firemote](https://github.com/PRProd/HA-Firemote) - Apple TV, Amazon Fire TV, Chromecast, Homatics, NVIDIA Shield, onn., Roku, Xiaomi Mi, and Android TV remote control card for Home Assistant
 - [acoooder/aliyunpanshare](https://github.com/acoooder/aliyunpanshare) - 阿里云盘、夸克网盘影视资源分享，每日发布最新电视剧、综艺、电影资源。
 - [Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers) - 🚀 免费订阅地址，🚀 免费节点，🚀 6小时更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙、免费科学上网、免费梯子、免费ss/v2ray/trojan节点、谷歌商店、翻墙梯子。🚀 Free subscription address, 🚀 Free node, 🚀 Updated every 6 hours, shared node, high-quality node
-- [realdtn2/xiaomi-unlocking-rooting-guide](https://github.com/realdtn2/xiaomi-unlocking-rooting-guide) - Guide on how to unlock bootloader, rooting, hiding root and hiding unlocked bootloader status on Xiaomi devices
+- [realdtn2/xiaomi-unlocking-rooting-guide](https://github.com/realdtn2/xiaomi-unlocking-rooting-guide) - Guide on Bootloader Unlock / Root / Hide Root/ Play Integrity/ Spoof Bootloader Status as Locked (Key Attestation) for Xiaomi devices (HyperOS/HyperOS 2.0/HyperOS 3.0) (Global) [2026]
 - [nobiot/Zero-to-Emacs-and-Org-roam](https://github.com/nobiot/Zero-to-Emacs-and-Org-roam) - Step by step guide from zero to installing and setting up Emacs and Org-roam on Windows 10
 - [onesthink/coupon](https://github.com/onesthink/coupon) - 每日更新京东、淘宝、天猫各品类优惠券
 - [philvoyer/spellbook](https://github.com/philvoyer/spellbook) - Spacemacs cheatsheet.
@@ -2609,7 +2610,6 @@
 - [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your dataframe into an interactive UI for visual analysis
 - [JackeyLea/NJUCS](https://github.com/JackeyLea/NJUCS) - 2025南京大学计算机科学与技术845考研公共课和专业课资料：数学一、英语一、政治、数据结构、计算机网络、计算机系统基础、操作系统教程、算法设计与分析-包括真题、期末考试、PPT、模拟题、专业课参考书及课后答案、报录比、经验等等
 - [Myapi314/SQLite-Housing-Database](https://github.com/Myapi314/SQLite-Housing-Database) - Software to house SQLite database of dummy data for housing information along with several queries for different mock reports that could be run on a similar databse.
-- [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
 - [thombashi/pytablewriter](https://github.com/thombashi/pytablewriter) - pytablewriter is a Python library to write a table in various formats: AsciiDoc / CSV / Elasticsearch / HTML / JavaScript / JSON / LaTeX / LDJSON / LTSV / Markdown / MediaWiki / NumPy / Excel / Pandas
 - [xlwings/xlwings](https://github.com/xlwings/xlwings) - xlwings is a Python library that makes it easy to call Python from Excel and vice versa. It works with Excel on Windows and macOS as well as with Google Sheets and Excel on the web.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
@@ -3060,7 +3060,7 @@
 - [xushengfeng/lime](https://github.com/xushengfeng/lime) - 大模型驱动的拼音输入法
 - [trueleaf/apiflow](https://github.com/trueleaf/apiflow) - A modern API workspace that works both online and offline — combining API documentation, testing, mock, and AI-powered automation in one lightweight tool
 - [lc2panda/wps-skills](https://github.com/lc2panda/wps-skills) - WPS Skills | WPS Office 智能助手 | WPS Office AI Assistant
-- [SeanWong17/Future-Style-Periodic-Table](https://github.com/SeanWong17/Future-Style-Periodic-Table) - ⚛️ 赛博朋克风格的交互式元素周期表。核心亮点：核外电子排布 3D 可视化、沉浸式动效与多维数据热力图。纯原生 JS/CSS 实现。
+- [SeanWong17/Future-Style-Periodic-Table](https://github.com/SeanWong17/Future-Style-Periodic-Table) - 赛博朋克交互式元素周期表：3D 电子排布可视化、沉浸动效与热力图 | Cyberpunk interactive periodic table with 3D electron orbital visualization & heatmaps
 - [workany-ai/workany](https://github.com/workany-ai/workany) - Desktop Agent for Any Task
 - [Chance-fyi/mouse-gestures](https://github.com/Chance-fyi/mouse-gestures) - A lightweight yet powerful browser extension that enhances your browsing efficiency through intuitive mouse gestures, drag-and-drop actions, and cloud-synchronized settings.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
