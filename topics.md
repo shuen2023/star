@@ -149,6 +149,7 @@
 - [javascript](#javascript)
 - [jetpack-compose](#jetpack-compose)
 - [jquery](#jquery)
+- [js](#js)
 - [json](#json)
 - [julia](#julia)
 - [jupyter-notebook](#jupyter-notebook)
@@ -406,7 +407,7 @@
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
 - [ad-si/cai](https://github.com/ad-si/cai) - User friendly CLI tool for AI tasks. Stop thinking about LLMs and prompts, start getting results!
 - [luyu0279/Ainee](https://github.com/luyu0279/Ainee) - Ainee: AI Notetaking and Learning Companion – Speed Up Your Learning, Enhance Your Insight Sharing
-- [glidea/zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!! [作者新开的Gpt模型中转站 - 0.2 倍率, 0.2元当1刀花，比官方便宜35倍  https://token.glidea.app]
+- [glidea/zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!! [作者新开的Gpt/Claude模型中转站(Claude 0.28低价) - https://token.glidea.app]
 - [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) - AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN
 - [haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) - A Model Context Protocol server for Excel file manipulation
 - [cyfyifanchen/one-person-company](https://github.com/cyfyifanchen/one-person-company) - 遇事不决，Vibe 力学! One-Person Company AI Tools Series – continuously updated to help boost productivity and empower your solo business!
@@ -769,7 +770,7 @@
 - [cogentcore/core](https://github.com/cogentcore/core) - A free and open source framework for building powerful, fast, elegant 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and web with a single Go codebase, allowing you to Code Once, Run 
 - [bia-pain-bache/BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel) - A GUI Panel providing Worker subscriptions for VLESS, Trojan and Warp configs alongside a private DoH server and chain proxies, offering full DNS, clean IP,  Fragment, Warp, Warp pro and routing setti
 - [dreautall/waterfly-iii](https://github.com/dreautall/waterfly-iii) - Unofficial Android App for Firefly III, a free and open source personal finance manager.
-- [realdtn2/xiaomi-unlocking-rooting-guide](https://github.com/realdtn2/xiaomi-unlocking-rooting-guide) - Guide on Bootloader Unlock / Root / Hide Root/ Play Integrity/ Spoof Bootloader Status as Locked (Key Attestation) for Xiaomi devices (HyperOS/HyperOS 2.0/HyperOS 3.0) (Global) [2026]
+- [realdtn2/xiaomi-unlocking-rooting-guide](https://github.com/realdtn2/xiaomi-unlocking-rooting-guide) - Guide on Bootloader Unlock and Root for Xiaomi devices (HyperOS / HyperOS 2.0 / HyperOS 3.0) (Non-Mainland China Devices) |  Hide Root / Play Integrity / Spoof Bootloader Status as Locked (Key Attesta
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [sdex/ActivityManager](https://github.com/sdex/ActivityManager) - Launch any application activity
 - [tanujnotes/Olauncher](https://github.com/tanujnotes/Olauncher) - Minimal AF Launcher for Android. Reduce your screen time. Daily wallpapers.
@@ -814,7 +815,7 @@
 - [Bartuzen/qBitController](https://github.com/Bartuzen/qBitController) - Control qBittorrent from any device
 - [meshtastic/Meshtastic-Android](https://github.com/meshtastic/Meshtastic-Android) - Android application for Meshtastic
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
-- [msfjarvis/compose-lobsters](https://github.com/msfjarvis/compose-lobsters) - Claw for Android: Unofficial read-only client for https://lobste.rs, built using Jetpack Compose.
+- [msfjarvis/compose-lobsters](https://github.com/msfjarvis/compose-lobsters) - Claw for Android: Unofficial Android client for https://lobste.rs, built using Jetpack Compose.
 - [thevindu-w/clip_share_server](https://github.com/thevindu-w/clip_share_server) - Share Clipboard across devices. Share copied files and screenshots securely. Free and open-source tool that works on Windows, Linux, macOS, and Android.
 - [chvp/NanoLedger](https://github.com/chvp/NanoLedger) - Ledger (plain text accounting) data entry app for Android
 - [ozingi/Modify_the_Zram](https://github.com/ozingi/Modify_the_Zram) - 利用安卓设备自身init.qcom.post_boot.sh文件实现Zram的大小设置与关闭开启。
@@ -898,7 +899,6 @@
 - [KyleBing/rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian) - 86五笔极点码表 for 鼠须管(macOS)、小狼毫(Windows)、中州韵(Ubuntu) 、仓（iOS）、同文（Android）五笔输入方案，五笔输入法，Rime 方案。Chinese wubi input method schema
 - [termux/termux-float](https://github.com/termux/termux-float) - Termux add-on app to show the terminal in a floating terminal window.
 - [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
-- [Macro-Deck-App/Macro-Deck](https://github.com/Macro-Deck-App/Macro-Deck) - Macro Deck transforms your phone, tablet, or any device equipped with a modern internet browser into an efficient remote macro pad. With this tool, you can execute single or multi-step actions seamles
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [keymapperorg/KeyMapper](https://github.com/keymapperorg/KeyMapper) - An Android app to remap the buttons on your devices
@@ -1038,6 +1038,7 @@
 
 ## automation 
 
+- [the-sudipta/ExeFoundry](https://github.com/the-sudipta/ExeFoundry) - Portable BAT→EXE converter for Windows — turn .bat into a single .exe (custom icon, console/GUI, arg forwarding; no admin).
 - [fzumstein/python-for-excel](https://github.com/fzumstein/python-for-excel) - This is the companion repo of the O'Reilly book "Python for Excel".
 - [SahirVhora/daily-news-bot](https://github.com/SahirVhora/daily-news-bot) - Daily top 10 news to Telegram via GitHub Actions
 - [Sunse666/Vimina](https://github.com/Sunse666/Vimina) - AI-friendly Windows GUI automation - Convert interface to text, no vision model needed
@@ -1617,6 +1618,7 @@
 
 ## command-line 
 
+- [the-sudipta/ExeFoundry](https://github.com/the-sudipta/ExeFoundry) - Portable BAT→EXE converter for Windows — turn .bat into a single .exe (custom icon, console/GUI, arg forwarding; no admin).
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [yuis-ice/note-cli](https://github.com/yuis-ice/note-cli) - Markdown Indexing and Pcre Regular Expression Compatible Full Text Searching for Advanced Note Takers.
 - [learnbyexample/learn_gnuawk](https://github.com/learnbyexample/learn_gnuawk) - Example based guide to mastering GNU awk
@@ -1753,7 +1755,7 @@
 - [apify/crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works
 - [viasite/site-audit-seo](https://github.com/viasite/site-audit-seo) - Web service and CLI tool for SEO site audit: crawl site, lighthouse all pages, view public reports in browser. Also output to console, json, csv, xlsx
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
-- [TeamWiseFlow/wiseflow](https://github.com/TeamWiseFlow/wiseflow) - 为所有人准备的AI搞钱团队。技术平权，对抗AI引发的新一轮贫富差距加大！
+- [TeamWiseFlow/wiseflow](https://github.com/TeamWiseFlow/wiseflow) - 为所有人准备的AI搞钱团队，帮你把经验和方法跑成一门生意。
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
 - [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) - 🚀「Douyin_TikTok_Download_API」是一个开箱即用的高性能异步抖音、快手、TikTok、Bilibili数据爬取工具，支持API调用，在线批量解析及下载。
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
@@ -1796,6 +1798,7 @@
 
 ## css 
 
+- [sharp4real/privoobrowser](https://github.com/sharp4real/privoobrowser) - See what your missing out on and try Privoo Browser today for free!
 - [repplus/rep-chrome](https://github.com/repplus/rep-chrome) - rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to explain requests and suggest attacks
 - [ankit/stylebot](https://github.com/ankit/stylebot) - Change the appearance of the web instantly
 - [campfirium/Mneme](https://github.com/campfirium/Mneme) - An Anki template built for immersion and audio-first learning, with a clean and thoughtful visual design
@@ -1818,6 +1821,7 @@
 
 ## dart 
 
+- [AimesSoft/NipaPlay-Reload](https://github.com/AimesSoft/NipaPlay-Reload) - NipaPlay-Reload 是一个现代化的跨平台本地视频播放器，支持 Windows、macOS、Linux、Android 和 iOS。集成了弹幕显示、多格式字幕支持、多音频轨道切换，新番查看等功能，支持挂载Emby/Jellyfin媒体库。采用 Flutter +rust开发，提供统一的用户体验。
 - [Gidismart/yuns-desktop-pet](https://github.com/Gidismart/yuns-desktop-pet) - 🤖 Enhance your desktop experience with Yuns, an intelligent AI pet that supports multiple AI conversation models and dynamic API calls.
 - [burhanrashid52/WhatTodo](https://github.com/burhanrashid52/WhatTodo) - A Simple Todo app design in Flutter to keep track of your task on daily basis. Its build on BLoC Pattern. You can add a project, labels, and due-date to your task also you can sort your task on the ba
 - [darkmoonight/Zest](https://github.com/darkmoonight/Zest) - 📝 Task management application
@@ -2056,6 +2060,7 @@
 
 ## developer-tools 
 
+- [the-sudipta/ExeFoundry](https://github.com/the-sudipta/ExeFoundry) - Portable BAT→EXE converter for Windows — turn .bat into a single .exe (custom icon, console/GUI, arg forwarding; no admin).
 - [dante0747/geekspulse.dev](https://github.com/dante0747/geekspulse.dev) - Free indie developer news aggregator — curated RSS feeds, no ads, no paywalls.
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
@@ -2239,6 +2244,7 @@
 
 ## electron 
 
+- [sharp4real/privoobrowser](https://github.com/sharp4real/privoobrowser) - See what your missing out on and try Privoo Browser today for free!
 - [MultiboxLabs/flow-browser](https://github.com/MultiboxLabs/flow-browser) - A modern, privacy-focused browser with a minimalistic design.
 - [lukehaas/RunJS](https://github.com/lukehaas/RunJS) - RunJS is a JavaScript playground for macOS, Windows and Linux. Write code with instant feedback and access to Node.js and browser APIs.
 - [weolar/miniblink49](https://github.com/weolar/miniblink49) - a lighter, faster browser kernel of blink to integrate HTML UI in your app. 一个小巧、轻量的浏览器内核，用来取代wke和libcef
@@ -2496,6 +2502,7 @@
 
 ## flutter 
 
+- [AimesSoft/NipaPlay-Reload](https://github.com/AimesSoft/NipaPlay-Reload) - NipaPlay-Reload 是一个现代化的跨平台本地视频播放器，支持 Windows、macOS、Linux、Android 和 iOS。集成了弹幕显示、多格式字幕支持、多音频轨道切换，新番查看等功能，支持挂载Emby/Jellyfin媒体库。采用 Flutter +rust开发，提供统一的用户体验。
 - [conventoangelo/OverKeys](https://github.com/conventoangelo/OverKeys) - An open-source keyboard layout visualizer for Windows. Learn and practice alternative layouts, personalize appearance, and improve your typing.
 - [MoazSalem/colorful-notes-flutter](https://github.com/MoazSalem/colorful-notes-flutter) - A Colorful Note App with Many Options Made Using Flutter Framework.
 - [qliuyang/english_learn](https://github.com/qliuyang/english_learn) - An English learning software
@@ -3001,7 +3008,6 @@
 - [home-assistant/operating-system](https://github.com/home-assistant/operating-system) - :beginner: Home Assistant Operating System
 - [Storia-AI/sage](https://github.com/Storia-AI/sage) - Chat with any codebase in under two minutes | Fully local or via third-party APIs
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
-- [msfjarvis/compose-lobsters](https://github.com/msfjarvis/compose-lobsters) - Claw for Android: Unofficial read-only client for https://lobste.rs, built using Jetpack Compose.
 - [chvp/NanoLedger](https://github.com/chvp/NanoLedger) - Ledger (plain text accounting) data entry app for Android
 - [sympy/sympy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python
 - [thumbor/thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com
@@ -3149,6 +3155,7 @@
 
 ## html5 
 
+- [sharp4real/privoobrowser](https://github.com/sharp4real/privoobrowser) - See what your missing out on and try Privoo Browser today for free!
 - [mebjas/html5-qrcode](https://github.com/mebjas/html5-qrcode) - A cross platform HTML5 QR code reader. See end to end implementation at: https://scanapp.org
 - [SeanWong17/Future-Style-Periodic-Table](https://github.com/SeanWong17/Future-Style-Periodic-Table) - 赛博朋克交互式元素周期表：3D 电子排布可视化、沉浸动效与热力图 | Cyberpunk interactive periodic table with 3D electron orbital visualization & heatmaps
 - [gowthamrajk/Web-Development-Guide](https://github.com/gowthamrajk/Web-Development-Guide) - I will add some professional notes and reference tutorials which will be very much useful for freshers and beginners who are very passionate to become a web developer ❤️
@@ -3566,7 +3573,7 @@
 - [DanielRendox/RoutineTracker](https://github.com/DanielRendox/RoutineTracker) - An Android planner calendar app and a habit tracker that aims to simplify scheduling consistent activities and tracking your progress.
 - [stephenWanjala/ExpenseTracker](https://github.com/stephenWanjala/ExpenseTracker) - simple Android application developed using Jetpack Compose and Room database to help you keep track of your expenses. You can add, categorize, and view your expenses, and the app will group expenses b
 - [meshtastic/Meshtastic-Android](https://github.com/meshtastic/Meshtastic-Android) - Android application for Meshtastic
-- [msfjarvis/compose-lobsters](https://github.com/msfjarvis/compose-lobsters) - Claw for Android: Unofficial read-only client for https://lobste.rs, built using Jetpack Compose.
+- [msfjarvis/compose-lobsters](https://github.com/msfjarvis/compose-lobsters) - Claw for Android: Unofficial Android client for https://lobste.rs, built using Jetpack Compose.
 - [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp
 - [Alberto97/OUILookup](https://github.com/Alberto97/OUILookup) - OUI browser and MAC Address lookup Android application
 - [savvasdalkitsis/uhuruphotos-android](https://github.com/savvasdalkitsis/uhuruphotos-android) - 🖼️A modern media gallery, with features like backup/sync, semantic search, media map, face recognition, memories and much more built using the latest Android technologies.
@@ -3592,6 +3599,10 @@
 - [PuerkitoBio/goquery](https://github.com/PuerkitoBio/goquery) - A little like that j-thing, only in Go.
 - [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
 - [tabulator-tables/tabulator](https://github.com/tabulator-tables/tabulator) - Interactive Tables and Data Grids for JavaScript
+
+## js 
+
+- [sharp4real/privoobrowser](https://github.com/sharp4real/privoobrowser) - See what your missing out on and try Privoo Browser today for free!
 
 ## json 
 
@@ -3867,6 +3878,7 @@
 
 ## linux 
 
+- [sharp4real/privoobrowser](https://github.com/sharp4real/privoobrowser) - See what your missing out on and try Privoo Browser today for free!
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 - [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy
 - [y3owk1n/neru](https://github.com/y3owk1n/neru) - Keyboard-driven navigation for macOS and partial linux (possible for windows) - Navigate and click without touching your mouse.
@@ -4206,6 +4218,7 @@
 
 ## macos 
 
+- [sharp4real/privoobrowser](https://github.com/sharp4real/privoobrowser) - See what your missing out on and try Privoo Browser today for free!
 - [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy
 - [y3owk1n/neru](https://github.com/y3owk1n/neru) - Keyboard-driven navigation for macOS and partial linux (possible for windows) - Navigate and click without touching your mouse.
 - [sqmw/MFCMouseEffect](https://github.com/sqmw/MFCMouseEffect) - 跨平台鼠标特效与输入可视化引擎：点击/轨迹/滚轮/悬停等效果，输入指示器叠加层，手势→快捷键自动化映射，可扩展 WASM 插件。 Cross-platform mouse effects & input visualization engine: click/trail/scroll/hover effects, indicator overlays, gesture→hotkey automat
@@ -4301,6 +4314,7 @@
 
 ## malware 
 
+- [Frozoewn/ICARUS-HVNC](https://github.com/Frozoewn/ICARUS-HVNC) - Remote Administration Either you are a private user wanting to control your PC from afar, or a big company which wants to administrate hundreds of machines from a single computer,
 - [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM, 8-bit AVR and 32-bit RISC-V architectures.
 
 ## markdown 
@@ -4453,7 +4467,7 @@
 - [KiWi233333/JiwuChat](https://github.com/KiWi233333/JiwuChat) - JiwuChat 🍂 - A lightweight cross-platform instant messaging app with integrated AI assistants (DeepSeek/Gemini/Kimi). Features real-time messaging, audio/video calls, multi-device sync, and customizab
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
-- [glidea/zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!! [作者新开的Gpt模型中转站 - 0.2 倍率, 0.2元当1刀花，比官方便宜35倍  https://token.glidea.app]
+- [glidea/zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!! [作者新开的Gpt/Claude模型中转站(Claude 0.28低价) - https://token.glidea.app]
 - [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) - AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN
 - [haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) - A Model Context Protocol server for Excel file manipulation
 - [AmoyLab/Unla](https://github.com/AmoyLab/Unla) - 🧩 MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes. Features Docker deployment and management UI, requiring n
@@ -4543,7 +4557,7 @@
 ## monitoring 
 
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
-- [glidea/zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!! [作者新开的Gpt模型中转站 - 0.2 倍率, 0.2元当1刀花，比官方便宜35倍  https://token.glidea.app]
+- [glidea/zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!! [作者新开的Gpt/Claude模型中转站(Claude 0.28低价) - https://token.glidea.app]
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and El
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitorin
@@ -4813,7 +4827,6 @@
 - [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Find related notes and excerpts while writing. Your link building copilot displays relevant content in graph + list view. A local embedding model powers semantic search. Zero setup. No API key.
 - [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
 - [LostPaul/obsidian-folder-notes](https://github.com/LostPaul/obsidian-folder-notes) - Create notes within folders that can be accessed without collapsing the folder, similar to the functionality offered in Notion.
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) - 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成
 - [secure-77/Perlite](https://github.com/secure-77/Perlite) - A web-based markdown viewer optimized for Obsidian
 - [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) - AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN
@@ -4908,6 +4921,7 @@
 
 ## open-source 
 
+- [the-sudipta/ExeFoundry](https://github.com/the-sudipta/ExeFoundry) - Portable BAT→EXE converter for Windows — turn .bat into a single .exe (custom icon, console/GUI, arg forwarding; no admin).
 - [dante0747/geekspulse.dev](https://github.com/dante0747/geekspulse.dev) - Free indie developer news aggregator — curated RSS feeds, no ads, no paywalls.
 - [chethanyadav456/JSON-Downloader](https://github.com/chethanyadav456/JSON-Downloader) - A minimal Chrome extension for downloading JSON data from web pages or URLs with a single click. Features automatic JSON detection with a floating download button and a clean, modern UI. Privacy-focus
 - [zenc-lang/zenc](https://github.com/zenc-lang/zenc) - Write like a high-level language, run like C.
@@ -4970,7 +4984,7 @@
 - [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Satori e.g. Int
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [ad-si/cai](https://github.com/ad-si/cai) - User friendly CLI tool for AI tasks. Stop thinking about LLMs and prompts, start getting results!
-- [glidea/zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!! [作者新开的Gpt模型中转站 - 0.2 倍率, 0.2元当1刀花，比官方便宜35倍  https://token.glidea.app]
+- [glidea/zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!! [作者新开的Gpt/Claude模型中转站(Claude 0.28低价) - https://token.glidea.app]
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
 - [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - A list of free LLM inference resources accessible via API.
 - [p0n1/epub_to_audiobook](https://github.com/p0n1/epub_to_audiobook) - EPUB to audiobook converter, optimized for Audiobookshelf, WebUI included
@@ -5051,6 +5065,10 @@
 
 ## others 
 
+- [3056810551/2027-kaoyan-english-redbook-json](https://github.com/3056810551/2027-kaoyan-english-redbook-json) - 2027 考研英语红宝书词汇 JSON 数据，源自不背单词 APP，结构化单词 + 释义数组
+- [jinnang233/English2AnkiCSV](https://github.com/jinnang233/English2AnkiCSV) - 一个 Rust 桌面程序，用于批量查询英文单词释义，保存为本地 JSON，并导出为 Anki 可导入的 UTF-8 TSV/CSV。
+- [FanHeran/Loopra](https://github.com/FanHeran/Loopra) - 把练习变成本能。
+- [shoaly/Loopra](https://github.com/shoaly/Loopra) - 
 - [zz-dog/resource-sniffer](https://github.com/zz-dog/resource-sniffer) - A Chrome extension (MV3) that sniffs all resources used by a webpage.
 - [asbplayer/asbplayer](https://github.com/asbplayer/asbplayer) - Browser-based media player and Chrome extension for subtitle sentence mining
 - [iziz/RuruGrab](https://github.com/iziz/RuruGrab) - Custom desktop app and Chrome/Edge extensions for personal use
@@ -5447,7 +5465,7 @@
 - [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
 - [Coekjan/typst-upgrade](https://github.com/Coekjan/typst-upgrade) - Upgrade your typst packages
 - [larstvei/dot-emacs](https://github.com/larstvei/dot-emacs) - My Emacs configurations written in Org mode
-- [s-kostyaev/ellama](https://github.com/s-kostyaev/ellama) - Ellama is a tool for interacting with large language models from Emacs.
+- [s-kostyaev/ellama](https://github.com/s-kostyaev/ellama) - Work with local and cloud LLMs from Emacs.
 - [interlark/123tv-tvguide](https://github.com/interlark/123tv-tvguide) - TV Guide for 123TV Free IPTV
 - [geezacoleman/OpenWeedLocator](https://github.com/geezacoleman/OpenWeedLocator) - An open-source, low-cost, image-based weed detection device for in-crop and fallow scenarios.
 - [Neamar/KISS](https://github.com/Neamar/KISS) - Lightning fast, open-source, &lt; 250kb Android launcher
@@ -6228,6 +6246,7 @@
 
 ## perl 
 
+- [cwchentw/kr-dict](https://github.com/cwchentw/kr-dict) - A Korean-to-English dictionary combined with its CSV-to-JSON converter
 - [Perl/perl5](https://github.com/Perl/perl5) - 🐪 The Perl programming language
 - [weechat/weechat](https://github.com/weechat/weechat) - The extensible chat client.
 
@@ -6311,6 +6330,7 @@
 
 ## powershell 
 
+- [the-sudipta/ExeFoundry](https://github.com/the-sudipta/ExeFoundry) - Portable BAT→EXE converter for Windows — turn .bat into a single .exe (custom icon, console/GUI, arg forwarding; no admin).
 - [BryantWelch/Spreadsheet-Wrangler](https://github.com/BryantWelch/Spreadsheet-Wrangler) - A PowerShell GUI tool for backing up folders and combining spreadsheets with advanced options for data manipulation and configuration management.
 - [iffse/pay-respects](https://github.com/iffse/pay-respects) - Command suggestions, command-not-found and thefuck replacement written in Rust
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
@@ -6327,6 +6347,7 @@
 
 ## privacy 
 
+- [sharp4real/privoobrowser](https://github.com/sharp4real/privoobrowser) - See what your missing out on and try Privoo Browser today for free!
 - [FaFre/WebLibre](https://github.com/FaFre/WebLibre) - A libre Android browser built from scratch on Gecko. Privacy by default, powerful tab containers, and a local-first search engine.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
@@ -7008,6 +7029,7 @@
 
 ## rust 
 
+- [AimesSoft/NipaPlay-Reload](https://github.com/AimesSoft/NipaPlay-Reload) - NipaPlay-Reload 是一个现代化的跨平台本地视频播放器，支持 Windows、macOS、Linux、Android 和 iOS。集成了弹幕显示、多格式字幕支持、多音频轨道切换，新番查看等功能，支持挂载Emby/Jellyfin媒体库。采用 Flutter +rust开发，提供统一的用户体验。
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 - [Rairy04/excel-cli](https://github.com/Rairy04/excel-cli) - 📊 Convert Excel files to multiple formats like JSON, CSV, and SQL with this powerful Rust CLI tool, offering speed, flexibility, and easy customization.
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A decentralised discussion platform for communities.
@@ -7974,6 +7996,7 @@
 
 ## video 
 
+- [AimesSoft/NipaPlay-Reload](https://github.com/AimesSoft/NipaPlay-Reload) - NipaPlay-Reload 是一个现代化的跨平台本地视频播放器，支持 Windows、macOS、Linux、Android 和 iOS。集成了弹幕显示、多格式字幕支持、多音频轨道切换，新番查看等功能，支持挂载Emby/Jellyfin媒体库。采用 Flutter +rust开发，提供统一的用户体验。
 - [ZoneMinder/zoneminder](https://github.com/ZoneMinder/zoneminder) - ZoneMinder is a free, open source Closed-circuit television software application developed for Linux which supports IP, USB and Analog cameras.
 - [alexch33/super-video-downloader](https://github.com/alexch33/super-video-downloader) - Video & Audio downloader for Android with web browser and player. M3U8 and MPD supported, live stream supported, using youtube-dlp and custom mp4/mp3/m3u8/mpd downloader, cookies supported, HTTP & SOC
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
@@ -8156,6 +8179,7 @@
 
 ## web 
 
+- [sharp4real/privoobrowser](https://github.com/sharp4real/privoobrowser) - See what your missing out on and try Privoo Browser today for free!
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [abhijithvijayan/web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter) - 🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
 - [Renga-hacker/Excel-VBA-Macros](https://github.com/Renga-hacker/Excel-VBA-Macros) - 📊 Boost productivity with 20 ready-to-use Excel VBA macros, complete with clear explanations and automation workflows for effortless data handling.
@@ -8231,6 +8255,9 @@
 
 ## windows 
 
+- [sharp4real/privoobrowser](https://github.com/sharp4real/privoobrowser) - See what your missing out on and try Privoo Browser today for free!
+- [Frozoewn/ICARUS-HVNC](https://github.com/Frozoewn/ICARUS-HVNC) - Remote Administration Either you are a private user wanting to control your PC from afar, or a big company which wants to administrate hundreds of machines from a single computer,
+- [the-sudipta/ExeFoundry](https://github.com/the-sudipta/ExeFoundry) - Portable BAT→EXE converter for Windows — turn .bat into a single .exe (custom icon, console/GUI, arg forwarding; no admin).
 - [xianyukang/MyKeymap](https://github.com/xianyukang/MyKeymap) - 一款基于 AutoHotkey 的键盘映射工具
 - [conventoangelo/OverKeys](https://github.com/conventoangelo/OverKeys) - An open-source keyboard layout visualizer for Windows. Learn and practice alternative layouts, personalize appearance, and improve your typing.
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
@@ -8241,7 +8268,7 @@
 - [Alex313031/Thorium-Win](https://github.com/Alex313031/Thorium-Win) - Chromium fork for Windows named after radioactive element No. 90; Windows builds of https://github.com/Alex313031/Thorium
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
-- [abgox/InputTip](https://github.com/abgox/InputTip) - 输入法状态管理: 实时提示 + 状态切换
+- [abgox/InputTip](https://github.com/abgox/InputTip) - 规则驱动的输入法状态管理器 · 即时 · 强大 · 高效
 - [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
@@ -8357,7 +8384,7 @@
 - [WoeUSB/WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng) - WoeUSB-ng is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. This is a rewrite of original WoeUSB.
 - [m3h3d1ha2an/msmg-toolkit](https://github.com/m3h3d1ha2an/msmg-toolkit) - This is an UnOfficial backup repository for MSMG Toolkit.
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
-- [Macro-Deck-App/Macro-Deck](https://github.com/Macro-Deck-App/Macro-Deck) - Macro Deck transforms your phone, tablet, or any device equipped with a modern internet browser into an efficient remote macro pad. With this tool, you can execute single or multi-step actions seamles
+- [Macro-Deck-App/Macro-Deck](https://github.com/Macro-Deck-App/Macro-Deck) - Macro Deck is the open-source, customizable macro pad for your PC and mobile devices. Ideal for streamers, gamers, developers and power users!
 - [mittelmark/microemacs](https://github.com/mittelmark/microemacs) - Modern Jasspa's Microemacs fork -  based on  Dave Conroy and Daniel Lawrences code.  Text editor with GUI and terminal mode, with syntax highlighting, folding, outlines, abbreviations, own extension l
 - [InkTimeRecord/TTime](https://github.com/InkTimeRecord/TTime) - 🚀 Screenshots, word marking, OCR, AI, translation software || 截图、划词、文字识别、AI、翻译软件
 - [spyoungtech/ahk](https://github.com/spyoungtech/ahk) - Python wrapper for AutoHotkey with full type support. Harness the automation power of AutoHotkey with the beauty of Python.
