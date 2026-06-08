@@ -1188,8 +1188,8 @@
 
 ## JavaScript 
 
-- [cwchentw/kr-dict](https://github.com/cwchentw/kr-dict) - A Korean-to-English dictionary combined with its CSV-to-JSON converter
 - [sharp4real/privoobrowser](https://github.com/sharp4real/privoobrowser) - See what your missing out on and try Privoo Browser today for free!
+- [iziz/RuruGrab](https://github.com/iziz/RuruGrab) - Custom desktop app and Chrome/Edge extensions for personal use
 - [UltraHackerDog/Hokus](https://github.com/UltraHackerDog/Hokus) - Hokus is a Chrome extension that helps you learn Chinese by replacing English words on web pages with HSK 2.0 vocabulary (Levels 1–6). Learn passively while browsing with hover translations, pinyin, a
 - [wamich/personal-vocabulary](https://github.com/wamich/personal-vocabulary) - 「个人词库」是一款浏览器插件。 用于英文阅读时，不断记住生词，构建个人词库。
 - [mikaelalvess/chromePluginToWriteNotes](https://github.com/mikaelalvess/chromePluginToWriteNotes) - 📝 Simplify note-taking with this minimalist Chrome extension that uses wiki markup, highlights text, and requires no setup for effortless organization.
@@ -1623,7 +1623,7 @@
 - [find-xposed-magisk/Magisk](https://github.com/find-xposed-magisk/Magisk) - The Magic Mask for Android ｜ Android的魔法面具
 - [kamgurgul/cpu-info](https://github.com/kamgurgul/cpu-info) - CPU Info is a multiplatform application which provides information about device hardware and software
 - [Razeeman/Android-SimpleTimeTracker](https://github.com/Razeeman/Android-SimpleTimeTracker) - Simple app that tracks time.
-- [nikbulavin/cashsense](https://github.com/nikbulavin/cashsense) - 💵 Android app for managing personal finances
+- [nikbulavin/cashsense](https://github.com/nikbulavin/cashsense) - 💵 An Android app for managing personal finances
 - [edgafner/GBrowser](https://github.com/edgafner/GBrowser) - A Browser embedded in your IDE
 - [DanielRendox/GroceryGenius](https://github.com/DanielRendox/GroceryGenius) - A feature-rich shopping list Android app with offline-first mode and Material You design
 - [DanielRendox/RoutineTracker](https://github.com/DanielRendox/RoutineTracker) - An Android planner calendar app and a habit tracker that aims to simplify scheduling consistent activities and tracking your progress.
@@ -2102,6 +2102,7 @@
 
 ## Perl 
 
+- [cwchentw/kr-dict](https://github.com/cwchentw/kr-dict) - A Korean-to-English dictionary combined with its CSV-to-JSON converter
 - [ledgersmb/LedgerSMB](https://github.com/ledgersmb/LedgerSMB) - Double-entry accounting & ERP for the web
 - [get-iplayer/get_iplayer](https://github.com/get-iplayer/get_iplayer) - A utility for downloading TV and radio programmes from BBC iPlayer and BBC Sounds
 - [Perl/perl5](https://github.com/Perl/perl5) - 🐪 The Perl programming language
@@ -2173,7 +2174,7 @@
 - [Shadow170022/ExcelDiff](https://github.com/Shadow170022/ExcelDiff) - A graphical tool to compare two Excel files (.xlsx) side by side, sheet by sheet and cell by cell. Ideal for spotting discrepancies in data across large workbooks.
 - [zeromq/pyzmq](https://github.com/zeromq/pyzmq) - PyZMQ:  Python bindings for zeromq
 - [prompt-toolkit/python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
-- [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Satori e.g. Int
+- [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台/ Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Matrix e.g. Integr
 - [Hello-Mr-Crab/pywechat](https://github.com/Hello-Mr-Crab/pywechat) - 仍然可用的微信RPA！支持4.0系列微信pywechat是一个基于pywinauto实现的windows桌面微信自动化操作工具，基本实现了PC微信内置的各项操作。
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
 - [ciur/papermerge](https://github.com/ciur/papermerge) - Open Source Document Management System for Digital Archives (Scanned Documents)
@@ -2661,8 +2662,7 @@
 
 ## Rust 
 
-- [jinnang233/English2AnkiCSV](https://github.com/jinnang233/English2AnkiCSV) - 一个 Rust 桌面程序，用于批量查询英文单词释义，保存为本地 JSON，并导出为 Anki 可导入的 UTF-8 TSV/CSV。
-- [iziz/RuruGrab](https://github.com/iziz/RuruGrab) - Custom desktop app and Chrome/Edge extensions for personal use
+- [jinnang233/English2AnkiCSV](https://github.com/jinnang233/English2AnkiCSV) - 【实验性】 一个 Rust 桌面程序，用于批量查询英文单词释义，保存为本地 JSON，并导出为 Anki 可导入的 UTF-8 TSV/CSV。
 - [tomrford/mint](https://github.com/tomrford/mint) - A CLI tool for building hex files from excel data and a layout definition.
 - [Rairy04/excel-cli](https://github.com/Rairy04/excel-cli) - 📊 Convert Excel files to multiple formats like JSON, CSV, and SQL with this powerful Rust CLI tool, offering speed, flexibility, and easy customization.
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A decentralised discussion platform for communities.
