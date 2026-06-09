@@ -139,7 +139,6 @@
 - [rimeinn/tmux-rime](https://github.com/rimeinn/tmux-rime) - ㄓ rime for tmux
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
 - [hfiref0x/WDExtract](https://github.com/hfiref0x/WDExtract) - Extract Windows Defender database from vdm files and unpack it
-- [foobnix/LibreraReader](https://github.com/foobnix/LibreraReader) - Book Reader for Android
 - [libtom/libtommath](https://github.com/libtom/libtommath) - LibTomMath is a free open source portable number theoretic multiple-precision integer library written entirely in C.
 - [nuta/operating-system-in-1000-lines](https://github.com/nuta/operating-system-in-1000-lines) - Writing an OS in 1,000 lines.
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
@@ -256,7 +255,6 @@
 - [mittelmark/microemacs](https://github.com/mittelmark/microemacs) - Modern Jasspa's Microemacs fork -  based on  Dave Conroy and Daniel Lawrences code.  Text editor with GUI and terminal mode, with syntax highlighting, folding, outlines, abbreviations, own extension l
 - [lfos/calcurse](https://github.com/lfos/calcurse) - A text-based calendar and scheduling application
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
-- [ic005k/Knot-Legacy](https://github.com/ic005k/Knot-Legacy) - Record everything.
 - [rogerbinns/apsw](https://github.com/rogerbinns/apsw) - Another Python SQLite wrapper
 - [rizonesoft/Notepad3](https://github.com/rizonesoft/Notepad3) - Notepad like text editor based on the Scintilla source code. Notepad3 based on code from Notepad2 and MiniPath on code from metapath. Download Notepad3:
 - [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ https://windows-internals.com
@@ -345,7 +343,7 @@
 - [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) - Windows 10/11 Guide. Including Windows Security tools, Encryption, Nextcloud, Graphics, Gaming, Virtualization, Windows Subsystem for Linux (WSL 2), Software Apps, and Resources.
 - [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
 - [lostindark/DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Driver Store Explorer
-- [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
+- [BCUninstaller/Bulk-Crap-Uninstaller](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 - [uxmal/reko](https://github.com/uxmal/reko) - Reko is a binary decompiler.
 - [akon47/ScreenRecorder](https://github.com/akon47/ScreenRecorder) - ⏺️ A simple recording program with the ability to record screens and audio on your computer.
 - [WebVella/WebVella-ERP](https://github.com/WebVella/WebVella-ERP) - Free and open-source pluggable ERP and CRM software based on ASP.NET Core 9, RazorPages and PostgreSQL . Targets Linux or Windows as host OS.
@@ -383,6 +381,7 @@
 
 ## C++ 
 
+- [gz83/thorium](https://github.com/gz83/thorium) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
 - [khan9t2zishan/gfg-potd](https://github.com/khan9t2zishan/gfg-potd) - This repository is a collection of C++ codes for Geeks for Geeks problem of the Day.
 - [condexpr01/rime-ranwu](https://github.com/condexpr01/rime-ranwu) - 燃舞（然五音形：自然码+86五笔辅码 ， 四码方案)
 - [Zee2/openwarp](https://github.com/Zee2/openwarp) - Free and open source spatial reprojection for XR.
@@ -828,7 +827,7 @@
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA, GUI automation, Auto test and Computer use  @vcaesar
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history
-- [glidea/zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!! [作者新开的Gpt/Claude模型中转站(Claude 0.28低价) - https://token.glidea.app]
+- [glidea/zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!!
 - [Breeze0806/go-etl](https://github.com/Breeze0806/go-etl) - go-etl is a toolset for data extraction, transformation and loading.
 - [negokaz/excel-mcp-server](https://github.com/negokaz/excel-mcp-server) - A Model Context Protocol (MCP) server that reads and writes MS Excel data
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
@@ -988,6 +987,7 @@
 
 ## HTML 
 
+- [gipapa/english_word_card](https://github.com/gipapa/english_word_card) - A lightweight, GitHub Pages–ready English vocabulary flashcard site for TXXX candidates, featuring 1,000+ commonly used workplace and semiconductor-related words.
 - [the-sudipta/ExeFoundry](https://github.com/the-sudipta/ExeFoundry) - Portable BAT→EXE converter for Windows — turn .bat into a single .exe (custom icon, console/GUI, arg forwarding; no admin).
 - [dante0747/geekspulse.dev](https://github.com/dante0747/geekspulse.dev) - Free indie developer news aggregator — curated RSS feeds, no ads, no paywalls.
 - [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
@@ -1064,6 +1064,7 @@
 - [woheller69/browser](https://github.com/woheller69/browser) - A privacy oriented web browser with Greasemonkey style script support and Cookie Banner Blocker
 - [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) - AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 - [AnBui2004/Vectras-VM-Emu-Android](https://github.com/AnBui2004/Vectras-VM-Emu-Android) - It's a Virtual Machine App for Android Which is Based on QEMU
+- [foobnix/LibreraReader](https://github.com/foobnix/LibreraReader) - Book Reader for Android
 - [SubhamTyagi/android-ocr](https://github.com/SubhamTyagi/android-ocr) - Tesseract based OCR for android
 - [HeliBorg/HeliBoard](https://github.com/HeliBorg/HeliBoard) - Customizable and privacy-conscious open-source keyboard
 - [REAndroid/APKEditor](https://github.com/REAndroid/APKEditor) - Powerful android apk editor - aapt/aapt2 independent
@@ -1199,7 +1200,6 @@
 - [Gidismart/yuns-desktop-pet](https://github.com/Gidismart/yuns-desktop-pet) - 🤖 Enhance your desktop experience with Yuns, an intelligent AI pet that supports multiple AI conversation models and dynamic API calls.
 - [heshengtao/super-agent-party](https://github.com/heshengtao/super-agent-party) - ⭐ All-in-one AI companion! Super Agent Party = Self hosted neuro sama + openclaw! ⭐ 全能AI伴侣！超级智能体派对 = 自托管neuro sama + openclaw!
 - [nojaja/memopad-new-tab](https://github.com/nojaja/memopad-new-tab) - Chrome extension to save a note with Markdown directly on the "New Tab" page
-- [electroluxcode/mvp-onlyoffice](https://github.com/electroluxcode/mvp-onlyoffice) - An office editing component based on OnlyOffice that supports document viewing, editing, and conversion entirely on the client side.   基于 OnlyOffice 技术栈构建的浏览器端文档处理解决方案，支持在客户端完成文档的查看、编辑与转换，所有操作均在用户设备上执
 - [jchyng/More-Shortcuts-New-Tab](https://github.com/jchyng/More-Shortcuts-New-Tab) - Overcome Chrome's 10-shortcut limit. Add up to 30 shortcuts, auto-fetch titles, and enjoy a clean dashboard.
 - [rodrieth/chrome-network-capture](https://github.com/rodrieth/chrome-network-capture) - 🔍 Capture and analyze network requests in real-time with this Chrome extension, ensuring you save all data efficiently for future review.
 - [chethanyadav456/JSON-Downloader](https://github.com/chethanyadav456/JSON-Downloader) - A minimal Chrome extension for downloading JSON data from web pages or URLs with a single click. Features automatic JSON detection with a floating download button and a clean, modern UI. Privacy-focus
@@ -3082,6 +3082,7 @@
 - [SatyamVyas04/better-home](https://github.com/SatyamVyas04/better-home) - A minimal, delightful new-tab replacement for Chromium browsers
 - [hummingme/kahuna](https://github.com/hummingme/kahuna) - Browse, edit and manage IndexedDB databases in Firefox and Chromium browsers
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
+- [electroluxcode/onlyoffice-web-comp](https://github.com/electroluxcode/onlyoffice-web-comp) - An office editing component based on OnlyOffice that supports document viewing, editing, and conversion entirely on the client side.   基于 OnlyOffice 技术栈构建的浏览器端文档处理解决方案，支持在客户端完成文档的查看、编辑与转换，所有操作均在用户设备上执
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [huangyxi/tab-positioner](https://github.com/huangyxi/tab-positioner) - A Chrome Extension for Tab Positioning Control
 - [steipete/summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
