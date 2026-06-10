@@ -289,7 +289,6 @@
 
 ## C# # 
 
-- [Frozoewn/ICARUS-HVNC](https://github.com/Frozoewn/ICARUS-HVNC) - Remote Administration Either you are a private user wanting to control your PC from afar, or a big company which wants to administrate hundreds of machines from a single computer,
 - [Sunse666/Vimina](https://github.com/Sunse666/Vimina) - AI-friendly Windows GUI automation - Convert interface to text, no vision model needed
 - [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation requir
 - [Jerry-Z07/WindBoard](https://github.com/Jerry-Z07/WindBoard) - 轻风白板（WindBoard）
@@ -761,7 +760,7 @@
 - [MatthewZMD/.emacs.d](https://github.com/MatthewZMD/.emacs.d) - M-EMACS, a full-featured GNU Emacs configuration distribution
 - [nobiot/md-roam](https://github.com/nobiot/md-roam) - Use Org-roam with markdown files by adding Md-roam as a plug-in. Mix org and markdown files in a single Org-roam database.
 - [arbv/emacs-msi-installer](https://github.com/arbv/emacs-msi-installer) - A (hopefully) better installation experince for GNU Emacs on Windows
-- [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
+- [doomemacs/core](https://github.com/doomemacs/core) - An Emacs framework for the stubborn martian hacker
 - [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
 
 ## F# # 
@@ -820,7 +819,7 @@
 - [zbuzhi/diff-excel](https://github.com/zbuzhi/diff-excel) - Excel文件对比工具
 - [rodrigocfd/windigo](https://github.com/rodrigocfd/windigo) - Windows API and GUI in idiomatic Go.
 - [chromedp/chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
-- [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant for Zettelkasten or otherwise
+- [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant
 - [lin-snow/Ech0](https://github.com/lin-snow/Ech0) - Ech0 – An open-source, self-hosted lightweight publishing platform for personal idea sharing.
 - [noriah/catnip](https://github.com/noriah/catnip) - terminal audio visualizer for linux/unix/macOS/windblows*
 - [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis
@@ -1066,7 +1065,6 @@
 - [AnBui2004/Vectras-VM-Emu-Android](https://github.com/AnBui2004/Vectras-VM-Emu-Android) - It's a Virtual Machine App for Android Which is Based on QEMU
 - [foobnix/LibreraReader](https://github.com/foobnix/LibreraReader) - Book Reader for Android
 - [SubhamTyagi/android-ocr](https://github.com/SubhamTyagi/android-ocr) - Tesseract based OCR for android
-- [HeliBorg/HeliBoard](https://github.com/HeliBorg/HeliBoard) - Customizable and privacy-conscious open-source keyboard
 - [REAndroid/APKEditor](https://github.com/REAndroid/APKEditor) - Powerful android apk editor - aapt/aapt2 independent
 - [apache/zeppelin](https://github.com/apache/zeppelin) - Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.
 - [petoncle/mousemaster](https://github.com/petoncle/mousemaster) - Mouseless mouse control and advanced keyboard customization.
@@ -1190,7 +1188,6 @@
 ## JavaScript 
 
 - [sharp4real/privoobrowser](https://github.com/sharp4real/privoobrowser) - See what your missing out on and try Privoo Browser today for free!
-- [iziz/RuruGrab](https://github.com/iziz/RuruGrab) - Custom desktop app and Chrome/Edge extensions for personal use
 - [UltraHackerDog/Hokus](https://github.com/UltraHackerDog/Hokus) - Hokus is a Chrome extension that helps you learn Chinese by replacing English words on web pages with HSK 2.0 vocabulary (Levels 1–6). Learn passively while browsing with hover translations, pinyin, a
 - [wamich/personal-vocabulary](https://github.com/wamich/personal-vocabulary) - 「个人词库」是一款浏览器插件。 用于英文阅读时，不断记住生词，构建个人词库。
 - [mikaelalvess/chromePluginToWriteNotes](https://github.com/mikaelalvess/chromePluginToWriteNotes) - 📝 Simplify note-taking with this minimalist Chrome extension that uses wiki markup, highlights text, and requires no setup for effortless organization.
@@ -1223,7 +1220,6 @@
 - [sheshbabu/zen](https://github.com/sheshbabu/zen) - Selfhosted notes app. Single golang binary, notes stored as markdown within SQLite, full-text search, very low resource usage
 - [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, TypeScript, SQLite and PostgreSQL support ++
 - [qqcarlosqq/Wordle_ENG](https://github.com/qqcarlosqq/Wordle_ENG) - Wordle Solver for English version
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
 - [law-chain-hot/websocket-devtools](https://github.com/law-chain-hot/websocket-devtools) - Complete WebSocket Traffic Control with advanced proxy, simulation, and blocking capabilities
 - [yuis-ice/note-cli](https://github.com/yuis-ice/note-cli) - Markdown Indexing and Pcre Regular Expression Compatible Full Text Searching for Advanced Note Takers.
@@ -1494,6 +1490,7 @@
 - [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) - RikkaHub is an Android APP that supports for multiple LLM providers.
 - [word-view/WordView-android](https://github.com/word-view/WordView-android) - A clever way to learn a language
 - [abaga129/tekisuto](https://github.com/abaga129/tekisuto) - An android accessibility service for performing OCR on apps, doing dictionary lookups, and creating Anki Cards
+- [HeliBorg/HeliBoard](https://github.com/HeliBorg/HeliBoard) - Customizable and privacy-conscious open-source keyboard
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in beta.
 - [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
 - [igorescodro/alkaa](https://github.com/igorescodro/alkaa) - Kotlin multiplatform app to manage your tasks
@@ -2459,7 +2456,7 @@
 - [Monu-06/Vocabulary_Tutor](https://github.com/Monu-06/Vocabulary_Tutor) - I  developed Vocabulary tutor using python. Which is useful to the laptop users to learn the newwords daily, while user using laptop.
 - [saurabh9136/Learn-Python](https://github.com/saurabh9136/Learn-Python) - Started leaning python from basic to advance
 - [markqvist/Sideband](https://github.com/markqvist/Sideband) - LXMF client for Android, Linux and macOS allowing you to communicate with people or LXMF-compatible systems over Reticulum networks using LoRa, Packet Radio, WiFi, I2P, or anything else Reticulum supp
-- [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A natural language interface for computers
 - [dtmilano/AndroidViewClient](https://github.com/dtmilano/AndroidViewClient) - Android ViewServer and ADB client
 - [PaulMakesStuff/Python_Cross_Stitch](https://github.com/PaulMakesStuff/Python_Cross_Stitch) - Takes a .jpg image file and generates a cross stitch pattern using a user specified number of DMC colours.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
@@ -2604,7 +2601,7 @@
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [caksoylar/keymap-drawer](https://github.com/caksoylar/keymap-drawer) - Visualize keymaps that use advanced features like hold-taps and combos, with automatic parsing
-- [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 🚀 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
+- [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - Ultralytics YOLOv5 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
 - [baserow/baserow](https://github.com/baserow/baserow) - Build databases, automations, apps & agents with AI — no code.  Open source platform available on cloud and self-hosted. GDPR, HIPAA, SOC 2 compliant. Best Airtable alternative.
 - [xaviviro/refacer](https://github.com/xaviviro/refacer) - Refacer: One-Click Deepfake Multi-Face Swap Tool
 - [AverageMisesian/Janus_AI](https://github.com/AverageMisesian/Janus_AI) - Face Swapping using Mediapipe and OpenCV
@@ -2663,6 +2660,7 @@
 ## Rust 
 
 - [jinnang233/English2AnkiCSV](https://github.com/jinnang233/English2AnkiCSV) - 【实验性】 一个 Rust 桌面程序，用于批量查询英文单词释义，保存为本地 JSON，并导出为 Anki 可导入的 UTF-8 TSV/CSV。
+- [iziz/RuruGrab](https://github.com/iziz/RuruGrab) - Custom desktop app and Chrome/Edge extensions for personal use
 - [tomrford/mint](https://github.com/tomrford/mint) - A CLI tool for building hex files from excel data and a layout definition.
 - [Rairy04/excel-cli](https://github.com/Rairy04/excel-cli) - 📊 Convert Excel files to multiple formats like JSON, CSV, and SQL with this powerful Rust CLI tool, offering speed, flexibility, and easy customization.
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A decentralised discussion platform for communities.
@@ -3082,7 +3080,7 @@
 - [SatyamVyas04/better-home](https://github.com/SatyamVyas04/better-home) - A minimal, delightful new-tab replacement for Chromium browsers
 - [hummingme/kahuna](https://github.com/hummingme/kahuna) - Browse, edit and manage IndexedDB databases in Firefox and Chromium browsers
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
-- [electroluxcode/onlyoffice-web-comp](https://github.com/electroluxcode/onlyoffice-web-comp) - An office editing component based on OnlyOffice that supports document viewing, editing, and conversion entirely on the client side.   基于 OnlyOffice 技术栈构建的浏览器端文档处理解决方案，支持在客户端完成文档的查看、编辑与转换，所有操作均在用户设备上执
+- [electroluxcode/onlyoffice-web-comp](https://github.com/electroluxcode/onlyoffice-web-comp) - A component based on OnlyOffice (v9) for viewing, editing, and converting documents entirely on the user's device, no backend required.基于 OnlyOffice (v9) 的纯前端组件，封装文档查看、编辑、转换功能，全在用户设备本地运行，无需后端，即插即用
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [huangyxi/tab-positioner](https://github.com/huangyxi/tab-positioner) - A Chrome Extension for Tab Positioning Control
 - [steipete/summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
@@ -3128,6 +3126,7 @@
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 - [HiMeditator/auto-caption](https://github.com/HiMeditator/auto-caption) - A cross-platform real-time subtitle display software. 一个跨平台的实时字幕显示软件。
 - [thecodrr/fdir](https://github.com/thecodrr/fdir) - ⚡ The fastest directory crawler & globbing library for NodeJS. Crawls 1m files in &lt; 1s
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) - The AI Markdown Editor
