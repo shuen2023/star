@@ -1909,7 +1909,7 @@
 - [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
 - [mwaskom/seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization in Python
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [mljar/mercury](https://github.com/mljar/mercury) - Create data rich web apps directly from Python notebooks
+- [mljar/mercury](https://github.com/mljar/mercury) - The fastest way to turn a Jupyter notebook into a beautiful, shareable web app — no callbacks, no frontend, no rewrite.
 - [scilab/scilab](https://github.com/scilab/scilab) - Read only copy of https://gitlab.com/scilab/scilab
 - [nelson-lang/nelson](https://github.com/nelson-lang/nelson) - The Nelson Programming Language
 - [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
@@ -1943,7 +1943,7 @@
 - [dataease/dataease](https://github.com/dataease/dataease) - 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau.
 - [ronytacodev/dashboard_callcenter_excel](https://github.com/ronytacodev/dashboard_callcenter_excel) - How to create a dashboard callcenter with EXCEL (Desktop Microsoft Excel).
 - [perspective-dev/perspective](https://github.com/perspective-dev/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
-- [mljar/mercury](https://github.com/mljar/mercury) - Create data rich web apps directly from Python notebooks
+- [mljar/mercury](https://github.com/mljar/mercury) - The fastest way to turn a Jupyter notebook into a beautiful, shareable web app — no callbacks, no frontend, no rewrite.
 
 ## database 
 
@@ -2447,6 +2447,7 @@
 - [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 - [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) - 🚀「Douyin_TikTok_Download_API」是一个开箱即用的高性能异步抖音、快手、TikTok、Bilibili数据爬取工具，支持API调用，在线批量解析及下载。
 - [mouredev/Hello-Python](https://github.com/mouredev/Hello-Python) - Curso para aprender el lenguaje de programación Python desde cero y para principiantes. 100 clases, 44 horas en vídeo, código, proyectos y grupo de chat. Fundamentos, frontend, backend, testing, IA...
+- [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql, sqlite, now with asyncio
 
 ## finance 
 
@@ -2502,6 +2503,7 @@
 
 - [EdwardLab/flyos](https://github.com/EdwardLab/flyos) - Unleash your mobile phone's potential: it's not just a phone, but a pocket-sized computer.
 - [openzim/zimfarm](https://github.com/openzim/zimfarm) - Farm operated by bots to grow and harvest new zim files
+- [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql, sqlite, now with asyncio
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos 
 - [coleifer/sqlite-web](https://github.com/coleifer/sqlite-web) - Web-based SQLite database browser written in Python
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
@@ -3655,7 +3657,7 @@
 - [juniperfdel/Termux-Science](https://github.com/juniperfdel/Termux-Science) - How to install various science packages: numpy, pandas, astropy, and jupyter notebook in termux as of January 2023
 - [thombashi/sqlitebiter](https://github.com/thombashi/sqlitebiter) - A CLI tool to convert CSV / Excel / HTML / JSON / Jupyter Notebook / LDJSON / LTSV / Markdown / SQLite / SSV / TSV / Google-Sheets to a SQLite database file.
 - [thombashi/pytablewriter](https://github.com/thombashi/pytablewriter) - pytablewriter is a Python library to write a table in various formats: AsciiDoc / CSV / Elasticsearch / HTML / JavaScript / JSON / LaTeX / LDJSON / LTSV / Markdown / MediaWiki / NumPy / Excel / Pandas
-- [mljar/mercury](https://github.com/mljar/mercury) - Create data rich web apps directly from Python notebooks
+- [mljar/mercury](https://github.com/mljar/mercury) - The fastest way to turn a Jupyter notebook into a beautiful, shareable web app — no callbacks, no frontend, no rewrite.
 
 ## kali-linux 
 
@@ -5083,14 +5085,14 @@
 - [tomrford/mint](https://github.com/tomrford/mint) - A CLI tool for building hex files from excel data and a layout definition.
 - [lem-project/lem](https://github.com/lem-project/lem) - General-purpose editor/IDE with high expansibility in Common Lisp
 - [chenlin014/rime-triple-hangul](https://github.com/chenlin014/rime-triple-hangul) - Rime Triple Key Hangul / 中州韻三鍵韓文
-- [condexpr01/rime-ranwu](https://github.com/condexpr01/rime-ranwu) - #燃舞音形：自然码+86五笔辅码，四码方案; #写作版五笔：打五笔但用燃舞音形反查词汇，提升五笔想打听打能力
+- [condexpr01/rime-ranwu](https://github.com/condexpr01/rime-ranwu) - #燃舞音形：自然码+86五笔辅码，四码方案; #写作版五笔：打五笔但用燃舞音形反查词汇，提升五笔想打听打能力（反查也能顶字上屏，'z'和'`'触发反查）
 - [Fidelxyz/rime-wanxiang-slim](https://github.com/Fidelxyz/rime-wanxiang-slim) - 支持直接辅助码的 Rime 拼音/双拼输入方案 – 万象拼音输入方案的精简分支
 - [povichchuang/English-learning](https://github.com/povichchuang/English-learning) - good useful phrases to and vocabularies to learn
 - [UltraHackerDog/Hokus](https://github.com/UltraHackerDog/Hokus) - Hokus is a Chrome extension that helps you learn Chinese by replacing English words on web pages with HSK 2.0 vocabulary (Levels 1–6). Learn passively while browsing with hover translations, pinyin, a
 - [CorrectRoadH/OpenTickly](https://github.com/CorrectRoadH/OpenTickly) - Self-hosted, Toggl-compatible time tracker
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
-- [condexpr01/rime-wubi86ex](https://github.com/condexpr01/rime-wubi86ex) - powerful86: 支持rime, 搜狗五笔, 内容不敏感的abliterated.
+- [condexpr01/rime-wubi86ex](https://github.com/condexpr01/rime-wubi86ex) - powerful86: 支持rime, 搜狗五笔, 内容不敏感的abliterated. '`'触发拼音反查
 - [tdulcet/compact-dictionaries](https://github.com/tdulcet/compact-dictionaries) - 📚 Compact dictionaries in English that automatically update weekly
 - [unitedbyai/droidclaw](https://github.com/unitedbyai/droidclaw) - turn old phones into ai agents - give it a goal in plain english. it reads the screen, thinks about what to do, taps and types via adb, and repeats until the job is done.
 - [sh123/codec2_talkie](https://github.com/sh123/codec2_talkie) - Turn your Android phone into Amateur Radio Codec2/OPUS APRS enabled DV handheld transceiver (Bluetooth/BLE/USB/TCPIP KISS/Sound modem client for DV digital voice communication)
@@ -5329,7 +5331,7 @@
 - [muscasoft/ExcelFuncties](https://github.com/muscasoft/ExcelFuncties) - Excel functies
 - [boeykokchin1969/excel_file_parser](https://github.com/boeykokchin1969/excel_file_parser) - A web application that parses Excel files and formats the data for use with LLM models
 - [nadesico19/sacad](https://github.com/nadesico19/sacad) - SACAD stands for Simple AutoCAD
-- [kucha0609/AutoCAD-Origami-Diagram](https://github.com/kucha0609/AutoCAD-Origami-Diagram) - Use AutoCAD for Origami Diagram.
+- [kucha0609/AutoCAD-Origami-Diagram](https://github.com/kucha0609/AutoCAD-Origami-Diagram) - AutoLisp for Origami Diagram
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 - [quik-sms/quik](https://github.com/quik-sms/quik) - The most beautiful SMS messenger for Android - Revived
 - [ading2210/linuxpdf](https://github.com/ading2210/linuxpdf) - Linux running inside a PDF file via a RISC-V emulator
@@ -6043,7 +6045,7 @@
 - [mattboldt/typed.js](https://github.com/mattboldt/typed.js) - A JavaScript Typing Animation Library
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [Yevhen-Tkachenko-1/SQL-Development-Demo](https://github.com/Yevhen-Tkachenko-1/SQL-Development-Demo) - Learn and play with SQL Database: make query for data reading, creating, updating, deleting
-- [2anki/server](https://github.com/2anki/server) - Server to create Anki flashcards faster, easier and better today ⭐️
+- [Laer-Smart/2anki.net](https://github.com/Laer-Smart/2anki.net) - Server to create Anki flashcards faster, easier and better today ⭐️
 - [danielt998/HanziToAnki](https://github.com/danielt998/HanziToAnki) - This is a program that takes a Chinese text as input and converts it to an Anki Deck. It has both CLI and API server/web UI modes.
 - [oxoxoxbadox/congenial-memory](https://github.com/oxoxoxbadox/congenial-memory) - 日语五十音图 anki卡包
 - [DillonWall/generate-batch-audio-anki-addon](https://github.com/DillonWall/generate-batch-audio-anki-addon) - An addon that downloads and attaches audio to flashcards in bulk from URLs. Made for Anki, an SRS flashcard application
@@ -6526,7 +6528,7 @@
 - [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python
 - [Therrion1520/reposicion_wms](https://github.com/Therrion1520/reposicion_wms) - 🟩 Manage stock flow efficiently with Reposición WMS, a lightweight system for small businesses to streamline inventory and restocking processes.
 - [mapproxy/mapproxy](https://github.com/mapproxy/mapproxy) - MapProxy is a tile cache and WMS proxy
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 Python's all-in-one framework for web crawling, scraping, and testing. Supports pytest. CDP Mode provides stealth. Includes many tools.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - SeleniumBase is a framework for UI Testing, Web Scraping, and Stealth. Passes every bot-detection test with CDP Mode, and extends Playwright.
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [alephpi/Texo](https://github.com/alephpi/Texo) - A minimalist SOTA LaTeX OCR model with only 20M parameters, running in browser. Full training pipeline available for self-reproduction. | 超轻量SOTA LaTeX公式识别模型，仅20M参数量，可在浏览器中运行。训练全流程代码开源，以便自学复现。
@@ -6651,7 +6653,7 @@
 - [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) - TikTok 发布/喜欢/合辑/直播/视频/图集/音乐；抖音发布/喜欢/收藏/收藏夹/视频/图集/实况/直播/音乐/合集/评论/账号/搜索/热榜数据采集工具/下载工具
 - [alettsy/image-to-excel-cells](https://github.com/alettsy/image-to-excel-cells) - Converting an image to Excel cells
 - [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis is a download manager written in Python.
-- [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql, sqlite
+- [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql, sqlite, now with asyncio
 - [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 - [offici5l/MiUnlockTool](https://github.com/offici5l/MiUnlockTool) - MiUnlockTool developed to retrieve encryptData(token) for Xiaomi devices for unlocking bootloader, It is compatible with all platforms.
@@ -6731,7 +6733,7 @@
 - [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language compatible with Python
 - [xlwings/xlwings](https://github.com/xlwings/xlwings) - xlwings is a Python library that makes it easy to call Python from Excel and vice versa. It works with Excel on Windows and macOS as well as with Google Sheets and Excel on the web.
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
-- [mljar/mercury](https://github.com/mljar/mercury) - Create data rich web apps directly from Python notebooks
+- [mljar/mercury](https://github.com/mljar/mercury) - The fastest way to turn a Jupyter notebook into a beautiful, shareable web app — no callbacks, no frontend, no rewrite.
 - [mapnik/mapnik](https://github.com/mapnik/mapnik) - Mapnik is an open source toolkit for developing mapping applications
 - [SAP-archive/PyRFC](https://github.com/SAP-archive/PyRFC) - Asynchronous, non-blocking SAP NW RFC SDK bindings for Python
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
@@ -7490,7 +7492,7 @@
 - [dg/adminer](https://github.com/dg/adminer) - Customizations for Adminer, the best database management tool written in PHP.
 - [utelle/SQLite3MultipleCiphers](https://github.com/utelle/SQLite3MultipleCiphers) - SQLite3 encryption extension with support for multiple ciphers
 - [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) - TikTok 发布/喜欢/合辑/直播/视频/图集/音乐；抖音发布/喜欢/收藏/收藏夹/视频/图集/实况/直播/音乐/合集/评论/账号/搜索/热榜数据采集工具/下载工具
-- [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql, sqlite
+- [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql, sqlite, now with asyncio
 - [eliben/gemini-cli](https://github.com/eliben/gemini-cli) - Access Gemini LLMs from the command-line
 - [sergiovision/FinCore](https://github.com/sergiovision/FinCore) - FinCore is a cool and free cross-platform personal finances manager written in .NET 8 with Angular 14 frontend.
 - [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss) - 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）
