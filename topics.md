@@ -419,7 +419,7 @@
 - [liaokongVFX/MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide) - Model Context Protocol(MCP) 编程极速入门
 - [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
-- [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) - PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing for the editing and presentation of PPT online. Suppor
+- [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) - PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing for the editing and presentation of PPT online. It als
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
 - [LawDigital/redink](https://github.com/LawDigital/redink) - An alternative AI assistant for Microsoft Office that works with your favorite LLM API
@@ -498,6 +498,7 @@
 
 ## ai-agents 
 
+- [Project-N-E-K-O/N.E.K.O](https://github.com/Project-N-E-K-O/N.E.K.O) - 一只会主动找你玩的 AI 猫娘。
 - [OpenSenseNova/SenseNova-Skills](https://github.com/OpenSenseNova/SenseNova-Skills) - Modular SenseNova skills for building AI-powered office assistants and productivity workflows
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
@@ -1424,7 +1425,7 @@
 - [LasCC/HackTools](https://github.com/LasCC/HackTools) - The all-in-one browser extension for offensive security professionals 🛠
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [rahji/helix-ghost](https://github.com/rahji/helix-ghost) - Helix client for GhostText - Edit browser text areas in Helix (or another editor!)
-- [code-charity/youtube](https://github.com/code-charity/youtube) - Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰Smart features📌set&forget📌250+tweaks - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|quali
+- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube / Video Browser-Extension. [Top~1 Foss.]  Enrich your experience&choice! 🧰Smart features📌set&forget📌250+tweaks - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|q
 - [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
 - [ninoseki/mitaka](https://github.com/ninoseki/mitaka) - A browser extension for OSINT search
 - [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
@@ -1469,7 +1470,7 @@
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [heshengtao/super-agent-party](https://github.com/heshengtao/super-agent-party) - ⭐ All-in-one AI companion! Super Agent Party = Self hosted neuro sama + openclaw! ⭐ 全能AI伴侣！超级智能体派对 = 自托管neuro sama + openclaw!
-- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude m
+- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude model through
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
 
 ## cli 
@@ -4948,7 +4949,7 @@
 
 - [Wangnov/Codex-App-Manager](https://github.com/Wangnov/Codex-App-Manager) - 跨平台官方 Codex 桌面应用的安装 / 增量更新 / 干净卸载管理器，内置国内可达的镜像自更新。Cross-platform installer & updater for the official Codex desktop app — incremental updates, clean uninstall, China-reachable self-update.
 - [rerr-creator/open-translator](https://github.com/rerr-creator/open-translator) - 🌐 Enhance your browsing with Open Translator, a Chrome extension that seamlessly translates web pages using trusted AI models directly in your browser.
-- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude m
+- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude model through
 - [robertZaufall/mindmanager_ai](https://github.com/robertZaufall/mindmanager_ai) - MindManager AI Integration on Windows and macOS
 - [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
@@ -5037,6 +5038,7 @@
 
 ## others 
 
+- [autolua/autolua_doc](https://github.com/autolua/autolua_doc) - AutoLua文档仓库，类似于 按键精灵 懒人精灵 触动 autojs。
 - [gipapa/english_word_card](https://github.com/gipapa/english_word_card) - A lightweight, GitHub Pages–ready English vocabulary flashcard site for TXXX candidates, featuring 1,000+ commonly used workplace and semiconductor-related words.
 - [gz83/thorium](https://github.com/gz83/thorium) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
 - [3056810551/2027-kaoyan-english-redbook-json](https://github.com/3056810551/2027-kaoyan-english-redbook-json) - 2027 考研英语红宝书词汇 JSON 数据，源自不背单词 APP，结构化单词 + 释义数组
@@ -6381,7 +6383,7 @@
 - [Medvedev91/timeto.me](https://github.com/Medvedev91/timeto.me) - App with goals, checklists, tasks, repetitive tasks, timer, calendar, notes, shortcuts, pomodoro and 24/7 time tracking. 🙀
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [tehtbl/awesome-note-taking](https://github.com/tehtbl/awesome-note-taking) - A curated list of 100+ awesome note-taking apps, PKM tools & knowledge management software — open source and proprietary. Updated regularly.
-- [code-charity/youtube](https://github.com/code-charity/youtube) - Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰Smart features📌set&forget📌250+tweaks - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|quali
+- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube / Video Browser-Extension. [Top~1 Foss.]  Enrich your experience&choice! 🧰Smart features📌set&forget📌250+tweaks - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|q
 - [petoncle/mousemaster](https://github.com/petoncle/mousemaster) - Mouseless mouse control and advanced keyboard customization.
 - [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) - AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN
 - [cyfyifanchen/one-person-company](https://github.com/cyfyifanchen/one-person-company) - 遇事不决，Vibe 力学! One-Person Company AI Tools Series – continuously updated to help boost productivity and empower your solo business!
@@ -7978,7 +7980,7 @@
 - [alexch33/super-video-downloader](https://github.com/alexch33/super-video-downloader) - Video & Audio downloader for Android with web browser and player. M3U8 and MPD supported, live stream supported, using youtube-dlp and custom mp4/mp3/m3u8/mpd downloader, cookies supported, HTTP & SOC
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
 - [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - Downloads videos and playlists from YouTube
-- [code-charity/youtube](https://github.com/code-charity/youtube) - Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰Smart features📌set&forget📌250+tweaks - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|quali
+- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube / Video Browser-Extension. [Top~1 Foss.]  Enrich your experience&choice! 🧰Smart features📌set&forget📌250+tweaks - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|q
 - [umlx5h/LLPlayer](https://github.com/umlx5h/LLPlayer) - The media player for language learning, with dual subtitles, AI-generated subtitles, real-time translation, and more!
 - [BelledonneCommunications/linphone-android](https://github.com/BelledonneCommunications/linphone-android) - Linphone.org mirror for linphone-android (https://gitlab.linphone.org/BC/public/linphone-android)
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
@@ -8411,7 +8413,7 @@
 - [ttop32/MouseTooltipTranslator](https://github.com/ttop32/MouseTooltipTranslator) - Mouseover Translate Any Language At Once - Chrome Extension: PDF Translator, EBOOK, EPUB, OCR, TTS, NETFLIX, YOUTUBE DUAL SUBTITLES, GOOGLE DOCS, AI, VIEWER, GMAIL, WRITING, IMAGE, DUAL SUBS, MANGA, H
 - [NotJoeMartinez/yt-fts](https://github.com/NotJoeMartinez/yt-fts) - YouTube Full Text Search - Search all of YouTube from the command line
 - [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - Downloads videos and playlists from YouTube
-- [code-charity/youtube](https://github.com/code-charity/youtube) - Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰Smart features📌set&forget📌250+tweaks - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|quali
+- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube / Video Browser-Extension. [Top~1 Foss.]  Enrich your experience&choice! 🧰Smart features📌set&forget📌250+tweaks - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player buttons|q
 - [FelippeChemello/podcast-maker](https://github.com/FelippeChemello/podcast-maker) - Fully automated video maker using motion graphics and text-to-speech synthesis to turn newsletters into daily YouTube videos.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [DualSubs/YouTube](https://github.com/DualSubs/YouTube) - YouTube增强及双语字幕解决方案
