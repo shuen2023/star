@@ -498,7 +498,7 @@
 
 ## ai-agents 
 
-- [Project-N-E-K-O/N.E.K.O](https://github.com/Project-N-E-K-O/N.E.K.O) - 一只会主动找你玩的 AI 猫娘。
+- [Project-N-E-K-O/N.E.K.O](https://github.com/Project-N-E-K-O/N.E.K.O) - A catgirl who watches, reads, listens, and plays alongside you, powered by human-like memory and an embodied emotional engine.
 - [OpenSenseNova/SenseNova-Skills](https://github.com/OpenSenseNova/SenseNova-Skills) - Modular SenseNova skills for building AI-powered office assistants and productivity workflows
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
@@ -5564,7 +5564,6 @@
 - [LisenCoding/menu](https://github.com/LisenCoding/menu) - [毕设作品] 菜谱微信小程序
 - [zoujingli/WeChatDeveloper](https://github.com/zoujingli/WeChatDeveloper) - 【新】微信服务号+微信小程序+微信支付+支付宝支付
 - [DJB-Developer/wechat-android-history-versions](https://github.com/DJB-Developer/wechat-android-history-versions) - 微信Android 微信安卓版 微信安卓 历史版本 官方下载地址
-- [senlinmuvs/xxmoon](https://github.com/senlinmuvs/xxmoon) - xxmoon摘月——信息收藏、Kindle/微信读书/豆瓣阅读笔记管理
 - [ssss-yao/xiangjian](https://github.com/ssss-yao/xiangjian) - 用无障碍服务使可以主动拨打微信视频电话、电话、自动接听微信视频电话
 - [tsw369/sqlcipher](https://github.com/tsw369/sqlcipher) - 能打开微信sqlite数据库的软件
 - [jeequan/jeepay](https://github.com/jeequan/jeepay) - Jeepay是一套适合互联网企业使用的开源支付系统，支持多渠道服务商和普通商户模式。已对接微信支付，支付宝，云闪付官方接口，支持聚合码支付。
