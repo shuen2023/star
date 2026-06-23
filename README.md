@@ -116,6 +116,7 @@
 
 ## Batchfile 
 
+- [yuanpeirong/UpdateWinISO](https://github.com/yuanpeirong/UpdateWinISO) - 使用Win_ISO_Patching_Scripts更新Win10和11系统镜像
 - [Alex313031/Thorium-Win](https://github.com/Alex313031/Thorium-Win) - Chromium fork for Windows named after radioactive element No. 90; Windows builds of https://github.com/Alex313031/Thorium
 - [rightester/rime_tutorial](https://github.com/rightester/rime_tutorial) - 一个Rime入门教程（还在写）
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
@@ -126,6 +127,7 @@
 
 ## C 
 
+- [lukaongit/gnumeric-windows](https://github.com/lukaongit/gnumeric-windows) - Gnumeric 1.12.62 portable build for Windows
 - [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy
 - [xaitax/Chrome-App-Bound-Encryption-Decryption](https://github.com/xaitax/Chrome-App-Bound-Encryption-Decryption) - Bypass Chromium's App-Bound Encryption via Direct Syscall-based Reflective Process Hollowing. Extract cookies, passwords, payment methods & tokens from Chrome, Edge, Brave & Avast - fileless, user-mod
 - [zenc-lang/zenc](https://github.com/zenc-lang/zenc) - Write like a high-level language, run like C.
@@ -288,6 +290,7 @@
 
 ## C# # 
 
+- [IamPavanGS/WinForge](https://github.com/IamPavanGS/WinForge) - Build a fully-customised, deploy-ready Windows 11 ISO in one wizard — no golden VM, no Sysprep
 - [Sunse666/Vimina](https://github.com/Sunse666/Vimina) - AI-friendly Windows GUI automation - Convert interface to text, no vision model needed
 - [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation requir
 - [Jerry-Z07/WindBoard](https://github.com/Jerry-Z07/WindBoard) - 轻风白板（WindBoard）
@@ -298,7 +301,6 @@
 - [Mzying2001/CefFlashBrowser](https://github.com/Mzying2001/CefFlashBrowser) - Flash浏览器 / Flash Browser
 - [Jitendex/Jitendex](https://github.com/Jitendex/Jitendex) - A free, offline, and openly licensed Japanese-to-English dictionary. Updates monthly!
 - [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
-- [ariacom/Seal-Report](https://github.com/ariacom/Seal-Report) - Database Reporting Tool and Tasks (.Net)
 - [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - Downloads videos and playlists from YouTube
 - [SpaceTimee/Sheas-Cealer-Droid](https://github.com/SpaceTimee/Sheas-Cealer-Droid) - Ceal It (可用于无代理合法抵御网络监听和开展网络研究)
 - [aken721/table-magic](https://github.com/aken721/table-magic) - An Excel enhancement plugin packed with fun features waiting to be discovered. Install it and let Excel help you slack off at work.
@@ -611,6 +613,7 @@
 
 ## Dart 
 
+- [matthiasn/lotti](https://github.com/matthiasn/lotti) - Open-source private logbook with a local agentic layer. Long-living AI agents read what you record and propose what to do next. Hardware permitting, the models runs locally too. Matrix + Vodozemac for
 - [FanHeran/Loopra](https://github.com/FanHeran/Loopra) - 把练习变成本能。
 - [shoaly/Loopra](https://github.com/shoaly/Loopra) - 
 - [AimesSoft/NipaPlay-Reload](https://github.com/AimesSoft/NipaPlay-Reload) - NipaPlay-Reload 是一个现代化的跨平台本地视频播放器，支持 Windows、macOS、Linux、Android 和 iOS。集成了弹幕显示、多格式字幕支持、多音频轨道切换，新番查看等功能，支持挂载Emby/Jellyfin媒体库。采用 Flutter +rust开发，提供统一的用户体验。
@@ -855,6 +858,7 @@
 - [gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper) - scrape data  from Google Maps. Extracts data such as the name, address, phone number, website URL, rating,  reviews number, latitude and longitude, reviews,email and more for each place
 - [Jinnrry/PMail](https://github.com/Jinnrry/PMail) - Private EMail Server
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
+- [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer) - wanderer is a self-hosted trail database. Save your adventures!
 - [skx/rss2email](https://github.com/skx/rss2email) - Convert RSS feeds to emails
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
 - [iineva/ipa-server](https://github.com/iineva/ipa-server) - Upload and install iOS ipa and Android apk in web.
@@ -988,6 +992,7 @@
 - [campfirium/Mneme](https://github.com/campfirium/Mneme) - An Anki template built for immersion and audio-first learning, with a clean and thoughtful visual design
 - [5mdld/anki-english-60k-decks](https://github.com/5mdld/anki-english-60k-decks) - An extensive Anki deck of 60,000 high-frequency English words with definitions, examples, and audio from Merriam-Webster's Learner's Dictionary.
 - [terroo/terroo.github.io](https://github.com/terroo/terroo.github.io) - Terminal Root English version
+- [ariacom/Seal-Report](https://github.com/ariacom/Seal-Report) - Database Reporting Tool and Tasks (.Net)
 - [sweetwisdom/onlyoffice-web-local](https://github.com/sweetwisdom/onlyoffice-web-local) - vue-office, Perform common file preview and editing via the web.
 - [EdwardLab/flyos](https://github.com/EdwardLab/flyos) - Unleash your mobile phone's potential: it's not just a phone, but a pocket-sized computer.
 - [moneytoo/awesome-fdroid](https://github.com/moneytoo/awesome-fdroid) - 📊 A table to sort, filter and discover popular F-Droid apps
@@ -1149,7 +1154,6 @@
 - [semicons/java_oci_manage](https://github.com/semicons/java_oci_manage) - Web SSH Smart Terminal for multi-cloud management (OCI / AWS / GCP / Azure / DO / SolusVM /VirtFusion), with cloud panel, Telegram bot, and Cloudflare integration — 面向多云管理的 Web SSH 智能终端，集成云管理面板、Telegr
 - [apache/pdfbox](https://github.com/apache/pdfbox) - Mirror of Apache PDFBox
 - [torakiki/pdfsam](https://github.com/torakiki/pdfsam) - PDFsam, a desktop application to split, merge, mix, rotate PDF files and extract pages
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [ai-republic/bms-to-inverter](https://github.com/ai-republic/bms-to-inverter) - Use, monitor and control any battery brand with any inverter! Application to read and monitor data from BMSes and write data to an inverter using any protocol (e.g. UART, RS485, ModBus or CAN)
 - [hanxinhao000/ZeroTermux](https://github.com/hanxinhao000/ZeroTermux) - 
 - [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
@@ -1184,6 +1188,7 @@
 
 ## JavaScript 
 
+- [win12-online/win12](https://github.com/win12-online/win12) - Windows 12 网页版，在线体验 点击下面的链接在线体验
 - [sharp4real/privoobrowser](https://github.com/sharp4real/privoobrowser) - See what your missing out on and try Privoo Browser today for free!
 - [iziz/RuruGrab](https://github.com/iziz/RuruGrab) - Custom desktop app and Chrome/Edge extensions for personal use
 - [UltraHackerDog/Hokus](https://github.com/UltraHackerDog/Hokus) - Hokus is a Chrome extension that helps you learn Chinese by replacing English words on web pages with HSK 2.0 vocabulary (Levels 1–6). Learn passively while browsing with hover translations, pinyin, a
@@ -1817,6 +1822,7 @@
 
 ## Others 
 
+- [coatl-dev/python3.12](https://github.com/coatl-dev/python3.12) - 🐍 Python 3.12 Installers for Windows
 - [povichchuang/English-learning](https://github.com/povichchuang/English-learning) - good useful phrases to and vocabularies to learn
 - [tdulcet/compact-dictionaries](https://github.com/tdulcet/compact-dictionaries) - 📚 Compact dictionaries in English that automatically update weekly
 - [liangdabiao/Seedance2-Storyboard-Generator](https://github.com/liangdabiao/Seedance2-Storyboard-Generator) - 一句话：试错成本越来越高，提示词的重要性从来没有像今天这样大。Seedance 2.0 Storyboard Generator 开源剧情剧本Skill工具，帮佬友一键写好剧本 - 将小说/故事转化为多集视频。 为什么做这个？ 因为 seedance2 已经改变了一切，需要新的剧本剧情制作工具，更好的利用新AI的能力和更方便的制作短剧
@@ -2114,6 +2120,7 @@
 
 ## Python 
 
+- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
 - [Project-N-E-K-O/N.E.K.O](https://github.com/Project-N-E-K-O/N.E.K.O) - A catgirl who watches, reads, listens, and plays alongside you, powered by human-like memory and an embodied emotional engine. 🐱❤️一只会主动找你玩的 AI 猫娘。
 - [OpenSenseNova/SenseNova-Skills](https://github.com/OpenSenseNova/SenseNova-Skills) - Modular SenseNova skills for building AI-powered office assistants and productivity workflows
 - [3056810551/2027-kaoyan-english-redbook-json](https://github.com/3056810551/2027-kaoyan-english-redbook-json) - 2027 考研英语红宝书词汇 JSON 数据，源自不背单词 APP，结构化单词 + 释义数组
@@ -2909,6 +2916,7 @@
 
 ## Shell 
 
+- [yuanpeirong/UUPdumpWinISO](https://github.com/yuanpeirong/UUPdumpWinISO) - 使用UUP dump制作Windows 10/11 ISO镜像
 - [yonggekkk/argosbx](https://github.com/yonggekkk/argosbx) - 小白自建代理神器！ArgoSBX一键无交互小钢炮脚本💣：Sing-box、Xray、Argo三内核自动搭配；支持VPS、Docker、容器多环境部署；套CDN的5大方案+套WARP的15种组合；已支持协议：AnyTLS、Any-reality、Vless-xhttp-reality-vision-enc、Vless-tcp-reality-vision、Vless-xhttp-vision-enc
 - [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos) - Archlinux Kernel based on different schedulers and some other performance improvements.
 - [linrunner/TLP](https://github.com/linrunner/TLP) - TLP - Optimize Linux Laptop Battery Life
@@ -3005,7 +3013,6 @@
 - [mak-kirkland/chronicler](https://github.com/mak-kirkland/chronicler) - Chronicler is a free, offline worldbuilding tool and local wiki for writers, game masters, and tabletop RPG creators. It saves your notes as plain Markdown files on your computer. No sign-up, no subsc
 - [Akylas/alpimaps](https://github.com/Akylas/alpimaps) - Offline map app iOS/Android
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
-- [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer) - wanderer is a self-hosted trail database. Save your adventures!
 - [gsidhu/buzee-tauri](https://github.com/gsidhu/buzee-tauri) - A superfast full-text search application
 - [Figma-Linux/figma-linux](https://github.com/Figma-Linux/figma-linux) - Figma is the first interface design tool based in the browser, making it easier for teams to create software. Join us in https://t.me/figma_linux
 - [obsmd-projects/obsidian-projects](https://github.com/obsmd-projects/obsidian-projects) - Plain text project planning in Obsidian
@@ -3317,6 +3324,7 @@
 - [lissy93/personal-security-checklist](https://github.com/lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [ether/etherpad](https://github.com/ether/etherpad) - Etherpad: A modern really-real-time collaborative document editor.
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [frappe/books](https://github.com/frappe/books) - Free Accounting Software
 - [aradzie/keybr.com](https://github.com/aradzie/keybr.com) - The smartest way to learn touch typing and improve your typing speed.
 - [zobor/photo-relay](https://github.com/zobor/photo-relay) - Allowing You To Easily Create High Quality Cover Images
