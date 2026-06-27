@@ -798,7 +798,7 @@
 - [nathaneltitane/dextop](https://github.com/nathaneltitane/dextop) - Unlock the full potential of your Android device and transform it into a Linux-based workstation in minutes with Dextop! No tech expertise needed - it's user-friendly and hassle-free!
 - [saschpe/Kex](https://github.com/saschpe/Kex) - Hex string encoder/decoder for Kotlin/Multiplatform. Supports Android, iOS, JavaScript and plain JVM environments.
 - [measure-sh/measure](https://github.com/measure-sh/measure) - Measure helps mobile teams monitor and fix crashes, ANRs, bugs, and performance issues. The open source alternative to Firebase Crashlytics.
-- [picguard/picguard](https://github.com/picguard/picguard) - Your pictures, your signature.
+- [picguard/picguard](https://github.com/picguard/picguard) - Your pictures, your signature
 - [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Issue tracker only. Active development is on Gerrit at https://gerrit.collaboraoffice.com/.
 - [gujjwal00/avnc](https://github.com/gujjwal00/avnc) - VNC Client for Android
 - [ZCShou/GoGoGo](https://github.com/ZCShou/GoGoGo) - 一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆
@@ -2531,7 +2531,7 @@
 - [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
 - [LinwoodDev/Flow](https://github.com/LinwoodDev/Flow) - ⌚ Feature rich event, group and time managment system
 - [measure-sh/measure](https://github.com/measure-sh/measure) - Measure helps mobile teams monitor and fix crashes, ANRs, bugs, and performance issues. The open source alternative to Firebase Crashlytics.
-- [picguard/picguard](https://github.com/picguard/picguard) - Your pictures, your signature.
+- [picguard/picguard](https://github.com/picguard/picguard) - Your pictures, your signature
 - [AppFlowy-IO/appflowy-editor](https://github.com/AppFlowy-IO/appflowy-editor) - A highly customizable rich-text editor for Flutter. The AppFlowy Editor project for AppFlowy and beyond.
 - [pichillilorenzo/flutter_browser_app](https://github.com/pichillilorenzo/flutter_browser_app) - A Full-Featured Mobile and Desktop Browser App (such as the Google Chrome mobile browser) created using Flutter and the features offered by the flutter_inappwebview plugin.
 - [thunder-app/thunder](https://github.com/thunder-app/thunder) - An open-source cross-platform Lemmy & PieFed client for iOS and Android
@@ -3269,7 +3269,7 @@
 - [tiddly-gittly/TidGi-Mobile](https://github.com/tiddly-gittly/TidGi-Mobile) - A Note App that is local-first, uses tid/md pure text file, all-in-one with calendar/todo/diary widget, lazy-loading, backlink & outline & Zettelkasten, and syncs with the open-source TidGi-Desktop.
 - [saschpe/Kex](https://github.com/saschpe/Kex) - Hex string encoder/decoder for Kotlin/Multiplatform. Supports Android, iOS, JavaScript and plain JVM environments.
 - [measure-sh/measure](https://github.com/measure-sh/measure) - Measure helps mobile teams monitor and fix crashes, ANRs, bugs, and performance issues. The open source alternative to Firebase Crashlytics.
-- [picguard/picguard](https://github.com/picguard/picguard) - Your pictures, your signature.
+- [picguard/picguard](https://github.com/picguard/picguard) - Your pictures, your signature
 - [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Issue tracker only. Active development is on Gerrit at https://gerrit.collaboraoffice.com/.
 - [pichillilorenzo/flutter_browser_app](https://github.com/pichillilorenzo/flutter_browser_app) - A Full-Featured Mobile and Desktop Browser App (such as the Google Chrome mobile browser) created using Flutter and the features offered by the flutter_inappwebview plugin.
 - [thunder-app/thunder](https://github.com/thunder-app/thunder) - An open-source cross-platform Lemmy & PieFed client for iOS and Android
@@ -3931,7 +3931,7 @@
 - [LinwoodDev/Flow](https://github.com/LinwoodDev/Flow) - ⌚ Feature rich event, group and time managment system
 - [RuriOSS/rurima](https://github.com/RuriOSS/rurima) - Run docker & LXC images without docker or LXC program, without kernel features support, even without root privileges!
 - [nathaneltitane/dextop](https://github.com/nathaneltitane/dextop) - Unlock the full potential of your Android device and transform it into a Linux-based workstation in minutes with Dextop! No tech expertise needed - it's user-friendly and hassle-free!
-- [picguard/picguard](https://github.com/picguard/picguard) - Your pictures, your signature.
+- [picguard/picguard](https://github.com/picguard/picguard) - Your pictures, your signature
 - [FastTrackOrg/FastTrack](https://github.com/FastTrackOrg/FastTrack) - FastTrack is a cross-platform application designed to track multiple objects in video recording.
 - [bjasspa/jasspa](https://github.com/bjasspa/jasspa) - Jasspa's MicroEmacs is a powerful and efficient terminal and window based text editor. Designed to be lightweight yet feature-rich its key features include syntax highlighting, macro scripting support
 - [jo-lund/jomon](https://github.com/jo-lund/jomon) - A network forensics and passive sniffer tool
@@ -4248,7 +4248,7 @@
 - [deathkiller/jazz2-native](https://github.com/deathkiller/jazz2-native) - 🎮 · Jazz² Resurrection: Native C++ reimplementation of Jazz Jackrabbit 2
 - [cogentcore/core](https://github.com/cogentcore/core) - A free and open source framework for building powerful, fast, elegant 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and web with a single Go codebase, allowing you to Code Once, Run 
 - [metowolf/vCards](https://github.com/metowolf/vCards) - 📡️ vCards 中国黄页 - 优化 iOS/Android 来电、信息界面体验
-- [picguard/picguard](https://github.com/picguard/picguard) - Your pictures, your signature.
+- [picguard/picguard](https://github.com/picguard/picguard) - Your pictures, your signature
 - [FastTrackOrg/FastTrack](https://github.com/FastTrackOrg/FastTrack) - FastTrack is a cross-platform application designed to track multiple objects in video recording.
 - [bjasspa/jasspa](https://github.com/bjasspa/jasspa) - Jasspa's MicroEmacs is a powerful and efficient terminal and window based text editor. Designed to be lightweight yet feature-rich its key features include syntax highlighting, macro scripting support
 - [pichillilorenzo/flutter_browser_app](https://github.com/pichillilorenzo/flutter_browser_app) - A Full-Featured Mobile and Desktop Browser App (such as the Google Chrome mobile browser) created using Flutter and the features offered by the flutter_inappwebview plugin.
@@ -5507,6 +5507,7 @@
 - [MarcusWolschon/osmeditor4android](https://github.com/MarcusWolschon/osmeditor4android) - Vespucci is a OpenStreetMap editor for Android
 - [imdone/imdone-core](https://github.com/imdone/imdone-core) - Text based kanban processor
 - [mdSilo/mdSilo-app](https://github.com/mdSilo/mdSilo-app) - Lightweight Knowledge Base and Feed Reader.
+- [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
 - [MapoMagpie/rimedm](https://github.com/MapoMagpie/rimedm) - 非常轻松地维护你的Rime码表
 - [lbesnard/LingoDiary](https://github.com/lbesnard/LingoDiary) - Learn a language from your own diary entries. Converted into a series of Q&A, and available as mp3 and text to listen in TPRS method style
 - [adamkpickering/wj](https://github.com/adamkpickering/wj) - A tool for personal time tracking and recording work activities
@@ -5704,7 +5705,7 @@
 - [AndroidCoderPeng/DailyTask](https://github.com/AndroidCoderPeng/DailyTask) - 钉钉自动打卡
 - [wujunwei928/edge-tts-go](https://github.com/wujunwei928/edge-tts-go) - 基于微软 edge 浏览器的大声朗读接口，开发的TTS 文字转语音 Golang 工具，包含晓晓、云扬、云希等“网红主播”
 - [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - A Pocket-Sized MLLM for Ultra-Efficient Image and Video Understanding on Your Phone
-- [gaboolic/rime-shuangpin-fuzhuma](https://github.com/gaboolic/rime-shuangpin-fuzhuma) - 墨奇音形，打造最强双拼辅助码rime输入方案，让天下双拼用户人人用得上辅助码。基于雾凇-白霜词库，支持小鹤双拼、自然码双拼、搜狗双拼、微软双拼等多种双拼，辅助码支持墨奇码（原创拆分开源支持4万字）、自然码部首辅、小鹤音形（鹤形辅）等，支持双拼和辅助码之间排列组合，支持整句/字词输入。不认识的字可以笔画、部件拆字、仓颉码反查。支持aw、aj模式输入英文、日文，支持双拼并击输入、emoji、快符、日期
+- [gaboolic/rime-shuangpin-fuzhuma](https://github.com/gaboolic/rime-shuangpin-fuzhuma) - 墨奇音形，打造最强双拼辅助码rime输入方案，让天下双拼用户人人用得上辅助码。基于雾凇-白霜词库，支持小鹤双拼、自然码双拼、搜狗双拼、微软双拼等多种双拼，辅助码支持墨奇码（原创拆分开源支持十万字）、自然码部首辅、小鹤音形（鹤形辅）等，支持双拼和辅助码之间排列组合，支持整句/字词输入。不认识的字可以笔画、部件拆字、仓颉码反查。支持aw、aj模式输入英文、日文，支持双拼并击输入、emoji、快符、日期
 - [gpxstudio/gpxstudio.github.io](https://github.com/gpxstudio/gpxstudio.github.io) - The online GPX file editor
 - [Jekahome/grammar_of_english](https://github.com/Jekahome/grammar_of_english) - Grammar of English
 - [magic-akari/ncmc](https://github.com/magic-akari/ncmc) - convert encrypted file to original music file
@@ -7093,7 +7094,6 @@
 - [nuclia/nucliadb](https://github.com/nuclia/nucliadb) - NucliaDB, The AI Search database for RAG
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [yobix-ai/extractous](https://github.com/yobix-ai/extractous) - Fast and efficient unstructured data extraction. Written in Rust with bindings for many languages.
-- [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
 - [lilydjwg/fcitx5-dictsync](https://github.com/lilydjwg/fcitx5-dictsync) - A tool to synchronize fcitx5 tabledict.
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
 - [codeforreal1/compressO](https://github.com/codeforreal1/compressO) - Convert any video/image into a tiny size. 100% free & open-source. Available for Mac, Windows & Linux.
@@ -8203,7 +8203,7 @@
 - [cogentcore/core](https://github.com/cogentcore/core) - A free and open source framework for building powerful, fast, elegant 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and web with a single Go codebase, allowing you to Code Once, Run 
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Build realtime web, mobile and desktop apps in Python only. No frontend experience required.
 - [LinwoodDev/Flow](https://github.com/LinwoodDev/Flow) - ⌚ Feature rich event, group and time managment system
-- [picguard/picguard](https://github.com/picguard/picguard) - Your pictures, your signature.
+- [picguard/picguard](https://github.com/picguard/picguard) - Your pictures, your signature
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
 - [Tencent-RTC/TUICallKit](https://github.com/Tencent-RTC/TUICallKit) - tencent video calls uikit, include 1v1 calls、group calls etc.
 - [xiangyuecn/Recorder](https://github.com/xiangyuecn/Recorder) - html5 js 录音 mp3 wav ogg webm amr g711a g711u 格式，支持pc和Android、iOS部分Web浏览器、Hybrid App（提供Android iOS App源码）、微信，提供ASR语音识别转文字 H5版语音通话聊天示例 DTMF编码解码
@@ -8326,8 +8326,7 @@
 - [openemr/openemr](https://github.com/openemr/openemr) - The most popular open source electronic health records and medical practice management solution.
 - [LinwoodDev/Flow](https://github.com/LinwoodDev/Flow) - ⌚ Feature rich event, group and time managment system
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-- [picguard/picguard](https://github.com/picguard/picguard) - Your pictures, your signature.
-- [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
+- [picguard/picguard](https://github.com/picguard/picguard) - Your pictures, your signature
 - [FastTrackOrg/FastTrack](https://github.com/FastTrackOrg/FastTrack) - FastTrack is a cross-platform application designed to track multiple objects in video recording.
 - [bjasspa/jasspa](https://github.com/bjasspa/jasspa) - Jasspa's MicroEmacs is a powerful and efficient terminal and window based text editor. Designed to be lightweight yet feature-rich its key features include syntax highlighting, macro scripting support
 - [pichillilorenzo/flutter_browser_app](https://github.com/pichillilorenzo/flutter_browser_app) - A Full-Featured Mobile and Desktop Browser App (such as the Google Chrome mobile browser) created using Flutter and the features offered by the flutter_inappwebview plugin.
