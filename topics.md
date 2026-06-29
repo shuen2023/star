@@ -382,6 +382,7 @@
 
 ## ai 
 
+- [echo-loop/Echo-Loop](https://github.com/echo-loop/Echo-Loop) - Echo Loop 是一款科学、高效的 AI 英语听说训练 App，通过盲听、精听、跟读、复述和间隔复习，自动驱动学习者把每一段音频真正练懂、练熟、练到会说。
 - [matthiasn/lotti](https://github.com/matthiasn/lotti) - Open-source private logbook with a local agentic layer. Long-living AI agents read what you record and propose what to do next. Hardware permitting, the models runs locally too. Matrix + Vodozemac for
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
@@ -510,7 +511,7 @@
 
 ## ai-agents 
 
-- [Project-N-E-K-O/N.E.K.O](https://github.com/Project-N-E-K-O/N.E.K.O) - A catgirl that senses real-world time, reaches out to you first, remembers you, and can also get things done for you.🐱❤️一只会主动找你玩的 AI 猫娘。
+- [Project-N-E-K-O/N.E.K.O](https://github.com/Project-N-E-K-O/N.E.K.O) - A catgirl who lives in real time with you — reaches out first, remembers everything, and actually gets things done.🐱❤️一只会主动找你玩的 AI 猫娘。
 - [OpenSenseNova/SenseNova-Skills](https://github.com/OpenSenseNova/SenseNova-Skills) - Modular SenseNova skills for building AI-powered office assistants and productivity workflows
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
@@ -2232,6 +2233,7 @@
 
 ## education 
 
+- [echo-loop/Echo-Loop](https://github.com/echo-loop/Echo-Loop) - Echo Loop 是一款科学、高效的 AI 英语听说训练 App，通过盲听、精听、跟读、复述和间隔复习，自动驱动学习者把每一段音频真正练懂、练熟、练到会说。
 - [SeanWong17/Future-Style-Periodic-Table](https://github.com/SeanWong17/Future-Style-Periodic-Table) - 赛博朋克交互式元素周期表：3D 电子排布可视化、沉浸动效与热力图 | Cyberpunk interactive periodic table with 3D electron orbital visualization & heatmaps
 - [YangDai2003/OpenNote-Compose](https://github.com/YangDai2003/OpenNote-Compose) - Markdown Editor & Notebook for Android built with Jetpack Compose.
 - [jancarauma/palaviva](https://github.com/jancarauma/palaviva) - Learning with texts (LWT) open-source language app that tracks word familiarity and translations while reading articles.
@@ -2514,6 +2516,7 @@
 
 ## flutter 
 
+- [echo-loop/Echo-Loop](https://github.com/echo-loop/Echo-Loop) - Echo Loop 是一款科学、高效的 AI 英语听说训练 App，通过盲听、精听、跟读、复述和间隔复习，自动驱动学习者把每一段音频真正练懂、练熟、练到会说。
 - [matthiasn/lotti](https://github.com/matthiasn/lotti) - Open-source private logbook with a local agentic layer. Long-living AI agents read what you record and propose what to do next. Hardware permitting, the models runs locally too. Matrix + Vodozemac for
 - [AimesSoft/NipaPlay-Reload](https://github.com/AimesSoft/NipaPlay-Reload) - NipaPlay-Reload 是一个现代化的跨平台本地视频播放器，支持 Windows、macOS、Linux、Android 和 iOS。集成了弹幕显示、多格式字幕支持、多音频轨道切换，新番查看等功能，支持挂载Emby/Jellyfin媒体库。采用 Flutter +rust开发，提供统一的用户体验。
 - [conventoangelo/OverKeys](https://github.com/conventoangelo/OverKeys) - An open-source keyboard layout visualizer for Windows. Learn and practice alternative layouts, personalize appearance, and improve your typing.
@@ -5066,6 +5069,7 @@
 
 ## others 
 
+- [shrimpsend/shrimpsend](https://github.com/shrimpsend/shrimpsend) - File transfer that works across any network.
 - [yuanpeirong/UUPdumpWinISO](https://github.com/yuanpeirong/UUPdumpWinISO) - 使用UUP dump制作Windows 10/11 ISO镜像
 - [yuanpeirong/UpdateWinISO](https://github.com/yuanpeirong/UpdateWinISO) - 使用Win_ISO_Patching_Scripts更新Win10和11系统镜像
 - [lukaongit/gnumeric-windows](https://github.com/lukaongit/gnumeric-windows) - Gnumeric 1.12.62 portable build for Windows
@@ -6183,7 +6187,7 @@
 - [Enter-tainer/typst-preview](https://github.com/Enter-tainer/typst-preview) - [DEPRECATED] Use tinymist instead
 - [interaminense/learning-english](https://github.com/interaminense/learning-english) - :gb: Useful links that will help me (and probably you) to learn English through the Internet.
 - [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
-- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语
+- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语
 - [joric/nrfmicro](https://github.com/joric/nrfmicro) - A Pro Micro alternative for wireless keyboards
 - [tinyboxxx/TiBoard](https://github.com/tinyboxxx/TiBoard) - TiBoard的硬件部分及说明文件
 - [teknium1/GPTeacher](https://github.com/teknium1/GPTeacher) - A collection of modular datasets generated by GPT-4, General-Instruct - Roleplay-Instruct - Code-Instruct - and Toolformer
