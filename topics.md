@@ -1786,7 +1786,7 @@
 - [apify/crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works
 - [viasite/site-audit-seo](https://github.com/viasite/site-audit-seo) - Web service and CLI tool for SEO site audit: crawl site, lighthouse all pages, view public reports in browser. Also output to console, json, csv, xlsx
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
-- [TeamWiseFlow/wiseflow](https://github.com/TeamWiseFlow/wiseflow) - 为所有人准备的AI搞钱团队，帮你把经验和方法跑成一门生意。
+- [TeamWiseFlow/xiaobei](https://github.com/TeamWiseFlow/xiaobei) - 为 OPC/中小微企业老板们量身打造的"AI 搞钱搭子"
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
 - [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) - 🚀「Douyin_TikTok_Download_API」是一个开箱即用的高性能异步抖音、快手、TikTok、Bilibili数据爬取工具，支持API调用，在线批量解析及下载。
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
@@ -1808,6 +1808,7 @@
 
 ## csharp 
 
+- [otocad/Otocad-Community](https://github.com/otocad/Otocad-Community) - Open-source 2D optical CAD — lens wizards, GB/ISO-compliant optical marks, built-in AI assistant, DXF interop. Cross-platform (Windows/Linux/macOS).
 - [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python
 - [Mzying2001/CefFlashBrowser](https://github.com/Mzying2001/CefFlashBrowser) - Flash浏览器 / Flash Browser
 - [umlx5h/LLPlayer](https://github.com/umlx5h/LLPlayer) - The media player for language learning, with dual subtitles, AI-generated subtitles, real-time translation, and more!
@@ -2241,6 +2242,7 @@
 
 ## dotnet 
 
+- [otocad/Otocad-Community](https://github.com/otocad/Otocad-Community) - Open-source 2D optical CAD — lens wizards, GB/ISO-compliant optical marks, built-in AI assistant, DXF interop. Cross-platform (Windows/Linux/macOS).
 - [IamPavanGS/WinForge](https://github.com/IamPavanGS/WinForge) - Build a fully-customised, deploy-ready Windows 11 ISO in one wizard — no golden VM, no Sysprep
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 - [sbroenne/mcp-server-excel](https://github.com/sbroenne/mcp-server-excel) - Excel MCP Server & CLI - 23 tools, 214 operations for AI-powered Excel automation via COM API
@@ -5478,7 +5480,7 @@
 - [lvim-tech/lvim](https://github.com/lvim-tech/lvim) - LVIM IDE is a modular Neovim configuration written in LUA with full customization.
 - [qq254950134/my-iptv](https://github.com/qq254950134/my-iptv) - 用于个人托管自用直播源
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
-- [acoooder/aliyunpanshare](https://github.com/acoooder/aliyunpanshare) - 阿里云盘、夸克网盘影视资源分享，每日发布最新电视剧、综艺、电影资源。
+- [acoooder/aliyunpanshare](https://github.com/acoooder/aliyunpanshare) - 百度网盘、夸克网盘、阿里云盘影视资源分享，每日发布最新电视剧、综艺、电影资源。
 - [AppFlowy-IO/AppFlowy-Cloud](https://github.com/AppFlowy-IO/AppFlowy-Cloud) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [VirusTotal/yara-x](https://github.com/VirusTotal/yara-x) - A rewrite of YARA in Rust.
 - [shadijatarun/Ledfx-android](https://github.com/shadijatarun/Ledfx-android) - Ledfx is an Android application that captures audio from the device's built-in microphone, performs real-time spectral analysis, and visualizes the resulting spectral data to control a connected WLed 
@@ -7361,6 +7363,7 @@
 
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Shell Superpowers for AI Agents.
+- [Chaoses-Ib/IbEverythingExt](https://github.com/Chaoses-Ib/IbEverythingExt) - Everything 拼音搜索, ローマ字検索, wildcard, quick select, Shell extension
 - [iffse/pay-respects](https://github.com/iffse/pay-respects) - Command suggestions, command-not-found and thefuck replacement written in Rust
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
