@@ -399,7 +399,6 @@
 - [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [weolar/miniblink49](https://github.com/weolar/miniblink49) - a lighter, faster browser kernel of blink to integrate HTML UI in your app. 一个小巧、轻量的浏览器内核，用来取代wke和libcef
 - [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform in native C++.
-- [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
 - [izure1/node-win-pcap](https://github.com/izure1/node-win-pcap) - Node.js binding for windows packet sniffing
 - [Chaoses-Ib/IbEverythingExt](https://github.com/Chaoses-Ib/IbEverythingExt) - Everything 拼音搜索, ローマ字検索, wildcard, quick select, Shell extension
@@ -506,7 +505,6 @@
 - [pedrolcl/VMPK](https://github.com/pedrolcl/VMPK) - Virtual MIDI Piano Keyboard (Mirror)
 - [pgkt04/defender-control](https://github.com/pgkt04/defender-control) - An open-source windows defender manager. Now you can disable windows defender permanently.
 - [aardappel/treesheets](https://github.com/aardappel/treesheets) - TreeSheets : Free Form Data Organizer (see strlen.com/treesheets)
-- [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [texstudio-org/texstudio](https://github.com/texstudio-org/texstudio) - TeXstudio is a fully featured LaTeX editor. Our goal is to make writing LaTeX documents as easy and comfortable as possible.
 - [nefarius/nefcon](https://github.com/nefarius/nefcon) - Windows device driver installation and management tool.
 - [shundhammer/qdirstat](https://github.com/shundhammer/qdirstat) - QDirStat - Qt-based directory statistics (KDirStat without any KDE - from the original KDirStat author)
@@ -888,6 +886,7 @@
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [noborus/xlsxsql](https://github.com/noborus/xlsxsql) - A CLI tool that executes SQL queries on various files including xlsx files and outputs the results to various files
 - [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [itchyny/bed](https://github.com/itchyny/bed) - Binary editor written in Go
 - [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
 - [ltaoo/wx_channels_download](https://github.com/ltaoo/wx_channels_download) - 微信视频号下载器
@@ -1195,7 +1194,7 @@
 
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [win12-online/win12](https://github.com/win12-online/win12) - Win12 Online
-- [sharp4real/privoobrowser](https://github.com/sharp4real/privoobrowser) - See what your missing out on and try Privoo Browser today for free!
+- [sharp4real/privoobrowser](https://github.com/sharp4real/privoobrowser) - See what your missing out on and try Privoo Desktop Browser today for free!
 - [iziz/RuruGrab](https://github.com/iziz/RuruGrab) - Custom desktop app and Chrome/Edge extensions for personal use
 - [UltraHackerDog/Hokus](https://github.com/UltraHackerDog/Hokus) - Hokus is a Chrome extension that helps you learn Chinese by replacing English words on web pages with HSK 2.0 vocabulary (Levels 1–6). Learn passively while browsing with hover translations, pinyin, a
 - [wamich/personal-vocabulary](https://github.com/wamich/personal-vocabulary) - 「个人词库」是一款浏览器插件。 用于英文阅读时，不断记住生词，构建个人词库。
@@ -1298,6 +1297,7 @@
 - [chatgptuk/Real-US-Address-Generator](https://github.com/chatgptuk/Real-US-Address-Generator) - 
 - [SplashtopInc/winstall](https://github.com/SplashtopInc/winstall) - A web app for browsing and installing Windows Package Manager apps.
 - [Chadwuo/li-ji-weapp](https://github.com/Chadwuo/li-ji-weapp) - 专注于记录和管理人情往来中的随礼、收礼、份子钱、礼金、心意、礼物、红包等，多维度查询和统计亲友间的往来记录，家人共享记账，你贴心的人情往来数字记账伙伴。
+- [blueagler/DeepL-Helper](https://github.com/blueagler/DeepL-Helper) - Extend character support to 5,000+, lift editing limits, integrate with DeepL (Pro or API), enable formal/informal tone selection, and provide privacy‑friendly device fingerprint rotation.
 - [InternLM/MindSearch](https://github.com/InternLM/MindSearch) - 🔍 An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT)
 - [CH563/shot-easy-website](https://github.com/CH563/shot-easy-website) - Take a screenshot online and compresses images in browser with Webassembly
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
@@ -1637,7 +1637,7 @@
 - [gujjwal00/avnc](https://github.com/gujjwal00/avnc) - VNC Client for Android
 - [victor-gurbani/InstantRplay](https://github.com/victor-gurbani/InstantRplay) - A background audio recording app inspired by Nvidia's Instant Replay. Customize audio quality, recording duration, and storage size. Quickly save past audio segments with a single click. Built with Ko
 - [d4rken-org/sdmaid-se](https://github.com/d4rken-org/sdmaid-se) - SD Maid 2/SE is Android's most thorough cleaning tool.
-- [Wavesonics/hammer-editor](https://github.com/Wavesonics/hammer-editor) - A simple tool for building stories.
+- [Darkrock-Studios/hammer-editor](https://github.com/Darkrock-Studios/hammer-editor) - A simple tool for building stories.
 - [bitfireAT/davx5-ose](https://github.com/bitfireAT/davx5-ose) - DAVx⁵ is an open-source CalDAV/CardDAV suite and sync app for Android. You can also access your online files (WebDAV) with it.
 - [FossifyOrg/Voice-Recorder](https://github.com/FossifyOrg/Voice-Recorder) - An easy way of recording any discussion or sounds without ads or internet access
 - [SimpleMobileTools/Simple-Voice-Recorder](https://github.com/SimpleMobileTools/Simple-Voice-Recorder) - An easy way of recording any discussion or sounds without ads or internet access
@@ -1986,6 +1986,7 @@
 - [wuhgit/CustomPinyinDictionary](https://github.com/wuhgit/CustomPinyinDictionary) - 自建拼音输入法词库，百万常用词汇量，适配 Fcitx5 (Linux / Android) 及 Gboard (Android + Magisk or KernelSU) 。
 - [DenverCoder1/latex-gboard-dictionary](https://github.com/DenverCoder1/latex-gboard-dictionary) - ⌨ Importable dictionary for typing math symbols more easily on your Android phone by using keyboard shortcuts inspired by LaTeX
 - [Galaxies99/SJTU-course-notes](https://github.com/Galaxies99/SJTU-course-notes) - ✍️ The notes of courses in Shanghai Jiao Tong University
+- [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [f3lze3/CloseWindowsAutoUpdate](https://github.com/f3lze3/CloseWindowsAutoUpdate) - Disable Automatic Windows Update
 - [crdroidandroid/android](https://github.com/crdroidandroid/android) - Build crDroid and some general information
 - [reduce-algebra/reduce-algebra](https://github.com/reduce-algebra/reduce-algebra) - reduce-algebra: a portable general-purpose computer algebra system, automatically mirrored from https://svn.code.sf.net/p/reduce-algebra/code/. Please visit the REDUCE Homepage, https://reduce-algebra
@@ -2146,7 +2147,7 @@
 - [zai-org/GLM-4.5](https://github.com/zai-org/GLM-4.5) - GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models
 - [Therrion1520/reposicion_wms](https://github.com/Therrion1520/reposicion_wms) - 🟩 Manage stock flow efficiently with Reposición WMS, a lightweight system for small businesses to streamline inventory and restocking processes.
 - [mapproxy/mapproxy](https://github.com/mapproxy/mapproxy) - MapProxy is a tile cache and WMS proxy
-- [RyanDFIR/hindsight](https://github.com/RyanDFIR/hindsight) - Browser forensics tool for Google Chrome (and other Chromium-based browsers)
+- [RyanDFIR/hindsight](https://github.com/RyanDFIR/hindsight) - Browser forensics tool for Google Chrome, other Chromium-based browsers, and Mozilla Firefox
 - [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 APIs for web automation, testing, and bypassing bot-detection.
 - [y9nhjy/Proxifier-Keygen](https://github.com/y9nhjy/Proxifier-Keygen) - Proxifier注册机
 - [robertZaufall/mindmanager_ai](https://github.com/robertZaufall/mindmanager_ai) - MindManager AI Integration on Windows and macOS
@@ -2397,7 +2398,7 @@
 - [v3ucn/CosyVoice_For_Windows](https://github.com/v3ucn/CosyVoice_For_Windows) - CosyVoice在Windows环境下使用的版本
 - [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
 - [parazeeknova/nyxtext-zenith](https://github.com/parazeeknova/nyxtext-zenith) - 🗒️Text Editor built with Pyqt6 & QScintilla. Supports more than 35 + languages out of the box  with 12+ handcrafted themes..
-- [TeamWiseFlow/xiaobei](https://github.com/TeamWiseFlow/xiaobei) - 为 OPC/中小微企业老板们量身打造的"AI 搞钱搭子"
+- [TeamWiseFlow/xiaobei](https://github.com/TeamWiseFlow/xiaobei) - 为OPC/中小微企业量身打造的自媒体获客AI Agent
 - [opendatalab/PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit) - A Comprehensive Toolkit for High-Quality PDF Content Extraction
 - [Stardust87/wordsea](https://github.com/Stardust87/wordsea) - Open source codebase powering the WordSea dictionary app.
 - [Sjj1024/douyin-live](https://github.com/Sjj1024/douyin-live) - Python learning projects, for study reference only. 抖音直播小工具，Python学习项目，仅供学习参考，严禁一切不合规使用
@@ -2669,7 +2670,7 @@
 
 ## Rust 
 
-- [cyph3rpuNk-dev/Nomad-Launcher](https://github.com/cyph3rpuNk-dev/Nomad-Launcher) - Zero-footprint portable Windows browser launchers in Rust - download, verify, privacy-harden, and run. No installer, no traces.
+- [cyph3rpuNk-dev/Nomad-Launcher](https://github.com/cyph3rpuNk-dev/Nomad-Launcher) - Single-file portable browser launchers for Windows, written in Rust. Each launcher downloads and verifies its browser, applies privacy hardening, and cleans up host traces when it exits.
 - [Wangnov/Codex-App-Manager](https://github.com/Wangnov/Codex-App-Manager) - 跨平台官方 Codex 桌面应用的安装 / 增量更新 / 干净卸载管理器，内置国内可达的镜像自更新。Cross-platform installer & updater for the official Codex desktop app — incremental updates, clean uninstall, China-reachable self-update.
 - [jinnang233/English2AnkiCSV](https://github.com/jinnang233/English2AnkiCSV) - 【实验性】 一个 Rust 桌面程序，用于批量查询英文单词释义，保存为本地 JSON，并导出为 Anki 可导入的 UTF-8 TSV/CSV。
 - [tomrford/mint](https://github.com/tomrford/mint) - A CLI tool for building hex files from excel data and a layout definition.
@@ -2684,6 +2685,7 @@
 - [balena-os/wifi-connect](https://github.com/balena-os/wifi-connect) - Easy WiFi setup for Linux devices from your mobile phone or laptop
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
 - [vivoblueos/kernel](https://github.com/vivoblueos/kernel) - 
+- [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 - [lukasl-dev/rime](https://github.com/lukasl-dev/rime) - An MCP server for NixOS users.
 - [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
@@ -2805,7 +2807,7 @@
 - [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) - Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - [asg017/sqlite-xl](https://github.com/asg017/sqlite-xl) - Work-in-progress SQLite extension for reading Excel spreadsheet files (.xlsx, .xls, .ods)
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent, optimized for open models like GLM, Deepseek, and Kimi
 - [KaiserY/mdbook-typst-pdf](https://github.com/KaiserY/mdbook-typst-pdf) - 
 - [ProvableHQ/leo](https://github.com/ProvableHQ/leo) - 🦁 The Leo Programming Language. A Programming Language for Formally Verified, Zero-Knowledge Applications
 - [ProvableHQ/snarkOS](https://github.com/ProvableHQ/snarkOS) - A Decentralized Operating System for ZK Applications
@@ -2950,7 +2952,6 @@
 - [nathaneltitane/dextop](https://github.com/nathaneltitane/dextop) - Unlock the full potential of your Android device and transform it into a Linux-based workstation in minutes with Dextop! No tech expertise needed - it's user-friendly and hassle-free!
 - [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Issue tracker only. Active development is on Gerrit at https://gerrit.collaboraoffice.com/.
 - [indocoding-ID/ollama-termux](https://github.com/indocoding-ID/ollama-termux) - install ollama di termux mobile
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 - [llwslc/grammar-club](https://github.com/llwslc/grammar-club) - 《语法俱乐部》- 旋元佑
 - [wahasa/Fedora](https://github.com/wahasa/Fedora) - Welcome To Fedora Termux For Android
@@ -3022,7 +3023,6 @@
 - [Akylas/alpimaps](https://github.com/Akylas/alpimaps) - Offline map app iOS/Android
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [gsidhu/buzee-tauri](https://github.com/gsidhu/buzee-tauri) - A superfast full-text search application
-- [jam53/Takma](https://github.com/jam53/Takma) - Takma is a Kanban-style productivity tool that empowers you to effectively manage your tasks and projects with ease.
 - [Figma-Linux/figma-linux](https://github.com/Figma-Linux/figma-linux) - Figma is the first interface design tool based in the browser, making it easier for teams to create software. Join us in https://t.me/figma_linux
 - [obsmd-projects/obsidian-projects](https://github.com/obsmd-projects/obsidian-projects) - Plain text project planning in Obsidian
 - [cupcakearmy/cryptgeon](https://github.com/cupcakearmy/cryptgeon) - cryptgeon is a secure, open source note / file sharing service inspired by PrivNote written in rust & svelte.
@@ -3090,7 +3090,7 @@
 - [ChenYCL/chrome-extension-udemy-translate](https://github.com/ChenYCL/chrome-extension-udemy-translate) - Translate video subtitle
 - [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
 - [baotlake/office-website](https://github.com/baotlake/office-website) - Web Office: Local-First & Private. Professional-grade Word, Excel, and PowerPoint editing powered by WebAssembly. Zero data uploads, 100% client-side for uncompromising privacy. 🛡️ 纯本地浏览器 Office，数据零上传
-- [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork (powered by opencode)
+- [different-ai/openwork](https://github.com/different-ai/openwork) - The open-source alternative to Claude Cowork (powered by opencode)
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - TypeScript & JavaScript ORM for Node.js — supports PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, Oracle, and more.
 - [SatyamVyas04/better-home](https://github.com/SatyamVyas04/better-home) - A minimal, delightful new-tab replacement for Chromium browsers
 - [hummingme/kahuna](https://github.com/hummingme/kahuna) - Browse, edit and manage IndexedDB databases in Firefox and Chromium browsers
@@ -3224,7 +3224,7 @@
 - [modstart-lib/aigcpanel](https://github.com/modstart-lib/aigcpanel) - AIGCPanel 是一个简单易用的一站式AI数字人系统，支持视频合成、声音合成、声音克隆，简化本地模型管理、一键导入和使用AI模型。
 - [ZakaHaceCosas/personaplus](https://github.com/ZakaHaceCosas/personaplus) - (MOVED TO SEPARATE REPO) Give yourself a plus!
 - [yenche123/liubai](https://github.com/yenche123/liubai) - Supercharge yourself!
-- [remvze/moodist](https://github.com/remvze/moodist) - 🌲 Ambient sounds for focus and calm.
+- [remvze/moodist](https://github.com/remvze/moodist) - Ambient sounds for focus and calm.
 - [OHIF/Viewers](https://github.com/OHIF/Viewers) - OHIF zero-footprint DICOM viewer and oncology specific Lesion Tracker, plus shared extension packages
 - [keiloktql/dolcent-landing](https://github.com/keiloktql/dolcent-landing) - Dolcent: The Ultimate Finance Tracker! Take control of your finances with ease. Download now for a smarter way to manage money.
 - [deltachat/deltachat-desktop](https://github.com/deltachat/deltachat-desktop) - Decentralized private messenger with chat-shared tools and games for Desktop
@@ -3253,6 +3253,7 @@
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [mdSilo/mdSilo-app](https://github.com/mdSilo/mdSilo-app) - Lightweight Knowledge Base and Feed Reader.
+- [jam53/Takma](https://github.com/jam53/Takma) - Takma is a Kanban-style productivity tool that empowers you to effectively manage your tasks and projects with ease.
 - [tu2-atmanand/Task-Board](https://github.com/tu2-atmanand/Task-Board) - An Obsidian plugin to view and manage your tasks from whole vault using much efficient boards using various methodologies.
 - [hashintel/hash](https://github.com/hashintel/hash) - 🚀  The open-source, multi-tenant platform for self-building knowledge graphs and simulation
 - [LyonSyonII/rust-quest](https://github.com/LyonSyonII/rust-quest) - A book about learning to program from zero!
