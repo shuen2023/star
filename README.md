@@ -187,7 +187,7 @@
 - [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
 - [openlgtv/epk2extract](https://github.com/openlgtv/epk2extract) - Extraction tool for LG, Hisense, Sharp, Philips/TPV, Thompson and similar TVs/Embedded Devices
 - [Tongsuo-Project/Tongsuo](https://github.com/Tongsuo-Project/Tongsuo) - 铜锁/Tongsuo is a Modern Cryptographic Primitives and Protocols Library
-- [FunAudioLLM/SenseVoice](https://github.com/FunAudioLLM/SenseVoice) - Multilingual speech understanding: ASR + emotion recognition + audio event detection. 50+ languages, 15x faster than Whisper, non-autoregressive.
+- [FunAudioLLM/SenseVoice](https://github.com/FunAudioLLM/SenseVoice) - Open-source SenseVoiceSmall model for Mandarin, Cantonese, English, Japanese, and Korean ASR, language ID, emotion recognition, and audio event detection.
 - [webui-dev/webui](https://github.com/webui-dev/webui) - Use any web browser or WebView as GUI, with your preferred language in the backend and modern web technologies in the frontend, all in a lightweight portable library.
 - [rofl0r/proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained prox
 - [xroche/httrack](https://github.com/xroche/httrack) - HTTrack Website Copier, copy websites to your computer (Official repository)
@@ -505,6 +505,7 @@
 - [pedrolcl/VMPK](https://github.com/pedrolcl/VMPK) - Virtual MIDI Piano Keyboard (Mirror)
 - [pgkt04/defender-control](https://github.com/pgkt04/defender-control) - An open-source windows defender manager. Now you can disable windows defender permanently.
 - [aardappel/treesheets](https://github.com/aardappel/treesheets) - TreeSheets : Free Form Data Organizer (see strlen.com/treesheets)
+- [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [texstudio-org/texstudio](https://github.com/texstudio-org/texstudio) - TeXstudio is a fully featured LaTeX editor. Our goal is to make writing LaTeX documents as easy and comfortable as possible.
 - [nefarius/nefcon](https://github.com/nefarius/nefcon) - Windows device driver installation and management tool.
 - [shundhammer/qdirstat](https://github.com/shundhammer/qdirstat) - QDirStat - Qt-based directory statistics (KDirStat without any KDE - from the original KDirStat author)
@@ -1673,7 +1674,7 @@
 - [oxyroid/M3UAndroid](https://github.com/oxyroid/M3UAndroid) - a clean, practical, ad-free IPTV app
 - [numandev1/react-native-compressor](https://github.com/numandev1/react-native-compressor) - 🗜️Compress Image, Video, and Audio same like Whatsapp 🚀✨
 - [stream-rec/stream-rec](https://github.com/stream-rec/stream-rec) - Automatic streaming record tool.  Live stream and bullet comments recorder. 虎牙/抖音/斗鱼/Twitch/PandaTV/微博直播，弹幕自动录制
-- [AndroidCoderPeng/DailyTask](https://github.com/AndroidCoderPeng/DailyTask) - 钉钉自动打卡
+- [AndroidCoderPeng/DailyTask](https://github.com/AndroidCoderPeng/DailyTask) - 自动打卡（无人值守方案，非目标应用数据修改方案！）
 - [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
 - [abhinav12k/Typster](https://github.com/abhinav12k/Typster) - Typster is a simple typing game built using Desktop Compose. The game allows you to test your typing skills by typing a given text as fast and accurately as possible. You can also customize the text t
 - [christianrowlands/android-network-survey](https://github.com/christianrowlands/android-network-survey) - Cellular Survey Android App
@@ -1696,7 +1697,7 @@
 - [soupslurpr/BeauTyXT](https://github.com/soupslurpr/BeauTyXT) - A beautiful, private, secure, and minimalistic Plain Text and Markdown editor.
 - [GuoXiCheng/SKIP](https://github.com/GuoXiCheng/SKIP) - 自动跳过APP开屏广告
 - [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
-- [v1tzor/TimePlanner](https://github.com/v1tzor/TimePlanner) - Mobile app for planning tasks for the day with multimodule architecture, MVI, Compose, Room, Voyager, AlarmManager, Notification, Charts
+- [v1tzor/TimePlanner](https://github.com/v1tzor/TimePlanner) - Convenient and fast task planning for the day
 - [dessalines/thumb-key](https://github.com/dessalines/thumb-key) - A privacy-conscious Android keyboard made for your thumbs
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full-featured audio/video downloader for Android using yt-dlp
 - [fcitx5-android/fcitx5-android-updater](https://github.com/fcitx5-android/fcitx5-android-updater) - 
@@ -1986,7 +1987,6 @@
 - [wuhgit/CustomPinyinDictionary](https://github.com/wuhgit/CustomPinyinDictionary) - 自建拼音输入法词库，百万常用词汇量，适配 Fcitx5 (Linux / Android) 及 Gboard (Android + Magisk or KernelSU) 。
 - [DenverCoder1/latex-gboard-dictionary](https://github.com/DenverCoder1/latex-gboard-dictionary) - ⌨ Importable dictionary for typing math symbols more easily on your Android phone by using keyboard shortcuts inspired by LaTeX
 - [Galaxies99/SJTU-course-notes](https://github.com/Galaxies99/SJTU-course-notes) - ✍️ The notes of courses in Shanghai Jiao Tong University
-- [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [f3lze3/CloseWindowsAutoUpdate](https://github.com/f3lze3/CloseWindowsAutoUpdate) - Disable Automatic Windows Update
 - [crdroidandroid/android](https://github.com/crdroidandroid/android) - Build crDroid and some general information
 - [reduce-algebra/reduce-algebra](https://github.com/reduce-algebra/reduce-algebra) - reduce-algebra: a portable general-purpose computer algebra system, automatically mirrored from https://svn.code.sf.net/p/reduce-algebra/code/. Please visit the REDUCE Homepage, https://reduce-algebra
@@ -2807,7 +2807,7 @@
 - [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) - Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - [asg017/sqlite-xl](https://github.com/asg017/sqlite-xl) - Work-in-progress SQLite extension for reading Excel spreadsheet files (.xlsx, .xls, .ods)
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent, optimized for open models like GLM, Deepseek, and Kimi
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for low-cost models
 - [KaiserY/mdbook-typst-pdf](https://github.com/KaiserY/mdbook-typst-pdf) - 
 - [ProvableHQ/leo](https://github.com/ProvableHQ/leo) - 🦁 The Leo Programming Language. A Programming Language for Formally Verified, Zero-Knowledge Applications
 - [ProvableHQ/snarkOS](https://github.com/ProvableHQ/snarkOS) - A Decentralized Operating System for ZK Applications
@@ -3186,7 +3186,7 @@
 - [dell-mic/file-glance](https://github.com/dell-mic/file-glance) - A powerful tool for viewing, filtering, and transforming tabular data files (CSV, JSON, XLSX etc.) with JavaScript.
 - [ruilisi/fortune-sheet](https://github.com/ruilisi/fortune-sheet) - A drop-in javascript spreadsheet library that provides rich features like Excel and Google Sheets
 - [danilo-css/analytics-data-pivot](https://github.com/danilo-css/analytics-data-pivot) - A no code tool to help build pivot tables from any database with a few clicks.
-- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
+- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.
 - [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin) - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite7, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite8, TypeScript, Pinia, NaiveUI 和 Uno
 - [pTinosq/Electro](https://github.com/pTinosq/Electro) - ⚡Electro is a blazingly fast image viewer built with Rust, featuring an integrated terminal for enhanced productivity.
 - [FelippeChemello/podcast-maker](https://github.com/FelippeChemello/podcast-maker) - Fully automated video maker using motion graphics and text-to-speech synthesis to turn newsletters into daily YouTube videos.
