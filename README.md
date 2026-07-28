@@ -384,6 +384,7 @@
 
 ## C++ 
 
+- [sky12378/Window2Clear](https://github.com/sky12378/Window2Clear) - Windows window transparency control tool
 - [khan9t2zishan/gfg-potd](https://github.com/khan9t2zishan/gfg-potd) - This repository is a collection of C++ codes for Geeks for Geeks problem of the Day.
 - [Zee2/openwarp](https://github.com/Zee2/openwarp) - Free and open source spatial reprojection for XR.
 - [sqmw/MFCMouseEffect](https://github.com/sqmw/MFCMouseEffect) - 跨平台鼠标特效与输入可视化引擎：点击/轨迹/滚轮/悬停等效果，输入指示器叠加层，手势→快捷键自动化映射，可扩展 WASM 插件。 Cross-platform mouse effects & input visualization engine: click/trail/scroll/hover effects, indicator overlays, gesture→hotkey automat
@@ -615,6 +616,7 @@
 
 ## Dart 
 
+- [growerp/growerp](https://github.com/growerp/growerp) - GrowERP Flutter ERP for Android, IOS,Web,Linux and Windows using Moqui.org, Apache OFBiz , in English,French,German,Spanish, Thai and Dutch
 - [echo-loop/Echo-Loop](https://github.com/echo-loop/Echo-Loop) - Echo Loop 是一款科学、高效的 AI 英语听说训练 App，通过盲听、精听、跟读、复述和间隔复习，自动驱动学习者把每一段音频真正练懂、练熟、练到会说。
 - [shrimpsend/shrimpsend](https://github.com/shrimpsend/shrimpsend) - File transfer that works across any network.
 - [matthiasn/lotti](https://github.com/matthiasn/lotti) - Open-source private logbook with a local agentic layer. Long-living AI agents read what you record and propose what to do next. Hardware permitting, the models runs locally too. Matrix + Vodozemac for
@@ -988,6 +990,8 @@
 
 ## HTML 
 
+- [aliuoluyemi7-prog/ExamWiseNG](https://github.com/aliuoluyemi7-prog/ExamWiseNG) - ExamWiseNG — Offline-first JAMB CBT practice app + original questions across Economics, Chemistry, Biology, Physics, Mathematics, and English. Single-file HTML/CSS/JS, no backend required.
+- [qq823414713-dotcom/english-ipa-study](https://github.com/qq823414713-dotcom/english-ipa-study) - 完整英语音标对照表与雅思托福30天词汇学习计划
 - [autolua/autolua_doc](https://github.com/autolua/autolua_doc) - AutoLua文档仓库，类似于 按键精灵 懒人精灵 触动 autojs。
 - [gipapa/english_word_card](https://github.com/gipapa/english_word_card) - A lightweight, GitHub Pages–ready English vocabulary flashcard site for TXXX candidates, featuring 1,000+ commonly used workplace and semiconductor-related words.
 - [the-sudipta/ExeFoundry](https://github.com/the-sudipta/ExeFoundry) - Portable BAT→EXE converter for Windows — turn .bat into a single .exe (custom icon, console/GUI, arg forwarding; no admin).
@@ -1191,6 +1195,7 @@
 
 ## JavaScript 
 
+- [Maksonik/en-learn-google-extension](https://github.com/Maksonik/en-learn-google-extension) - Chrome extension for En Learn — save and look up English words while browsing the web.
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [win12-online/win12](https://github.com/win12-online/win12) - Win12 Online
 - [OpenSenseNova/SenseNova-Skills](https://github.com/OpenSenseNova/SenseNova-Skills) - Modular SenseNova skills for building AI-powered office assistants and productivity workflows
@@ -1225,7 +1230,7 @@
 - [toggl/track-extension](https://github.com/toggl/track-extension) - Toggl Track browser extension for Chrome and Firefox
 - [minbrowser/min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
 - [sheshbabu/zen](https://github.com/sheshbabu/zen) - Selfhosted notes app. Single golang binary, notes stored as markdown within SQLite, full-text search, very low resource usage
-- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, TypeScript, SQLite and PostgreSQL support ++
+- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, HTTP/2, QUIC, Redis, TypeScript, React 19, SQLite, and PostgreSQL support ++
 - [qqcarlosqq/Wordle_ENG](https://github.com/qqcarlosqq/Wordle_ENG) - Wordle Solver for English version
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
 - [law-chain-hot/websocket-devtools](https://github.com/law-chain-hot/websocket-devtools) - Complete WebSocket Traffic Control with advanced proxy, simulation, and blocking capabilities
@@ -1832,6 +1837,8 @@
 
 ## Others 
 
+- [itsjiselle/allyouneedforlistening](https://github.com/itsjiselle/allyouneedforlistening) - materials from youtube/bilibili/tv shows，with timestamped srt subtitle， aiming to level up English by listening
+- [Abhijit899/Excel_Mastery_2026-README.md](https://github.com/Abhijit899/Excel_Mastery_2026-README.md) - # 25-Day Excel Mastery Project (Restart)
 - [coatl-dev/python3.12](https://github.com/coatl-dev/python3.12) - 🐍 Python 3.12 Installers for Windows
 - [povichchuang/English-learning](https://github.com/povichchuang/English-learning) - good useful phrases to and vocabularies to learn
 - [tdulcet/compact-dictionaries](https://github.com/tdulcet/compact-dictionaries) - 📚 Compact dictionaries in English that automatically update weekly
@@ -2125,6 +2132,7 @@
 
 ## Python 
 
+- [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) - A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ curated resources and hands-on examples. 中文 AI agent 學習地圖。
 - [AcTePuKc/Kokoro-Local-Gui](https://github.com/AcTePuKc/Kokoro-Local-Gui) - Hyper-fast, local, high-quality TTS based on Kokoro-82M. PySide6 GUI included.
 - [nickclyde/duckduckgo-mcp-server](https://github.com/nickclyde/duckduckgo-mcp-server) - A Model Context Protocol (MCP) server that provides web search capabilities through DuckDuckGo, with additional features for content fetching and parsing.
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
@@ -2683,7 +2691,7 @@
 - [White-NX/carbonPaper](https://github.com/White-NX/carbonPaper) - An assistant to help you remember everything you see on your PC, like Recall
 - [Nunley-Media-Group/AgentChrome](https://github.com/Nunley-Media-Group/AgentChrome) - A CLI alternative for Chrome Devtools MCP
 - [moyangzhan/mango-finder](https://github.com/moyangzhan/mango-finder) - Search your files across your devices with natural language | 使用自然语言跨设备搜索文件的桌面应用
-- [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python
+- [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 98+ formats. Available for Rust, Python
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
 - [balena-os/wifi-connect](https://github.com/balena-os/wifi-connect) - Easy WiFi setup for Linux devices from your mobile phone or laptop
@@ -3065,6 +3073,7 @@
 
 ## TypeScript 
 
+- [jimytao/lexicon](https://github.com/jimytao/lexicon) - Lexicon — English learning tool for Chinese speakers. Dictionary (52k OALD9 entries) + AI-powered semantic analysis + image translation. Web / Windows / Android.
 - [Retrorerr/Folio](https://github.com/Retrorerr/Folio) - Hear any book read aloud, on every page.
 - [L-M-Sherlock/kanabr](https://github.com/L-M-Sherlock/kanabr) - Adaptive Japanese kana typing practice (hiragana + katakana) with romaji input.
 - [StellavacuaLuxumbra/ZhaoMemsweep](https://github.com/StellavacuaLuxumbra/ZhaoMemsweep) - a lite exefile for sweep windows runtime memory
