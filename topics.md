@@ -517,6 +517,7 @@
 
 ## ai-agents 
 
+- [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) - A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ curated resources and hands-on examples. 中文 AI agent 學習地圖。
 - [Omnicapable/codex-tts](https://github.com/Omnicapable/codex-tts) - Omnicapable Voice for Codex: local, offline text-to-speech that reads its replies aloud. Free, private, no API keys.
 - [Project-N-E-K-O/N.E.K.O](https://github.com/Project-N-E-K-O/N.E.K.O) - A catgirl who lives with you in real time — reaching out first, sharing your media, and actually getting things done, powered by an embodied emotional engine.🐱❤️一只会主动找你玩的 AI 猫娘。
 - [OpenSenseNova/SenseNova-Skills](https://github.com/OpenSenseNova/SenseNova-Skills) - Modular SenseNova skills for building AI-powered office assistants and productivity workflows
@@ -1122,6 +1123,7 @@
 
 ## awesome-list 
 
+- [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) - A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ curated resources and hands-on examples. 中文 AI agent 學習地圖。
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [tehtbl/awesome-note-taking](https://github.com/tehtbl/awesome-note-taking) - A curated list of 100+ awesome note-taking apps, PKM tools & knowledge management software — open source and proprietary. Updated regularly.
 - [Axorax/awesome-free-apps](https://github.com/Axorax/awesome-free-apps) - Curated list of the best free apps for PC and mobile
@@ -1423,6 +1425,7 @@
 
 ## chrome-extension 
 
+- [Maksonik/en-learn-google-extension](https://github.com/Maksonik/en-learn-google-extension) - Chrome extension for En Learn — save and look up English words while browsing the web.
 - [ArseneWg/lexiglow](https://github.com/ArseneWg/lexiglow) - Learn English inside your reading flow with fast hover translation, contextual LLM help, and in-page sentence analysis.
 - [Chance-fyi/mouse-gestures](https://github.com/Chance-fyi/mouse-gestures) - A lightweight yet powerful browser extension that enhances your browsing efficiency through intuitive mouse gestures, drag-and-drop actions, and cloud-synchronized settings.
 - [lrq3000/infinitabs](https://github.com/lrq3000/infinitabs) - Unlimited tabs, Zero RAM! For Chrome/Chromium (and Firefox in the future)
@@ -1517,6 +1520,7 @@
 
 ## claude-code 
 
+- [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) - A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ curated resources and hands-on examples. 中文 AI agent 學習地圖。
 - [eugeniughelbur/obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain) - Persistent memory for Claude Code and 6 other CLI agents, stored as plain markdown in your Obsidian vault. Stop re-explaining your projects, decisions and people every session. 45 commands: hybrid sem
 - [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation requir
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents
@@ -1527,6 +1531,7 @@
 
 ## cli 
 
+- [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) - A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ curated resources and hands-on examples. 中文 AI agent 學習地圖。
 - [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation requir
 - [steipete/summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
@@ -1824,7 +1829,7 @@
 ## csharp 
 
 - [otocad/Otocad-Community](https://github.com/otocad/Otocad-Community) - Open-source 2D optical CAD — lens wizards, GB/ISO-compliant optical marks, built-in AI assistant, DXF interop. Cross-platform (Windows/Linux/macOS).
-- [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python
+- [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 98+ formats. Available for Rust, Python
 - [Mzying2001/CefFlashBrowser](https://github.com/Mzying2001/CefFlashBrowser) - Flash浏览器 / Flash Browser
 - [umlx5h/LLPlayer](https://github.com/umlx5h/LLPlayer) - The media player for language learning, with dual subtitles, AI-generated subtitles, real-time translation, and more!
 - [BAndysc/AvaloniaVisualBasic6](https://github.com/BAndysc/AvaloniaVisualBasic6) - A recreation of the classic Visual Basic 6 IDE and language in C# with Avalonia
@@ -2336,7 +2341,7 @@
 
 ## elixir 
 
-- [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python
+- [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 98+ formats. Available for Rust, Python
 - [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 
@@ -2561,6 +2566,7 @@
 
 ## flutter 
 
+- [growerp/growerp](https://github.com/growerp/growerp) - GrowERP Flutter ERP for Android, IOS,Web,Linux and Windows using Moqui.org, Apache OFBiz , in English,French,German,Spanish, Thai and Dutch
 - [echo-loop/Echo-Loop](https://github.com/echo-loop/Echo-Loop) - Echo Loop 是一款科学、高效的 AI 英语听说训练 App，通过盲听、精听、跟读、复述和间隔复习，自动驱动学习者把每一段音频真正练懂、练熟、练到会说。
 - [matthiasn/lotti](https://github.com/matthiasn/lotti) - Open-source private logbook with a local agentic layer. Long-living AI agents read what you record and propose what to do next. Hardware permitting, the models runs locally too. Matrix + Vodozemac for
 - [AimesSoft/NipaPlay-Reload](https://github.com/AimesSoft/NipaPlay-Reload) - NipaPlay-Reload 是一个现代化的跨平台本地视频播放器，支持 Windows、macOS、Linux、Android 和 iOS。集成了弹幕显示、多格式字幕支持、多音频轨道切换，新番查看等功能，支持挂载Emby/Jellyfin媒体库。采用 Flutter +rust开发，提供统一的用户体验。
@@ -2767,7 +2773,7 @@
 - [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) - sqlite3 driver for go using database/sql
 - [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps
 - [vdjagilev/nmap-formatter](https://github.com/vdjagilev/nmap-formatter) - A tool that allows you to convert NMAP results to html, csv, json, markdown, graphviz (dot), sqlite, excel and d2-lang. Simply put it's nmap converter.
-- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, TypeScript, SQLite and PostgreSQL support ++
+- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, HTTP/2, QUIC, Redis, TypeScript, React 19, SQLite, and PostgreSQL support ++
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [rodrigocfd/windigo](https://github.com/rodrigocfd/windigo) - Windows API and GUI in idiomatic Go.
 - [lin-snow/Ech0](https://github.com/lin-snow/Ech0) - Ech0 – An open-source, self-hosted lightweight publishing platform for personal idea sharing.
@@ -2827,7 +2833,7 @@
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
 - [Presto-io/Presto](https://github.com/Presto-io/Presto) - Markdown → Typst → PDF 桌面排版工具
 - [iota-uz/iota-sdk](https://github.com/iota-uz/iota-sdk) - IOTA-SDK - is an open-source modular ERP. An alternative to SAP, Oracle, Odoo written in Go with modern look & feel
-- [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python
+- [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 98+ formats. Available for Rust, Python
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [Lallassu/gorss](https://github.com/Lallassu/gorss) - Go Terminal Feed Reader
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
@@ -3381,7 +3387,7 @@
 
 ## java 
 
-- [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python
+- [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 98+ formats. Available for Rust, Python
 - [getrebuild/rebuild](https://github.com/getrebuild/rebuild) - 高度可配置化的企业管理系统！企业内部可免费使用！零代码/低代码快速搭建企业中台、CRM客户关系管理、WMS库存管理、TMS运输管理、SCM供应链管理、MES/MOM，甚至是 ERP 企业资源计划！
 - [FJ-OMS/oms-erp](https://github.com/FJ-OMS/oms-erp) - 一站式全渠道业务中台系统包括订单管理系统OMS/电商ERP、库存WMS统一管理系统和SAP财务管理系统等，实现快速部署，并帮助企业后续自主进行开发迭代，实现数字化转型，并有多个经典案例。中台系统包括：通用业务中台、强大的技术中台Springcloud/Istio、后续开发方案的设计，技术(K8S,SERVERLESS)及管理人员的培训等。
 - [cdpdriver/kdriver](https://github.com/cdpdriver/kdriver) - A blazing fast, coroutine-first, undetectable web scraping / browser automation CDP-based library for Kotlin
@@ -3465,6 +3471,7 @@
 
 ## javascript 
 
+- [Maksonik/en-learn-google-extension](https://github.com/Maksonik/en-learn-google-extension) - Chrome extension for En Learn — save and look up English words while browsing the web.
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [dante0747/geekspulse.dev](https://github.com/dante0747/geekspulse.dev) - Free indie developer news aggregator — curated RSS feeds, no ads, no paywalls.
 - [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
@@ -4096,6 +4103,7 @@
 
 ## llm 
 
+- [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) - A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ curated resources and hands-on examples. 中文 AI agent 學習地圖。
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 - [Sunse666/Vimina](https://github.com/Sunse666/Vimina) - AI-friendly Windows GUI automation - Convert interface to text, no vision model needed
 - [ArseneWg/lexiglow](https://github.com/ArseneWg/lexiglow) - Learn English inside your reading flow with fast hover translation, contextual LLM help, and in-page sentence analysis.
@@ -4199,7 +4207,7 @@
 ## lua 
 
 - [luakit/luakit](https://github.com/luakit/luakit) - Fast, small, webkit based browser framework extensible by Lua.
-- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, TypeScript, SQLite and PostgreSQL support ++
+- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, HTTP/2, QUIC, Redis, TypeScript, React 19, SQLite, and PostgreSQL support ++
 - [terroo/terroo.github.io](https://github.com/terroo/terroo.github.io) - Terminal Root English version
 - [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Improve viewing Markdown in Neovim
 - [AstroNvim/astrocommunity](https://github.com/AstroNvim/astrocommunity) - A community repository of common plugin specifications
@@ -4518,6 +4526,7 @@
 
 ## mcp 
 
+- [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) - A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ curated resources and hands-on examples. 中文 AI agent 學習地圖。
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [heshengtao/super-agent-party](https://github.com/heshengtao/super-agent-party) - ⭐ All-in-one AI companion! Super Agent Party = Self hosted neuro sama + openclaw! ⭐ 全能AI伴侣！超级智能体派对 = 自托管neuro sama + openclaw!
@@ -4651,7 +4660,7 @@
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - TypeScript & JavaScript ORM for Node.js — supports PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, Oracle, and more.
 - [julien040/anyquery](https://github.com/julien040/anyquery) - One SQL interface for 60+ tools (e.g., GitHub, Notion, Airtable). Plug into any LLM through MCP.
-- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, TypeScript, SQLite and PostgreSQL support ++
+- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, HTTP/2, QUIC, Redis, TypeScript, React 19, SQLite, and PostgreSQL support ++
 - [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) - 🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [ariacom/Seal-Report](https://github.com/ariacom/Seal-Report) - Database Reporting Tool and Tasks (.Net)
@@ -4803,7 +4812,7 @@
 
 ## node 
 
-- [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python
+- [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 98+ formats. Available for Rust, Python
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 - [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
@@ -5133,6 +5142,12 @@
 
 ## others 
 
+- [jimytao/lexicon](https://github.com/jimytao/lexicon) - Lexicon — English learning tool for Chinese speakers. Dictionary (52k OALD9 entries) + AI-powered semantic analysis + image translation. Web / Windows / Android.
+- [aliuoluyemi7-prog/ExamWiseNG](https://github.com/aliuoluyemi7-prog/ExamWiseNG) - ExamWiseNG — Offline-first JAMB CBT practice app + original questions across Economics, Chemistry, Biology, Physics, Mathematics, and English. Single-file HTML/CSS/JS, no backend required.
+- [qq823414713-dotcom/english-ipa-study](https://github.com/qq823414713-dotcom/english-ipa-study) - 完整英语音标对照表与雅思托福30天词汇学习计划
+- [itsjiselle/allyouneedforlistening](https://github.com/itsjiselle/allyouneedforlistening) - materials from youtube/bilibili/tv shows，with timestamped srt subtitle， aiming to level up English by listening
+- [Abhijit899/Excel_Mastery_2026-README.md](https://github.com/Abhijit899/Excel_Mastery_2026-README.md) - # 25-Day Excel Mastery Project (Restart)
+- [sky12378/Window2Clear](https://github.com/sky12378/Window2Clear) - Windows window transparency control tool
 - [phc260/kokoro-kindle-reader](https://github.com/phc260/kokoro-kindle-reader) - Offline Kokoro TTS that lets Kindle for PC read books aloud using WebGPU-synthesized speech.
 - [L-M-Sherlock/kanabr](https://github.com/L-M-Sherlock/kanabr) - Adaptive Japanese kana typing practice (hiragana + katakana) with romaji input.
 - [StellavacuaLuxumbra/ZhaoMemsweep](https://github.com/StellavacuaLuxumbra/ZhaoMemsweep) - a lite exefile for sweep windows runtime memory
@@ -6326,7 +6341,7 @@
 
 ## php 
 
-- [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python
+- [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 98+ formats. Available for Rust, Python
 - [symfony/browser-kit](https://github.com/symfony/browser-kit) - Simulates the behavior of a web browser, allowing you to make requests, click on links and submit forms programmatically
 - [netresearch/timetracker](https://github.com/netresearch/timetracker) - Self-hosted team time tracking (Symfony 8 + SolidJS) with Jira Server/Cloud sync, LDAP/AD login, passkeys & 2FA, scoped API tokens, and XLSX export.
 - [BOINC/boinc](https://github.com/BOINC/boinc) - Open-source software for volunteer computing and grid computing.
@@ -6360,7 +6375,7 @@
 ## postgresql 
 
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - TypeScript & JavaScript ORM for Node.js — supports PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, Oracle, and more.
-- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, TypeScript, SQLite and PostgreSQL support ++
+- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, HTTP/2, QUIC, Redis, TypeScript, React 19, SQLite, and PostgreSQL support ++
 - [teableio/teable](https://github.com/teableio/teable) - ✨ AI Spreadsheet for Business
 - [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) - 🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
@@ -6573,6 +6588,7 @@
 
 ## prompt-engineering 
 
+- [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) - A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ curated resources and hands-on examples. 中文 AI agent 學習地圖。
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain) - LangChain & Prompt Engineering tutorials on Large Language Models (LLMs) such as ChatGPT with custom data. Jupyter notebooks on loading and indexing data, creating prompt templates, CSV agents, and us
 
@@ -6599,7 +6615,7 @@
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 - [White-NX/carbonPaper](https://github.com/White-NX/carbonPaper) - An assistant to help you remember everything you see on your PC, like Recall
 - [spyder-ide/spyder](https://github.com/spyder-ide/spyder) - Official repository for Spyder - The Scientific Python Development Environment
-- [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python
+- [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 98+ formats. Available for Rust, Python
 - [Therrion1520/reposicion_wms](https://github.com/Therrion1520/reposicion_wms) - 🟩 Manage stock flow efficiently with Reposición WMS, a lightweight system for small businesses to streamline inventory and restocking processes.
 - [mapproxy/mapproxy](https://github.com/mapproxy/mapproxy) - MapProxy is a tile cache and WMS proxy
 - [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 APIs for web automation, testing, and bypassing bot-detection.
@@ -6898,7 +6914,8 @@
 
 ## rag 
 
-- [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python
+- [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) - A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ curated resources and hands-on examples. 中文 AI agent 學習地圖。
+- [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 98+ formats. Available for Rust, Python
 - [NotJoeMartinez/yt-fts](https://github.com/NotJoeMartinez/yt-fts) - YouTube Full Text Search - Search all of YouTube from the command line
 - [datawhalechina/tiny-universe](https://github.com/datawhalechina/tiny-universe) - 《大模型白盒子构建指南》：一个全手搓的Tiny-Universe
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
@@ -7102,7 +7119,7 @@
 
 ## ruby 
 
-- [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python
+- [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 98+ formats. Available for Rust, Python
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
@@ -7124,7 +7141,7 @@
 - [tomrford/mint](https://github.com/tomrford/mint) - A CLI tool for building hex files from excel data and a layout definition.
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A decentralised discussion platform for communities.
 - [White-NX/carbonPaper](https://github.com/White-NX/carbonPaper) - An assistant to help you remember everything you see on your PC, like Recall
-- [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python
+- [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 98+ formats. Available for Rust, Python
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 - [shencangsheng/easydb_app](https://github.com/shencangsheng/easydb_app) - EasyDB is a lightweight desktop app built with Tauri + Rust, powered by Apache DataFusion. Query local CSV, TSV, Text, NdJson, Excel, Parquet files and MySQL databases directly with SQL — no external 
@@ -7554,7 +7571,7 @@
 - [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) - sqlite3 driver for go using database/sql
 - [vdjagilev/nmap-formatter](https://github.com/vdjagilev/nmap-formatter) - A tool that allows you to convert NMAP results to html, csv, json, markdown, graphviz (dot), sqlite, excel and d2-lang. Simply put it's nmap converter.
 - [sheshbabu/zen](https://github.com/sheshbabu/zen) - Selfhosted notes app. Single golang binary, notes stored as markdown within SQLite, full-text search, very low resource usage
-- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, TypeScript, SQLite and PostgreSQL support ++
+- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, HTTP/2, QUIC, Redis, TypeScript, React 19, SQLite, and PostgreSQL support ++
 - [seanmcbroom/JMdictSQLite](https://github.com/seanmcbroom/JMdictSQLite) - SQLite database for JMdict and Kanjidic, a Japanese-English dictionary. Automatic daily updates.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [mayneyao/eidos](https://github.com/mayneyao/eidos) - An extensible framework for Personal Data Management.
