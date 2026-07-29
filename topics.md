@@ -2027,7 +2027,7 @@
 - [ckampfe/clipurl](https://github.com/ckampfe/clipurl) - 
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
 - [psycopg/psycopg2](https://github.com/psycopg/psycopg2) - PostgreSQL database adapter for the Python programming language
-- [ryjfgjl/DiLuConverter](https://github.com/ryjfgjl/DiLuConverter) - A powerful Excel import and export tool that supports MySQL, Oracle, SQL Server, PostgreSQL and more popular databases
+- [ryjfgjl/ExcelToDatabase](https://github.com/ryjfgjl/ExcelToDatabase) - A powerful Excel import and export tool that supports MySQL, Oracle, SQL Server, PostgreSQL and more popular databases
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [TeslaFly01/SmartSqlT](https://github.com/TeslaFly01/SmartSqlT) - 🔥🔥🔥 SmartSQL 是一款方便、快捷的数据库文档查询、导出工具！该工具从最初支持CHM文档格式开始，通过不断地探索开发、集思广益和不断改进，又陆续支持Word、Excel、PDF、Html、Xml、Json、MarkDown等文档格式的导出。同时支持SqlServer、MySql、PostgreSQL、SQLite等多种数据库的文档查询和导出功能。
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos 
@@ -4677,7 +4677,7 @@
 - [sqlpage/SQLPage](https://github.com/sqlpage/SQLPage) - Fast SQL-only data application builder. Automatically build a UI on top of SQL queries.
 - [macrozheng/mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
-- [ryjfgjl/DiLuConverter](https://github.com/ryjfgjl/DiLuConverter) - A powerful Excel import and export tool that supports MySQL, Oracle, SQL Server, PostgreSQL and more popular databases
+- [ryjfgjl/ExcelToDatabase](https://github.com/ryjfgjl/ExcelToDatabase) - A powerful Excel import and export tool that supports MySQL, Oracle, SQL Server, PostgreSQL and more popular databases
 - [dg/adminer](https://github.com/dg/adminer) - Customizations for Adminer, the best database management tool written in PHP.
 - [sergiovision/FinCore](https://github.com/sergiovision/FinCore) - FinCore is a cool and free cross-platform personal finances manager written in .NET 8 with Angular 14 frontend.
 - [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss) - 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）
@@ -6400,7 +6400,7 @@
 - [sqlpage/SQLPage](https://github.com/sqlpage/SQLPage) - Fast SQL-only data application builder. Automatically build a UI on top of SQL queries.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [psycopg/psycopg2](https://github.com/psycopg/psycopg2) - PostgreSQL database adapter for the Python programming language
-- [ryjfgjl/DiLuConverter](https://github.com/ryjfgjl/DiLuConverter) - A powerful Excel import and export tool that supports MySQL, Oracle, SQL Server, PostgreSQL and more popular databases
+- [ryjfgjl/ExcelToDatabase](https://github.com/ryjfgjl/ExcelToDatabase) - A powerful Excel import and export tool that supports MySQL, Oracle, SQL Server, PostgreSQL and more popular databases
 - [dg/adminer](https://github.com/dg/adminer) - Customizations for Adminer, the best database management tool written in PHP.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
