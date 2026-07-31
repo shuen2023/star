@@ -738,7 +738,6 @@
 - [nobiot/org-remark](https://github.com/nobiot/org-remark) - Highlight & annotate text, EWW, Info, and EPUB
 - [mickeynp/combobulate](https://github.com/mickeynp/combobulate) - Structured Editing and Navigation in Emacs with Tree-Sitter
 - [misohena/el-easydraw](https://github.com/misohena/el-easydraw) - Embedded drawing tool for Emacs
-- [tanrax/lirve.el](https://github.com/tanrax/lirve.el) - Learn irregular verbs in English with Emacs
 - [lorniu/mpvi](https://github.com/lorniu/mpvi) - Watch video and take interactive video notes in Emacs.
 - [tumashu/pyim](https://github.com/tumashu/pyim) - 一个 emacs 中文输入法，支持全拼，双拼，五笔，仓颉和Rime，pyim 是 GNU elpa 包。
 - [emacs-eask/cli](https://github.com/emacs-eask/cli) - CLI for building, running, testing, and managing your Emacs Lisp dependencies
@@ -1834,6 +1833,7 @@
 
 ## Others 
 
+- [OrionBrowser/ProgrammableButtons](https://github.com/OrionBrowser/ProgrammableButtons) - Open source code for programmable buttons in Orion browser.
 - [MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3) - Open Frontier Intelligence
 - [jesusninoc/ClasesISO](https://github.com/jesusninoc/ClasesISO) - Clases de Implantación de Sistemas Operativos
 - [itsjiselle/allyouneedforlistening](https://github.com/itsjiselle/allyouneedforlistening) - materials from youtube/bilibili/tv shows，with timestamped srt subtitle， aiming to level up English by listening
@@ -1985,6 +1985,7 @@
 - [chen32768/zhengma_for_rime](https://github.com/chen32768/zhengma_for_rime) - 用于Rime输入法的郑码方案
 - [qq943260285/tampermonkey-recruitment-tool](https://github.com/qq943260285/tampermonkey-recruitment-tool) - 高级求职助手 招聘网站助手（Tampermonkey脚本），1.快捷添加公司企业黑名单，眼不见心不烦；2.支持全网热门招聘网站，前程无忧、智联招聘、BOSS直聘、拉钩网、猎聘网、百度百聘、58同城；3.快捷公司企业信息查询，支持天眼查、看准、企查查、爱企查、百度信誉、百度搜索；4.全网招聘网站黑名单数据连通，一站添加，全网使用。
 - [lqzhgood/Shmily](https://github.com/lqzhgood/Shmily) - 这是一个 ( QQ Wechat 短信 通话记录 照片 等) 记录导出归档的 大 项目.
+- [tanrax/lirve.el](https://github.com/tanrax/lirve.el) - Learn irregular verbs in English with Emacs
 - [gkovacs/rime-japanese](https://github.com/gkovacs/rime-japanese) - 日语输入法 Input method for typing Japanese with RIME
 - [SkyWorkAIGC/SkyCode-AI-CodeX-GPT3](https://github.com/SkyWorkAIGC/SkyCode-AI-CodeX-GPT3) - SkyCode是一个多语言开源编程大模型，采用GPT3模型结构，支持Java, JavaScript, C, C++,  Python, Go, shell等多种主流编程语言，并能理解中文注释。模型可以对代码进行补全，拥有强大解题能力，使您从编程中解放出来，专心于解决更重要的问题。| SkyCode is an open source programming model, which adopts
 - [xaoyaoo/PyWxDump](https://github.com/xaoyaoo/PyWxDump) - 删库
@@ -2682,6 +2683,7 @@
 
 ## Rust 
 
+- [Muvon/octoweb](https://github.com/Muvon/octoweb) - Dead simple AI-loaded browser for geeks
 - [YGTQ3/disk-butler](https://github.com/YGTQ3/disk-butler) - C盘管家 - 给普通人的 Windows 磁盘与内存维护助手 (Tauri 2 + React)
 - [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC and LLVM.
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
@@ -3187,7 +3189,7 @@
 - [evo-family/evo-chat](https://github.com/evo-family/evo-chat) - Evo Chat（Evolution Chat）是一个现代化的开源 AI 对话平台，致力于打造最优雅的大模型交互入口。它支持对接 ChatGPT，Deepseak， 等主流大语言模型（LLM）服务商，并在此基础上不断进化，识库增强、多模态处理、MCP（Model Control Protocol）等扩展能力，让 AI 能力更加丰富。支持全平台部署（Web、App、Windows、Mac、Linux
 - [nocokit/noco-form](https://github.com/nocokit/noco-form) - 拖拉拽低代码表单
 - [Budibase/budibase](https://github.com/Budibase/budibase) - AI agents, automations and apps that run your operations. Model agnostic.
-- [kortix-ai/suna](https://github.com/kortix-ai/suna) - The Company AI Command Center
+- [kortix-ai/suna](https://github.com/kortix-ai/suna) - The open-source AI Management System
 - [AmoyLab/Unla](https://github.com/AmoyLab/Unla) - 🧩 MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes. Features Docker deployment and management UI, requiring n
 - [worryzyy/HowToCook-mcp](https://github.com/worryzyy/HowToCook-mcp) - 基于Anduin2017 / HowToCook （程序员在家做饭指南）的mcp server
 - [jancarauma/palaviva](https://github.com/jancarauma/palaviva) - Learning with texts (LWT) open-source language app that tracks word familiarity and translations while reading articles.
@@ -3233,7 +3235,7 @@
 - [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
-- [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
+- [codexu/note-gen](https://github.com/codexu/note-gen) - Capture first. Organize later. A local-first Markdown app that turns scattered records into clear notes with AI.
 - [arikchakma/maily.to](https://github.com/arikchakma/maily.to) - Craft beautiful emails effortlessly with Maily, the powerful email editor that ensures impeccable communication across all major clients.
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
 - [zasper-io/zasper](https://github.com/zasper-io/zasper) - High Performace IDE for Jupyter Notebooks
