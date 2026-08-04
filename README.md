@@ -143,6 +143,7 @@
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
 - [hfiref0x/WDExtract](https://github.com/hfiref0x/WDExtract) - Extract Windows Defender database from vdm files and unpack it
 - [libtom/libtommath](https://github.com/libtom/libtommath) - LibTomMath is a free open source portable number theoretic multiple-precision integer library written entirely in C.
+- [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
 - [nuta/operating-system-in-1000-lines](https://github.com/nuta/operating-system-in-1000-lines) - Writing an OS in 1,000 lines.
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [schwabe/ics-openvpn](https://github.com/schwabe/ics-openvpn) - OpenVPN for Android
@@ -303,7 +304,6 @@
 - [Achuan-2/SlideSCI](https://github.com/Achuan-2/SlideSCI) - PPT插件，支持素材库、AI助手、一键添加图片标题，复制粘贴位置、一键图片对齐、一键插入Markdown（加粗、超链接等行内样式、代码块、LaTeX等块级样式）、便捷导出图片！
 - [Mzying2001/CefFlashBrowser](https://github.com/Mzying2001/CefFlashBrowser) - Flash浏览器 / Flash Browser
 - [Jitendex/Jitendex](https://github.com/Jitendex/Jitendex) - A free, offline, and openly licensed Japanese-to-English dictionary. Updates monthly!
-- [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
 - [ariacom/Seal-Report](https://github.com/ariacom/Seal-Report) - Database Reporting Tool and Tasks (.Net)
 - [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - Downloads videos and playlists from YouTube
 - [SpaceTimee/Sheas-Cealer-Droid](https://github.com/SpaceTimee/Sheas-Cealer-Droid) - Ceal It (可用于无代理合法抵御网络监听和开展网络研究)
@@ -384,6 +384,7 @@
 
 ## C++ 
 
+- [LibreCAD/LibreCAD](https://github.com/LibreCAD/LibreCAD) - LibreCAD is a cross-platform 2D CAD program. It can read DXF/DWG, and write DXF/DWG/PDF/SVG files. It supports point/line/circle/ellipse/parabola/hyperbola/spline primitives. The GUI is highly customi
 - [sky12378/Window2Clear](https://github.com/sky12378/Window2Clear) - Windows window transparency control tool
 - [khan9t2zishan/gfg-potd](https://github.com/khan9t2zishan/gfg-potd) - This repository is a collection of C++ codes for Geeks for Geeks problem of the Day.
 - [Zee2/openwarp](https://github.com/Zee2/openwarp) - Free and open source spatial reprojection for XR.
@@ -675,6 +676,7 @@
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [mylxsw/aidea](https://github.com/mylxsw/aidea) - An APP that integrates mainstream large language models and image generation models, built with Flutter, with fully open-source code.
 - [LinwoodDev/Butterfly](https://github.com/LinwoodDev/Butterfly) - 🎨 Powerful, minimalistic, cross-platform, opensource note-taking app
+- [qaul/qaul.net](https://github.com/qaul/qaul.net) - Internet Independent Wireless Mesh Communication App
 - [saber-notes/saber](https://github.com/saber-notes/saber) - The cross-platform open-source app built for handwriting
 - [piggyvault/piggyvault](https://github.com/piggyvault/piggyvault) - Family finance management app.
 - [gpalleschi/WBadge](https://github.com/gpalleschi/WBadge) - Flutter Android App to record and manage weekly time stamps
@@ -2685,6 +2687,7 @@
 - [Muvon/octoweb](https://github.com/Muvon/octoweb) - Dead simple AI-loaded browser for geeks
 - [YGTQ3/disk-butler](https://github.com/YGTQ3/disk-butler) - C盘管家 - 给普通人的 Windows 磁盘与内存维护助手 (Tauri 2 + React)
 - [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC and LLVM.
+- [phc260/kokoro-kindle-reader](https://github.com/phc260/kokoro-kindle-reader) - Offline Kokoro TTS that lets Kindle for PC (Kindle Cloud Reader in the future) read books aloud using WebGPU-synthesized speech.
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [cyph3rpuNk-dev/Nomad-Launcher](https://github.com/cyph3rpuNk-dev/Nomad-Launcher) - Single-file portable browser launchers for Windows, written in Rust. Each launcher downloads and verifies its browser, applies privacy hardening, and cleans up host traces when it exits.
 - [Wangnov/Codex-App-Manager](https://github.com/Wangnov/Codex-App-Manager) - 跨平台官方 Codex 桌面应用的安装 / 增量更新 / 干净卸载管理器，内置国内可达的镜像自更新。Cross-platform installer & updater for the official Codex desktop app — incremental updates, clean uninstall, China-reachable self-update.
@@ -2892,7 +2895,6 @@
 - [getsentry/sentry-cli](https://github.com/getsentry/sentry-cli) - A command line utility to work with Sentry.
 - [floneum/kalosm](https://github.com/floneum/kalosm) - Instant, controllable, local pre-trained AI models in Rust
 - [ChanTsune/slice](https://github.com/ChanTsune/slice) - Slice is a command-line tool written in Rust that allows you to slice the contents of a file using syntax similar to Python's slice notation.
-- [qaul/qaul.net](https://github.com/qaul/qaul.net) - Internet Independent Wireless Mesh Communication App
 - [obi1kenobi/trustfall](https://github.com/obi1kenobi/trustfall) - A query engine for any combination of data sources. Query your files and APIs as if they were databases!
 - [jamestthompson3/tendril-wiki](https://github.com/jamestthompson3/tendril-wiki) - Personal knowledge management tool
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
@@ -3077,9 +3079,9 @@
 
 ## TypeScript 
 
+- [trycompai/crm](https://github.com/trycompai/crm) - An open-source, agentic-first CRM.
 - [davisriedel/obsidian-typewriter-mode](https://github.com/davisriedel/obsidian-typewriter-mode) - Typewriter Mode is a plugin that adds typewriter scrolling (current line stays at a fixed position on the screen), a highlight for the current line, dimming of unfocused paragraphs and more to Obsidia
 - [jimytao/lexicon](https://github.com/jimytao/lexicon) - Lexicon — English learning tool for Chinese speakers. Dictionary (52k OALD9 entries) + AI-powered semantic analysis + image translation. Web / Windows / Android.
-- [phc260/kokoro-kindle-reader](https://github.com/phc260/kokoro-kindle-reader) - Offline Kokoro TTS that lets Kindle for PC (Kindle Cloud Reader in the future) read books aloud using WebGPU-synthesized speech.
 - [Retrorerr/Folio](https://github.com/Retrorerr/Folio) - Hear any book read aloud, on every page.
 - [L-M-Sherlock/kanabr](https://github.com/L-M-Sherlock/kanabr) - Adaptive Japanese kana typing practice (hiragana + katakana) with romaji input.
 - [StellavacuaLuxumbra/ZhaoMemsweep](https://github.com/StellavacuaLuxumbra/ZhaoMemsweep) - a lite exefile for sweep windows runtime memory
@@ -3314,7 +3316,7 @@
 - [LalanaChami/Pharmacy-Mangment-System](https://github.com/LalanaChami/Pharmacy-Mangment-System) - 👨‍💻 :hospital: MEAN stack Pharmacy Management system.
 - [robbie-cahill/tunnelmole-client](https://github.com/robbie-cahill/tunnelmole-client) - Tunnelmole - Connect to local servers from anywhere
 - [tscircuit/tscircuit](https://github.com/tscircuit/tscircuit) - Create real electronics with Typescript and React
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
 - [chenfan0/fideo-live-record](https://github.com/chenfan0/fideo-live-record) - A convenient live broadcast recording software! Supports Tiktok, Youtube, Twitch, Bilibili, Bigo!(一款方便的直播录制软件! 支持tiktok, youtube, twitch, 抖音，虎牙，斗鱼，快手，微博，网易cc，bilibili，花椒, 淘宝, 京东)
 - [ljcoder2015/obsidian-sheet-plus](https://github.com/ljcoder2015/obsidian-sheet-plus) - obsidian spreadsheets solutions
 - [lzwme/m3u8-dl](https://github.com/lzwme/m3u8-dl) - A command-line tool for batch downloading m3u8 format videos. 一个 m3u8 视频文件批量下载工具，支持PC客户端、浏览器、命令行、API调用、docker部署多种形式使用，支持m3u8文件自动嗅探一键下载。
