@@ -384,6 +384,7 @@
 
 ## C++ 
 
+- [imputnet/helium-windows](https://github.com/imputnet/helium-windows) - Helium Browser for Windows
 - [LibreCAD/LibreCAD](https://github.com/LibreCAD/LibreCAD) - LibreCAD is a cross-platform 2D CAD program. It can read DXF/DWG, and write DXF/DWG/PDF/SVG files. It supports point/line/circle/ellipse/parabola/hyperbola/spline primitives. The GUI is highly customi
 - [sky12378/Window2Clear](https://github.com/sky12378/Window2Clear) - Windows window transparency control tool
 - [khan9t2zishan/gfg-potd](https://github.com/khan9t2zishan/gfg-potd) - This repository is a collection of C++ codes for Geeks for Geeks problem of the Day.
@@ -796,6 +797,7 @@
 
 ## Go 
 
+- [lunanetdev/lunauctl](https://github.com/lunanetdev/lunauctl) - Luna Update Control is a command-line Windows utility that gives you full, persistent control over Windows Update — including the ability to disable Microsoft's self-healing mechanisms that typically 
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [Presto-io/Presto](https://github.com/Presto-io/Presto) - Markdown → Typst → PDF 桌面排版工具
@@ -1038,7 +1040,7 @@
 - [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) - Open source emojis for designers, developers and everyone else!
 - [DiamonWoo/Laosheng.top](https://github.com/DiamonWoo/Laosheng.top) - 老生常谈，节约您的搜寻时间。Laosheng.top 一带一路民间站，全球免费云媒体，五大洲的报纸、电视、通讯社；The Belt and Road Cloud Media。　外交国别速查表，央企股票全家福。高等院校三千所，国际组织四大类。　中国法律简目，大萌法律读本。老生常谈排行榜，难搜到的好网站。　LSIP 大规模集成网页。😤
 - [EugeneZakhno/englishmap](https://github.com/EugeneZakhno/englishmap) - The Map of English grammar rules.
-- [amir4v/All-English-Words](https://github.com/amir4v/All-English-Words) - All English Words
+- [AmirTeacher/All-English-Words](https://github.com/AmirTeacher/All-English-Words) - All English Words
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
 - [alexherbo2/krabby](https://github.com/alexherbo2/krabby) - A keyboard interface to the web, inspired by Kakoune
 - [i0Ek3/niter.top](https://github.com/i0Ek3/niter.top) - i0Ek3's personal website, welcome to my galaxy.
@@ -3405,7 +3407,7 @@
 - [total-typescript/beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) - An interactive TypeScript tutorial for beginners
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [basarat/typescript-book](https://github.com/basarat/typescript-book) - :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
-- [Laer-Smart/2anki.net](https://github.com/Laer-Smart/2anki.net) - Server to create Anki flashcards faster, easier and better today ⭐️
+- [2anki/2anki.net](https://github.com/2anki/2anki.net) - Server to create Anki flashcards faster, easier and better today ⭐️
 - [toqvist/AnkiHelper](https://github.com/toqvist/AnkiHelper) - A tool for creating Anki flashcards.
 - [ahonn/logseq-plugin-todo](https://github.com/ahonn/logseq-plugin-todo) - A simple to-do list plugin for logseq
 - [npgrosser/logseq-diagrams-as-code](https://github.com/npgrosser/logseq-diagrams-as-code) - Logseq plugin that lets you create diagrams from textual representation (aka 'Diagrams as Code'). It supports a wide range of diagram types and languages, including Mermaid, Graphviz, PlantUML, and ma
