@@ -5150,6 +5150,7 @@
 
 ## others 
 
+- [imputnet/helium-windows](https://github.com/imputnet/helium-windows) - Helium Browser for Windows
 - [trycompai/crm](https://github.com/trycompai/crm) - An open-source, agentic-first CRM.
 - [OrionBrowser/ProgrammableButtons](https://github.com/OrionBrowser/ProgrammableButtons) - Open source code for programmable buttons in Orion browser.
 - [HarleyCoops/KimiK3Manim](https://github.com/HarleyCoops/KimiK3Manim) - Create epic math and physics explainer animations with Kimi K3.
@@ -5948,7 +5949,7 @@
 - [Areso/English-exercises](https://github.com/Areso/English-exercises) - English grammar exercises in English language
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
 - [ethanforvest/WordCaveWeb](https://github.com/ethanforvest/WordCaveWeb) - WordCave is an online dictionary that has simplified definitions coupled with related images/gifs for English words. Visit the link below to see the project! ⬇
-- [amir4v/All-English-Words](https://github.com/amir4v/All-English-Words) - All English Words
+- [AmirTeacher/All-English-Words](https://github.com/AmirTeacher/All-English-Words) - All English Words
 - [jianchang512/stt](https://github.com/jianchang512/stt) - Voice Recognition to Text Tool / 一个离线运行的本地音视频转字幕工具，输出json、srt字幕、纯文字格式
 - [lqzhgood/Shmily](https://github.com/lqzhgood/Shmily) - 这是一个 ( QQ Wechat 短信 通话记录 照片 等) 记录导出归档的 大 项目.
 - [wongsingfo/86wubi](https://github.com/wongsingfo/86wubi) - 86五笔网页端在线练习
@@ -6139,7 +6140,7 @@
 - [mattboldt/typed.js](https://github.com/mattboldt/typed.js) - A JavaScript Typing Animation Library
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [Yevhen-Tkachenko-1/SQL-Development-Demo](https://github.com/Yevhen-Tkachenko-1/SQL-Development-Demo) - Learn and play with SQL Database: make query for data reading, creating, updating, deleting
-- [Laer-Smart/2anki.net](https://github.com/Laer-Smart/2anki.net) - Server to create Anki flashcards faster, easier and better today ⭐️
+- [2anki/2anki.net](https://github.com/2anki/2anki.net) - Server to create Anki flashcards faster, easier and better today ⭐️
 - [danielt998/HanziToAnki](https://github.com/danielt998/HanziToAnki) - This is a program that takes a Chinese text as input and converts it to an Anki Deck. It has both CLI and API server/web UI modes.
 - [oxoxoxbadox/congenial-memory](https://github.com/oxoxoxbadox/congenial-memory) - 日语五十音图 anki卡包
 - [DillonWall/generate-batch-audio-anki-addon](https://github.com/DillonWall/generate-batch-audio-anki-addon) - An addon that downloads and attaches audio to flashcards in bulk from URLs. Made for Anki, an SRS flashcard application
@@ -8389,6 +8390,7 @@
 
 ## windows 
 
+- [lunanetdev/lunauctl](https://github.com/lunanetdev/lunauctl) - Luna Update Control is a command-line Windows utility that gives you full, persistent control over Windows Update — including the ability to disable Microsoft's self-healing mechanisms that typically 
 - [jesusninoc/ClasesISO](https://github.com/jesusninoc/ClasesISO) - Clases de Implantación de Sistemas Operativos
 - [YTxFSGAMERz/WinAurex-OS-Builder](https://github.com/YTxFSGAMERz/WinAurex-OS-Builder) - Zero-Bloat Windows 11 Image Engineering Framework. Compiles lightweight, telemetry-free ISOs using native DISM tools.
 - [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC and LLVM.
