@@ -993,6 +993,7 @@
 
 ## HTML 
 
+- [iamrahul-git/Termux-Script-Implementation-Guide](https://github.com/iamrahul-git/Termux-Script-Implementation-Guide) - Termux Scripting Guide 2026 📱 | Master Android Automation & Hacks 🚀
 - [aliuoluyemi7-prog/ExamWiseNG](https://github.com/aliuoluyemi7-prog/ExamWiseNG) - ExamWiseNG — Offline-first JAMB CBT practice app + original questions across Economics, Chemistry, Biology, Physics, Mathematics, and English. Single-file HTML/CSS/JS, no backend required.
 - [qq823414713-dotcom/english-ipa-study](https://github.com/qq823414713-dotcom/english-ipa-study) - 完整英语音标对照表与雅思托福30天词汇学习计划
 - [gipapa/english_word_card](https://github.com/gipapa/english_word_card) - A lightweight, GitHub Pages–ready English vocabulary flashcard site for TXXX candidates, featuring 1,000+ commonly used workplace and semiconductor-related words.
@@ -1198,10 +1199,8 @@
 
 - [Maksonik/en-learn-google-extension](https://github.com/Maksonik/en-learn-google-extension) - Chrome extension for En Learn — save and look up English words while browsing the web.
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
-- [win12-online/win12](https://github.com/win12-online/win12) - Win12 Online
 - [OpenSenseNova/SenseNova-Skills](https://github.com/OpenSenseNova/SenseNova-Skills) - Modular SenseNova skills for building AI-powered office assistants and productivity workflows
 - [sharp4real/privoobrowser](https://github.com/sharp4real/privoobrowser) - See what your missing out on and try Privoo Desktop Browser today for free!
-- [iziz/RuruGrab](https://github.com/iziz/RuruGrab) - Custom desktop app and Chrome/Edge extensions for personal use
 - [UltraHackerDog/Hokus](https://github.com/UltraHackerDog/Hokus) - Hokus is a Chrome extension that helps you learn Chinese by replacing English words on web pages with HSK 2.0 vocabulary (Levels 1–6). Learn passively while browsing with hover translations, pinyin, a
 - [wamich/personal-vocabulary](https://github.com/wamich/personal-vocabulary) - 「个人词库」是一款浏览器插件。 用于英文阅读时，不断记住生词，构建个人词库。
 - [mosheng1/QuickClipboard](https://github.com/mosheng1/QuickClipboard) - QuickClipboard 是一款跨平台剪贴板增强工具（现支持Windows，Android），基于 Tauri 2 + Rust + React 构建。它在你复制的那一刻就开始工作——自动记录文本、图片、富文本、文件，让你随时找回曾经复制过的任何内容。不只是记录，QuickClipboard 还集成了截图、贴图、OCR、局域网同步等能力，是日常办公效率的全面提升
@@ -1390,7 +1389,7 @@
 - [breck7/pldb](https://github.com/breck7/pldb) - PLDB: a Programming Language DataBase
 - [rust-lang-cn/style-guide-cn](https://github.com/rust-lang-cn/style-guide-cn) - Rust 语言风格指南 中文版——Chinese translation of The Rust Style Guide
 - [rust-lang-cn/rustdoc-cn](https://github.com/rust-lang-cn/rustdoc-cn) - rustdoc 手册 中文版————Chinese translation of The rustdoc Book
-- [0xGG/crossnote-app](https://github.com/0xGG/crossnote-app) - 📝 An interesting markdown note taking application
+- [0xGG/crossnote-app](https://github.com/0xGG/crossnote-app) - 📝 Local-first markdown notebook - notes live in your browser or local folders as plain markdown files, synced with in-browser git. No server, no account, works offline.
 - [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) - Acode - powerful text/code editor for android
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
@@ -1486,6 +1485,7 @@
 
 ## Kotlin 
 
+- [maazm7d/TermuxHub](https://github.com/maazm7d/TermuxHub) - Your App Store for Termux tools.
 - [plainhub/plain-app](https://github.com/plainhub/plain-app) - 🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your deskto
 - [duckduckgo/Android](https://github.com/duckduckgo/Android) - DuckDuckGo Android App
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
@@ -1937,7 +1937,6 @@
 - [photopea/photopea](https://github.com/photopea/photopea) - Photopea is online image editor
 - [tech-shrimp/docker_image_pusher](https://github.com/tech-shrimp/docker_image_pusher) - 使用Github Action将国外的Docker镜像转存到阿里云私有仓库，供国内服务器使用，免费易用
 - [tsw369/sqlcipher](https://github.com/tsw369/sqlcipher) - 能打开微信sqlite数据库的软件
-- [i0Ek3/English-Killer](https://github.com/i0Ek3/English-Killer) - English test killer.
 - [datawhalechina/so-large-lm](https://github.com/datawhalechina/so-large-lm) - 大模型基础: 一文了解大模型基础知识
 - [githubvpn007/Clash-for-Windows](https://github.com/githubvpn007/Clash-for-Windows) - Clash for Windows使用教程，Clash-for-Windows配置，Clash-for-Windows说明，Clash-for-Windows
 - [bleedline/aimoneyhunter](https://github.com/bleedline/aimoneyhunter) - ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version 
@@ -2124,6 +2123,7 @@
 ## PowerShell 
 
 - [YTxFSGAMERz/WinAurex-OS-Builder](https://github.com/YTxFSGAMERz/WinAurex-OS-Builder) - Zero-Bloat Windows 11 Image Engineering Framework. Compiles lightweight, telemetry-free ISOs using native DISM tools.
+- [Mexit/MultiOS-USB](https://github.com/Mexit/MultiOS-USB) - Boot operating systems directly from ISO/WIM images
 - [BryantWelch/Spreadsheet-Wrangler](https://github.com/BryantWelch/Spreadsheet-Wrangler) - A PowerShell GUI tool for backing up folders and combining spreadsheets with advanced options for data manipulation and configuration management.
 - [mggons93/Office-Online-Installer](https://github.com/mggons93/Office-Online-Installer) - Este script está diseñado para la instalación, activación, y conversion de Office 365 a las ediciones mas usadas
 - [EhTagTranslation/Database](https://github.com/EhTagTranslation/Database) - EhTagTranslation 项目的翻译数据。
@@ -2219,7 +2219,6 @@
 - [lllyasviel/FramePack](https://github.com/lllyasviel/FramePack) - Lets make video diffusion practical!
 - [oomol-lab/pdf-craft](https://github.com/oomol-lab/pdf-craft) - PDF craft can convert PDF files into various other formats. This project will focus on processing PDF files of scanned books.
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking
-- [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - A list of free LLM inference resources accessible via API.
 - [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo) - Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
@@ -2377,7 +2376,7 @@
 - [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
 - [home-assistant/operating-system](https://github.com/home-assistant/operating-system) - :beginner: Home Assistant Operating System
-- [MiForge/MiTool](https://github.com/MiForge/MiTool) - MiTool : without a PC (using another phone via Termux), allows you to unlock the bootloader, flash ROMs, ... and offers many other features for Xiaomi devices
+- [MiForge/MiTool](https://github.com/MiForge/MiTool) - Unlock the bootloader, flash ROMs, and more for Xiaomi devices (no PC needed, works from another phone via Termux).
 - [snooppr/snoop](https://github.com/snooppr/snoop) - Snoop — инструмент разведки на основе открытых данных (OSINT world)
 - [TermuxHackz/X-osint](https://github.com/TermuxHackz/X-osint) - This is an Open source intelligent framework ie an osint tool which gathers valid information about a phone number, user's email address, perform VIN Osint, and reverse, perform subdomain enumeration,
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
@@ -2543,7 +2542,7 @@
 - [joouha/euporie](https://github.com/joouha/euporie) - Jupyter notebooks in the terminal
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [VandalByte/darkmatter-grub2-theme](https://github.com/VandalByte/darkmatter-grub2-theme) - Dark Matter GRUB Theme  👾💙
-- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
+- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.
 - [cpp-linter/clang-tools-pip](https://github.com/cpp-linter/clang-tools-pip) - Install clang-format, clang-tidy, clang-query, clang-apply-replacements and clang-include-cleaner binaries with clang-tools CLI.
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [thecodeofdaniel/rEFInd-Setup](https://github.com/thecodeofdaniel/rEFInd-Setup) - Setup your refind.conf and your theme.conf with a modern theme for rEFInd!
@@ -2949,7 +2948,6 @@
 ## Shell 
 
 - [Omnicapable/codex-tts](https://github.com/Omnicapable/codex-tts) - Omnicapable Voice for Codex: local, offline text-to-speech that reads its replies aloud. Free, private, no API keys.
-- [Mexit/MultiOS-USB](https://github.com/Mexit/MultiOS-USB) - Boot operating systems directly from ISO/WIM images
 - [yuanpeirong/UUPdumpWinISO](https://github.com/yuanpeirong/UUPdumpWinISO) - 使用UUP dump制作Windows 10/11 ISO镜像
 - [yonggekkk/argosbx](https://github.com/yonggekkk/argosbx) - 小白自建代理神器！ArgoSBX一键无交互小钢炮脚本💣：Sing-box、Xray、Argo三内核自动搭配；支持VPS、Docker、容器多环境部署；套CDN的5大方案+套WARP的15种组合；已支持协议：Naiveproxy、AnyTLS、Any-reality、Vless-xhttp-reality-vision-enc、Vless-tcp-reality-vision、Vless-xhttp
 - [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos) - Archlinux Kernel based on different schedulers and some other performance improvements.
@@ -3082,7 +3080,9 @@
 
 ## TypeScript 
 
-- [trycompai/crm](https://github.com/trycompai/crm) - An open-source, agentic-first CRM.
+- [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks
+- [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) - Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone 
+- [trycompai/crm](https://github.com/trycompai/crm) - Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 - [davisriedel/obsidian-typewriter-mode](https://github.com/davisriedel/obsidian-typewriter-mode) - Typewriter Mode is a plugin that adds typewriter scrolling (current line stays at a fixed position on the screen), a highlight for the current line, dimming of unfocused paragraphs and more to Obsidia
 - [jimytao/lexicon](https://github.com/jimytao/lexicon) - Lexicon — English learning tool for Chinese speakers. Dictionary (52k OALD9 entries) + AI-powered semantic analysis + image translation. Web / Windows / Android.
 - [Retrorerr/Folio](https://github.com/Retrorerr/Folio) - Hear any book read aloud, on every page.
