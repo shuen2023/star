@@ -45,6 +45,7 @@
 - [clash](#clash)
 - [claude](#claude)
 - [claude-code](#claude-code)
+- [claude-skills](#claude-skills)
 - [cli](#cli)
 - [clojure](#clojure)
 - [cloud](#cloud)
@@ -326,6 +327,7 @@
 
 ## agent 
 
+- [MasayukiTa/m365-copilot-companion-mcp](https://github.com/MasayukiTa/m365-copilot-companion-mcp) - Personal-use MCP server that gives Microsoft 365 Copilot real hands on your own laptop: files, Python, Office, SQL, Web. 100+ tools, autonomous relay, easily extensible, no extra licences.
 - [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) - Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone 
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
 - [OpenSenseNova/SenseNova-Skills](https://github.com/OpenSenseNova/SenseNova-Skills) - Modular SenseNova skills for building AI-powered office assistants and productivity workflows
@@ -393,7 +395,7 @@
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [thewh1teagle/vibe](https://github.com/thewh1teagle/vibe) - Transcribe on your own!
 - [echo-loop/Echo-Loop](https://github.com/echo-loop/Echo-Loop) - Echo Loop 是一款科学、高效的 AI 英语听说训练 App，通过盲听、精听、跟读、复述和间隔复习，自动驱动学习者把每一段音频真正练懂、练熟、练到会说。
-- [matthiasn/lotti](https://github.com/matthiasn/lotti) - Open-source private logbook with a local agentic layer. Long-living AI agents read what you record and propose what to do next. Hardware permitting, the models runs locally too. Matrix + Vodozemac for
+- [matthiasn/lotti](https://github.com/matthiasn/lotti) - A private logbook with a staff of personal AI assistants. Agents read what you record and propose what to do next — you approve the changes. End-to-end encrypted sync between your own devices — server
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 - [spmallick/learnopencv](https://github.com/spmallick/learnopencv) - Learn OpenCV  : C++ and Python Examples
@@ -522,7 +524,7 @@
 - [Muvon/octoweb](https://github.com/Muvon/octoweb) - Dead simple AI-loaded browser for geeks
 - [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) - A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ curated resources and hands-on examples. 中文 AI agent 學習地圖。
 - [Omnicapable/codex-tts](https://github.com/Omnicapable/codex-tts) - Omnicapable Voice for Codex: local, offline text-to-speech that reads its replies aloud. Free, private, no API keys.
-- [matthiasn/lotti](https://github.com/matthiasn/lotti) - Open-source private logbook with a local agentic layer. Long-living AI agents read what you record and propose what to do next. Hardware permitting, the models runs locally too. Matrix + Vodozemac for
+- [matthiasn/lotti](https://github.com/matthiasn/lotti) - A private logbook with a staff of personal AI assistants. Agents read what you record and propose what to do next — you approve the changes. End-to-end encrypted sync between your own devices — server
 - [Project-N-E-K-O/N.E.K.O](https://github.com/Project-N-E-K-O/N.E.K.O) - A catgirl who lives with you in real time — reaching out first, sharing your media, and actually getting things done, powered by an embodied emotional engine.🐱❤️一只会主动找你玩的 AI 猫娘。
 - [OpenSenseNova/SenseNova-Skills](https://github.com/OpenSenseNova/SenseNova-Skills) - Modular SenseNova skills for building AI-powered office assistants and productivity workflows
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
@@ -1066,6 +1068,7 @@
 
 ## automation 
 
+- [MasayukiTa/m365-copilot-companion-mcp](https://github.com/MasayukiTa/m365-copilot-companion-mcp) - Personal-use MCP server that gives Microsoft 365 Copilot real hands on your own laptop: files, Python, Office, SQL, Web. 100+ tools, autonomous relay, easily extensible, no extra licences.
 - [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) - Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone 
 - [the-sudipta/ExeFoundry](https://github.com/the-sudipta/ExeFoundry) - Portable BAT→EXE converter for Windows — turn .bat into a single .exe (custom icon, console/GUI, arg forwarding; no admin).
 - [fzumstein/python-for-excel](https://github.com/fzumstein/python-for-excel) - This is the companion repo of the O'Reilly book "Python for Excel".
@@ -1440,7 +1443,6 @@
 - [SatyamVyas04/better-home](https://github.com/SatyamVyas04/better-home) - A minimal, delightful new-tab replacement for Chromium browsers
 - [nojaja/memopad-new-tab](https://github.com/nojaja/memopad-new-tab) - Chrome extension to save a note with Markdown directly on the "New Tab" page
 - [huangyxi/tab-positioner](https://github.com/huangyxi/tab-positioner) - A Chrome Extension for Tab Positioning Control
-- [Nuragari/cracked-webpage-note-taker-extension](https://github.com/Nuragari/cracked-webpage-note-taker-extension) - 📝 Create notes and manage tasks seamlessly with this customizable Chrome extension for enhanced productivity across all platforms.
 - [chethanyadav456/JSON-Downloader](https://github.com/chethanyadav456/JSON-Downloader) - A minimal Chrome extension for downloading JSON data from web pages or URLs with a single click. Features automatic JSON detection with a floating download button and a clean, modern UI. Privacy-focus
 - [ttop32/MouseTooltipTranslator](https://github.com/ttop32/MouseTooltipTranslator) - Mouseover Translate Any Language At Once - Chrome Extension: PDF Translator, EBOOK, EPUB, OCR, TTS, NETFLIX, YOUTUBE DUAL SUBTITLES, GOOGLE DOCS, AI, VIEWER, GMAIL, WRITING, IMAGE, DUAL SUBS, MANGA, H
 - [abhijithvijayan/web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter) - 🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
@@ -1500,6 +1502,7 @@
 
 ## claude 
 
+- [MasayukiTa/m365-copilot-companion-mcp](https://github.com/MasayukiTa/m365-copilot-companion-mcp) - Personal-use MCP server that gives Microsoft 365 Copilot real hands on your own laptop: files, Python, Office, SQL, Web. 100+ tools, autonomous relay, easily extensible, no extra licences.
 - [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
@@ -1535,6 +1538,11 @@
 - [heshengtao/super-agent-party](https://github.com/heshengtao/super-agent-party) - ⭐ All-in-one AI companion! Super Agent Party = Self hosted neuro sama + openclaw! ⭐ 全能AI伴侣！超级智能体派对 = 自托管neuro sama + openclaw!
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.6 Series, Grok 4.5, Claude model 
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
+
+## claude-skills 
+
+- [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) - A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ curated resources and hands-on examples. 中文 AI agent 學習地圖。
+- [gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper) - scrape data  from Google Maps. Extracts data such as the name, address, phone number, website URL, rating,  reviews number, latitude and longitude, reviews,email and more for each place
 
 ## cli 
 
@@ -1870,6 +1878,7 @@
 
 ## cybersecurity 
 
+- [TheSilentOne-creator/The-Night-Keeper-s-Book](https://github.com/TheSilentOne-creator/The-Night-Keeper-s-Book) - A bilingual (Zh/En), open-source learning journey from zero to cybersecurity. Includes tutorials, notes, and practice code.
 - [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 - [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM, 8-bit AVR and 32-bit RISC-V architectures.
@@ -2305,6 +2314,7 @@
 
 ## electron 
 
+- [TTLApp/time-to-leave](https://github.com/TTLApp/time-to-leave) - Log work hours and get notified when it's time to leave the office and start to live.
 - [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) - Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone 
 - [sharp4real/privoobrowser](https://github.com/sharp4real/privoobrowser) - See what your missing out on and try Privoo Desktop Browser today for free!
 - [MultiboxLabs/flow-browser](https://github.com/MultiboxLabs/flow-browser) - A modern, privacy-focused browser with a minimalistic design.
@@ -2440,6 +2450,8 @@
 
 ## english 
 
+- [TheSilentOne-creator/The-Night-Keeper-s-Book](https://github.com/TheSilentOne-creator/The-Night-Keeper-s-Book) - A bilingual (Zh/En), open-source learning journey from zero to cybersecurity. Includes tutorials, notes, and practice code.
+- [iChochy/NCE](https://github.com/iChochy/NCE) - 《新概念英语》全四册在线课文朗读、单句点读、中英对照
 - [wamich/personal-vocabulary](https://github.com/wamich/personal-vocabulary) - 「个人词库」是一款浏览器插件。 用于英文阅读时，不断记住生词，构建个人词库。
 - [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
@@ -2564,6 +2576,7 @@
 
 ## flask 
 
+- [TheSilentOne-creator/The-Night-Keeper-s-Book](https://github.com/TheSilentOne-creator/The-Night-Keeper-s-Book) - A bilingual (Zh/En), open-source learning journey from zero to cybersecurity. Includes tutorials, notes, and practice code.
 - [EdwardLab/flyos](https://github.com/EdwardLab/flyos) - Unleash your mobile phone's potential: it's not just a phone, but a pocket-sized computer.
 - [openzim/zimfarm](https://github.com/openzim/zimfarm) - Farm operated by bots to grow and harvest new zim files
 - [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql, sqlite, now with asyncio
@@ -2575,7 +2588,7 @@
 
 - [growerp/growerp](https://github.com/growerp/growerp) - GrowERP Flutter ERP for Android, IOS,Web,Linux and Windows using Moqui.org, Apache OFBiz , in English,French,German,Spanish, Thai and Dutch
 - [echo-loop/Echo-Loop](https://github.com/echo-loop/Echo-Loop) - Echo Loop 是一款科学、高效的 AI 英语听说训练 App，通过盲听、精听、跟读、复述和间隔复习，自动驱动学习者把每一段音频真正练懂、练熟、练到会说。
-- [matthiasn/lotti](https://github.com/matthiasn/lotti) - Open-source private logbook with a local agentic layer. Long-living AI agents read what you record and propose what to do next. Hardware permitting, the models runs locally too. Matrix + Vodozemac for
+- [matthiasn/lotti](https://github.com/matthiasn/lotti) - A private logbook with a staff of personal AI assistants. Agents read what you record and propose what to do next — you approve the changes. End-to-end encrypted sync between your own devices — server
 - [AimesSoft/NipaPlay-Reload](https://github.com/AimesSoft/NipaPlay-Reload) - NipaPlay-Reload 是一个现代化的跨平台本地视频播放器，支持 Windows、macOS、Linux、Android 和 iOS。集成了弹幕显示、多格式字幕支持、多音频轨道切换，新番查看等功能，支持挂载Emby/Jellyfin媒体库。采用 Flutter +rust开发，提供统一的用户体验。
 - [conventoangelo/OverKeys](https://github.com/conventoangelo/OverKeys) - An open-source keyboard layout visualizer for Windows. Learn and practice alternative layouts, personalize appearance, and improve your typing.
 - [MoazSalem/colorful-notes-flutter](https://github.com/MoazSalem/colorful-notes-flutter) - A Colorful Note App with Many Options Made Using Flutter Framework.
@@ -2735,6 +2748,7 @@
 
 ## git 
 
+- [TheSilentOne-creator/The-Night-Keeper-s-Book](https://github.com/TheSilentOne-creator/The-Night-Keeper-s-Book) - A bilingual (Zh/En), open-source learning journey from zero to cybersecurity. Includes tutorials, notes, and practice code.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md
 - [vishal2376/git-coach](https://github.com/vishal2376/git-coach) - Git Coach is a Ads free education app designed to help users learn Git and explore its commands.
@@ -2947,6 +2961,7 @@
 
 ## gui 
 
+- [TheSilentOne-creator/The-Night-Keeper-s-Book](https://github.com/TheSilentOne-creator/The-Night-Keeper-s-Book) - A bilingual (Zh/En), open-source learning journey from zero to cybersecurity. Includes tutorials, notes, and practice code.
 - [rodrigocfd/windigo](https://github.com/rodrigocfd/windigo) - Windows API and GUI in idiomatic Go.
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [igoogolx/lux](https://github.com/igoogolx/lux) - A light desktop proxy app
@@ -2989,6 +3004,7 @@
 
 ## hacking 
 
+- [TheSilentOne-creator/The-Night-Keeper-s-Book](https://github.com/TheSilentOne-creator/The-Night-Keeper-s-Book) - A bilingual (Zh/En), open-source learning journey from zero to cybersecurity. Includes tutorials, notes, and practice code.
 - [maazm7d/TermuxHub](https://github.com/maazm7d/TermuxHub) - Your App Store for Termux tools.
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
 - [rodrieth/chrome-network-capture](https://github.com/rodrieth/chrome-network-capture) - 🔍 Capture and analyze network requests in real-time with this Chrome extension, ensuring you save all data efficiently for future review.
@@ -3016,6 +3032,7 @@
 
 ## hacktoberfest 
 
+- [TTLApp/time-to-leave](https://github.com/TTLApp/time-to-leave) - Log work hours and get notified when it's time to leave the office and start to live.
 - [duckduckgo/Android](https://github.com/duckduckgo/Android) - DuckDuckGo Android App
 - [conventoangelo/OverKeys](https://github.com/conventoangelo/OverKeys) - An open-source keyboard layout visualizer for Windows. Learn and practice alternative layouts, personalize appearance, and improve your typing.
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - TypeScript & JavaScript ORM for Node.js — supports PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, Oracle, and more.
@@ -3291,7 +3308,7 @@
 ## ios 
 
 - [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript/JavaScript compiler written in Rust. Compiles TypeScript/JavaScript directly to executables using SWC and LLVM.
-- [matthiasn/lotti](https://github.com/matthiasn/lotti) - Open-source private logbook with a local agentic layer. Long-living AI agents read what you record and propose what to do next. Hardware permitting, the models runs locally too. Matrix + Vodozemac for
+- [matthiasn/lotti](https://github.com/matthiasn/lotti) - A private logbook with a staff of personal AI assistants. Agents read what you record and propose what to do next — you approve the changes. End-to-end encrypted sync between your own devices — server
 - [SideStore/SideStore](https://github.com/SideStore/SideStore) - SideStore is a fork of AltStore that doesn't require an AltServer.
 - [sergenes/runandread-audiobook](https://github.com/sergenes/runandread-audiobook) - 🚀 Open-source project for creating high-quality AI TTS-narrated audiobooks at home using models like Zonos, Kokoro-82M, or services like Deepgram and Eleven Labs. Tested on Apple Silicon M1 (32GB RAM)
 - [bggRGjQaUbCoE/PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) - PiliPlus
@@ -3487,7 +3504,6 @@
 - [mebjas/html5-qrcode](https://github.com/mebjas/html5-qrcode) - A cross platform HTML5 QR code reader. See end to end implementation at: https://scanapp.org
 - [SeanWong17/Future-Style-Periodic-Table](https://github.com/SeanWong17/Future-Style-Periodic-Table) - 赛博朋克交互式元素周期表：3D 电子排布可视化、沉浸动效与热力图 | Cyberpunk interactive periodic table with 3D electron orbital visualization & heatmaps
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - TypeScript & JavaScript ORM for Node.js — supports PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, Oracle, and more.
-- [Nuragari/cracked-webpage-note-taker-extension](https://github.com/Nuragari/cracked-webpage-note-taker-extension) - 📝 Create notes and manage tasks seamlessly with this customizable Chrome extension for enhanced productivity across all platforms.
 - [chethanyadav456/JSON-Downloader](https://github.com/chethanyadav456/JSON-Downloader) - A minimal Chrome extension for downloading JSON data from web pages or URLs with a single click. Features automatic JSON detection with a floating download button and a clean, modern UI. Privacy-focus
 - [repplus/rep-chrome](https://github.com/repplus/rep-chrome) - rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to explain requests and suggest attacks
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
@@ -3667,6 +3683,7 @@
 
 ## js 
 
+- [TTLApp/time-to-leave](https://github.com/TTLApp/time-to-leave) - Log work hours and get notified when it's time to leave the office and start to live.
 - [sharp4real/privoobrowser](https://github.com/sharp4real/privoobrowser) - See what your missing out on and try Privoo Desktop Browser today for free!
 
 ## json 
@@ -4296,7 +4313,7 @@
 - [Muvon/octoweb](https://github.com/Muvon/octoweb) - Dead simple AI-loaded browser for geeks
 - [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript/JavaScript compiler written in Rust. Compiles TypeScript/JavaScript directly to executables using SWC and LLVM.
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
-- [matthiasn/lotti](https://github.com/matthiasn/lotti) - Open-source private logbook with a local agentic layer. Long-living AI agents read what you record and propose what to do next. Hardware permitting, the models runs locally too. Matrix + Vodozemac for
+- [matthiasn/lotti](https://github.com/matthiasn/lotti) - A private logbook with a staff of personal AI assistants. Agents read what you record and propose what to do next — you approve the changes. End-to-end encrypted sync between your own devices — server
 - [Wangnov/Codex-App-Manager](https://github.com/Wangnov/Codex-App-Manager) - 跨平台官方 Codex 桌面应用的安装 / 增量更新 / 干净卸载管理器，内置国内可达的镜像自更新。Cross-platform installer & updater for the official Codex desktop app — incremental updates, clean uninstall, China-reachable self-update.
 - [sharp4real/privoobrowser](https://github.com/sharp4real/privoobrowser) - See what your missing out on and try Privoo Desktop Browser today for free!
 - [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy
@@ -4401,6 +4418,7 @@
 
 ## markdown 
 
+- [TheSilentOne-creator/The-Night-Keeper-s-Book](https://github.com/TheSilentOne-creator/The-Night-Keeper-s-Book) - A bilingual (Zh/En), open-source learning journey from zero to cybersecurity. Includes tutorials, notes, and practice code.
 - [davisriedel/obsidian-typewriter-mode](https://github.com/davisriedel/obsidian-typewriter-mode) - Typewriter Mode is a plugin that adds typewriter scrolling (current line stays at a fixed position on the screen), a highlight for the current line, dimming of unfocused paragraphs and more to Obsidia
 - [Presto-io/Presto](https://github.com/Presto-io/Presto) - Markdown → Typst → PDF 桌面排版工具
 - [repplus/rep-chrome](https://github.com/repplus/rep-chrome) - rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to explain requests and suggest attacks
@@ -4537,6 +4555,7 @@
 
 ## mcp 
 
+- [MasayukiTa/m365-copilot-companion-mcp](https://github.com/MasayukiTa/m365-copilot-companion-mcp) - Personal-use MCP server that gives Microsoft 365 Copilot real hands on your own laptop: files, Python, Office, SQL, Web. 100+ tools, autonomous relay, easily extensible, no extra licences.
 - [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) - Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone 
 - [Muvon/octoweb](https://github.com/Muvon/octoweb) - Dead simple AI-loaded browser for geeks
 - [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) - A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ curated resources and hands-on examples. 中文 AI agent 學習地圖。
@@ -5156,6 +5175,9 @@
 
 ## others 
 
+- [knowledgefxg/learning-english](https://github.com/knowledgefxg/learning-english) - 精选优质英语学习资源合集，专注于听说读写等核心技能的提升。包含语法、词汇和媒体资源，助您更好地学习英语。
+- [cigery-useio/useio-releases](https://github.com/cigery-useio/useio-releases) - UseIO 是一款 100% 本地运行的桌面端 AI 助手。它能读懂你的意图，解析 Office 文档、精准识别图片内容，更能接管你的工作流——直接在你的电脑上写代码、改文档、整理资料、执行命令、查看电脑屏幕并分析屏幕内容来帮助你完成复杂任务。
+- [maka-agent/maka-agent](https://github.com/maka-agent/maka-agent) - Maka — local-first AI desktop assistant
 - [imputnet/helium-windows](https://github.com/imputnet/helium-windows) - Helium Browser for Windows
 - [trycompai/crm](https://github.com/trycompai/crm) - Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 - [OrionBrowser/ProgrammableButtons](https://github.com/OrionBrowser/ProgrammableButtons) - Open source code for programmable buttons in Orion browser.
@@ -5326,7 +5348,6 @@
 - [platonai/Browser4](https://github.com/platonai/Browser4) - Browser4: a fast, intelligent, scalable, multi-scenario agentic browser.
 - [phodal/auto-dev](https://github.com/phodal/auto-dev) - 🧙‍AutoDev: the AI-native Multi-Agent development platform built on Kotlin Multiplatform, covering all 7 phases of SDLC.
 - [forskscope/quick-diff-me](https://github.com/forskscope/quick-diff-me) - Quick Diff (unified diff) on Microsoft Excel viewer written in Rust as Iced GUI app
-- [lopinx/msdn-images-update](https://github.com/lopinx/msdn-images-update) - 微软官方原版镜像：包括操作系统Microsoft Windows和办公软件Microsoft Office
 - [HobbitDur/IfritXlsx](https://github.com/HobbitDur/IfritXlsx) - FF Monster editor using excel/libre office
 - [archworks/pptflow](https://github.com/archworks/pptflow) - A powerful desktop app turning ppt to video with AI voiceover and subtitles
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
@@ -5946,7 +5967,7 @@
 - [rime/rime-cantonese](https://github.com/rime/rime-cantonese) - Rime Cantonese input schema | 中州韻粵語拼音輸入方案
 - [jing332/AListFlutter](https://github.com/jing332/AListFlutter) - AList 安卓版本，APK安装即用，无需Root或Termux。
 - [houtianze/bypy](https://github.com/houtianze/bypy) - Python client for Baidu Yun (Personal Cloud Storage) 百度云/百度网盘Python客户端
-- [opa334/Dopamine](https://github.com/opa334/Dopamine) - Dopamine is a semi-untethered jailbreak for iOS 15 and 16
+- [opa334/Dopamine](https://github.com/opa334/Dopamine) - Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)
 - [lizongying/my-tv](https://github.com/lizongying/my-tv) - 我的电视 电视直播软件，安装即可使用
 - [ViBiOh/fibr](https://github.com/ViBiOh/fibr) - Web FIleBRowser
 - [EugeneZakhno/englishmap](https://github.com/EugeneZakhno/englishmap) - The Map of English grammar rules.
@@ -6456,7 +6477,7 @@
 
 - [YTxFSGAMERz/WinAurex-OS-Builder](https://github.com/YTxFSGAMERz/WinAurex-OS-Builder) - Zero-Bloat Windows 11 Image Engineering Framework. Compiles lightweight, telemetry-free ISOs using native DISM tools.
 - [cyph3rpuNk-dev/Nomad-Launcher](https://github.com/cyph3rpuNk-dev/Nomad-Launcher) - Single-file portable browser launchers for Windows, written in Rust. Each launcher downloads and verifies its browser, applies privacy hardening, and cleans up host traces when it exits.
-- [matthiasn/lotti](https://github.com/matthiasn/lotti) - Open-source private logbook with a local agentic layer. Long-living AI agents read what you record and propose what to do next. Hardware permitting, the models runs locally too. Matrix + Vodozemac for
+- [matthiasn/lotti](https://github.com/matthiasn/lotti) - A private logbook with a staff of personal AI assistants. Agents read what you record and propose what to do next — you approve the changes. End-to-end encrypted sync between your own devices — server
 - [sharp4real/privoobrowser](https://github.com/sharp4real/privoobrowser) - See what your missing out on and try Privoo Desktop Browser today for free!
 - [FaFre/WebLibre](https://github.com/FaFre/WebLibre) - A libre Android browser built from scratch on Gecko. Privacy by default, powerful tab containers, and a local-first search engine.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
@@ -6511,13 +6532,13 @@
 
 ## productivity 
 
+- [TTLApp/time-to-leave](https://github.com/TTLApp/time-to-leave) - Log work hours and get notified when it's time to leave the office and start to live.
 - [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) - Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone 
 - [Muvon/octoweb](https://github.com/Muvon/octoweb) - Dead simple AI-loaded browser for geeks
 - [plainhub/plain-app](https://github.com/plainhub/plain-app) - 🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your deskto
 - [xianyukang/MyKeymap](https://github.com/xianyukang/MyKeymap) - 一款基于 AutoHotkey 的键盘映射工具
 - [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-- [Nuragari/cracked-webpage-note-taker-extension](https://github.com/Nuragari/cracked-webpage-note-taker-extension) - 📝 Create notes and manage tasks seamlessly with this customizable Chrome extension for enhanced productivity across all platforms.
 - [chethanyadav456/JSON-Downloader](https://github.com/chethanyadav456/JSON-Downloader) - A minimal Chrome extension for downloading JSON data from web pages or URLs with a single click. Features automatic JSON detection with a floating download button and a clean, modern UI. Privacy-focus
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [Medvedev91/timeto.me](https://github.com/Medvedev91/timeto.me) - App with goals, checklists, tasks, repetitive tasks, timer, calendar, notes, shortcuts, pomodoro and 24/7 time tracking. 🙀
@@ -6630,6 +6651,7 @@
 
 ## python 
 
+- [MasayukiTa/m365-copilot-companion-mcp](https://github.com/MasayukiTa/m365-copilot-companion-mcp) - Personal-use MCP server that gives Microsoft 365 Copilot real hands on your own laptop: files, Python, Office, SQL, Web. 100+ tools, autonomous relay, easily extensible, no extra licences.
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 - [fzumstein/python-for-excel](https://github.com/fzumstein/python-for-excel) - This is the companion repo of the O'Reilly book "Python for Excel".
@@ -8328,6 +8350,7 @@
 
 ## web 
 
+- [TheSilentOne-creator/The-Night-Keeper-s-Book](https://github.com/TheSilentOne-creator/The-Night-Keeper-s-Book) - A bilingual (Zh/En), open-source learning journey from zero to cybersecurity. Includes tutorials, notes, and practice code.
 - [plainhub/plain-app](https://github.com/plainhub/plain-app) - 🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your deskto
 - [sharp4real/privoobrowser](https://github.com/sharp4real/privoobrowser) - See what your missing out on and try Privoo Desktop Browser today for free!
 - [electroluxcode/onlyoffice-web-comp](https://github.com/electroluxcode/onlyoffice-web-comp) - A component based on OnlyOffice (v9) for viewing, editing, and converting documents entirely on the user's device, no backend required.基于 OnlyOffice (v9) 的纯前端组件，封装文档查看、编辑、转换功能，全在用户设备本地运行，无需后端，即插即用
@@ -8405,6 +8428,7 @@
 
 ## windows 
 
+- [MasayukiTa/m365-copilot-companion-mcp](https://github.com/MasayukiTa/m365-copilot-companion-mcp) - Personal-use MCP server that gives Microsoft 365 Copilot real hands on your own laptop: files, Python, Office, SQL, Web. 100+ tools, autonomous relay, easily extensible, no extra licences.
 - [metasequoiaime/MetasequoiaImeTsf](https://github.com/metasequoiaime/MetasequoiaImeTsf) - 水杉输入法。内测：tg: https://t.me/msimegroup QQ Group: 829919142
 - [lunanetdev/lunauctl](https://github.com/lunanetdev/lunauctl) - Luna Update Control is a command-line Windows utility that gives you full, persistent control over Windows Update — including the ability to disable Microsoft's self-healing mechanisms that typically 
 - [jesusninoc/ClasesISO](https://github.com/jesusninoc/ClasesISO) - Clases de Implantación de Sistemas Operativos
