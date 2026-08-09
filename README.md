@@ -116,6 +116,7 @@
 
 ## Batchfile 
 
+- [LordOfMice/hidusbf](https://github.com/LordOfMice/hidusbf) - USB Mice Overclocking Software (for Windows)
 - [adavak/Win_ISO_Patching_Scripts](https://github.com/adavak/Win_ISO_Patching_Scripts) - Win_ISO_Patching_Scripts
 - [993671009/UpdateWinISO](https://github.com/993671009/UpdateWinISO) - 自用的更新Win10专业版系统镜像，由GitHub copilotAI编写
 - [yuanpeirong/UpdateWinISO](https://github.com/yuanpeirong/UpdateWinISO) - 使用Win_ISO_Patching_Scripts更新Win10和11系统镜像
@@ -293,6 +294,7 @@
 
 ## C# # 
 
+- [turkaysoft/glow](https://github.com/turkaysoft/glow) - Advanced System Analysis Software
 - [otocad/Otocad-Community](https://github.com/otocad/Otocad-Community) - Open-source 2D optical CAD — lens wizards, GB/ISO-compliant optical marks, built-in AI assistant, DXF interop. Cross-platform (Windows/Linux/macOS).
 - [IamPavanGS/WinForge](https://github.com/IamPavanGS/WinForge) - Build a fully-customised, deploy-ready Windows 11 ISO in one wizard — no golden VM, no Sysprep
 - [Sunse666/Vimina](https://github.com/Sunse666/Vimina) - AI-friendly Windows GUI automation - Convert interface to text, no vision model needed
@@ -384,6 +386,7 @@
 
 ## C++ 
 
+- [Microck/mic-hotkey-remapper](https://github.com/Microck/mic-hotkey-remapper) - map a hotkey to a USB desk mic
 - [metasequoiaime/MetasequoiaImeTsf](https://github.com/metasequoiaime/MetasequoiaImeTsf) - 水杉输入法。内测：tg: https://t.me/msimegroup QQ Group: 829919142
 - [imputnet/helium-windows](https://github.com/imputnet/helium-windows) - Helium Browser for Windows
 - [LibreCAD/LibreCAD](https://github.com/LibreCAD/LibreCAD) - LibreCAD is a cross-platform 2D CAD program. It can read DXF/DWG, and write DXF/DWG/PDF/SVG files. It supports point/line/circle/ellipse/parabola/hyperbola/spline primitives. The GUI is highly customi
@@ -397,6 +400,7 @@
 - [uazo/cromite](https://github.com/uazo/cromite) - Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!
 - [Alex313031/thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Source code and Linux releases. Windows/MacOS/ARM builds served in different repos, links are towards the top of the README.md.
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
+- [mg-chao/snow-apps](https://github.com/mg-chao/snow-apps) - 超好用的截图工具
 - [Bush2021/chrome_plus](https://github.com/Bush2021/chrome_plus) - A DLL hijack implements Chrome full portability as well as tab enhancements.
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 - [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
@@ -779,6 +783,7 @@
 ## Fluent 
 
 - [mozilla/blurts-server](https://github.com/mozilla/blurts-server) - Mozilla Monitor arms you with tools to keep your personal information safe. Find out what hackers already know about you and learn how to stay a step ahead of them.
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [ankitects/anki-core-i18n](https://github.com/ankitects/anki-core-i18n) - Fluent translation files for Anki
 
@@ -816,7 +821,7 @@
 - [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps
 - [pldubouilh/gossa](https://github.com/pldubouilh/gossa) - 🎶 a fast and simple multimedia fileserver
 - [vdjagilev/nmap-formatter](https://github.com/vdjagilev/nmap-formatter) - A tool that allows you to convert NMAP results to html, csv, json, markdown, graphviz (dot), sqlite, excel and d2-lang. Simply put it's nmap converter.
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web i
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform.
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [zbuzhi/diff-excel](https://github.com/zbuzhi/diff-excel) - Excel文件对比工具
@@ -992,6 +997,8 @@
 
 ## HTML 
 
+- [AbuZar-Ansarii/PrivatePixelPrompt](https://github.com/AbuZar-Ansarii/PrivatePixelPrompt) - PortableLM — Zero-dependency, air-gapped local AI that runs entirely from a USB drive. Chat, generate images, and synthesize speech offline on Windows, macOS, or Linux. No installs, no internet, just 
+- [thesajidalam/BraveOriginFree](https://github.com/thesajidalam/BraveOriginFree) - Brave Origin for Windows - Free. No purchase required. Official signed binary with free activation bypass. Portable, no install, no admin. Saves you .
 - [iamrahul-git/Termux-Script-Implementation-Guide](https://github.com/iamrahul-git/Termux-Script-Implementation-Guide) - Termux Scripting Guide 2026 📱 | Master Android Automation & Hacks 🚀
 - [aliuoluyemi7-prog/ExamWiseNG](https://github.com/aliuoluyemi7-prog/ExamWiseNG) - ExamWiseNG — Offline-first JAMB CBT practice app + original questions across Economics, Chemistry, Biology, Physics, Mathematics, and English. Single-file HTML/CSS/JS, no backend required.
 - [qq823414713-dotcom/english-ipa-study](https://github.com/qq823414713-dotcom/english-ipa-study) - 完整英语音标对照表与雅思托福30天词汇学习计划
@@ -1035,7 +1042,6 @@
 - [qiye45/wechatDownload](https://github.com/qiye45/wechatDownload) - 微信公众号文章批量下载工具，支持评论、合集下载，支持保存html/mhtml/md/pdf/docx/csv文件，保存文章内图片、视频、音频文件，支持MCP/Skill调用
 - [TakWolf/ark-pixel-font](https://github.com/TakWolf/ark-pixel-font) - 开源的泛中日韩像素字体，黑体风格
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [pdf2htmlEX/pdf2htmlEX](https://github.com/pdf2htmlEX/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
 - [pkgforge-dev/Termux-Packages](https://github.com/pkgforge-dev/Termux-Packages) - Markdown List (Table), JSON & YAML of all the officially Available Packages in the Termux Registry :: https://termux-packages.ajam.dev [Maintainer=@Azathothas]
 - [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) - Open source emojis for designers, developers and everyone else!
@@ -1197,6 +1203,8 @@
 
 ## JavaScript 
 
+- [Aibotflix/PocketBrain](https://github.com/Aibotflix/PocketBrain) - Free, private, offline LLM on a USB stick. Plug in, double-click, talk. Windows/macOS/Linux, auto GPU detect, optional voice + web search, no account, no cloud, no bill.
+- [goastian/midori-desktop](https://github.com/goastian/midori-desktop) - Midori for Windows, Linux & Mac, web browser focused on lightness and privacy.
 - [iChochy/NCE](https://github.com/iChochy/NCE) - 《新概念英语》全四册在线课文朗读、单句点读、中英对照
 - [TTLApp/time-to-leave](https://github.com/TTLApp/time-to-leave) - Log work hours and get notified when it's time to leave the office and start to live.
 - [Maksonik/en-learn-google-extension](https://github.com/Maksonik/en-learn-google-extension) - Chrome extension for En Learn — save and look up English words while browsing the web.
@@ -1519,7 +1527,7 @@
 - [Maxyjy/FastADB](https://github.com/Maxyjy/FastADB) - adb execute tool & android device file manager
 - [WirelessAlien/ZipXtract](https://github.com/WirelessAlien/ZipXtract) - A fully open source app to extract rar, zip, tar, bz2, gz, 7z, xz, jar and z etc (encrypted .zip & .7z supported)
 - [clementwzk/OpenCalc](https://github.com/clementwzk/OpenCalc) - A simple and beautiful calculator for Android downloaded more than 300k times
-- [platonai/Browser4](https://github.com/platonai/Browser4) - Browser4: a fast, intelligent, scalable, multi-scenario agentic browser.
+- [platonai/Browser4](https://github.com/platonai/Browser4) - Browser4 — an AI-native browser engine for autonomous agents, intelligent extraction, and large-scale web automation.
 - [phodal/auto-dev](https://github.com/phodal/auto-dev) - 🧙‍AutoDev: the AI-native Multi-Agent development platform built on Kotlin Multiplatform, covering all 7 phases of SDLC.
 - [BrahimChatri/PartLoockUp](https://github.com/BrahimChatri/PartLoockUp) - PartLookUp is an Android application that allows users to quickly search for parts and retrieve their corresponding EMP locations via barcode scanning or manual input. It supports data uploads via bot
 - [Moderpach/Extinguish](https://github.com/Moderpach/Extinguish) - An app that helps you run any android apps as if the screen is on while it is off.
@@ -2141,6 +2149,7 @@
 
 ## Python 
 
+- [Dylanchess0320/LuckyD-Browser](https://github.com/Dylanchess0320/LuckyD-Browser) - LuckyD Browser: Chromium-based AI browser for Windows with free, unlimited, OFFLINE AI built in — no API key, no account. Ollama auto-setup, coding agent HQ + terminal in tabs, agent drives your real 
 - [MasayukiTa/m365-copilot-companion-mcp](https://github.com/MasayukiTa/m365-copilot-companion-mcp) - Personal-use MCP server that gives Microsoft 365 Copilot real hands on your own laptop: files, Python, Office, SQL, Web. 100+ tools, autonomous relay, easily extensible, no extra licences.
 - [HarleyCoops/KimiK3Manim](https://github.com/HarleyCoops/KimiK3Manim) - Create epic math and physics explainer animations with Kimi K3.
 - [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) - A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ curated resources and hands-on examples. 中文 AI agent 學習地圖。
@@ -2690,6 +2699,13 @@
 
 ## Rust 
 
+- [gnomeria/usbtree](https://github.com/gnomeria/usbtree) - Live USB device tree in your terminal. Rust TUI, no root, no libusb. Full activity metrics on Linux; device tree on macOS/Windows.
+- [haimgel/display-switch](https://github.com/haimgel/display-switch) - Turn a $30 USB switch into a full-featured multi-monitor KVM switch
+- [zhuonixian/salary-desktop](https://github.com/zhuonixian/salary-desktop) - Desktop salary calculation tool with employee management, OCR attendance, tax & payroll export
+- [kawayiYokami/P-ai](https://github.com/kawayiYokami/P-ai) - A ready-to-use self-growing desktop AI assistant for long-running tasks, memory, agents, tool reviews, MCP, and high-concurrency workspace automation. / 开箱即用的自我成长型桌面 AI 助理，面向长期任务、记忆、部门协作、工具审查、MCP 与高并发
+- [badbread/crumbvms](https://github.com/badbread/crumbvms) - A self-hosted, operator-grade NVR for your own security cameras: recording, motion, license-plate reading (ALPR), and live Home Assistant overlays. Rust backend; native desktop, Android, Apple, and we
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
+- [SecurityRonin/4n6mount](https://github.com/SecurityRonin/4n6mount) - Mount forensic disk images, archives & memory dumps as a filesystem on Linux/macOS/Windows — ext4/NTFS/exFAT/HFS+/APFS/ISO, EWF/VMDK/AFF4, AD1, zip/7z/tar, LiME/AVML/crash dumps. FUSE + Dokan, ro/rw C
 - [Muvon/octoweb](https://github.com/Muvon/octoweb) - Dead simple AI-loaded browser for geeks
 - [YGTQ3/disk-butler](https://github.com/YGTQ3/disk-butler) - C盘管家 - 给普通人的 Windows 磁盘与内存维护助手 (Tauri 2 + React)
 - [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript/JavaScript compiler written in Rust. Compiles TypeScript/JavaScript directly to executables using SWC and LLVM.
@@ -3084,6 +3100,7 @@
 
 ## TypeScript 
 
+- [sftwrdotdev/Markpad](https://github.com/sftwrdotdev/Markpad) - The Notepad equivalent for Markdown
 - [maka-agent/maka-agent](https://github.com/maka-agent/maka-agent) - Maka — local-first AI desktop assistant
 - [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks
 - [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) - Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone 
@@ -3136,7 +3153,6 @@
 - [huangyxi/tab-positioner](https://github.com/huangyxi/tab-positioner) - A Chrome Extension for Tab Positioning Control
 - [steipete/summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
 - [rerr-creator/open-translator](https://github.com/rerr-creator/open-translator) - 🌐 Enhance your browsing with Open Translator, a Chrome extension that seamlessly translates web pages using trusted AI models directly in your browser.
-- [chatfire-AI/huobao-drama](https://github.com/chatfire-AI/huobao-drama) - 🎬 火宝短剧 - 基于AI的一站式短剧生成平台 《一句话生成完整短剧，从剧本到成片全自动化》  Huobao Drama - An AI-Powered End-to-End Short Drama Generator "One Sentence to Complete Drama: Fully Automated from Script to Final Video"
 - [abhijithvijayan/web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter) - 🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
 - [hangwin/mcp-chrome](https://github.com/hangwin/mcp-chrome) - Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, cont
 - [yibie/Copy-as-org-mode-chrome](https://github.com/yibie/Copy-as-org-mode-chrome) - This WebExtension is a Chrome version of Copy as Org-Mode.
@@ -3153,7 +3169,6 @@
 - [yorkxin/copy-as-markdown](https://github.com/yorkxin/copy-as-markdown) - A browser extension to copy tabs and links as Markdown
 - [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Language Learning & Translate | 🐸 陪读蛙 - 语言学习与翻译
 - [MultiboxLabs/flow-browser](https://github.com/MultiboxLabs/flow-browser) - A modern, privacy-focused browser with a minimalistic design.
-- [mg-chao/snow-shot](https://github.com/mg-chao/snow-shot) - 超好用的截图工具
 - [MultiMote/niimblue](https://github.com/MultiMote/niimblue) - 🖨 NIIMBOT custom web client/app. Design and print labels with NIIMBOT printers directly from your PC or mobile web browser!
 - [arduino/arduino-ide](https://github.com/arduino/arduino-ide) - Arduino IDE 2.x
 - [LostPaul/obsidian-folder-notes](https://github.com/LostPaul/obsidian-folder-notes) - Create notes within folders that can be accessed without collapsing the folder, similar to the functionality offered in Notion.
@@ -3179,7 +3194,7 @@
 - [thecodrr/fdir](https://github.com/thecodrr/fdir) - ⚡ The fastest directory crawler & globbing library for NodeJS. Crawls 1m files in &lt; 1s
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 - [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) - AI-powered cross-platform editor for WYSIWYG Markdown and general-purpose text editing.
 - [anyproto/anytype-ts](https://github.com/anyproto/anytype-ts) - Official Anytype client for MacOS, Linux, and Windows
 - [mayneyao/eidos](https://github.com/mayneyao/eidos) - An extensible framework for Personal Data Management.
@@ -3520,6 +3535,7 @@
 
 ## Visual Basic .NET 
 
+- [CodingWonders/DISMTools](https://github.com/CodingWonders/DISMTools) - The connected place for Windows system administration
 - [LawDigital/redink](https://github.com/LawDigital/redink) - An alternative AI assistant for Microsoft Office that works with your favorite LLM API
 
 ## Visual Basic 6.0 
@@ -3530,6 +3546,7 @@
 
 - [X-X-X-X-X-X-X-X-X-X-X-X-X/Bookmark](https://github.com/X-X-X-X-X-X-X-X-X-X-X-X-X/Bookmark) - Edge/Chrome书签插件，让书签变得再次好用
 - [ouyang108/CSS-View](https://github.com/ouyang108/CSS-View) - Chrome插件：快速查看DOM元素的CSS属性
+- [chatfire-AI/huobao-drama](https://github.com/chatfire-AI/huobao-drama) - 🎬 火宝短剧 - 基于AI的一站式短剧生成平台 《一句话生成完整短剧，从剧本到成片全自动化》  Huobao Drama - An AI-Powered End-to-End Short Drama Generator "One Sentence to Complete Drama: Fully Automated from Script to Final Video"
 - [psephopaiktes/share-it](https://github.com/psephopaiktes/share-it) - Share or Copy web pages to anywhere by various format.
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [KiWi233333/JiwuChat](https://github.com/KiWi233333/JiwuChat) - JiwuChat 🍂 - A lightweight cross-platform instant messaging app with integrated AI assistants (DeepSeek/Gemini/Kimi). Features real-time messaging, audio/video calls, multi-device sync, and customizab
