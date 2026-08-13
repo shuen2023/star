@@ -320,7 +320,7 @@
 
 ## 3d 
 
-- [xiangechen/chili3d](https://github.com/xiangechen/chili3d) - A browser-based 3D CAD application for online model design and editing
+- [xiangechen/chili3d](https://github.com/xiangechen/chili3d) - A 3D CAD running entirely in the browser
 - [gumyr/build123d](https://github.com/gumyr/build123d) - A python CAD programming library
 - [dbrant/ModelViewer3D](https://github.com/dbrant/ModelViewer3D) - 3D model viewer app (STL, OBJ, PLY) for Android.
 - [blender/blender](https://github.com/blender/blender) - Official mirror of Blender
@@ -392,6 +392,7 @@
 
 ## ai 
 
+- [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) - Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), Excel (.xlsx), PowerPoint (.pptx), PDF and Markdown editing with built-in AI agents.
 - [bytedoger/awesome-OpenPrice](https://github.com/bytedoger/awesome-OpenPrice) - 开源的 AI 订阅价格聚合与比价平台，收录 ChatGPT、Claude、Gemini、Grok、Cursor 等产品的官方订阅价格和卡网渠道报价，帮助用户快速查询并比较不同购买渠道。
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [AbuZar-Ansarii/PrivatePixelPrompt](https://github.com/AbuZar-Ansarii/PrivatePixelPrompt) - PortableLM — Zero-dependency, air-gapped local AI that runs entirely from a USB drive. Chat, generate images, and synthesize speech offline on Windows, macOS, or Linux. No installs, no internet, just 
@@ -1449,6 +1450,7 @@
 
 ## chrome-extension 
 
+- [beancookie/chrome-needle](https://github.com/beancookie/chrome-needle) - Chrome extension running a 45M-parameter LLM (Needle 2) entirely in WASM. Natural-language control of tabs, forms, pages, and custom scripts — fully offline.
 - [dessant/search-by-image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search, available for Chrome, Edge and Safari
 - [gdh1995/vimium-c](https://github.com/gdh1995/vimium-c) - A keyboard shortcut browser extension for keyboard-based navigation and tab operations with an advanced omnibar
 - [Maksonik/en-learn-google-extension](https://github.com/Maksonik/en-learn-google-extension) - Chrome extension for En Learn — save and look up English words while browsing the web.
@@ -1569,7 +1571,7 @@
 - [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) - A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ curated resources and hands-on examples. 中文 AI agent 學習地圖。
 - [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation requir
 - [steipete/summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? CA: BYjCWd4XS7PTnDbou4Swwmj4XkAtreMKew8n2Pagpump
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [NotJoeMartinez/yt-fts](https://github.com/NotJoeMartinez/yt-fts) - YouTube Full Text Search - Search all of YouTube from the command line
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Shell Superpowers for AI Agents.
@@ -2182,7 +2184,7 @@
 ## devops 
 
 - [dante0747/geekspulse.dev](https://github.com/dante0747/geekspulse.dev) - Free indie developer news aggregator — curated RSS feeds, no ads, no paywalls.
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? CA: BYjCWd4XS7PTnDbou4Swwmj4XkAtreMKew8n2Pagpump
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [w2sv/WiFi-Widget](https://github.com/w2sv/WiFi-Widget) - Android app providing a fully configurable widget for the monitoring of your WiFi connection details.
@@ -2223,7 +2225,7 @@
 ## docker 
 
 - [hanxi/cups-web](https://github.com/hanxi/cups-web) - 把家用 USB 打印机变成随时可访问的网络打印服务
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? CA: BYjCWd4XS7PTnDbou4Swwmj4XkAtreMKew8n2Pagpump
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform.
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/
@@ -2341,6 +2343,7 @@
 
 ## electron 
 
+- [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) - Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), Excel (.xlsx), PowerPoint (.pptx), PDF and Markdown editing with built-in AI agents.
 - [TTLApp/time-to-leave](https://github.com/TTLApp/time-to-leave) - Log work hours and get notified when it's time to leave the office and start to live.
 - [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) - Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone 
 - [sharp4real/privoobrowser](https://github.com/sharp4real/privoobrowser) - See what your missing out on and try Privoo Desktop Browser today for free!
@@ -2818,7 +2821,7 @@
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [Lallassu/gorss](https://github.com/Lallassu/gorss) - Go Terminal Feed Reader
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? CA: BYjCWd4XS7PTnDbou4Swwmj4XkAtreMKew8n2Pagpump
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [julien040/anyquery](https://github.com/julien040/anyquery) - One SQL interface for 60+ tools (e.g., GitHub, Notion, Airtable). Plug into any LLM through MCP.
 - [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) - sqlite3 driver for go using database/sql
 - [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps
@@ -2886,7 +2889,7 @@
 - [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured data from 101 formats (115 file extensions) plus code intelligence for 371 code languages. 1
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [Lallassu/gorss](https://github.com/Lallassu/gorss) - Go Terminal Feed Reader
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? CA: BYjCWd4XS7PTnDbou4Swwmj4XkAtreMKew8n2Pagpump
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [sensepost/gowitness](https://github.com/sensepost/gowitness) - 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
 - [rahji/helix-ghost](https://github.com/rahji/helix-ghost) - Helix client for GhostText - Edit browser text areas in Helix (or another editor!)
 - [jing332/tts-server-android](https://github.com/jing332/tts-server-android) - 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有自动重试，备用配置，文本替换等更多功能。
@@ -3908,7 +3911,7 @@
 
 ## kubernetes 
 
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? CA: BYjCWd4XS7PTnDbou4Swwmj4XkAtreMKew8n2Pagpump
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [sudochmod777tanakrit/terminal-kanban](https://github.com/sudochmod777tanakrit/terminal-kanban) - ✨ Collaborate with flair using a Kanban board right in your terminal! 🖥️  TerminalKanban brings the power of visual task management to your command line, making project coordination both productive an
@@ -4004,6 +4007,7 @@
 
 ## linux 
 
+- [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) - Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), Excel (.xlsx), PowerPoint (.pptx), PDF and Markdown editing with built-in AI agents.
 - [kurikomi-labs/komi-store](https://github.com/kurikomi-labs/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [gnomeria/usbtree](https://github.com/gnomeria/usbtree) - Live USB device tree in your terminal. Rust TUI, no root, no libusb. Full activity metrics on Linux; device tree on macOS/Windows.
 - [sftwrdotdev/Markpad](https://github.com/sftwrdotdev/Markpad) - The Notepad equivalent for Markdown
@@ -4015,7 +4019,7 @@
 - [y3owk1n/neru](https://github.com/y3owk1n/neru) - Navigate your entire screen without touching the mouse.
 - [sqmw/MFCMouseEffect](https://github.com/sqmw/MFCMouseEffect) - 跨平台鼠标特效与输入可视化引擎：点击/轨迹/滚轮/悬停等效果，输入指示器叠加层，手势→快捷键自动化映射，可扩展 WASM 插件。 Cross-platform mouse effects & input visualization engine: click/trail/scroll/hover effects, indicator overlays, gesture→hotkey automat
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? CA: BYjCWd4XS7PTnDbou4Swwmj4XkAtreMKew8n2Pagpump
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [Alex313031/thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Source code and Linux releases. Windows/MacOS/ARM builds served in different repos, links are towards the top of the README.md.
 - [lukehaas/RunJS](https://github.com/lukehaas/RunJS) - RunJS is a JavaScript playground for macOS, Windows and Linux. Write code with instant feedback and access to Node.js and browser APIs.
@@ -4170,6 +4174,7 @@
 
 ## llm 
 
+- [beancookie/chrome-needle](https://github.com/beancookie/chrome-needle) - Chrome extension running a 45M-parameter LLM (Needle 2) entirely in WASM. Natural-language control of tabs, forms, pages, and custom scripts — fully offline.
 - [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) - A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [AbuZar-Ansarii/PrivatePixelPrompt](https://github.com/AbuZar-Ansarii/PrivatePixelPrompt) - PortableLM — Zero-dependency, air-gapped local AI that runs entirely from a USB drive. Chat, generate images, and synthesize speech offline on Windows, macOS, or Linux. No installs, no internet, just 
@@ -4358,6 +4363,7 @@
 
 ## macos 
 
+- [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) - Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), Excel (.xlsx), PowerPoint (.pptx), PDF and Markdown editing with built-in AI agents.
 - [insidegui/AssetCatalogTinkerer](https://github.com/insidegui/AssetCatalogTinkerer) - An app that lets you open .car files and browse/extract their images.
 - [kurikomi-labs/komi-store](https://github.com/kurikomi-labs/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [gnomeria/usbtree](https://github.com/gnomeria/usbtree) - Live USB device tree in your terminal. Rust TUI, no root, no libusb. Full activity metrics on Linux; device tree on macOS/Windows.
@@ -4373,7 +4379,7 @@
 - [y3owk1n/neru](https://github.com/y3owk1n/neru) - Navigate your entire screen without touching the mouse.
 - [sqmw/MFCMouseEffect](https://github.com/sqmw/MFCMouseEffect) - 跨平台鼠标特效与输入可视化引擎：点击/轨迹/滚轮/悬停等效果，输入指示器叠加层，手势→快捷键自动化映射，可扩展 WASM 插件。 Cross-platform mouse effects & input visualization engine: click/trail/scroll/hover effects, indicator overlays, gesture→hotkey automat
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? CA: BYjCWd4XS7PTnDbou4Swwmj4XkAtreMKew8n2Pagpump
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [robertZaufall/mindmanager_ai](https://github.com/robertZaufall/mindmanager_ai) - MindManager AI Integration on Windows and macOS
 - [lukehaas/RunJS](https://github.com/lukehaas/RunJS) - RunJS is a JavaScript playground for macOS, Windows and Linux. Write code with instant feedback and access to Node.js and browser APIs.
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
@@ -4718,7 +4724,7 @@
 ## monitoring 
 
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? CA: BYjCWd4XS7PTnDbou4Swwmj4XkAtreMKew8n2Pagpump
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [glidea/zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!!
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
@@ -5241,6 +5247,7 @@
 
 ## others 
 
+- [martijnvanbrummelen/nwipe](https://github.com/martijnvanbrummelen/nwipe) - nwipe secure disk eraser
 - [pinokiocomputer/pinokio](https://github.com/pinokiocomputer/pinokio) - AI Browser
 - [Augani/openreel-video](https://github.com/Augani/openreel-video) - OpenReel Video - Professional browser-based video editor. Open source CapCut alternative. 100% browser-based, no installation, no cloud uploads, no watermarks.
 - [Bistutu/FluentRead](https://github.com/Bistutu/FluentRead) - Open Immersive Translate. A revolutionary open-source browser translation plugin that enables everyone to have a native-like reading experience. 开源的沉浸式翻译，一款革命性的浏览器翻译插件，让所有人都能够拥有母语般的阅读体验。
@@ -7904,7 +7911,7 @@
 ## terminal 
 
 - [gnomeria/usbtree](https://github.com/gnomeria/usbtree) - Live USB device tree in your terminal. Rust TUI, no root, no libusb. Full activity metrics on Linux; device tree on macOS/Windows.
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? CA: BYjCWd4XS7PTnDbou4Swwmj4XkAtreMKew8n2Pagpump
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [terroo/terroo.github.io](https://github.com/terroo/terroo.github.io) - Terminal Root English version
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
@@ -8079,7 +8086,7 @@
 ## tui 
 
 - [gnomeria/usbtree](https://github.com/gnomeria/usbtree) - Live USB device tree in your terminal. Rust TUI, no root, no libusb. Full activity metrics on Linux; device tree on macOS/Windows.
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? CA: BYjCWd4XS7PTnDbou4Swwmj4XkAtreMKew8n2Pagpump
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [freeok/so-novel](https://github.com/freeok/so-novel) - 小说下载｜网文下载 | 网络小说
 - [JFreegman/toxic](https://github.com/JFreegman/toxic) - A Tox-based instant messaging and video chat client.
@@ -8326,6 +8333,7 @@
 
 ## vim 
 
+- [fanglingsu/vimb](https://github.com/fanglingsu/vimb) - Vimb - the vim like browser is a webkit based web browser that behaves like the vimperator plugin for the firefox and usage paradigms from the great editor vim. The goal of vimb is to build a complete
 - [y3owk1n/neru](https://github.com/y3owk1n/neru) - Navigate your entire screen without touching the mouse.
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform in native C++.
@@ -8537,6 +8545,7 @@
 
 ## windows 
 
+- [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) - Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), Excel (.xlsx), PowerPoint (.pptx), PDF and Markdown editing with built-in AI agents.
 - [kurikomi-labs/komi-store](https://github.com/kurikomi-labs/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store.
 - [gnomeria/usbtree](https://github.com/gnomeria/usbtree) - Live USB device tree in your terminal. Rust TUI, no root, no libusb. Full activity metrics on Linux; device tree on macOS/Windows.
 - [haimgel/display-switch](https://github.com/haimgel/display-switch) - Turn a $30 USB switch into a full-featured multi-monitor KVM switch
@@ -8571,7 +8580,7 @@
 - [abgox/InputTip](https://github.com/abgox/InputTip) - 规则驱动的输入法状态管理器 · 即时 · 强大 · 高效
 - [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? CA: BYjCWd4XS7PTnDbou4Swwmj4XkAtreMKew8n2Pagpump
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [sbroenne/mcp-server-excel](https://github.com/sbroenne/mcp-server-excel) - Excel MCP Server & CLI - 23 tools, 214 operations for AI-powered Excel automation via COM API
 - [lukehaas/RunJS](https://github.com/lukehaas/RunJS) - RunJS is a JavaScript playground for macOS, Windows and Linux. Write code with instant feedback and access to Node.js and browser APIs.
