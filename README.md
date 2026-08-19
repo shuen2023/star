@@ -601,7 +601,6 @@
 - [BingyanStudio/LapisCV](https://github.com/BingyanStudio/LapisCV) - 📄 Easily create your resume with Markdown on VSCode / Typora / Obsidian
 - [zozonteq/vimium-rgb-theme](https://github.com/zozonteq/vimium-rgb-theme) - 🌈 Animated rainbow theme for vimium.
 - [xuchunyang/epkg](https://github.com/xuchunyang/epkg) - A basic website for browse Emacs packages
-- [LjyYano/Thinking_in_Java_MindMapping](https://github.com/LjyYano/Thinking_in_Java_MindMapping) - 编程笔记、 AI 学习、观影指南、读书笔记、生活感悟、游戏记录
 - [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) - 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
 - [Quasimurdock/IELTS-Anki-Cards-Generator](https://github.com/Quasimurdock/IELTS-Anki-Cards-Generator) - A script for fetching camb dict IELTS words and generating Anki card notes.
 - [ankitects/anki-manual](https://github.com/ankitects/anki-manual) - Anki's manual
@@ -1553,7 +1552,7 @@
 - [WirelessAlien/ZipXtract](https://github.com/WirelessAlien/ZipXtract) - A fully open source app to extract rar, zip, tar, bz2, gz, 7z, xz, jar and z etc (encrypted .zip & .7z supported)
 - [clementwzk/OpenCalc](https://github.com/clementwzk/OpenCalc) - A simple and beautiful calculator for Android downloaded more than 300k times
 - [platonai/Browser4](https://github.com/platonai/Browser4) - Browser4 — an AI-native browser engine for autonomous agents, intelligent extraction, and large-scale web automation.
-- [phodal/auto-dev](https://github.com/phodal/auto-dev) - 🧙‍AutoDev: the AI-native Multi-Agent development platform built on Kotlin Multiplatform, covering all 7 phases of SDLC.
+- [phodal/auto-dev](https://github.com/phodal/auto-dev) - 🧙‍AutoDev: the Multi-Agent coding development platform built on Kotlin Multiplatform.
 - [BrahimChatri/PartLoockUp](https://github.com/BrahimChatri/PartLoockUp) - PartLookUp is an Android application that allows users to quickly search for parts and retrieve their corresponding EMP locations via barcode scanning or manual input. It supports data uploads via bot
 - [Moderpach/Extinguish](https://github.com/Moderpach/Extinguish) - An app that helps you run any android apps as if the screen is on while it is off.
 - [YangDai2003/OpenNote-Compose](https://github.com/YangDai2003/OpenNote-Compose) - Markdown Editor & Notebook for Android built with Jetpack Compose.
@@ -1737,7 +1736,7 @@
 - [soupslurpr/BeauTyXT](https://github.com/soupslurpr/BeauTyXT) - A beautiful, private, secure, and minimalistic Plain Text and Markdown editor.
 - [GuoXiCheng/SKIP](https://github.com/GuoXiCheng/SKIP) - 自动跳过APP开屏广告
 - [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
-- [v1tzor/TimePlanner](https://github.com/v1tzor/TimePlanner) - Convenient and fast task planning for the day
+- [v1tzor/TimePlanner](https://github.com/v1tzor/TimePlanner) - Absolutely free, convenient and fast daily task planning
 - [dessalines/thumb-key](https://github.com/dessalines/thumb-key) - A privacy-conscious Android keyboard made for your thumbs
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full-featured audio/video downloader for Android using yt-dlp
 - [fcitx5-android/fcitx5-android-updater](https://github.com/fcitx5-android/fcitx5-android-updater) - 
@@ -2296,7 +2295,7 @@
 - [systemd/mkosi](https://github.com/systemd/mkosi) - 💽 Build Bespoke OS Images
 - [jalan/pdftotext](https://github.com/jalan/pdftotext) - 
 - [elevenlabs/elevenlabs-python](https://github.com/elevenlabs/elevenlabs-python) - The official Python SDK for the ElevenLabs API.
-- [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!
+- [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🧠 Train a 64M-parameter LLM from scratch in just 2h!
 - [camel-ai/owl](https://github.com/camel-ai/owl) - 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
 - [johe123qwe/github-trending](https://github.com/johe123qwe/github-trending) - 定时抓取 Github Trending
 - [souzatharsis/podcastfy](https://github.com/souzatharsis/podcastfy) - An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI
@@ -2305,7 +2304,7 @@
 - [scrapfly/scrapfly-scrapers](https://github.com/scrapfly/scrapfly-scrapers) - Scalable Python web scraping scripts for +40 popular domains
 - [internetarchive/brozzler](https://github.com/internetarchive/brozzler) - brozzler - distributed browser-based web crawler
 - [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
-- [xerrors/Yuxi](https://github.com/xerrors/Yuxi) - 结合知识库、知识图谱管理的 多租户 Agent Harness 平台。 An agent harness that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.
+- [xerrors/Yuxi](https://github.com/xerrors/Yuxi) - 可私有部署的多租户知识智能体平台：统一 RAG、知识图谱、多智能体、MCP/Skills、沙盒与权限管理。Self-hosted knowledge agent platform for RAG, knowledge graphs and multi-agent workflows.
 - [blackteahamburger/fcitx5-pinyin-sougou-dict](https://github.com/blackteahamburger/fcitx5-pinyin-sougou-dict) - Sougou Pinyin dictionary for Fcitx5 and RIME
 - [yaoyhu/anki_packager](https://github.com/yaoyhu/anki_packager) - An intelligent, automatic Anki flashcard generator designed for Chinese speakers learning English.
 - [veops/cmdb](https://github.com/veops/cmdb) - CMDB: configuration and management of IT resources
@@ -2445,7 +2444,7 @@
 - [thp/urlwatch](https://github.com/thp/urlwatch) - Watch (parts of) webpages and get notified when something changes via e-mail, on your phone or via other means. Highly configurable.
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitorin
 - [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux
-- [isaackogan/TikTok-Live-API](https://github.com/isaackogan/TikTok-Live-API) - TikTok LIVE API for Python: The definitive 3rd-party library to receive livestream events (comments, gifts, etc.) in realtime from TikTok LIVE.
+- [isaackogan/TikTokLive](https://github.com/isaackogan/TikTokLive) - TikTok LIVE API for Python: The definitive 3rd-party library to receive livestream events (comments, gifts, etc.) in realtime from TikTok LIVE.
 - [SmallPeaches/DanmakuRender](https://github.com/SmallPeaches/DanmakuRender) - 一个可以录制带弹幕直播流的小工具
 - [androidtrackers/certified-android-devices](https://github.com/androidtrackers/certified-android-devices) - Google Play Certified Android devices list, auto updated daily!
 - [GauravSingh9356/J.A.R.V.I.S](https://github.com/GauravSingh9356/J.A.R.V.I.S) - Personal Assistant built using python libraries. It does almost anything which includes sending emails, Optical Text Recognition, Dynamic News Reporting at any time with API integration, Todo list gen
@@ -2611,6 +2610,7 @@
 - [J0K3Rn/Bardarin](https://github.com/J0K3Rn/Bardarin) - Utilize LLM’s to help in your language studies! Uses Google's Bard to generate sentences from the 1000 most common words in Chinese (Mandarin) to study. Provides English translations and pinyin. Gener
 - [evgenlipin/automatic_anki_dictionary](https://github.com/evgenlipin/automatic_anki_dictionary) - This program allows you to create sets of Anki flashcards from a list of words, using data extracted from the Cambridge dictionary website.
 - [JeffreyCA/spleeter-web](https://github.com/JeffreyCA/spleeter-web) - Self-hostable web app for isolating the vocal, accompaniment, bass, and drums of any song. Supports Spleeter, Demucs, BS-RoFormer. Started in 2019.
+- [LjyYano/Thinking_in_Java_MindMapping](https://github.com/LjyYano/Thinking_in_Java_MindMapping) - 编程笔记、 AI 学习、观影指南、读书笔记、生活感悟、游戏记录
 - [opengeos/WhiteboxTools-ArcGIS](https://github.com/opengeos/WhiteboxTools-ArcGIS) - ArcGIS Python Toolbox for WhiteboxTools
 - [Esri/arcgis-python-api](https://github.com/Esri/arcgis-python-api) - Documentation and samples for ArcGIS API for Python
 - [OpenDroneMap/ODM](https://github.com/OpenDroneMap/ODM) - A command line toolkit to generate maps, point clouds, 3D models and DEMs from drone, balloon or kite images. 📷
@@ -2751,7 +2751,7 @@
 - [cyph3rpuNk-dev/Nomad-Launcher](https://github.com/cyph3rpuNk-dev/Nomad-Launcher) - Single-file portable browser launchers for Windows, written in Rust. Each launcher downloads and verifies its browser, applies privacy hardening, and cleans up host traces when it exits.
 - [Wangnov/Codex-App-Manager](https://github.com/Wangnov/Codex-App-Manager) - 跨平台官方 Codex 桌面应用的安装 / 增量更新 / 干净卸载管理器，内置国内可达的镜像自更新。Cross-platform installer & updater for the official Codex desktop app — incremental updates, clean uninstall, China-reachable self-update.
 - [jinnang233/English2AnkiCSV](https://github.com/jinnang233/English2AnkiCSV) - 【实验性】 一个 Rust 桌面程序，用于批量查询英文单词释义，保存为本地 JSON，并导出为 Anki 可导入的 UTF-8 TSV/CSV。
-- [tomrford/mint](https://github.com/tomrford/mint) - A CLI tool for building hex files from excel data and a layout definition.
+- [tomrford/mint](https://github.com/tomrford/mint) - A CLI tool for firmware parametrisation. Combines data (xlsx/json) and layouts (toml) to generate static binary files (hex/mot).
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A decentralised discussion platform for communities.
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
 - [White-NX/carbonPaper](https://github.com/White-NX/carbonPaper) - An assistant to help you remember everything you see on your PC, like Recall
@@ -2854,7 +2854,7 @@
 - [alley-rs/lsar](https://github.com/alley-rs/lsar) - 直播解析图形化程序
 - [Frederick888/external-editor-revived](https://github.com/Frederick888/external-editor-revived) - External Editor Revived is a Thunderbird MailExtension which allows editing emails in programs such as Vim, Neovim, Emacs, etc.
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Record your screen 24/7 and plug into your agents. Local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Record your screen continuously locally and provide context to your agents (Claude, Codex, Openclaw, Hermes, Runner...)
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database tool for the terminal
 - [Myriad-Dreamin/tinymist](https://github.com/Myriad-Dreamin/tinymist) - Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
 - [pythops/oryx](https://github.com/pythops/oryx) - 🕵️‍♂️ TUI for sniffing network traffic using eBPF on Linux
@@ -3078,7 +3078,7 @@
 - [nextcloud/vm](https://github.com/nextcloud/vm) - 💻☁📦 The Nextcloud VM (virtual machine appliance), Home/SME Server and scripts for RPi (4-5). Community developed and maintained.
 - [2KAbhishek/termux2k](https://github.com/2KAbhishek/termux2k) - CLI Dev Setup in Your Hands ✋📱
 - [todotxt/todo.txt-cli](https://github.com/todotxt/todo.txt-cli) - ☑️ A simple and extensible shell script for managing your todo.txt file.
-- [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
+- [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
 - [warbacon/zunder-zsh](https://github.com/warbacon/zunder-zsh) - ⚡ A minimalistic zsh configuration with sane defaults
 - [xiv3r/Kali-Linux-Termux](https://github.com/xiv3r/Kali-Linux-Termux) - Run Kali Linux Nethunter Rootless with GUI in Termux
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
@@ -3294,7 +3294,7 @@
 - [FelippeChemello/podcast-maker](https://github.com/FelippeChemello/podcast-maker) - Fully automated video maker using motion graphics and text-to-speech synthesis to turn newsletters into daily YouTube videos.
 - [tejado/obsidian-gpgCrypt](https://github.com/tejado/obsidian-gpgCrypt) - Seamlessly encrypts your notes using GPG. Supports smartcards for enhanced security! 🔒📝📎
 - [ArtisanCloud/BrainX](https://github.com/ArtisanCloud/BrainX) - BrainX 是一个智能系统，分析各种媒体格式，整合到知识库，并生成定制内容，包括机器人、洞察和媒体。它旨在为用户提供个性化和自动化的解决方案。
-- [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - AI-powered, vision-driven UI automation for every platform.
+- [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - GUI Agent for E2E Testing
 - [AnotiaWang/deep-research-web-ui](https://github.com/AnotiaWang/deep-research-web-ui) - (Supports DeepSeek R1) An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.
 - [ant-design/ant-design-mini](https://github.com/ant-design/ant-design-mini) - Ant Design Mini is a UI component library for Alipay mini programs that is also compatible with WeChat mini programs, it follows the Ant Design specifications.
 - [hujiulong/gcoord](https://github.com/hujiulong/gcoord) - 地理坐标系转换工具
