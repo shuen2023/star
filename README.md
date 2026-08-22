@@ -44,6 +44,7 @@
 - [Less](#less)
 - [Lua](#lua)
 - [MATLAB](#matlab)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mojo](#mojo)
@@ -299,6 +300,7 @@
 
 ## C# # 
 
+- [TroniePh/SmartMacroAI](https://github.com/TroniePh/SmartMacroAI) - Advanced Windows & Web Automation Tool. Features: Record Clicks/Scrolls, Anti-ban (Random Delay), Playwright integration, and OCR.
 - [icaza/Ostium-Osint-Browser](https://github.com/icaza/Ostium-Osint-Browser) - OSINT oriented Web Browser
 - [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 - [badizher-codex/velo](https://github.com/badizher-codex/velo) - Privacy-first browser for Windows — AI threat detection, tracker blocker, fingerprint protection, local LLM support. Built with C# / .NET 8 + WPF + WebView2.
@@ -1220,6 +1222,8 @@
 
 ## JavaScript 
 
+- [terreng/simple-web-server](https://github.com/terreng/simple-web-server) - Create a local web server in just a few clicks with an easy to use interface. Built with Electron.
+- [webbrain-one/webbrain](https://github.com/webbrain-one/webbrain) - Open-source AI browser agent for Chrome and Firefox (monorepo) 🧠
 - [beancookie/chrome-needle](https://github.com/beancookie/chrome-needle) - Chrome extension running a 45M-parameter LLM (Needle 2) entirely in WASM. Natural-language control of tabs, forms, pages, and custom scripts — fully offline.
 - [pinokiocomputer/pinokio](https://github.com/pinokiocomputer/pinokio) - AI Browser
 - [dessant/search-by-image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search, available for Chrome, Edge and Safari
@@ -1348,7 +1352,6 @@
 - [BruceMacD/chatd](https://github.com/BruceMacD/chatd) - Chat with your documents using local AI
 - [tabulator-tables/tabulator](https://github.com/tabulator-tables/tabulator) - Interactive Tables and Data Grids for JavaScript
 - [buxuku/VideoSubtitleGenerator](https://github.com/buxuku/VideoSubtitleGenerator) - 批量为本地视频生成字幕文件，并可将字幕文件翻译成其它语言， 跨平台支持 window, mac 系统
-- [xxxily/h5player](https://github.com/xxxily/h5player) - This software supports all audio and video websites, such as TikTok, YouTube, Bilibili, TED, Instagram, Twitter, etc. Features include: variable playback speed, screen capture, video download, custom 
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [lupine-dev/automatune](https://github.com/lupine-dev/automatune) - Procedural music editor
 - [SunsetGlow/douyin_fudai](https://github.com/SunsetGlow/douyin_fudai) - 基于AutoJs6的抖音抢福袋脚本
@@ -1820,6 +1823,10 @@
 ## MATLAB 
 
 - [JieYangBruce/TorqueClustering](https://github.com/JieYangBruce/TorqueClustering) - Source Code for Torque Clustering (TORC) Algorithm
+
+## MDX 
+
+- [Dhruv-Techapps/acf-docs](https://github.com/Dhruv-Techapps/acf-docs) - Auto Click Auto Fill on any web page
 
 ## Makefile 
 
@@ -2733,7 +2740,6 @@
 
 ## Rust 
 
-- [Bd-Mutant7/chromepass](https://github.com/Bd-Mutant7/chromepass) - Chromepass - Hacking Chrome Saved Passwords
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [xai-org/grok-build](https://github.com/xai-org/grok-build) - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 - [gnomeria/usbtree](https://github.com/gnomeria/usbtree) - Live USB device tree in your terminal. Rust TUI, no root, no libusb. Full activity metrics on Linux; device tree on macOS/Windows.
@@ -3137,6 +3143,7 @@
 
 ## TypeScript 
 
+- [Blur009/Blur-AutoClicker](https://github.com/Blur009/Blur-AutoClicker) - An Auto-clicker with a few advanced features and generally better performance than popular alternatives. Made for windows.
 - [VladSez/easy-invoice-pdf](https://github.com/VladSez/easy-invoice-pdf) - Free & Open-Source Invoice Generator - No Sign-Up, No Ads, Instant PDF Export, 100% In-Browser, and Fully Customizable Templates. ⭐ Star the repo if you like it
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [JamalYusuf/vim-plus](https://github.com/JamalYusuf/vim-plus) - Vim+ lets you browse the web without leaving the keyboard: link hints, scrolling, find, visual mode, a Chrome-like omnibar, a command palette (:), window docking, privacy tools, reading progress, Read
@@ -3396,11 +3403,12 @@
 - [lzwme/m3u8-dl](https://github.com/lzwme/m3u8-dl) - A command-line tool for batch downloading m3u8 format videos. 一个 m3u8 视频文件批量下载工具，支持PC客户端、浏览器、命令行、API调用、docker部署多种形式使用，支持m3u8文件自动嗅探一键下载。
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [4gray/iptvnator](https://github.com/4gray/iptvnator) - :tv: Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.
-- [your-papa/obsidian-Smart2Brain](https://github.com/your-papa/obsidian-Smart2Brain) - An Obsidian plugin to interact with your privacy focused AI-Assistant making your second brain even smarter!
+- [s2b-dev/smart-second-brain](https://github.com/s2b-dev/smart-second-brain) - An Obsidian plugin to interact with your privacy focused AI-Assistant making your second brain even smarter!
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 - [Dolov/chrome-best-cookier](https://github.com/Dolov/chrome-best-cookier) - Easily manage your cookies.
 - [idootop/mi-gpt](https://github.com/idootop/mi-gpt) - 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。
 - [IndieKKY/bilibili-subtitle](https://github.com/IndieKKY/bilibili-subtitle) - 哔哔君 - 哔哩哔哩字幕列表浏览器扩展，功能包括点击跳转，下载字幕，总结字幕，翻译字幕等。
+- [xxxily/h5player](https://github.com/xxxily/h5player) - This software supports all audio and video websites, such as TikTok, YouTube, Bilibili, TED, Instagram, Twitter, etc. Features include: variable playback speed, screen capture, video download, custom 
 - [WhiteMinds/LiveAutoRecord](https://github.com/WhiteMinds/LiveAutoRecord) - 基于 Electron 的多平台直播自动录制软件
 - [kevboh/longform](https://github.com/kevboh/longform) - A plugin for Obsidian that helps you write and edit novels, screenplays, and other long projects.
 - [solidSpoon/DashPlayer](https://github.com/solidSpoon/DashPlayer) - 为英语学习者量身打造的视频播放器，助你通过观看视频、沉浸真实语境，轻松提升英语水平。#美剧 #播放器 #听力
