@@ -497,7 +497,7 @@
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
 - [xszyou/Fay](https://github.com/xszyou/Fay) - fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的agent框架。
-- [your-papa/obsidian-Smart2Brain](https://github.com/your-papa/obsidian-Smart2Brain) - An Obsidian plugin to interact with your privacy focused AI-Assistant making your second brain even smarter!
+- [s2b-dev/smart-second-brain](https://github.com/s2b-dev/smart-second-brain) - An Obsidian plugin to interact with your privacy focused AI-Assistant making your second brain even smarter!
 - [YaoFANGUK/video-subtitle-remover](https://github.com/YaoFANGUK/video-subtitle-remover) - 基于AI的图片/视频硬字幕去除、文本水印去除，无损分辨率生成去字幕、去水印后的图片/视频文件。无需申请第三方API，本地实现。AI-based tool for removing hard-coded subtitles and text-like watermarks from videos or Pictures.
 - [modal-labs/quillman](https://github.com/modal-labs/quillman) - A voice chat app
 - [pwh-pwh/aiwechat-vercel](https://github.com/pwh-pwh/aiwechat-vercel) - 使用vercel的functions，将ai功能加入微信公众号
@@ -529,6 +529,7 @@
 
 ## ai-agents 
 
+- [webbrain-one/webbrain](https://github.com/webbrain-one/webbrain) - Open-source AI browser agent for Chrome and Firefox (monorepo) 🧠
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [AbuZar-Ansarii/PrivatePixelPrompt](https://github.com/AbuZar-Ansarii/PrivatePixelPrompt) - PortableLM — Zero-dependency, air-gapped local AI that runs entirely from a USB drive. Chat, generate images, and synthesize speech offline on Windows, macOS, or Linux. No installs, no internet, just 
 - [kawayiYokami/P-ai](https://github.com/kawayiYokami/P-ai) - A ready-to-use self-growing desktop AI assistant for long-running tasks, memory, agents, tool reviews, MCP, and high-concurrency workspace automation. / 开箱即用的自我成长型桌面 AI 助理，面向长期任务、记忆、部门协作、工具审查、MCP 与高并发
@@ -1080,6 +1081,8 @@
 
 ## automation 
 
+- [TroniePh/SmartMacroAI](https://github.com/TroniePh/SmartMacroAI) - Advanced Windows & Web Automation Tool. Features: Record Clicks/Scrolls, Anti-ban (Random Delay), Playwright integration, and OCR.
+- [Blur009/Blur-AutoClicker](https://github.com/Blur009/Blur-AutoClicker) - An Auto-clicker with a few advanced features and generally better performance than popular alternatives. Made for windows.
 - [MasayukiTa/m365-copilot-companion-mcp](https://github.com/MasayukiTa/m365-copilot-companion-mcp) - Personal-use MCP server that gives Microsoft 365 Copilot real hands on your own laptop: files, Python, Office, SQL, Web. 100+ tools, autonomous relay, easily extensible, no extra licences.
 - [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) - Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone 
 - [the-sudipta/ExeFoundry](https://github.com/the-sudipta/ExeFoundry) - Portable BAT→EXE converter for Windows — turn .bat into a single .exe (custom icon, console/GUI, arg forwarding; no admin).
@@ -1225,6 +1228,8 @@
 
 ## bot 
 
+- [TroniePh/SmartMacroAI](https://github.com/TroniePh/SmartMacroAI) - Advanced Windows & Web Automation Tool. Features: Record Clicks/Scrolls, Anti-ban (Random Delay), Playwright integration, and OCR.
+- [Blur009/Blur-AutoClicker](https://github.com/Blur009/Blur-AutoClicker) - An Auto-clicker with a few advanced features and generally better performance than popular alternatives. Made for windows.
 - [tubexchat/Rocky-wechatbot](https://github.com/tubexchat/Rocky-wechatbot) - WeChatBot with ASR & LLM: Integrated with Gemini API and Microsoft ASR, this bot leverages financial datasets from WallstreetCN, Binance, and East Money to provide a voice-interactive WeChat experienc
 - [NeoKode/quantum-bot](https://github.com/NeoKode/quantum-bot) - Bot designed for a friendly, fun and simple audience. It was prioritized to be run in termux from Android with basic javascript (I don't study programming, but it's fun to do this muahahaha :v), thank
 - [HenryXiaoYang/XYBot](https://github.com/HenryXiaoYang/XYBot) - XYBot是一个可运行于Linux和Windows的基于Hook的微信机器人🤖️！✅高度可自定义！ ✅支持自我编写插件！非常多的功能：天气🌤️、获取新闻📰、ChatGPT聊天🗣️、Hypixel玩家查询🎮、随机图片📷、随机链接🔗、随机群成员👥、五子棋♟️、签到✅、查询积分📊、积分榜🏆、积分转送💰、积分抽奖🎁、积分红包🧧等
@@ -1371,7 +1376,7 @@
 - [GauravSingh9356/J.A.R.V.I.S](https://github.com/GauravSingh9356/J.A.R.V.I.S) - Personal Assistant built using python libraries. It does almost anything which includes sending emails, Optical Text Recognition, Dynamic News Reporting at any time with API integration, Todo list gen
 - [zjunlp/EasyEdit](https://github.com/zjunlp/EasyEdit) - [ACL 2024] An Easy-to-use Knowledge Editing Framework for LLMs.
 - [QwenAudio/CosyVoice](https://github.com/QwenAudio/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
-- [your-papa/obsidian-Smart2Brain](https://github.com/your-papa/obsidian-Smart2Brain) - An Obsidian plugin to interact with your privacy focused AI-Assistant making your second brain even smarter!
+- [s2b-dev/smart-second-brain](https://github.com/s2b-dev/smart-second-brain) - An Obsidian plugin to interact with your privacy focused AI-Assistant making your second brain even smarter!
 - [yonggekkk/warp-yg](https://github.com/yonggekkk/warp-yg) - warp多功能一键脚本，支持warp-go与wgcf切换，无限生成warp配置文件，支持升级warp+、warp团队账户，查看VPS本地IP、netflix、chatgpt解锁状态
 - [latorc/Wechat-AI-Assistant](https://github.com/latorc/Wechat-AI-Assistant) - 微信AI助理 (Wechat AI Assistant): 在微信中与 AI 助理进行多模态交互, 处理问答、扮演角色、响应语音消息、分析图片和视频、总结文章和网页链接、搜索互联网等等。现支持 OpenAI Assistant API 和 GPT-4o模型。
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
@@ -1452,6 +1457,8 @@
 
 ## chrome-extension 
 
+- [Dhruv-Techapps/acf-docs](https://github.com/Dhruv-Techapps/acf-docs) - Auto Click Auto Fill on any web page
+- [webbrain-one/webbrain](https://github.com/webbrain-one/webbrain) - Open-source AI browser agent for Chrome and Firefox (monorepo) 🧠
 - [beancookie/chrome-needle](https://github.com/beancookie/chrome-needle) - Chrome extension running a 45M-parameter LLM (Needle 2) entirely in WASM. Natural-language control of tabs, forms, pages, and custom scripts — fully offline.
 - [dessant/search-by-image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search, available for Chrome, Edge and Safari
 - [gdh1995/vimium-c](https://github.com/gdh1995/vimium-c) - A keyboard shortcut browser extension for keyboard-based navigation and tab operations with an advanced omnibar
@@ -1871,6 +1878,7 @@
 
 ## csharp 
 
+- [TroniePh/SmartMacroAI](https://github.com/TroniePh/SmartMacroAI) - Advanced Windows & Web Automation Tool. Features: Record Clicks/Scrolls, Anti-ban (Random Delay), Playwright integration, and OCR.
 - [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 - [semantic-craft/owltype-win](https://github.com/semantic-craft/owltype-win) - 法墨 Famotype for Windows — 自包含 TSF 中文输入法：复用 Weasel / RIME 引擎，配 WinUI 3 设置面板，与已装 RIME 并存。Self-contained Chinese IME for Windows (GPL-3.0).
 - [HiyokoSauna37/karu-browser](https://github.com/HiyokoSauna37/karu-browser) - A lightweight, keyboard-first Windows browser (WPF + WebView2) built for low-memory video watching.
@@ -2358,6 +2366,7 @@
 
 ## electron 
 
+- [terreng/simple-web-server](https://github.com/terreng/simple-web-server) - Create a local web server in just a few clicks with an easy to use interface. Built with Electron.
 - [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) - Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), Excel (.xlsx), PowerPoint (.pptx), PDF and Markdown editing with built-in AI agents.
 - [TTLApp/time-to-leave](https://github.com/TTLApp/time-to-leave) - Log work hours and get notified when it's time to leave the office and start to live.
 - [apache/maka](https://github.com/apache/maka) - Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.
@@ -5070,7 +5079,7 @@
 - [daeh/zotero-markdb-connect](https://github.com/daeh/zotero-markdb-connect) - Zotero plugin that links your Markdown database to Zotero. Jump directly from Zotero Items to connected Markdown files. Automatically tags Zotero Items so you can easily see which papers you've made n
 - [community-archive/obsidian-kanban](https://github.com/community-archive/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
 - [quanru/obsidian-example-lifeos](https://github.com/quanru/obsidian-example-lifeos) - LifeOS example vault for Obsidian(Combining P.A.R.A with Periodic Notes)
-- [your-papa/obsidian-Smart2Brain](https://github.com/your-papa/obsidian-Smart2Brain) - An Obsidian plugin to interact with your privacy focused AI-Assistant making your second brain even smarter!
+- [s2b-dev/smart-second-brain](https://github.com/s2b-dev/smart-second-brain) - An Obsidian plugin to interact with your privacy focused AI-Assistant making your second brain even smarter!
 - [kevboh/longform](https://github.com/kevboh/longform) - A plugin for Obsidian that helps you write and edit novels, screenplays, and other long projects.
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [fenjalien/obsidian-typst](https://github.com/fenjalien/obsidian-typst) - Renders typst code blocks in Obsidian into images using Typst through the power of WASM!
@@ -5098,7 +5107,7 @@
 - [tu2-atmanand/Task-Board](https://github.com/tu2-atmanand/Task-Board) - An Obsidian plugin to view and manage your tasks from whole vault using much efficient boards using various methodologies.
 - [community-archive/obsidian-kanban](https://github.com/community-archive/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
 - [quanru/obsidian-example-lifeos](https://github.com/quanru/obsidian-example-lifeos) - LifeOS example vault for Obsidian(Combining P.A.R.A with Periodic Notes)
-- [your-papa/obsidian-Smart2Brain](https://github.com/your-papa/obsidian-Smart2Brain) - An Obsidian plugin to interact with your privacy focused AI-Assistant making your second brain even smarter!
+- [s2b-dev/smart-second-brain](https://github.com/s2b-dev/smart-second-brain) - An Obsidian plugin to interact with your privacy focused AI-Assistant making your second brain even smarter!
 - [kevboh/longform](https://github.com/kevboh/longform) - A plugin for Obsidian that helps you write and edit novels, screenplays, and other long projects.
 - [dream-num/obsidian-univer](https://github.com/dream-num/obsidian-univer) - Create, edit, and view spreadsheets and documents in various formats like Excel and Word directly within your knowledge base.
 - [fenjalien/obsidian-typst](https://github.com/fenjalien/obsidian-typst) - Renders typst code blocks in Obsidian into images using Typst through the power of WASM!
@@ -5273,7 +5282,6 @@
 ## others 
 
 - [icaza/Ostium-Osint-Browser](https://github.com/icaza/Ostium-Osint-Browser) - OSINT oriented Web Browser
-- [Bd-Mutant7/chromepass](https://github.com/Bd-Mutant7/chromepass) - Chromepass - Hacking Chrome Saved Passwords
 - [Mornia-source/ipa-input-scheme](https://github.com/Mornia-source/ipa-input-scheme) - 基于 Rime 的自定义 IPA 国际音标输入方案
 - [fcxxxz/rime-auto-build](https://github.com/fcxxxz/rime-auto-build) - 自动构建 Weasel（小狼毫）Windows x64 安装包，可通过issue模板自定义配置打包~
 - [badizher-codex/velo](https://github.com/badizher-codex/velo) - Privacy-first browser for Windows — AI threat detection, tracker blocker, fingerprint protection, local LLM support. Built with C# / .NET 8 + WPF + WebView2.
@@ -7121,7 +7129,7 @@
 - [BBC-Esq/VectorDB-Plugin](https://github.com/BBC-Esq/VectorDB-Plugin) - Program that lets you ask questions about your documents, audio, and video files.
 - [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - [EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation
 - [Storia-AI/sage](https://github.com/Storia-AI/sage) - Chat with any codebase in under two minutes | Fully local or via third-party APIs
-- [your-papa/obsidian-Smart2Brain](https://github.com/your-papa/obsidian-Smart2Brain) - An Obsidian plugin to interact with your privacy focused AI-Assistant making your second brain even smarter!
+- [s2b-dev/smart-second-brain](https://github.com/s2b-dev/smart-second-brain) - An Obsidian plugin to interact with your privacy focused AI-Assistant making your second brain even smarter!
 - [BruceMacD/chatd](https://github.com/BruceMacD/chatd) - Chat with your documents using local AI
 - [milvus-io/bootcamp](https://github.com/milvus-io/bootcamp) - Dealing with all unstructured data, such as reverse image search, audio search, molecular search, video analysis, question and answer systems, NLP, etc.
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
@@ -8593,6 +8601,8 @@
 
 ## windows 
 
+- [TroniePh/SmartMacroAI](https://github.com/TroniePh/SmartMacroAI) - Advanced Windows & Web Automation Tool. Features: Record Clicks/Scrolls, Anti-ban (Random Delay), Playwright integration, and OCR.
+- [Blur009/Blur-AutoClicker](https://github.com/Blur009/Blur-AutoClicker) - An Auto-clicker with a few advanced features and generally better performance than popular alternatives. Made for windows.
 - [quinnuk/LoopClip](https://github.com/quinnuk/LoopClip) - Windows app that downloads YouTube videos and auto-trims/re-encodes them into seamless looping 4K HEVC screensaver clips, with NVENC GPU acceleration. Built for Projectivy Launcher.
 - [semantic-craft/owltype-win](https://github.com/semantic-craft/owltype-win) - 法墨 Famotype for Windows — 自包含 TSF 中文输入法：复用 Weasel / RIME 引擎，配 WinUI 3 设置面板，与已装 RIME 并存。Self-contained Chinese IME for Windows (GPL-3.0).
 - [HiyokoSauna37/karu-browser](https://github.com/HiyokoSauna37/karu-browser) - A lightweight, keyboard-first Windows browser (WPF + WebView2) built for low-memory video watching.
