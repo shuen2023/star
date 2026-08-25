@@ -981,7 +981,7 @@
 - [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) - Best Material You Design music player for Android
 - [osfans/trime](https://github.com/osfans/trime) - 同文安卓輸入法平臺3.x/Android-rime/Rime Input Method Engine for Android
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
-- [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) - Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli]
+- [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) - Nix-enabled environment for your Android device. [maintainers=@t184256]
 - [massivemadness/Squircle-CE](https://github.com/massivemadness/Squircle-CE) - 👨‍💻 Squircle CE is a fast and free multi-language code editor for Android
 - [you-apps/RecordYou](https://github.com/you-apps/RecordYou) - Privacy focused recorder app built with MD3
 - [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
@@ -1027,7 +1027,7 @@
 - [xszyou/Fay](https://github.com/xszyou/Fay) - fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的agent框架。
 - [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) - 🚀「Douyin_TikTok_Download_API」是一个开箱即用的高性能异步抖音、快手、TikTok、Bilibili数据爬取工具，支持API调用，在线批量解析及下载。
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
-- [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) - TikTok 发布/喜欢/合辑/直播/视频/图集/音乐；抖音发布/喜欢/收藏/收藏夹/视频/图集/实况/直播/音乐/合集/评论/账号/搜索/热榜数据采集工具/下载工具
+- [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) - 抖音 / TikTok 平台作品下载/数据采集工具
 - [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是
 - [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - The task manager you actually own.
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
@@ -1949,7 +1949,6 @@
 ## data 
 
 - [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 APIs for web automation, testing, and bypassing bot-detection.
-- [rpbouman/huey](https://github.com/rpbouman/huey) - Light-weight, browser-based ROLAP pivot tables on top of DuckDB-WASM
 - [tabulator-tables/tabulator](https://github.com/tabulator-tables/tabulator) - Interactive Tables and Data Grids for JavaScript
 - [jim-schwoebel/voice_datasets](https://github.com/jim-schwoebel/voice_datasets) - 🔊 A comprehensive list of open-source datasets for voice and sound computing (95+ datasets).
 - [nguyenthanhjt/google-data-analytics-professional-certificate-course](https://github.com/nguyenthanhjt/google-data-analytics-professional-certificate-course) - [Google Data Analytics Professional Certificate] learning resources
@@ -1988,6 +1987,7 @@
 
 ## data-engineering 
 
+- [rpbouman/huey](https://github.com/rpbouman/huey) - Browser-based data analytics & BI with DuckDB-WASM. Privacy-first: your data stays local; no server required.
 - [dathere/qsv](https://github.com/dathere/qsv) - Blazing-fast Data-Wrangling toolkit
 - [andkret/Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook
 - [Moataz-Elmesmary/Data-Science-Roadmap](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap) - Data Science Roadmap from A to Z
@@ -2284,7 +2284,7 @@
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet.
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with over 300 apps in the Umbrel App Store.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
-- [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) - TikTok 发布/喜欢/合辑/直播/视频/图集/音乐；抖音发布/喜欢/收藏/收藏夹/视频/图集/实况/直播/音乐/合集/评论/账号/搜索/热榜数据采集工具/下载工具
+- [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) - 抖音 / TikTok 平台作品下载/数据采集工具
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [sergiovision/FinCore](https://github.com/sergiovision/FinCore) - FinCore is a cool and free cross-platform personal finances manager written in .NET 8 with Angular 14 frontend.
 - [termux/termux-docker](https://github.com/termux/termux-docker) - Termux environment packaged as Docker image.
@@ -3763,6 +3763,7 @@
 - [msiemens/tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness :)
 - [Pditine/E2E](https://github.com/Pditine/E2E) - a tool for converting Excel To Everything! | Excel格式转换万用工具
 - [nao1215/sqly](https://github.com/nao1215/sqly) - executes SQL against CSV, TSV, LTSV, JSON, JSONL, Parquet, Microsoft Excel™ , ACH, and Fedwire files with shell.
+- [rpbouman/huey](https://github.com/rpbouman/huey) - Browser-based data analytics & BI with DuckDB-WASM. Privacy-first: your data stays local; no server required.
 - [fastn-stack/fastn](https://github.com/fastn-stack/fastn) - 🚧 (Alpha stage software) fastn 🏎️ - better way to build websites 🚧
 - [abhimanyu003/sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string
 - [owntracks/android](https://github.com/owntracks/android) - OwnTracks Android App
@@ -4059,7 +4060,7 @@
 - [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 - [EdwardLab/flyos](https://github.com/EdwardLab/flyos) - Unleash your mobile phone's potential: it's not just a phone, but a pocket-sized computer.
-- [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 跨平台互动桌宠 BongoCat，为桌面增添乐趣！
+- [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 🧸跨平台互动桌宠 BongoCat，为桌面增添乐趣！
 - [learnbyexample/learn_gnuawk](https://github.com/learnbyexample/learn_gnuawk) - Example based guide to mastering GNU awk
 - [CatOS-Home/CatOS](https://github.com/CatOS-Home/CatOS) - CatOS is an open-source,Arch-based,out-of-the-box Linux distribution designed to provide an excellent operating system user experience.
 - [ustclug/Linux201-docs](https://github.com/ustclug/Linux201-docs) - Linux 201 进阶教程阅读资料
@@ -4132,7 +4133,7 @@
 - [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Set up your own IPsec VPN server in just a few minutes, with IPsec/L2TP, Cisco IPsec and IKEv2. Supports Ubuntu, Debian, CentOS/RHEL, Alpine Linux and Raspberry Pi OS. Includes client config and manag
 - [leozide/leocad](https://github.com/leozide/leocad) - A CAD application for creating virtual LEGO models
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
-- [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) - TikTok 发布/喜欢/合辑/直播/视频/图集/音乐；抖音发布/喜欢/收藏/收藏夹/视频/图集/实况/直播/音乐/合集/评论/账号/搜索/热榜数据采集工具/下载工具
+- [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) - 抖音 / TikTok 平台作品下载/数据采集工具
 - [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis is a download manager written in Python.
 - [cyanfish/naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
@@ -4416,7 +4417,7 @@
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 - [petoncle/mousemaster](https://github.com/petoncle/mousemaster) - Mouseless mouse control and advanced keyboard customization for Windows and macOS.
-- [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 跨平台互动桌宠 BongoCat，为桌面增添乐趣！
+- [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 🧸跨平台互动桌宠 BongoCat，为桌面增添乐趣！
 - [CosminMihuMDC/KtorMonitor](https://github.com/CosminMihuMDC/KtorMonitor) - Powerful tool to monitor Ktor Client, OkHttp and http4k requests and responses, making it easier to debug and analyze network communication.
 - [raj457036/CopyCat-Clipboard](https://github.com/raj457036/CopyCat-Clipboard) - Copycat Clipboard is an intuitive clipboard manager designed to enhance your workflow. Seamlessly switch between documents, apps, and devices while keeping all your copied items organized and accessib
 - [shamanec/GADS](https://github.com/shamanec/GADS) - Simple mobile device farm for remote control of devices and Appium test execution on iOS/Android
@@ -4461,7 +4462,7 @@
 - [keymanapp/keyman](https://github.com/keymanapp/keyman) - Keyman cross platform input methods system running on Android, iOS, Linux, macOS, Windows and mobile and desktop web
 - [leozide/leocad](https://github.com/leozide/leocad) - A CAD application for creating virtual LEGO models
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
-- [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) - TikTok 发布/喜欢/合辑/直播/视频/图集/音乐；抖音发布/喜欢/收藏/收藏夹/视频/图集/实况/直播/音乐/合集/评论/账号/搜索/热榜数据采集工具/下载工具
+- [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) - 抖音 / TikTok 平台作品下载/数据采集工具
 - [cyanfish/naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
@@ -4664,6 +4665,7 @@
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 - [KiWi233333/JiwuChat](https://github.com/KiWi233333/JiwuChat) - JiwuChat 🍂 - A lightweight cross-platform instant messaging app with integrated AI assistants (DeepSeek/Gemini/Kimi). Features real-time messaging, audio/video calls, multi-device sync, and customizab
+- [ranuts/document](https://github.com/ranuts/document) - Edit DOCX/XLSX/PPTX in your browser — client-side, no server, works offline (OnlyOffice + WebAssembly)
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [glidea/zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!!
@@ -5281,6 +5283,7 @@
 
 ## others 
 
+- [The412Banner/Bannerlator](https://github.com/The412Banner/Bannerlator) - Bannerlator — run Windows PC games and apps on Android (Wine + Box64/86). A personal, community-driven continuation of the discontinued Winlator Star Bionic project. GitHub Actions builds + releases.
 - [icaza/Ostium-Osint-Browser](https://github.com/icaza/Ostium-Osint-Browser) - OSINT oriented Web Browser
 - [Mornia-source/ipa-input-scheme](https://github.com/Mornia-source/ipa-input-scheme) - 基于 Rime 的自定义 IPA 国际音标输入方案
 - [fcxxxz/rime-auto-build](https://github.com/fcxxxz/rime-auto-build) - 自动构建 Weasel（小狼毫）Windows x64 安装包，可通过issue模板自定义配置打包~
@@ -5301,7 +5304,7 @@
 - [GeeLaw/DisableRoundCorners](https://github.com/GeeLaw/DisableRoundCorners) - A utility to disable round corners of Windows 11 without hacks.
 - [valinet/Win11DisableRoundedCorners](https://github.com/valinet/Win11DisableRoundedCorners) - A simple utility that cold patches dwm (uDWM.dll) in order to disable window rounded corners in Windows 11
 - [LordOfMice/hidusbf](https://github.com/LordOfMice/hidusbf) - USB Mice Overclocking Software (for Windows)
-- [Dylanchess0320/LuckyD-Browser](https://github.com/Dylanchess0320/LuckyD-Browser) - LuckyD Browser: Chromium-based AI browser for Windows with free, unlimited, OFFLINE AI built in — no API key, no account. Ollama auto-setup, coding agent HQ + terminal in tabs, agent drives your real 
+- [Dylanchess0320/LuckyD-Browser](https://github.com/Dylanchess0320/LuckyD-Browser) - LuckyD Browser! The platform with all the top free ai stuff!
 - [knowledgefxg/learning-english](https://github.com/knowledgefxg/learning-english) - 精选优质英语学习资源合集，专注于听说读写等核心技能的提升。包含语法、词汇和媒体资源，助您更好地学习英语。
 - [cigery-useio/useio-releases](https://github.com/cigery-useio/useio-releases) - UseIO 是一款 100% 本地运行的桌面端 AI 助手。它能读懂你的意图，解析 Office 文档、精准识别图片内容，更能接管你的工作流——直接在你的电脑上写代码、改文档、整理资料、执行命令、查看电脑屏幕并分析屏幕内容来帮助你完成复杂任务。
 - [imputnet/helium-windows](https://github.com/imputnet/helium-windows) - Helium Browser for Windows
@@ -5461,7 +5464,6 @@
 - [longxiao7/stars](https://github.com/longxiao7/stars) - 给自己star的项目写备注
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [teamclouday/AndroidMic](https://github.com/teamclouday/AndroidMic) - Use your Android phone as a microphone for your PC
-- [ranuts/document](https://github.com/ranuts/document) - Perform common file preview and editing via the web.
 - [PacktPublishing/The-Definitive-Guide-to-Power-Query-M-](https://github.com/PacktPublishing/The-Definitive-Guide-to-Power-Query-M-) - The Definitive Guide to Power Query (M), published by Packt
 - [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis
 - [Liwiro1/csv-to-xlsx](https://github.com/Liwiro1/csv-to-xlsx) - With this tool, you can convert the reports inside a zip file into a formatted XLSX file with just 2 clicks.
@@ -6430,7 +6432,7 @@
 - [Enter-tainer/typst-preview](https://github.com/Enter-tainer/typst-preview) - [DEPRECATED] Use tinymist instead
 - [interaminense/learning-english](https://github.com/interaminense/learning-english) - :gb: Useful links that will help me (and probably you) to learn English through the Internet.
 - [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
-- [byoungd/up](https://github.com/byoungd/up) - An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语
+- [byoungd/up](https://github.com/byoungd/up) - An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 离谱的人生/人生进阶 离谱的英语学习指南/英语学习教程/英语学习/学英语
 - [joric/nrfmicro](https://github.com/joric/nrfmicro) - A Pro Micro alternative for wireless keyboards
 - [tinyboxxx/TiBoard](https://github.com/tinyboxxx/TiBoard) - TiBoard的硬件部分及说明文件
 - [teknium1/GPTeacher](https://github.com/teknium1/GPTeacher) - A collection of modular datasets generated by GPT-4, General-Instruct - Roleplay-Instruct - Code-Instruct - and Toolformer
@@ -6616,6 +6618,7 @@
 - [woheller69/browser](https://github.com/woheller69/browser) - A privacy oriented web browser with Greasemonkey style script support and Cookie Banner Blocker
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [anyproto/anytype-ts](https://github.com/anyproto/anytype-ts) - Official Anytype client for MacOS, Linux, and Windows
+- [ranuts/document](https://github.com/ranuts/document) - Edit DOCX/XLSX/PPTX in your browser — client-side, no server, works offline (OnlyOffice + WebAssembly)
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [Myzel394/Alibi](https://github.com/Myzel394/Alibi) - Use your phone as a dashcam and save the last 30 minutes when you need them.
 - [tutao/tutanota](https://github.com/tutao/tutanota) - Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
@@ -6775,6 +6778,7 @@
 
 - [rerr-creator/open-translator](https://github.com/rerr-creator/open-translator) - 🌐 Enhance your browsing with Open Translator, a Chrome extension that seamlessly translates web pages using trusted AI models directly in your browser.
 - [pldubouilh/gossa](https://github.com/pldubouilh/gossa) - 🎶 a fast and simple multimedia fileserver
+- [ranuts/document](https://github.com/ranuts/document) - Edit DOCX/XLSX/PPTX in your browser — client-side, no server, works offline (OnlyOffice + WebAssembly)
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
 - [yenche123/liubai](https://github.com/yenche123/liubai) - Supercharge yourself!
 - [philfung/add-to-homescreen](https://github.com/philfung/add-to-homescreen) - Easily add website to your IOS/Android/Desktop homescreen.
@@ -6920,7 +6924,7 @@
 - [dtmilano/AndroidViewClient](https://github.com/dtmilano/AndroidViewClient) - Android ViewServer and ADB client
 - [yangwenmai/github-trending-backup](https://github.com/yangwenmai/github-trending-backup) - Github trending backup by everyday.
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
-- [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) - TikTok 发布/喜欢/合辑/直播/视频/图集/音乐；抖音发布/喜欢/收藏/收藏夹/视频/图集/实况/直播/音乐/合集/评论/账号/搜索/热榜数据采集工具/下载工具
+- [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) - 抖音 / TikTok 平台作品下载/数据采集工具
 - [alettsy/image-to-excel-cells](https://github.com/alettsy/image-to-excel-cells) - Converting an image to Excel cells
 - [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis is a download manager written in Python.
 - [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql, sqlite, now with asyncio
@@ -7105,7 +7109,6 @@
 - [datawhalechina/tiny-universe](https://github.com/datawhalechina/tiny-universe) - 《大模型白盒子构建指南》：一个全手搓的Tiny-Universe
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台/ Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Matrix e.g. Integr
-- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
@@ -7184,7 +7187,7 @@
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 - [SteveSuv/remix-words-funny](https://github.com/SteveSuv/remix-words-funny) - a fullstack English words study website: remix (react-router v7) + trpc + drizzle + postgresql + heroui + jotai + docker
-- [kamilmielnik/scrabble-solver](https://github.com/kamilmielnik/scrabble-solver) - Free, open-source, cross-platform, multi-language analysis tool for Scrabble, Scrabble Duel, Super Scrabble, Letter League, Crossplay, Literaki, and Kelimelik. Quickly find the top-scoring words using
+- [kamilmielnik/scrabble-solver](https://github.com/kamilmielnik/scrabble-solver) - Free, open-source, cross-platform, multi-language analysis tool for Scrabble, Scrabble Duel, Super Scrabble, Letter League, Crossplay, Literaki, Kelimelik, and Wyrazy. Quickly find the top-scoring wor
 - [ruilisi/fortune-sheet](https://github.com/ruilisi/fortune-sheet) - A drop-in javascript spreadsheet library that provides rich features like Excel and Google Sheets
 - [danilo-css/analytics-data-pivot](https://github.com/danilo-css/analytics-data-pivot) - A no code tool to help build pivot tables from any database with a few clicks.
 - [FelippeChemello/podcast-maker](https://github.com/FelippeChemello/podcast-maker) - Fully automated video maker using motion graphics and text-to-speech synthesis to turn newsletters into daily YouTube videos.
@@ -7351,7 +7354,7 @@
 - [ChanTsune/Portable-Network-Archive](https://github.com/ChanTsune/Portable-Network-Archive) - PNA (Portable Network Archive) is a highly scalable archive format that can be compressed, encrypted, and split. Also, its data structure is inspired by the PNG data structure.
 - [ad-si/cai](https://github.com/ad-si/cai) - User friendly CLI tool for AI tasks. Stop thinking about LLMs and prompts, start getting results!
 - [lemueldls/mnemo](https://github.com/lemueldls/mnemo) - A local-first, cross-platform note-taking app leveraging the Typst ecosystem. Designed to minimize distractions and enhance the retention of information.
-- [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 跨平台互动桌宠 BongoCat，为桌面增添乐趣！
+- [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 🧸跨平台互动桌宠 BongoCat，为桌面增添乐趣！
 - [iffse/pay-respects](https://github.com/iffse/pay-respects) - Command suggestions, command-not-found and thefuck replacement written in Rust
 - [tafia/calamine](https://github.com/tafia/calamine) - A pure Rust Excel/OpenDocument SpreadSheets file reader: rust on metal sheets
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
@@ -7618,7 +7621,7 @@
 - [sqlpage/SQLPage](https://github.com/sqlpage/SQLPage) - Fast SQL-only data application builder. Automatically build a UI on top of SQL queries.
 - [TheWaWaR/simple-http-server](https://github.com/TheWaWaR/simple-http-server) - Simple http server in Rust (Windows/Mac/Linux)
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
-- [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) - TikTok 发布/喜欢/合辑/直播/视频/图集/音乐；抖音发布/喜欢/收藏/收藏夹/视频/图集/实况/直播/音乐/合集/评论/账号/搜索/热榜数据采集工具/下载工具
+- [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) - 抖音 / TikTok 平台作品下载/数据采集工具
 - [albertito/chasquid](https://github.com/albertito/chasquid) - SMTP (email) server with a focus on simplicity, security, and ease of operation [mirror]
 - [causefx/Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP
 
@@ -7711,7 +7714,7 @@
 - [cunnane/xloil](https://github.com/cunnane/xloil) - xlOil provides framework for interacting with Excel in different programming languages (python & C++ currently)
 - [nao1215/sqly](https://github.com/nao1215/sqly) - executes SQL against CSV, TSV, LTSV, JSON, JSONL, Parquet, Microsoft Excel™ , ACH, and Fedwire files with shell.
 - [tansen87/insight-x](https://github.com/tansen87/insight-x) - Make CSV data manipulation simple
-- [rpbouman/huey](https://github.com/rpbouman/huey) - Light-weight, browser-based ROLAP pivot tables on top of DuckDB-WASM
+- [rpbouman/huey](https://github.com/rpbouman/huey) - Browser-based data analytics & BI with DuckDB-WASM. Privacy-first: your data stays local; no server required.
 - [treffynnon/sqlstyle.guide](https://github.com/treffynnon/sqlstyle.guide) - A consistent code style guide for SQL to ensure legible and maintainable projects
 - [dathere/qsv](https://github.com/dathere/qsv) - Blazing-fast Data-Wrangling toolkit
 - [quarylabs/sqruff](https://github.com/quarylabs/sqruff) - Fast SQL formatter/linter
@@ -7797,7 +7800,7 @@
 - [ckampfe/clipurl](https://github.com/ckampfe/clipurl) - 
 - [dg/adminer](https://github.com/dg/adminer) - Customizations for Adminer, the best database management tool written in PHP.
 - [utelle/SQLite3MultipleCiphers](https://github.com/utelle/SQLite3MultipleCiphers) - SQLite3 encryption extension with support for multiple ciphers
-- [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) - TikTok 发布/喜欢/合辑/直播/视频/图集/音乐；抖音发布/喜欢/收藏/收藏夹/视频/图集/实况/直播/音乐/合集/评论/账号/搜索/热榜数据采集工具/下载工具
+- [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) - 抖音 / TikTok 平台作品下载/数据采集工具
 - [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql, sqlite, now with asyncio
 - [eliben/gemini-cli](https://github.com/eliben/gemini-cli) - Access Gemini LLMs from the command-line
 - [sergiovision/FinCore](https://github.com/sergiovision/FinCore) - FinCore is a cool and free cross-platform personal finances manager written in .NET 8 with Angular 14 frontend.
@@ -8661,7 +8664,7 @@
 - [tobya/DocTo](https://github.com/tobya/DocTo) - Simple command line utility for converting .doc & .xls files to any supported format such as Text, RTF, CSV or PDF
 - [DefinetlyNotAI/Solidworks-Crack](https://github.com/DefinetlyNotAI/Solidworks-Crack) - Guide/Cheatsheet to install Solidworks
 - [petoncle/mousemaster](https://github.com/petoncle/mousemaster) - Mouseless mouse control and advanced keyboard customization for Windows and macOS.
-- [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 跨平台互动桌宠 BongoCat，为桌面增添乐趣！
+- [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 🧸跨平台互动桌宠 BongoCat，为桌面增添乐趣！
 - [CosminMihuMDC/KtorMonitor](https://github.com/CosminMihuMDC/KtorMonitor) - Powerful tool to monitor Ktor Client, OkHttp and http4k requests and responses, making it easier to debug and analyze network communication.
 - [raj457036/CopyCat-Clipboard](https://github.com/raj457036/CopyCat-Clipboard) - Copycat Clipboard is an intuitive clipboard manager designed to enhance your workflow. Seamlessly switch between documents, apps, and devices while keeping all your copied items organized and accessib
 - [shamanec/GADS](https://github.com/shamanec/GADS) - Simple mobile device farm for remote control of devices and Appium test execution on iOS/Android
@@ -8715,7 +8718,7 @@
 - [microsoft/sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
 - [leozide/leocad](https://github.com/leozide/leocad) - A CAD application for creating virtual LEGO models
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
-- [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) - TikTok 发布/喜欢/合辑/直播/视频/图集/音乐；抖音发布/喜欢/收藏/收藏夹/视频/图集/实况/直播/音乐/合集/评论/账号/搜索/热榜数据采集工具/下载工具
+- [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) - 抖音 / TikTok 平台作品下载/数据采集工具
 - [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis is a download manager written in Python.
 - [cyanfish/naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
