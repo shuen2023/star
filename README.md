@@ -34,6 +34,7 @@
 - [Groovy](#groovy)
 - [HTML](#html)
 - [Haskell](#haskell)
+- [Inno Setup](#inno-setup)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
@@ -63,6 +64,7 @@
 - [Perl](#perl)
 - [PowerShell](#powershell)
 - [Python](#python)
+- [QMake](#qmake)
 - [R](#r)
 - [Roff](#roff)
 - [Ruby](#ruby)
@@ -119,6 +121,7 @@
 
 ## Batchfile 
 
+- [CorgiMasterEpik/Windows-MSEdge-Removal-Tool](https://github.com/CorgiMasterEpik/Windows-MSEdge-Removal-Tool) - Remove's MS Edge
 - [LordOfMice/hidusbf](https://github.com/LordOfMice/hidusbf) - USB Mice Overclocking Software (for Windows)
 - [adavak/Win_ISO_Patching_Scripts](https://github.com/adavak/Win_ISO_Patching_Scripts) - Win_ISO_Patching_Scripts
 - [993671009/UpdateWinISO](https://github.com/993671009/UpdateWinISO) - 自用的更新Win10专业版系统镜像，由GitHub copilotAI编写
@@ -305,6 +308,9 @@
 
 ## C# # 
 
+- [AlexanderPro/SmartContextMenu](https://github.com/AlexanderPro/SmartContextMenu) - Smart context menu for all windows in the system
+- [Metabolix/HackBGRT](https://github.com/Metabolix/HackBGRT) - Windows boot logo changer for UEFI systems
+- [jhabjan/Bascanka](https://github.com/jhabjan/Bascanka) - Bascanka is a free and open-source large file text editor for Windows designed as a modern, lightweight alternative to traditional editors. It supports a wide range of programming and markup languages
 - [TroniePh/SmartMacroAI](https://github.com/TroniePh/SmartMacroAI) - Advanced Windows & Web Automation Tool. Features: Record Clicks/Scrolls, Anti-ban (Random Delay), Playwright integration, and OCR.
 - [icaza/Ostium-Osint-Browser](https://github.com/icaza/Ostium-Osint-Browser) - OSINT oriented Web Browser
 - [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
@@ -403,6 +409,13 @@
 
 ## C++ 
 
+- [mon5termatt/medicat_installer](https://github.com/mon5termatt/medicat_installer) - Medicat Installer Repo
+- [zodiacon/Win10SysProgBookSamples](https://github.com/zodiacon/Win10SysProgBookSamples) - Windows 10 System Programming book samples
+- [Neverous/efibooteditor](https://github.com/Neverous/efibooteditor) - Boot Editor for (U)EFI based systems
+- [domoticz/domoticz](https://github.com/domoticz/domoticz) - Free open source home automation system for Linux, Windows, Raspberry Pi. Supports Z-Wave, Zigbee, MQTT, and 150+ devices.
+- [vkohaupt/vokoscreenNG](https://github.com/vkohaupt/vokoscreenNG) - vokoscreenNG is a powerful screencast creator in many languages to record the screen, an area or a window. Recording of audio from multiple sources is supported. With the built-in camera support, you 
+- [MapWindow/MapWinGIS](https://github.com/MapWindow/MapWinGIS) - MapWinGIS.ocx is a FREE and OPEN SOURCE C++ based geographic information system programming ActiveX Control and application programmer interface (API) that can be added to a Windows Form in Visual Bas
+- [RHVoice/RHVoice](https://github.com/RHVoice/RHVoice) - a free and open source speech synthesizer for Russian and other languages
 - [LeonardNJU/VocoType-linux](https://github.com/LeonardNJU/VocoType-linux) - 高性能 Linux 离线中文语音输入法，基于 Ali FunASR(VocoType-cli).  ~0.1s 瞬时上屏，输入法级稳定性， 极高中文准确率、低资源占用(CPU Only).支持 IBus / Fcitx5
 - [semantic-craft/owltype-win](https://github.com/semantic-craft/owltype-win) - 法墨 Famotype for Windows — 自包含 TSF 中文输入法：复用 Weasel / RIME 引擎，配 WinUI 3 设置面板，与已装 RIME 并存。Self-contained Chinese IME for Windows (GPL-3.0).
 - [TSalmon3/rime.vim](https://github.com/TSalmon3/rime.vim) - 基于 Rime 的 Vim/Neovim 中文输入解决方案。
@@ -814,6 +827,7 @@
 
 ## GDScript 
 
+- [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of p
 - [mbrlabs/Lorien](https://github.com/mbrlabs/Lorien) - Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.
 
 ## Go 
@@ -827,7 +841,6 @@
 - [hanxi/cups-web](https://github.com/hanxi/cups-web) - 把家用 USB 打印机变成随时可访问的网络打印服务
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [Lallassu/gorss](https://github.com/Lallassu/gorss) - Go Terminal Feed Reader
-- [nvm-windows/nvm](https://github.com/nvm-windows/nvm) - A node.js version management utility for Windows. Ironically written in Go.
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [chainguard-dev/melange](https://github.com/chainguard-dev/melange) - build APKs from source code
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.6 Series, Grok 4.5, Claude model 
@@ -850,7 +863,7 @@
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA, GUI automation, Auto test and Computer use  @vcaesar
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history
-- [glidea/zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!!
+- [glidea/zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!! 数据打标请联系 glidea123 (数万并发随时狂飙)
 - [Breeze0806/go-etl](https://github.com/Breeze0806/go-etl) - go-etl is a toolset for data extraction, transformation and loading.
 - [negokaz/excel-mcp-server](https://github.com/negokaz/excel-mcp-server) - A Model Context Protocol (MCP) server that reads and writes MS Excel data
 - [aculix/bitplay](https://github.com/aculix/bitplay) - Stream video torrents in your web browser with ease.
@@ -1091,8 +1104,13 @@
 - [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 - [plaintextaccounting/hledger](https://github.com/plaintextaccounting/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 
+## Inno Setup 
+
+- [nvm-windows/nvm](https://github.com/nvm-windows/nvm) - The Node.js version manager for Windows.
+
 ## Java 
 
+- [zeasin/qihang-erp-open](https://github.com/zeasin/qihang-erp-open) - 启航电商ERP系统是一个驱动电商企业数智化转型的电商业务中台底座。该项目采用SpringBoot4开发，除了具有ERP全链路功能之外，还正在构建以SpringAI2.0为底层的AI原生电商ERP系统，主要包括Erp Tools提供读写ERP结构化数据。系统支持多平台多店铺商品、订单、售后、库存、电子面单等电商核心业务处理，支持：淘宝、京东、拼多多、抖店、微信小店、快手、小红书等。系统拥有完善的对外
 - [sh123/codec2_talkie](https://github.com/sh123/codec2_talkie) - Turn your Android phone into Amateur Radio Codec2/OPUS APRS enabled DV handheld transceiver (Bluetooth/BLE/USB/TCPIP KISS/Sound modem client for DV digital voice communication)
 - [getrebuild/rebuild](https://github.com/getrebuild/rebuild) - 最新版全面支持AI智能！通过自然语言操作业务数据，支持 Skills/工具/知识库/MCP。高度可配置化的国产企业管理系统，企业内部可免费商用！零代码/低代码快速搭建WMS库存管理、MES生产报工、CRM客户管理、HRM人事管理，以及 TMS/ERP 等
 - [isHarryh/Ark-Pets](https://github.com/isHarryh/Ark-Pets) - Arknights Desktop Pets | 明日方舟桌宠 (ArkPets)
@@ -1323,7 +1341,7 @@
 - [ronkok/Hurmet](https://github.com/ronkok/Hurmet) - Rich text editor on the web, featuring live calculations.
 - [imdone/imdone-core](https://github.com/imdone/imdone-core) - Text based kanban processor
 - [nextcloud/deck](https://github.com/nextcloud/deck) - 🗂 Kanban-style project & personal management tool for Nextcloud, similar to Trello
-- [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is at https://wekan.fi/commercial-support/ . Translations as PRs to imports/i18n/da
+- [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is at https://wekan.fi/commercial-support/ . PR source translation to imports/i18n/
 - [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the Kanban-style project mastering tool for everyone
 - [hackmdio/codimd](https://github.com/hackmdio/codimd) - CodiMD - Realtime collaborative markdown notes on all platforms.
 - [lingua-libre/RecordWizard](https://github.com/lingua-libre/RecordWizard) - 🌻 MediaWiki extension allowing mass recording of clean, well cut, well named pronunciation files.
@@ -1458,7 +1476,7 @@
 - [byoungd/up](https://github.com/byoungd/up) - An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 离谱的人生/人生进阶 离谱的英语学习指南/英语学习教程/英语学习/学英语
 - [nickcoutsos/keymap-editor](https://github.com/nickcoutsos/keymap-editor) - A web based graphical editor of ZMK keymaps.
 - [Jelmerro/Vieb](https://github.com/Jelmerro/Vieb) - Vim Inspired Electron Browser - Vim bindings for the web by design
-- [1c7/Crash-Course-Computer-Science-Chinese](https://github.com/1c7/Crash-Course-Computer-Science-Chinese) - 计算机速成课（播放量 504 万） （共40集，每一集 10 分钟）2018 年完成翻译。评论区有大量好评
+- [1c7/Crash-Course-Computer-Science-Chinese](https://github.com/1c7/Crash-Course-Computer-Science-Chinese) - 计算机速成课（播放量 509 万） （共40集，每一集 10 分钟）2018 年完成翻译。评论区有大量好评
 - [jhenniferknc/solucoes-bee-crowd](https://github.com/jhenniferknc/solucoes-bee-crowd) - Soluções em JavaScript, Python e SQL de alguns exercícios do BeeCrowd (URI Online Judge).
 - [ipython-contrib/jupyter_contrib_nbextensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions) - A collection of various notebook extensions for Jupyter
 - [alyssaxuu/slashy](https://github.com/alyssaxuu/slashy) - Supercharge Notion with custom commands to record, draw, and more ✍️
@@ -1882,6 +1900,10 @@
 
 ## Others 
 
+- [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow) - WeFlow - 一个本地的微信聊天记录导出和年度报告应用
+- [OdysseusYuan/Mocreak](https://github.com/OdysseusYuan/Mocreak) - Automatically downloads, installs, and deploys genuine Windows and Office with one click. This tool is completely free, ad-free, green, non-toxic, simple, efficient and safe.
+- [PDF24/PDF24-Creator](https://github.com/PDF24/PDF24-Creator) - Repository for the free PDF24 Creator
+- [LazoVelko/neverclick](https://github.com/LazoVelko/neverclick) - Keyboard-driven mouse control using local computer vision.
 - [Xposed-Modules-Repo/top.hookvip.pro](https://github.com/Xposed-Modules-Repo/top.hookvip.pro) - NewHookVip
 - [michaelliao/learn-python3](https://github.com/michaelliao/learn-python3) - Learn Python 3 Sample Code
 - [TheSilentOne-creator/The-Night-Keeper-s-Book](https://github.com/TheSilentOne-creator/The-Night-Keeper-s-Book) - A bilingual (Zh/En), open-source learning journey from zero to cybersecurity. Includes tutorials, notes, and practice code.
@@ -2171,6 +2193,8 @@
 
 ## PowerShell 
 
+- [valleyofdoom/PC-Tuning](https://github.com/valleyofdoom/PC-Tuning) - Configure Windows-based systems for a variety of tasks
+- [ihpwhath/windows-update-killer](https://github.com/ihpwhath/windows-update-killer) - One-click to permanently disable Windows Update (4-layer protection). Does NOT affect Microsoft Store downloads.
 - [fcxxxz/rime-auto-build](https://github.com/fcxxxz/rime-auto-build) - 自动构建 Weasel（小狼毫）Windows x64 安装包，可通过issue模板自定义配置打包~
 - [kelexine/tiny11-automated](https://github.com/kelexine/tiny11-automated) - Automated tools for creating streamlined Windows 11 images with CI/CD support. Builds Tiny11 and Tiny11 Core ISOs with GitHub Actions workflows.
 - [YTxFSGAMERz/WinAurex-OS-Builder](https://github.com/YTxFSGAMERz/WinAurex-OS-Builder) - Zero-Bloat Windows 11 Image Engineering Framework. Compiles lightweight, telemetry-free ISOs using native DISM tools.
@@ -2188,8 +2212,10 @@
 
 ## Python 
 
+- [blackboxo/CleanMyWechat](https://github.com/blackboxo/CleanMyWechat) - 自动删除 Windows 和 Mac 电脑端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。
+- [garinasset/leak-check](https://github.com/garinasset/leak-check) - 个人信息 “泄漏” 检测接口
 - [tertiarycourses/TGS-2021005538-Technical-Drawing-with-AutoCAD](https://github.com/tertiarycourses/TGS-2021005538-Technical-Drawing-with-AutoCAD) - WSQ Technical Drawing with AutoCAD (TGS-2021005538) — 2-day courseware with a 116-slide deck, lesson plan, learner guide and 16 DWG-backed hands-on AutoCAD labs.
-- [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) - 
+- [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) - FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.
 - [KSIUJ/gutenberg](https://github.com/KSIUJ/gutenberg) - Office printer gateway: print documents via web GUI or driverless IPP. Made by KSI UJ. Powered by Django, Celery and VueJS.
 - [quinnuk/LoopClip](https://github.com/quinnuk/LoopClip) - Windows app that downloads YouTube videos and auto-trims/re-encodes them into seamless looping 4K HEVC screensaver clips, with NVENC GPU acceleration. Built for Projectivy Launcher.
 - [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) - A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
@@ -2359,7 +2385,7 @@
 - [LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
 - [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
 - [dp247/Freeview-EPG](https://github.com/dp247/Freeview-EPG) - Open source XMLTV data for UK free-to-air TV channels and radio stations
-- [0xdsm/Apepe](https://github.com/0xdsm/Apepe) - 📲 Apepe is a project developed to help to capture informations from a Android app through his APK file. It can be used to extract the content, get app settings, suggest SSL Pinning bypass based on the
+- [dsssssssm/Apepe](https://github.com/dsssssssm/Apepe) - 📲 Apepe is a project developed to help to capture informations from a Android app through his APK file. It can be used to extract the content, get app settings, suggest SSL Pinning bypass based on the
 - [brandon-baek/EmailChat](https://github.com/brandon-baek/EmailChat) - An Email-based "Instant" Messaging program.
 - [samuelclay/NewsBlur](https://github.com/samuelclay/NewsBlur) - NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument.
 - [browser-use/web-ui](https://github.com/browser-use/web-ui) - 🖥️ Run AI Agent in your browser.
@@ -2725,6 +2751,10 @@
 - [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 
+## QMake 
+
+- [horsicq/xntsv](https://github.com/horsicq/xntsv) - XNTSV program for detailed viewing of system structures  for Windows.
+
 ## R 
 
 - [davi-ao/English-Synonyms-and-Hypernyms](https://github.com/davi-ao/English-Synonyms-and-Hypernyms) - List of most frequent English words with synonyms and hypernyms retrieved from wordnet
@@ -2748,6 +2778,7 @@
 
 ## Rust 
 
+- [tanaer/WindowsClear](https://github.com/tanaer/WindowsClear) - Windows C盘清理工具/C盘瘦身工具，还你Appdata的大量硬盘空间 | Windows System disk cleanup, returning a large amount of hard drive space from your Appdata
 - [townmeetingferrimagnetism755/dwg2png](https://github.com/townmeetingferrimagnetism755/dwg2png) - Convert DWG files to multi-page PNG images and extract metadata with a pure-Rust engine that requires no external CAD software or dependencies.
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [xai-org/grok-build](https://github.com/xai-org/grok-build) - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
@@ -2758,7 +2789,7 @@
 - [badbread/crumbvms](https://github.com/badbread/crumbvms) - A self-hosted, operator-grade NVR for your own security cameras: recording, motion, license-plate reading (ALPR), and live Home Assistant overlays. Rust backend; native desktop, Android, Apple, and we
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [SecurityRonin/4n6mount](https://github.com/SecurityRonin/4n6mount) - Mount forensic disk images, archives & memory dumps as a filesystem on Linux/macOS/Windows — ext4/NTFS/exFAT/HFS+/APFS/ISO, EWF/VMDK/AFF4, AD1, zip/7z/tar, LiME/AVML/crash dumps. FUSE + Dokan, ro/rw C
-- [Muvon/octoweb](https://github.com/Muvon/octoweb) - Dead simple AI-loaded browser for geeks
+- [Muvon/octoweb](https://github.com/Muvon/octoweb) - Keyboard-first AI browser for macOS — WebKit + Rust, built-in AI sidebar, and an MCP server that lets your agents drive the web.
 - [YGTQ3/disk-butler](https://github.com/YGTQ3/disk-butler) - C盘管家 - 给普通人的 Windows 磁盘与内存维护助手 (Tauri 2 + React)
 - [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript/JavaScript compiler written in Rust. Compiles TypeScript/JavaScript directly to executables using SWC and LLVM.
 - [phc260/kokoro-kindle-reader](https://github.com/phc260/kokoro-kindle-reader) - Offline Kokoro TTS that lets Kindle for PC (Kindle Cloud Reader in the future) read books aloud using WebGPU-synthesized speech.
@@ -2773,7 +2804,7 @@
 - [mosheng1/QuickClipboard](https://github.com/mosheng1/QuickClipboard) - QuickClipboard 是一款跨平台剪贴板增强工具（现支持Windows，Android），基于 Tauri 2 + Rust + React 构建。它在你复制的那一刻就开始工作——自动记录文本、图片、富文本、文件，让你随时找回曾经复制过的任何内容。不只是记录，QuickClipboard 还集成了贴图、OCR、局域网同步等能力，是日常办公效率的全面提升
 - [Nunley-Media-Group/AgentChrome](https://github.com/Nunley-Media-Group/AgentChrome) - A CLI alternative for Chrome Devtools MCP
 - [moyangzhan/mango-finder](https://github.com/moyangzhan/mango-finder) - Search your files across your devices with natural language | 使用自然语言跨设备搜索文件的桌面应用
-- [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured data from 101 formats (115 file extensions) plus code intelligence for 371 code languages. 1
+- [xberg-io/xberg](https://github.com/xberg-io/xberg) - Polyglot document intelligence with a Rust core: extract text, metadata, images, tables, and structured data from 106 formats across 140 file extensions, plus code intelligence for 371 languages. Fift
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
 - [balena-os/wifi-connect](https://github.com/balena-os/wifi-connect) - Easy WiFi setup for Linux devices from your mobile phone or laptop
@@ -3124,6 +3155,7 @@
 
 ## Swift 
 
+- [theJayTea/WritingTools](https://github.com/theJayTea/WritingTools) - The world's smartest system-wide grammar assistant; a better version of the Apple Intelligence Writing Tools. Works on Windows, Linux, & macOS, with the free Gemini API, local LLMs, & more.
 - [insidegui/AssetCatalogTinkerer](https://github.com/insidegui/AssetCatalogTinkerer) - An app that lets you open .car files and browse/extract their images.
 - [jasonzh0/CineScreen](https://github.com/jasonzh0/CineScreen) - Free Open Sourced Cinematic Screen Recording
 - [fcitx-contrib/fcitx5-ios](https://github.com/fcitx-contrib/fcitx5-ios) - Fcitx5 iOS edition, currently developer beta. 小企鹅输入法 iOS 开发者公测 https://t.me/fcitx5macos/16126
@@ -3144,6 +3176,7 @@
 
 ## TeX 
 
+- [HEJustinSun/my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex) - 
 - [Macin20/sovereign-individual-cn](https://github.com/Macin20/sovereign-individual-cn) - 《主权个人》中文版，精校 未删减，可直接用A4纸打印
 - [iMMIQ/eintr-cn](https://github.com/iMMIQ/eintr-cn) - 这是《An Introduction to Programming in Emacs Lisp》一书Texinfo source格式的中文翻译，与https://www.gnu.org/software/emacs/manual/eintr.html同步
 
@@ -3153,6 +3186,8 @@
 
 ## TypeScript 
 
+- [Laxcorp-Research/project-raven](https://github.com/Laxcorp-Research/project-raven) - Open-source AI meeting copilot - real-time transcription, echo cancellation, and AI assistance. Captures system audio + mic, cancels echo via WebRTC AEC3, transcribes with Deepgram, and gives you Clau
+- [matthewhudson/current-device](https://github.com/matthewhudson/current-device) - 📱 The easiest way to write conditional CSS and/or JavaScript based on device operating system (iOS, Android, Blackberry, Windows, Firefox OS, MeeGo), orientation (Portrait vs. Landscape), and type (Ta
 - [mlightcad/cad-viewer](https://github.com/mlightcad/cad-viewer) - The world’s first fully web-based DXF/DWG viewer and editor that runs entirely in the browser — no backend server required.
 - [Blur009/Blur-AutoClicker](https://github.com/Blur009/Blur-AutoClicker) - An Auto-clicker with a few advanced features and generally better performance than popular alternatives. Made for windows.
 - [VladSez/easy-invoice-pdf](https://github.com/VladSez/easy-invoice-pdf) - Free & Open-Source Invoice Generator - No Sign-Up, No Ads, Instant PDF Export, 100% In-Browser, and Fully Customizable Templates. ⭐ Star the repo if you like it
@@ -3534,7 +3569,7 @@
 - [remotion-dev/template-audiogram](https://github.com/remotion-dev/template-audiogram) - A template for making podcast video clips with Remotion.
 - [zcf0508/autocut-client](https://github.com/zcf0508/autocut-client) - AutoCut Client
 - [handsontable/hyperformula](https://github.com/handsontable/hyperformula) - HyperFormula is an open-source headless spreadsheet for business web apps. It comes with over 400 formulas, CRUD operations, undo-redo, clipboard support, and sorting.
-- [fmaclen/canutin](https://github.com/fmaclen/canutin) - An open-source personal finance desktop app
+- [fmaclen/canutin](https://github.com/fmaclen/canutin) - Open-source, self-hosted personal finance platform
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [tadashi-aikawa/obsidian-various-complements-plugin](https://github.com/tadashi-aikawa/obsidian-various-complements-plugin) - This plugin for Obsidian enables you complete words like the auto-completion of IDE.
 - [st3v3nmw/obsidian-spaced-repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) - Fight the forgetting curve by reviewing flashcards & entire notes on Obsidian
@@ -3621,7 +3656,7 @@
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [KiWi233333/JiwuChat](https://github.com/KiWi233333/JiwuChat) - JiwuChat 🍂 - A lightweight cross-platform instant messaging app with integrated AI assistants (DeepSeek/Gemini/Kimi). Features real-time messaging, audio/video calls, multi-device sync, and customizab
 - [lemueldls/mnemo](https://github.com/lemueldls/mnemo) - A local-first, cross-platform note-taking app leveraging the Typst ecosystem. Designed to minimize distractions and enhance the retention of information.
-- [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 🧸跨平台互动桌宠 BongoCat，为桌面增添乐趣！
+- [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱跨平台互动桌宠 BongoCat，为桌面增添乐趣！
 - [imsyy/DailyHot](https://github.com/imsyy/DailyHot) - DailyHot 今日热榜前端页面 | API：https://github.com/imsyy/DailyHotApi
 - [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) - PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing for the editing and presentation of PPT online. It als
 - [Bronya0/ES-King](https://github.com/Bronya0/ES-King) - A modern and practical elasticsearch GUI client | 一个现代、实用的ES本地客户端 💕🎉
