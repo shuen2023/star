@@ -66,7 +66,6 @@
 - [Python](#python)
 - [QMake](#qmake)
 - [R](#r)
-- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -430,7 +429,7 @@
 - [vkohaupt/vokoscreenNG](https://github.com/vkohaupt/vokoscreenNG) - vokoscreenNG is a powerful screencast creator in many languages to record the screen, an area or a window. Recording of audio from multiple sources is supported. With the built-in camera support, you 
 - [MapWindow/MapWinGIS](https://github.com/MapWindow/MapWinGIS) - MapWinGIS.ocx is a FREE and OPEN SOURCE C++ based geographic information system programming ActiveX Control and application programmer interface (API) that can be added to a Windows Form in Visual Bas
 - [RHVoice/RHVoice](https://github.com/RHVoice/RHVoice) - a free and open source speech synthesizer for Russian and other languages
-- [LeonardNJU/VocoType-linux](https://github.com/LeonardNJU/VocoType-linux) - 高性能 Linux 离线中文语音输入法，基于 Ali FunASR(VocoType-cli).  ~0.1s 瞬时上屏，输入法级稳定性， 极高中文准确率、低资源占用(CPU Only).支持 IBus / Fcitx5
+- [LeonardNJU/VocoType-linux](https://github.com/LeonardNJU/VocoType-linux) - 高性能 Linux & Mac 离线中文语音输入法，基于 Ali FunASR.  ~0.1s 瞬时上屏，输入法级稳定性， 极高中文准确率、低资源占用(CPU Only).支持 IBus / Fcitx5 / Tahoe 26
 - [semantic-craft/owltype-win](https://github.com/semantic-craft/owltype-win) - 法墨 Famotype for Windows — 自包含 TSF 中文输入法：复用 Weasel / RIME 引擎，配 WinUI 3 设置面板，与已装 RIME 并存。Self-contained Chinese IME for Windows (GPL-3.0).
 - [TSalmon3/rime.vim](https://github.com/TSalmon3/rime.vim) - 基于 Rime 的 Vim/Neovim 中文输入解决方案。
 - [GeeLaw/DisableRoundCorners](https://github.com/GeeLaw/DisableRoundCorners) - A utility to disable round corners of Windows 11 without hacks.
@@ -1462,7 +1461,6 @@
 - [breck7/pldb](https://github.com/breck7/pldb) - PLDB: a Programming Language DataBase
 - [rust-lang-cn/style-guide-cn](https://github.com/rust-lang-cn/style-guide-cn) - Rust 语言风格指南 中文版——Chinese translation of The Rust Style Guide
 - [rust-lang-cn/rustdoc-cn](https://github.com/rust-lang-cn/rustdoc-cn) - rustdoc 手册 中文版————Chinese translation of The rustdoc Book
-- [0xGG/crossnote-app](https://github.com/0xGG/crossnote-app) - 📝 Local-first markdown notebook - notes live in your browser or local folders as plain markdown files, synced with in-browser git. No server, no account, works offline.
 - [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) - Acode - powerful text/code editor for android
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
@@ -1488,7 +1486,7 @@
 - [TiddlyWiki/TiddlyDesktop](https://github.com/TiddlyWiki/TiddlyDesktop) - A custom desktop browser for TiddlyWiki 5 and TiddlyWiki Classic, based on nw.js
 - [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
 - [danburzo/percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into readable PDF, EPUB, HTML, or Markdown docs.
-- [byoungd/up](https://github.com/byoungd/up) - An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 离谱的英语学习指南/英语学习教程/英语学习/学英语
+- [byoungd/up](https://github.com/byoungd/up) - An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语
 - [nickcoutsos/keymap-editor](https://github.com/nickcoutsos/keymap-editor) - A web based graphical editor of ZMK keymaps.
 - [Jelmerro/Vieb](https://github.com/Jelmerro/Vieb) - Vim Inspired Electron Browser - Vim bindings for the web by design
 - [1c7/Crash-Course-Computer-Science-Chinese](https://github.com/1c7/Crash-Course-Computer-Science-Chinese) - 计算机速成课（播放量 509 万） （共40集，每一集 10 分钟）2018 年完成翻译。评论区有大量好评
@@ -1569,7 +1567,7 @@
 - [cdpdriver/kdriver](https://github.com/cdpdriver/kdriver) - A blazing fast, coroutine-first, undetectable web scraping / browser automation CDP-based library for Kotlin
 - [alexch33/super-video-downloader](https://github.com/alexch33/super-video-downloader) - Video & Audio downloader for Android with web browser and player. M3U8 and MPD supported, live stream supported, using youtube-dlp and custom mp4/mp3/m3u8/mpd downloader, cookies supported, HTTP & SOC
 - [JunioJsv/mtk-easy-su](https://github.com/JunioJsv/mtk-easy-su) - Get bootless root access with few clicks.
-- [Medvedev91/timeto.me](https://github.com/Medvedev91/timeto.me) - App with goals, checklists, tasks, repetitive tasks, timer, calendar, notes, shortcuts, pomodoro and 24/7 time tracking. 🙀
+- [Medvedev91/timeto.me](https://github.com/Medvedev91/timeto.me) - App with goals, checklists, tasks, repetitive tasks, timer, calendar, notes, shortcuts, zen, widgets, pomodoro and 24/7 time tracking. :scream_cat:
 - [mewmix/nabu](https://github.com/mewmix/nabu) - A multi engine TTS & LLM edge computing playground with audio book features and more!
 - [drmfinlay/tts-util-app](https://github.com/drmfinlay/tts-util-app) - TTS Util — Text-to-speech utility Android app for synthesising text into audible speech
 - [jing332/tts-server-android](https://github.com/jing332/tts-server-android) - 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有自动重试，备用配置，文本替换等更多功能。
@@ -2051,7 +2049,7 @@
 - [jim-schwoebel/voice_datasets](https://github.com/jim-schwoebel/voice_datasets) - 🔊 A comprehensive list of open-source datasets for voice and sound computing (95+ datasets).
 - [relatedcode/Messenger](https://github.com/relatedcode/Messenger) - Messenger
 - [JornaJan/emacs-learn](https://github.com/JornaJan/emacs-learn) - learn emacs
-- [yzqzy/wechat-assistant](https://github.com/yzqzy/wechat-assistant) - ⚠️ 停止维护 - 微信助手，支持群发消息、定时任务、消息防撤回等功能
+- [yzqzy/wechat-assistant](https://github.com/yzqzy/wechat-assistant) - 微信助手，支持群发消息、定时任务、消息防撤回等功能
 - [cyberkernelofficial/docker-in-termux](https://github.com/cyberkernelofficial/docker-in-termux) - This repository contains instructions on how to install Docker in Termux, without root.
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [cgohlke/geospatial-wheels](https://github.com/cgohlke/geospatial-wheels) - Geospatial library wheels for Python on Windows.
@@ -2233,7 +2231,7 @@
 - [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) - Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
 - [blackboxo/CleanMyWechat](https://github.com/blackboxo/CleanMyWechat) - 自动删除 Windows 和 Mac 电脑端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。
-- [garinasset/leak-check](https://github.com/garinasset/leak-check) - 个人信息 “泄漏” 检测接口 (服务器免费额度已燃尽, 恢复待定)
+- [garinasset/leak-check](https://github.com/garinasset/leak-check) - 个人信息 “泄漏” 检测接口
 - [tertiarycourses/TGS-2021005538-Technical-Drawing-with-AutoCAD](https://github.com/tertiarycourses/TGS-2021005538-Technical-Drawing-with-AutoCAD) - WSQ Technical Drawing with AutoCAD (TGS-2021005538) — 2-day courseware with a 116-slide deck, lesson plan, learner guide and 16 DWG-backed hands-on AutoCAD labs.
 - [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) - FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.
 - [KSIUJ/gutenberg](https://github.com/KSIUJ/gutenberg) - Office printer gateway: print documents via web GUI or driverless IPP. Made by KSI UJ. Powered by Django, Celery and VueJS.
@@ -2781,10 +2779,6 @@
 - [davidgohel/officedown](https://github.com/davidgohel/officedown) - 
 - [gesistsa/rio](https://github.com/gesistsa/rio) - 🐟 A Swiss-Army Knife for Data I/O
 
-## Roff 
-
-- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
-
 ## Ruby 
 
 - [joemasilotti/daily-log](https://github.com/joemasilotti/daily-log) - A Rails, iOS, and (upcoming) Android app to track my daily habits like exercise, medication, food, and water.
@@ -2830,6 +2824,7 @@
 - [moyangzhan/mango-finder](https://github.com/moyangzhan/mango-finder) - Search your files across your devices with natural language | 使用自然语言跨设备搜索文件的桌面应用
 - [xberg-io/xberg](https://github.com/xberg-io/xberg) - Polyglot document intelligence with a Rust core: extract text, metadata, images, tables, and structured data from 106 formats across 140 file extensions, plus code intelligence for 371 languages. Fift
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
+- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
 - [balena-os/wifi-connect](https://github.com/balena-os/wifi-connect) - Easy WiFi setup for Linux devices from your mobile phone or laptop
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
@@ -3292,7 +3287,6 @@
 - [yibie/Copy-as-org-mode-chrome](https://github.com/yibie/Copy-as-org-mode-chrome) - This WebExtension is a Chrome version of Copy as Org-Mode.
 - [yusixian/moe-copy-ai](https://github.com/yusixian/moe-copy-ai) - ✨ 萌萌哒的 AI 网页数据提取助手 ✨
 - [shencangsheng/easydb_app](https://github.com/shencangsheng/easydb_app) - EasyDB is a lightweight desktop app built with Tauri + Rust, powered by Apache DataFusion. Query local CSV, TSV, Text, NdJson, Excel, Parquet files and MySQL databases directly with SQL — no external 
-- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [lydell/LinkHints](https://github.com/lydell/LinkHints) - A browser extension that lets you click with your keyboard.
 - [glide-browser/glide](https://github.com/glide-browser/glide) - An extensible and keyboard-focused web browser
 - [ankit/stylebot](https://github.com/ankit/stylebot) - Change the appearance of the web instantly
@@ -3578,6 +3572,7 @@
 - [toppair/peek.nvim](https://github.com/toppair/peek.nvim) - Markdown preview plugin for Neovim
 - [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
 - [VPKSoft/PasswordKeeper](https://github.com/VPKSoft/PasswordKeeper) - A software to store login information into an encrypted file.
+- [0xGG/crossnote-app](https://github.com/0xGG/crossnote-app) - 📝 Local-first markdown notebook - notes live in your browser or local folders as plain markdown files, synced with in-browser git. No server, no account, works offline.
 - [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted platform for sharing and managing your most frequently used links. Easily create customizable, human-readable shortcuts to streamline your link management.
 - [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime) - Popcorn Time™ puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.
 - [crimx/ext-saladict](https://github.com/crimx/ext-saladict) - 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
