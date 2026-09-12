@@ -66,6 +66,7 @@
 - [Python](#python)
 - [QMake](#qmake)
 - [R](#r)
+- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -851,12 +852,13 @@
 
 ## Go 
 
+- [Debian/dcs](https://github.com/Debian/dcs) - Debian Code Search (codesearch.debian.net) is a search engine that searches through all the 130 GB of open source software that is included in Debian. Supports regular expressions!
 - [lunanetdev/lunauctl](https://github.com/lunanetdev/lunauctl) - Luna Update Control is a command-line Windows utility that gives you full, persistent control over Windows Update — including the ability to disable Microsoft's self-healing mechanisms that typically 
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [Presto-io/Presto](https://github.com/Presto-io/Presto) - Markdown → Typst → PDF 桌面排版工具
 - [iota-uz/iota-sdk](https://github.com/iota-uz/iota-sdk) - IOTA-SDK - is an open-source modular ERP. An alternative to SAP, Oracle, Odoo written in Go with modern look & feel
-- [y3owk1n/neru](https://github.com/y3owk1n/neru) - Navigate your entire screen without touching the mouse. [mac, linux, windows]
+- [y3owk1n/neru](https://github.com/y3owk1n/neru) - Hints, grids and vim keys for your whole desktop. Built for macOS, linux and windows, natively.
 - [hanxi/cups-web](https://github.com/hanxi/cups-web) - 把家用 USB 打印机变成随时可访问的网络打印服务
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [Lallassu/gorss](https://github.com/Lallassu/gorss) - Go Terminal Feed Reader
@@ -1572,7 +1574,7 @@
 - [cdpdriver/kdriver](https://github.com/cdpdriver/kdriver) - A blazing fast, coroutine-first, undetectable web scraping / browser automation CDP-based library for Kotlin
 - [alexch33/super-video-downloader](https://github.com/alexch33/super-video-downloader) - Video & Audio downloader for Android with web browser and player. M3U8 and MPD supported, live stream supported, using youtube-dlp and custom mp4/mp3/m3u8/mpd downloader, cookies supported, HTTP & SOC
 - [JunioJsv/mtk-easy-su](https://github.com/JunioJsv/mtk-easy-su) - Get bootless root access with few clicks.
-- [Medvedev91/timeto.me](https://github.com/Medvedev91/timeto.me) - App with goals, checklists, tasks, repetitive tasks, timer, calendar, notes, shortcuts, zen, widgets, pomodoro and 24/7 time tracking. :scream_cat:
+- [Medvedev91/timeto.me](https://github.com/Medvedev91/timeto.me) - App with goals, checklists, tasks, repetitive tasks, timer, stopwatch, calendar, notes, shortcuts, zen-mode, widgets, pomodoro and 24/7 time tracking. :scream_cat:
 - [mewmix/nabu](https://github.com/mewmix/nabu) - A multi engine TTS & LLM edge computing playground with audio book features and more!
 - [drmfinlay/tts-util-app](https://github.com/drmfinlay/tts-util-app) - TTS Util — Text-to-speech utility Android app for synthesising text into audible speech
 - [jing332/tts-server-android](https://github.com/jing332/tts-server-android) - 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有自动重试，备用配置，文本替换等更多功能。
@@ -2239,6 +2241,8 @@
 
 ## Python 
 
+- [LifeArchiveProject/WeChatDataAnalysis](https://github.com/LifeArchiveProject/WeChatDataAnalysis) - 微信4.x数据解密并生成年度总结，高仿微信，实时更新，导出和修改聊天记录，朋友圈，收藏，自动回复等大量便捷功能
+- [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi Code CLI is your next CLI agent.
 - [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) - Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
@@ -2473,7 +2477,6 @@
 - [taksssss/tv](https://github.com/taksssss/tv) - epg mirrors
 - [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
-- [ZachVFXX/PyKanBan](https://github.com/ZachVFXX/PyKanBan) - PyKanBan is a KanBan board app written in python
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 - [nuclia/nucliadb](https://github.com/nuclia/nucliadb) - NucliaDB, The AI Search database for RAG
 - [open-mmlab/Amphion](https://github.com/open-mmlab/Amphion) - Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, 
@@ -2551,7 +2554,7 @@
 - [cubicibo/SUPer](https://github.com/cubicibo/SUPer) - HDMV PGS (BD SUP) subtitle encoder compatible with typesetting effects.
 - [lyuchenyang/Macaw-LLM](https://github.com/lyuchenyang/Macaw-LLM) - Macaw-LLM: Multi-Modal Language Modeling with Image, Video, Audio, and Text Integration
 - [metabrainz/picard](https://github.com/metabrainz/picard) - Picard is a cross-platform music tagger powered by the MusicBrainz database
-- [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) - 🚀 Self-hosted Douyin & TikTok data API — async scraper, no-watermark video downloader, REST API, MCP server and web console. Self-healing identity pool, PostgreSQL archive, one docker compose up.
+- [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) - 🚀 Self-hosted TikTok & Douyin scraper and no-watermark video downloader — async REST API, MCP server, CLI and web console for posts, profiles, comments and playlists. Self-healing identity pool, Postg
 - [HenestrosaDev/audiotext](https://github.com/HenestrosaDev/audiotext) - A desktop application that transcribes audio from files, microphone input or YouTube videos with the option to translate the content and create subtitles.
 - [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and embed dubbing & subtitles.
 - [YaoFANGUK/video-subtitle-remover](https://github.com/YaoFANGUK/video-subtitle-remover) - 基于AI的图片/视频硬字幕去除、文本水印去除，无损分辨率生成去字幕、去水印后的图片/视频文件。无需申请第三方API，本地实现。AI-based tool for removing hard-coded subtitles and text-like watermarks from videos or Pictures.
@@ -2790,6 +2793,10 @@
 - [davidgohel/officedown](https://github.com/davidgohel/officedown) - 
 - [gesistsa/rio](https://github.com/gesistsa/rio) - 🐟 A Swiss-Army Knife for Data I/O
 
+## Roff 
+
+- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
+
 ## Ruby 
 
 - [joemasilotti/daily-log](https://github.com/joemasilotti/daily-log) - A Rails, iOS, and (upcoming) Android app to track my daily habits like exercise, medication, food, and water.
@@ -2836,6 +2843,7 @@
 - [moyangzhan/mango-finder](https://github.com/moyangzhan/mango-finder) - Search your files across your devices with natural language | 使用自然语言跨设备搜索文件的桌面应用
 - [xberg-io/xberg](https://github.com/xberg-io/xberg) - Polyglot document intelligence with a Rust core: extract text, metadata, images, tables, and structured data from 106 formats across 140 file extensions, plus code intelligence for 371 languages. Fift
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
+- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
 - [balena-os/wifi-connect](https://github.com/balena-os/wifi-connect) - Easy WiFi setup for Linux devices from your mobile phone or laptop
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
@@ -2911,7 +2919,6 @@
 - [rgis-app/rgis](https://github.com/rgis-app/rgis) - Performant, cross-platform (web, desktop) GIS app written in Rust
 - [estin/simple-completion-language-server](https://github.com/estin/simple-completion-language-server) - Language server to enable word completion and snippets for Helix editor
 - [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Fast, flexible LLM inference
-- [hashintel/hash](https://github.com/hashintel/hash) - 🚀  The open-source, multi-tenant platform for self-building knowledge graphs and simulation
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [yobix-ai/extractous](https://github.com/yobix-ai/extractous) - Fast and efficient unstructured data extraction. Written in Rust with bindings for many languages.
 - [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
@@ -3082,6 +3089,8 @@
 
 ## Shell 
 
+- [tabletseeker/mobian](https://github.com/tabletseeker/mobian) - Android like OS using 100% Debian FOSS and 0% Google or 3rd Party Services, for touch devices such as Surface Pro, Zenbook, Thinkpad, Pinephone etc, offering a truly free and private touch experience.
+- [Bhai4You/Termux-Os](https://github.com/Bhai4You/Termux-Os) - All in One Termux Os..!! (New)
 - [sqfcyily/print-skill](https://github.com/sqfcyily/print-skill) - 文档打印Skill，支持在 Windows 和 Mac 上打印文件，包括聊天应用（如飞书/企业微信）的附件或本地文件路径。
 - [Omnicapable/codex-tts](https://github.com/Omnicapable/codex-tts) - Omnicapable Voice for Codex: local, offline text-to-speech that reads its replies aloud. Free, private, no API keys.
 - [yuanpeirong/UUPdumpWinISO](https://github.com/yuanpeirong/UUPdumpWinISO) - 使用UUP dump制作Windows 10/11 ISO镜像
@@ -3220,6 +3229,7 @@
 
 ## TypeScript 
 
+- [ningbainb/deepseek-harness-desktop](https://github.com/ningbainb/deepseek-harness-desktop) - Open-source Windows desktop client and GUI for DeepSeek Harness — zero-setup installer with Codex, plugins, skills, SSH, mobile remote access, and 11 skins.
 - [Liubsyy/idea-note](https://github.com/Liubsyy/idea-note) - 一款可在markdown中跑程序的笔记应用，支持git远程同步和AI笔记助手
 - [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) - Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
 - [Laxcorp-Research/project-raven](https://github.com/Laxcorp-Research/project-raven) - Open-source AI meeting copilot - real-time transcription, echo cancellation, and AI assistance. Captures system audio + mic, cancels echo via WebRTC AEC3, transcribes with Deepgram, and gives you Clau
@@ -3299,7 +3309,6 @@
 - [yibie/Copy-as-org-mode-chrome](https://github.com/yibie/Copy-as-org-mode-chrome) - This WebExtension is a Chrome version of Copy as Org-Mode.
 - [yusixian/moe-copy-ai](https://github.com/yusixian/moe-copy-ai) - ✨ 萌萌哒的 AI 网页数据提取助手 ✨
 - [shencangsheng/easydb_app](https://github.com/shencangsheng/easydb_app) - EasyDB is a lightweight desktop app built with Tauri + Rust, powered by Apache DataFusion. Query local CSV, TSV, Text, NdJson, Excel, Parquet files and MySQL databases directly with SQL — no external 
-- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [lydell/LinkHints](https://github.com/lydell/LinkHints) - A browser extension that lets you click with your keyboard.
 - [glide-browser/glide](https://github.com/glide-browser/glide) - An extensible and keyboard-focused web browser
 - [ankit/stylebot](https://github.com/ankit/stylebot) - Change the appearance of the web instantly
@@ -3448,6 +3457,7 @@
 - [mdSilo/mdSilo-app](https://github.com/mdSilo/mdSilo-app) - Lightweight Knowledge Base and Feed Reader.
 - [jam53/Takma](https://github.com/jam53/Takma) - Takma is a Kanban-style productivity tool that empowers you to effectively manage your tasks and projects with ease.
 - [tu2-atmanand/Task-Board](https://github.com/tu2-atmanand/Task-Board) - An Obsidian plugin to view and manage your tasks from whole vault using much efficient boards using various methodologies.
+- [hashintel/hash](https://github.com/hashintel/hash) - 🚀  The open-source, multi-tenant platform for self-building knowledge graphs and simulation
 - [LyonSyonII/rust-quest](https://github.com/LyonSyonII/rust-quest) - A book about learning to program from zero!
 - [community-archive/obsidian-kanban](https://github.com/community-archive/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
 - [codeforreal1/compressO](https://github.com/codeforreal1/compressO) - Convert any video/image into a tiny size. 100% free & open-source. Available for Mac, Windows & Linux.
