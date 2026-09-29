@@ -143,7 +143,6 @@
 - [rightester/rime_tutorial](https://github.com/rightester/rime_tutorial) - 一个Rime入门教程（还在写）
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
-- [FongMi/Release](https://github.com/FongMi/Release) - 
 - [ShadowWhisperer/Remove-MS-Edge](https://github.com/ShadowWhisperer/Remove-MS-Edge) - Uninstall Microsoft Edge with a batch script.
 - [qmlbook/qmlbook](https://github.com/qmlbook/qmlbook) - The source code for the upcoming qml book
 
@@ -327,7 +326,7 @@
 - [semazurek/ET-Optimizer](https://github.com/semazurek/ET-Optimizer) - ET is a powerful application to improve performance, debloat, optimize and enhance privacy for Windows 10/11.
 - [nearby-sharing/android](https://github.com/nearby-sharing/android) - Share files between android and PC via the Windows 10 / 11 built-in nearby-sharing functionality (Project Rome)
 - [JasonWei512/EnergyStarX](https://github.com/JasonWei512/EnergyStarX) - 🔋 Improve your Windows 11 device's battery life. A WinUI 3 GUI for https://github.com/imbushuo/EnergyStar.
-- [builtbybel/Flyoobe](https://github.com/builtbybel/Flyoobe) - Fly through your Windows 11 setup 🐝
+- [builtbybel/Flyoobe](https://github.com/builtbybel/Flyoobe) - Flyoobe is the Control Panel for setting up Windows
 - [wolfprince12/Weasel-Panel](https://github.com/wolfprince12/Weasel-Panel) - 小狼毫（Rime Weasel）Windows 图形化设置面板 — macOS 鼠须管控制面板的 Windows 姊妹实现
 - [SteveTheKiller/KillerPDF](https://github.com/SteveTheKiller/KillerPDF) - Free and open-source PDF editor for Windows with a built-in PDF 2.0 engine. View, annotate, OCR, merge, split, crop, rotate, compare, edit text, draw, sign, fill forms, print, flatten, and open passwo
 - [dandelion80231/System-Cleanup-Optimizer](https://github.com/dandelion80231/System-Cleanup-Optimizer) - 面向 Windows 10/11 的一体化系统清理、优化与维护工具
@@ -485,6 +484,7 @@
 - [papyrussolution/OpenPapyrus](https://github.com/papyrussolution/OpenPapyrus) - Sophisticated ERP, CRM, Point-Of-Sale, etc. Open source now. This system is developed since 1996.
 - [ytxerp/ytx-client](https://github.com/ytxerp/ytx-client) - YTX Double-Entry ERP Program Client.
 - [cunnane/xloil](https://github.com/cunnane/xloil) - xlOil provides framework for interacting with Excel in different programming languages (python & C++ currently)
+- [vygr/ChrysaLisp](https://github.com/vygr/ChrysaLisp) - Parallel OS, with GUI, Terminal, OO Assembler, Class libraries, C-Script compiler, Lisp interpreter and more...
 - [BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter) - Wechat Chat History Exporter 微信聊天记录导出备份程序
 - [google/skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.  See documentation for contribution instructions.
 - [LibrePCB/LibrePCB](https://github.com/LibrePCB/LibrePCB) - A powerful, innovative and intuitive EDA suite for everyone!
@@ -672,7 +672,6 @@
 
 - [lem-project/lem](https://github.com/lem-project/lem) - General-purpose editor/IDE with high expansibility in Common Lisp
 - [clasp-developers/clasp](https://github.com/clasp-developers/clasp) - clasp Common Lisp environment
-- [vygr/ChrysaLisp](https://github.com/vygr/ChrysaLisp) - Parallel OS, with GUI, Terminal, OO Assembler, Class libraries, C-Script compiler, Lisp interpreter and more...
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's browser.
 - [slime/slime](https://github.com/slime/slime) - The Superior Lisp Interaction Mode for Emacs
 - [aartaka/nx-search-engines](https://github.com/aartaka/nx-search-engines) - A collection of easy-to-setup search-engines for Nyxt browser.
@@ -965,7 +964,7 @@
 - [ICKelin/zta](https://github.com/ICKelin/zta) - Zero Trust Access
 - [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 - [alexballas/go2tv](https://github.com/alexballas/go2tv) - Cast media files to Smart TVs and Chromecast devices.
-- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [putyy/res-downloader](https://github.com/putyy/res-downloader) - 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
 - [orestonce/m3u8d](https://github.com/orestonce/m3u8d) - m3u8视频下载工具, 提供windows/macos图形界面, 下载后自动将ts文件合并、转换格式为mp4
 - [llychao/m3u8-downloader](https://github.com/llychao/m3u8-downloader) - 一个M3U8 视频下载(M3U8 downloader)工具。跨平台: 提供windows、linux、mac三大平台可执行文件,方便直接使用。
@@ -1461,7 +1460,6 @@
 - [haydenull/logseq-plugin-markdown-table](https://github.com/haydenull/logseq-plugin-markdown-table) - Logseq markdown table editor.
 - [LeaVerou/rety](https://github.com/LeaVerou/rety) - Record typing on one or more editors and replay it at will, to simulate live coding
 - [klaudiosinani/taskbook](https://github.com/klaudiosinani/taskbook) - Tasks, boards & notes for the command-line habitat
-- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [fanmingming/live](https://github.com/fanmingming/live) - ✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕
 - [electerm/electerm](https://github.com/electerm/electerm) - 📻Free and open-sourced terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(Linux, Mac, Windows, Android, HarmonyOS, iOS)
 - [Canop/miaou](https://github.com/Canop/miaou) - A chat server with OAuth2 authentication, persistent and searchable history, video and audio, markdown formatting, private and public rooms, stars, votes, embedded games, and many other features
@@ -1931,7 +1929,6 @@
 - [elfordanson/windows_11_pro_product_key_activation](https://github.com/elfordanson/windows_11_pro_product_key_activation) - Activate Windows 11 Pro for free using CMD — no third-party tools required
 - [ai-ppt-template/free-ppt-template](https://github.com/ai-ppt-template/free-ppt-template) - Free AI PPT Templates — 4,000+ AI-generated presentation templates for any deck. Works with PowerPoint, Google Slides, Keynote, LibreOffice Impress, WPS Office, and more.
 - [pedroespinal/debloatit](https://github.com/pedroespinal/debloatit) - Windows 10/11 offline ISO debloat & customization tool
-- [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow) - WeFlow - 一个本地的微信聊天记录导出和年度报告应用
 - [OdysseusYuan/Mocreak](https://github.com/OdysseusYuan/Mocreak) - Automatically downloads, installs, and deploys genuine Windows and Office with one click. This tool is completely free, ad-free, green, non-toxic, simple, efficient and safe.
 - [PDF24/PDF24-Creator](https://github.com/PDF24/PDF24-Creator) - Repository for the free PDF24 Creator
 - [LazoVelko/neverclick](https://github.com/LazoVelko/neverclick) - Keyboard-driven mouse control using local computer vision.
@@ -1982,8 +1979,8 @@
 - [Obijuan/Freecad-Mechanical](https://github.com/Obijuan/Freecad-Mechanical) - Practice Drawings in Freecad, from the Book "Autocad mechanical"
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [liaokongVFX/MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide) - Model Context Protocol(MCP) 编程极速入门
-- [Monkfishare/TIME_magazine](https://github.com/Monkfishare/TIME_magazine) - TIME magazine (azw3/epub/pdf)
-- [Monkfishare/New_Yorker](https://github.com/Monkfishare/New_Yorker) - The New Yorker (azw3/epub/pdf)
+- [Monkfishare/TIME_magazine](https://github.com/Monkfishare/TIME_magazine) - TIME magazine (epub/pdf)
+- [Monkfishare/New_Yorker](https://github.com/Monkfishare/New_Yorker) - The New Yorker (epub/pdf)
 - [vpavlenko/study-music](https://github.com/vpavlenko/study-music) - An "awesome music theory" kinda wiki with books, resources and courses for studying everything about music and sound
 - [holyshell/Books](https://github.com/holyshell/Books) - Some special ebooks，一些个人喜欢同时也比较特别的电子书
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
@@ -2057,6 +2054,7 @@
 - [youwen21/flybird-downloader](https://github.com/youwen21/flybird-downloader) - 一个视频下载工具，可下载m3u8视频 、 mpd视频 、 mp4视频和大文件断点续传。
 - [suxuang/myIPTV](https://github.com/suxuang/myIPTV) - 【典藏版】高清直播源涵盖几乎所有卫视节目，内置完美台标加节目预告
 - [gushushen/free](https://github.com/gushushen/free) - iptv 内容丰富，懂的就懂
+- [FongMi/Release](https://github.com/FongMi/Release) - 
 - [devmfc/debian-on-amlogic](https://github.com/devmfc/debian-on-amlogic) - Minimal Debian and Ubuntu images for Amlogic based Android TV-boxes with mainline Linux LTS kernel.
 - [j4Uq/TVBoxOSC](https://github.com/j4Uq/TVBoxOSC) - 
 - [anaer/Meow](https://github.com/anaer/Meow) - 自用tvbox配置
@@ -2249,6 +2247,7 @@
 
 ## Python 
 
+- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
 - [nicedreamzapp/FiaOS](https://github.com/nicedreamzapp/FiaOS) - Open a browser tab — you're now driving your computer. Live remote desktop + real PTY shell (Claude Code, vim, top) + on-device voice. macOS and Windows, every machine you own behind one URL and one p
 - [skyzhao1223/zspace-cli](https://github.com/skyzhao1223/zspace-cli) - Agent Skill + zero-config CLI/SDK/MCP for ZSpace (极空间) NAS — no password, no SSH
 - [madhesh04/sap-learning-scraper](https://github.com/madhesh04/sap-learning-scraper) - Download SAP Learning courses as Markdown for offline study (Playwright + Crawl4AI)
@@ -2297,7 +2296,7 @@
 - [Therrion1520/reposicion_wms](https://github.com/Therrion1520/reposicion_wms) - 🟩 Manage stock flow efficiently with Reposición WMS, a lightweight system for small businesses to streamline inventory and restocking processes.
 - [mapproxy/mapproxy](https://github.com/mapproxy/mapproxy) - MapProxy is a tile cache and WMS proxy
 - [RyanDFIR/hindsight](https://github.com/RyanDFIR/hindsight) - Browser forensics tool for Google Chrome, other Chromium-based browsers, and Mozilla Firefox
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Browser automation framework and MCP server for web-scraping and testing. CDP Mode makes Chrome stealthy for bypassing bot-detection.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - SeleniumBase is a browser automation framework for testing and web scraping. CDP Mode adds stealth for bypassing bot-detection. Supports MCP.
 - [y9nhjy/Proxifier-Keygen](https://github.com/y9nhjy/Proxifier-Keygen) - Proxifier注册机
 - [robertZaufall/mindmanager_ai](https://github.com/robertZaufall/mindmanager_ai) - MindManager AI Integration on Windows and macOS
 - [NotJoeMartinez/yt-fts](https://github.com/NotJoeMartinez/yt-fts) - YouTube Full Text Search - Search all of YouTube from the command line
@@ -2883,6 +2882,7 @@
 - [forskscope/quick-diff-me](https://github.com/forskscope/quick-diff-me) - Quick Diff (unified diff) on Microsoft Excel viewer written in Rust as Iced GUI app
 - [ad-si/cai](https://github.com/ad-si/cai) - User friendly CLI tool for AI tasks. Stop thinking about LLMs and prompts, start getting results!
 - [agentcodee/cursor-free-everyday](https://github.com/agentcodee/cursor-free-everyday) - 完全免费, 自动获取新账号,一键重置新额度,  解决机器码问题, 自动满额度
+- [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 BongoCat — A cross-platform interactive desktop pet that brings fun to your desktop!
 - [QMHTMY/RustBook](https://github.com/QMHTMY/RustBook) - A book about Rust Data Structures and Algorithms.
 - [evcxr/evcxr](https://github.com/evcxr/evcxr) - 
 - [balthild/rimeka](https://github.com/balthild/rimeka) - 
@@ -3245,6 +3245,7 @@
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf
 - [Liubsyy/idea-note](https://github.com/Liubsyy/idea-note) - 一款可在markdown中跑程序的笔记应用，支持git远程同步和AI笔记助手
 - [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) - Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
+- [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow) - WeFlow - 一个本地的微信聊天记录导出和年度报告应用
 - [Laxcorp-Research/project-raven](https://github.com/Laxcorp-Research/project-raven) - Open-source AI meeting copilot - real-time transcription, echo cancellation, and AI assistance. Captures system audio + mic, cancels echo via WebRTC AEC3, transcribes with Deepgram, and gives you Clau
 - [matthewhudson/current-device](https://github.com/matthewhudson/current-device) - 📱 The easiest way to write conditional CSS and/or JavaScript based on device operating system (iOS, Android, Blackberry, Windows, Firefox OS, MeeGo), orientation (Portrait vs. Landscape), and type (Ta
 - [mlightcad/cad-viewer](https://github.com/mlightcad/cad-viewer) - The world’s first fully web-based DXF/DWG viewer and editor that runs entirely in the browser — no backend server required.
@@ -3611,6 +3612,7 @@
 - [PKM-er/Obsidian-Surfing](https://github.com/PKM-er/Obsidian-Surfing) - An Obsidian plugin that lets you browse the web within Obsidian.
 - [Ellpeck/ObsidianCustomFrames](https://github.com/Ellpeck/ObsidianCustomFrames) - An Obsidian plugin that turns web apps into panes using iframes with custom styling. Also comes with presets for Google Keep, Todoist and more.
 - [lumen-notes/lumen](https://github.com/lumen-notes/lumen) - A free, open-source note-taking app that syncs with markdown files in your GitHub repository
+- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [windingwind/zotero-better-notes](https://github.com/windingwind/zotero-better-notes) - Everything about note management. All in Zotero.
 - [toppair/peek.nvim](https://github.com/toppair/peek.nvim) - Markdown preview plugin for Neovim
@@ -3729,7 +3731,6 @@
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [KiWi233333/JiwuChat](https://github.com/KiWi233333/JiwuChat) - JiwuChat 🍂 - A lightweight cross-platform instant messaging app with integrated AI assistants (DeepSeek/Gemini/Kimi). Features real-time messaging, audio/video calls, multi-device sync, and customizab
 - [lemueldls/mnemo](https://github.com/lemueldls/mnemo) - A local-first, cross-platform note-taking app leveraging the Typst ecosystem. Designed to minimize distractions and enhance the retention of information.
-- [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱跨平台互动桌宠 BongoCat，为桌面增添乐趣！
 - [imsyy/DailyHot](https://github.com/imsyy/DailyHot) - DailyHot 今日热榜前端页面 | API：https://github.com/imsyy/DailyHotApi
 - [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) - PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing for the editing and presentation of PPT online. It als
 - [Bronya0/ES-King](https://github.com/Bronya0/ES-King) - A modern and practical elasticsearch GUI client | 一个现代、实用的ES本地客户端 💕🎉
